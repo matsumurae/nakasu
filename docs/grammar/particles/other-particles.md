@@ -252,7 +252,11 @@ También se puede usar para dejar la conclusión a medias (final de la frase).
 A pesar de que sakura lo prometió… (prometió venir pero no vino)
 ```
 
-## "El que ~ es", "el que ~ es", "es ~ que" / のは ~ だ
+## Dar una explicación / のは ~ だ
+
+> **Uso:** A es B o la razón de porque A es B.
+
+Lo podemos traducir como "Es ~ eso ~", "La razón ~ es porque ~". Aunque se parece a のだ "Es que…", en este caso **nos centramos en la última parte de la frase.**
 
 ```
 このクラスで一番頭がいいのは吉田さんだ
@@ -260,6 +264,12 @@ El más inteligente de esta clase es Yoshida-san.
 
 食べたのはピザだ
 Pizza es lo que comí.
+
+ジェンが東京で八月に会ったのはジョンだ
+El que Jen conoció en Tokio en agosto es John.
+
+森田さんが持って来たのはケーキだ
+Lo que trajo Morita-san es un pastel.
 ```
 
 ## Dejar una conclusión a medias / なのに

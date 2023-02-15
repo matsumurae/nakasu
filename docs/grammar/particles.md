@@ -3,7 +3,7 @@ layout: default
 title: Partículas
 parent: Gramática
 has_children: true
-nav_order: 2
+nav_order: 1
 permalink: /gramatica/particulas
 ---
 

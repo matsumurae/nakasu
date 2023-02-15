@@ -2,7 +2,7 @@
 layout: default
 title: Adjetivos
 parent: Gramática
-nav_order: 3
+nav_order: 2
 permalink: /gramatica/adjetivos
 ---
 
@@ -14,7 +14,150 @@ permalink: /gramatica/adjetivos
 1. TOC
 {:toc}
 
-{: .warning-title }
-> Ups…
+## い vs な
+
+な describe **cosas abstractas** mientras que い se usa con **cosas tangibles**.
+
+```
+小さな進歩
+progreso pequeño
+
+小さい靴
+zapato pequeño
+```
+
+## Adjetivos い
+
+Este tipo de adjetivos son primos cercanos de los verbos, los puedes conjugar y cambiar. Para que lo entiendas, **la い equivale a だ/です**, por eso no hace falta usarlo.
+
+{: .important-title }
+> Nota
 >
-> Esto aún está en construcción.
+> Puedes omitir です. En caso de usarlo, tu frase sonará más formal.
+
+A continuación puedes ver la tabla de cómo se conjugan estos adjetivos:
+
+| Conjugación        | Forma          |
+|:-------------|:------------------|
+| Raíz           | Quita la い |
+| Forma unión o adverbio (-mente) | Raíz + く |
+| Negativo | Raíz + くない |
+| Pasado | Raíz + かった |
+| Pasado negativo | Raíz + くなかった |
+| Parece ~ | Raíz + そう |
+| Provisional condicional | Raíz + ければ |
+| Provisional condicional negativo | Raíz + くなければ |
+| Cantidad (que se puede medir) | Raíz + さ |
+| Verdades objetivas <br> (さ para verdad externa, <br> み para verdad personal y limitado a percepción) | Raíz + さ <br> Raíz + み |
+| Ser demasiado | Raiz + すぎる <br> Unión: Raiz + すぎて (過ぎる) <br> Pasado: Raiz + すぎた <br> Formal: Raiz + すぎます <br> Formal pasado: Raiz +すぎました |
+
+Como ya dije, las conjugaciones siguen una lógica y **siempre son iguales**. El único caso en el que cambia es con el adjetivo いい, que se transforma en よ.
+
+| Conjugación        | Forma          |
+|:-------------|:------------------|
+| Raíz よ | Quitamos la い |
+| Forma unión o adverbio (-mente) | Raíz + よく |
+| Negativo | Raíz + よくない |
+| Pasado | Raíz + よかった |
+| Pasado negativo | Raíz + よくなかった |
+| Parece ~ (No usar con 可愛い) | Raíz + さそう |
+
+### Cómo usarlo
+
+#### Unir dos adjetivos con la forma て
+
+Quitamos la い final del primer adjetivo y añadimos くて. く pasa a ser el verbo です y て es la conjunción que los une.
+
+```
+小さくて可愛い
+pequeño-es y bonito-es
+
+高くなくて、危ないです
+peligroso-no es caro-no es = no es peligroso ni caro
+```
+
+#### Califica a un nombre
+
+**No se añade nada.** Simplemente se une al nombre, no importa el orden.
+
+```
+大きい家 = 家大きい (Casa-es grande)
+赤い花 = 花赤い (Flor-es foja)
+```
+
+### Tabla de ejemplo
+
+| Conjugación        | Forma          |
+|:-------------|:------------------|
+| Adverbio | Adj + に |
+| Negativo | Adj + じゃない o じゃありません |
+| Pasado | Adj + だった o でした |
+| Pasado negativo | Adj + じゃなかった o じゃありませんでした |
+| Parece ~ | Adj + そう |
+| provisional condicional | Adj + ならば (+ formal = であれば) |
+| provisional condicional negativo | Adj + でなければ (casual = じゃなければ) |
+| Ser demasiado | Raiz + すぎる <br> Unión: Raiz + すぎて (過ぎる) <br> Pasado: Raiz + すぎた <br> Formal: Raiz + すぎます <br> Formal pasado: Raiz +すぎました |
+
+## Adjetivos な
+
+Estos adjetivos funcionan como un nombre, por lo que no se conjugan. **Siempre deben usarse con だ o です**.
+
+{: .important-title }
+> Nota
+>
+> Recuerda que si vas a unirlo, debes usar な (forma unión de だ).
+
+| Conjugación        | Forma          |
+|:-------------|:------------------|
+| Adverbio | Adj + に |
+| Negativo | Adj + じゃない o じゃありません |
+| Pasado | Adj + だった o でした |
+| Pasado negativo | Adj + じゃなかった o じゃありませんでした |
+| Parece ~ | Adj + そう |
+| provisional condicional | Adj + ならば (+ formal = であれば) |
+| provisional condicional negativo | Adj + でなければ (casual = じゃなければ) |
+| Ser demasiado | Raiz + すぎる <br> Unión: Raiz + すぎて (過ぎる) <br> Pasado: Raiz + すぎた <br> Formal: Raiz + すぎます <br> Formal pasado: Raiz +すぎました |
+
+### Cómo usarlo
+
+#### Unir dos adjetivos 
+
+で es la forma unión て de な, です y だ. Es tanto el verbo “es” como la conjunción que los une. 
+
+```
+綺麗で夢いだ
+es-bonito y es-famoso
+
+好きじゃなくて綺麗じゃなくて
+no es-gustar no es-bonito = no me gusta ni es bonito
+```
+
+#### Califica a un nombre
+
+Se añade な al final del adjetivo cuando se une con un nombre. El orden importa: si lo ponemos después del nombre no hace falta usar な, pero si va antes si. だ = な
+
+```
+花が綺麗だ
+flor es-bella
+
+綺麗な花
+es-bella flor
+```
+
+### Tabla de ejemplo
+
+| Conjugación        | Forma 1          | Forma 2 |
+|:-------------|:------------------|:------------|
+| Adverbio | 静かに <br> tranquila-**mente** | 静かに町 <br> ciudad tranquila-**mente** |
+| Presente | 静かだ <br> 静かです <br> es-tranquila | 静かな町 <br> es-tranquila ciudad |
+| Negativo | 静かじゃない <br> 静かじゃありません <br> no es-tranquila | 静かな町じゃない <br> 静かな町じゃありません <br> no es-tranquila ciudad |
+| Pasado | 静かだった <br> 静かでした <br> fue-tranquila | 静かな町だった <br> 静かな町でした <br> fue-tranquila ciudad |
+| Pasado negativo | 静かじゃなかった <br> 静かじゃありませんでした <br> no fue-tranquila | 静かな町じゃなかった <br> 静かな町じゃありませんでした <br> no fue-tranquila ciudad |
+| Parece ~ | 静かそう <br> parece-tranquila | 静かなそう町 <br> parece-tranquila es ciudad |
+| provisional condicional | 静かならば <br> 静かであれば <br> si es (si fuera)-tranquila | 静かなならば町 <br> 静かなであれば町 <br> si es (si fuera)-tranquila ciudad |
+| provisional condicional negativo | 静かでなければ <br> 静かじゃなければ <br> si no es (si no fuera)-tranquila | 静かなでなければ町 <br> 静かなじゃなければ町 <br> si no es (si no fuera)-tranquila ciudad |
+| Es demasiado ~ | 大きすぎる <br> es demasiado grande |
+
+#### -さ
+
+**Rara vez se usa con adjetivos na.**
