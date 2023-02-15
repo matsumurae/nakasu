@@ -106,7 +106,73 @@ Es como si en español dijéramos… "Oye, que acabo de ir al hospital y tu tío
 
 ## También o incluso / も
 
-{: .warning-title }
-> Ups…
->
-> Esto aún está en construcción.
+Las dos opciones más comunes son "también" y "incluso". Pero, も tiene otros usos que verás más adelante.
+
+### También
+
+```
+私も
+Yo también
+
+先生にも
+El profesor también
+
+私も学生だ
+Yo también soy estudiante
+```
+
+En caso de que quieras responder "Yo también", lo que haces es sutituir el famoso は por も.
+
+```
+田中さんは先生です
+Tanaka-san es profesor.
+
+私も先生です
+Yo también soy profesor.
+```
+
+### Incluso
+
+```
+漢字も
+Incluso Kanji
+
+グレッグさんはこんな難しい漢字も読める
+Greg puede leer incluso un kanji difícil como este.
+```
+
+#### Cuantificadores (positivo)
+
+Para decir “Tantos como x” o “hasta x”.
+
+```
+私は漢字を八千も知っている
+Conozco hasta 8000 kanji.
+```
+
+#### Cuantificadores (negativo)
+
+Usado con V neg significa “Ni siquiera un/a X”. (Por ejemplo, “Ni siquiera tengo un solo amigo”).
+
+```
+そのパーティーには女の子は一人も来なかった
+Ni una sola chica vino a esa fiesta.
+```
+
+### Ni siquiera ~
+
+"Ni siquiera hace X" (por ejemplo, "Ni siquiera bebo té").
+
+```
+ナンシーは私の話を聞きもしない
+Nancy ni siquiera escucha lo que le digo.
+```
+
+### Ni ~ (も ~ も)
+
+**Forma negativa de “también”.** Cuando queremos decir, Ni X ni Y.
+
+```
+今回は油断も慢心もない！
+¡Esta vez no habrá descuido ni arrogancia!
+```
