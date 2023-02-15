@@ -10,5 +10,7 @@ permalink: /transcripts
 
 En esta página encontrarás las transcripciones de diferentes audio dramas.
 
-{: .warning }
-> En construcción.
+{: .warning-title }
+> Ups…
+>
+> Esto aún está en construcción.

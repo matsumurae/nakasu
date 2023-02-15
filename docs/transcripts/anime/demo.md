@@ -9,5 +9,7 @@ permalink: /transcripts/anime/demo
 
 # Demo
 
-{: .warning }
-> En construcción.
+{: .warning-title }
+> Ups…
+>
+> Esto aún está en construcción.

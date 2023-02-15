@@ -8,3 +8,8 @@ permalink: /transcripts/anime
 ---
 
 # Anime page
+
+{: .warning-title }
+> Ups…
+>
+> Esto aún está en construcción.

@@ -1,12 +1,13 @@
 ---
 layout: default
-title: Adjetivos
-parent: Gramática
+title: Otras partículas
+parent: Partículas
+grand_parent: Gramática
 nav_order: 3
-permalink: /gramatica/adjetivos
+permalink: /transcripts/particulas/otras
 ---
 
-# Adjetivos
+# Otras partículas
 
 ## Índice
 {: .no_toc .text-delta }
