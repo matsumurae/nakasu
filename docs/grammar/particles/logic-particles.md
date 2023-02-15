@@ -113,7 +113,7 @@ Un pokemon ha volado frente a ti
 ```
 
 <figure>
-    <img src="../../../images/ni.png" alt="Ni">
+    <img src="./../../images/ni.png" alt="Ni">
     <figcaption align = "center"><a href="https://www.youtube.com/watch?v=b1WaYaBX51s&t=335s">How to use に (Ni) vs で (De) vs を (Wo) - (Japanese Particle Difference Comparison)</a></figcaption>
 </figure>
 
@@ -186,7 +186,7 @@ Voy al parque
 Define el límite en el que algo sucede o el estado de ser. Nos establece dónde sucede la acción, estableciendo el límite.
 
 <figure>
-    <img src="../../../images/de.png" alt="Ni">
+    <img src="./../../images/de.png" alt="Ni">
     <figcaption align = "center"><a href="https://www.youtube.com/watch?v=b1WaYaBX51s&t=335s">How to use に (Ni) vs で (De) vs を (Wo) - (Japanese Particle Difference Comparison)</a></figcaption>
 </figure>
 
@@ -210,7 +210,7 @@ El ramen más delicioso de la ciudad
 ```
 
 <figure>
-    <img src="../../../images/de2.png" alt="Ni">
+    <img src="./../../images/de2.png" alt="Ni">
     <figcaption align = "center"><a href="https://www.youtube.com/watch?v=b1WaYaBX51s&t=335s">How to use に (Ni) vs で (De) vs を (Wo) - (Japanese Particle Difference Comparison)</a></figcaption>
 </figure>
 
