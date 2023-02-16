@@ -16,11 +16,11 @@ permalink: /gramatica/sufijos
 
 ## 〜さ / “-ness”
 
-Es como el "-ness" en inglés: masculinidad, feminidad…
-
 > Adj-i (algunos na) + さ
 > 
 > N + たい, やすい, にくい, らしい , づらい, っぽい + さ
+
+Es como el "-ness" en inglés: masculinidad, feminidad…
 
 ```
 男 (hombre)
@@ -30,11 +30,9 @@ Es como el "-ness" en inglés: masculinidad, feminidad…
 
 ## Parece que ~, Escuché ~, Aparentemente ~ / 〜らしい o 〜らしく
 
-Usado para expresar rumores (cosas que hemos oído de otros) o conjeturas o indiferencia.
-
 > V (raíz o い) / N / Adj-な / Adj-い + らしい
-> 
-> **Se puede añadir al final de cualquier conjugación.**
+
+Usado para expresar rumores (cosas que hemos oído de otros) o conjeturas o indiferencia. **Se puede añadir al final de cualquier conjugación.**
 
 ```
 雨らしい
@@ -56,16 +54,15 @@ Parece que él puede correr 50m en 3 segundos. ¿es un coche?
 
 ### Diferencia entre よう y らしい
 
-- よう → El mensaje es más subjetivo.
-- らしい → Transmite lo que quiere decir de manera más objetiva distanciándose de la situación.
+| よう        | らしい          |
+|:-------------|:------------------|
+| El mensaje es más subjetivo. | Transmite lo que quiere decir de manera <br> más objetiva distanciándose de la situación. |
 
 ## No parece ~, No es típico de ~ / 〜らしくない
 
-Usado para expresar rumores (cosas que hemos oído de otros) o conjeturas o indiferencia.
-
 > V (raíz o い) / N / Adj-な / Adj-い + らしい
-> 
-> **Se puede añadir al final de cualquier conjugación.**
+
+Usado para expresar rumores (cosas que hemos oído de otros) o conjeturas o indiferencia. **Se puede añadir al final de cualquier conjugación.**
 
 ```
 今日は君らしくないな
@@ -74,15 +71,18 @@ Hoy no pareces tú mismo.
 
 ## Se ve como ~, Parece ~, “-ish”, “-ly” / 〜っぽい
 
-Basado en la opinión personal del hablante. **Normalmente tiene connotaciones negativas.**
+Subjetivo / personal
+{: .label .label-purple }
 
 > N / adj-i (sin i) / adj-na + っぽい
 > 
 > V raíz (ichidan) o V sílaba i + っぽい (NO FUNCIONA CON TODOS)
 
-- V + っぽい = Tener tendencia a hacer (A). → Connotaciones negativas.
-- ADJ + っぽい = Exhibir todos los signos de ser (A).
-- N + っぽい - Obviamente no ser (A), aunque mostrar signos de ser (A).
+Basado en la opinión personal del hablante. **Normalmente tiene connotaciones negativas.**
+
+| V + っぽい        | ADJ + っぽい          | N + っぽい |
+|:-------------|:------------------|:------------|
+| Tener tendencia a hacer (A). <br> Connotaciones negativas. | Exhibir todos los signos de ser (A). | Obviamente no ser (A), <br> aunque mostrar signos de ser (A). |
 
 ```
 子どもっぽい
@@ -117,10 +117,11 @@ Planeo ir de compras con mi amiga y a las 3:00.
 Ella planea perder 10 kilogramos este verano.
 ```
 
-### Diferencia entre つもり y 予定
+### Diferencia entre つもり y 予定
 
-- つもり expresa una intención o plan, pero no es seguro.
-- 予定 se usa con planes seguros.
+| つもり        | 予定          |
+|:-------------|:------------------|
+| Intención o plan sin el <br> 100% de seguridad en ello. | Planes seguros. |
 
 ```
 行くつもり
@@ -132,9 +133,9 @@ Planeo ir (seguro)
 
 ##  No tener planeado ~ / 〜予定（はない・はありません）
 
-Cuando hablamos de un plan del que estamos seguros de ello.
-
 > (V diccionario / N + の) + 予定 + はない / はありません
+
+Cuando hablamos de un plan del que estamos seguros de ello.
 
 ```
 春は旅行する予定はない

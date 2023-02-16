@@ -47,3 +47,15 @@ Yo soy Natsu.
 Mientras que la A sería la opción que un inglés escogería (ya que están acostumbrados a poner siempre el sujeto), nosotros solemos usar la opción B. Alguien habrá que se presente diciendo "Yo soy…" aunque, siendo realistas…
 
 Suena muy egoísta, ¿no? "Yo soy…" sería la respuesta a una pregunta, no una presentación inicial ni tampoco si hablamos de nosotros.
+
+## Convertir nombre o adjetivo en adverbio
+
+Añadir に al final, se usa con verbos.
+
+```
+静かな夜
+Noche tranquila
+
+静かに歩く
+Caminar tranquilamente
+```

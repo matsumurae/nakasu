@@ -245,12 +245,21 @@ Fui a la tienda pero no había pan.
 Aunque el pan es delicioso, los clientes no vienen.
 ```
 
+### Al final de la frase
+
 También se puede usar para dejar la conclusión a medias (final de la frase).
 
 ```
 さくらが約束したのに
 A pesar de que sakura lo prometió… (prometió venir pero no vino)
 ```
+
+### Diferencia entre けど y のに
+
+| けど        | のに          |
+|:-------------|:------------------|
+| No es más que un simple "pero" | Implica que lo que le sigue será negativo y decepcionante para el que habla. |
+| お店に行ったけどパンがなかった <br> Fui a las tiendas **pero** no había pan | パンが美味しいのにお客さんが来ない <br> **Aunque** el pan es delicioso, los clientes no vienen |
 
 ## Dar una explicación / のは ~ だ
 
@@ -301,6 +310,17 @@ Es que viene mi madre
 
 足が痛いなのですか？
 ¿Es que te duele el pie? = Esa persona parece incómoda.
+```
+
+También vale para expresar sentimiento (Ahhh… Es tan difícil…)
+
+```
+難しいです
+Es difícil
+
+難しいのです
+El caso es que es difícil (Añade más énfasis)
+= Respuesta a una pregunta, dando motivos. O también una pregunta (¿Por qué (es que) es difícil?).
 ```
 
 ### なのだ、なんだ、なのです、なんです
@@ -404,4 +424,32 @@ Llovió, por lo que el partido fue cancelado.
 例が少ないので…
 La razón es que hay pocos ejemplos…
 (Fugou keiji, 17:52 - 17:53, EP06)
+```
+
+## Me pregunto si…, Debería… / かな o のかな
+
+Se usan para decir “Me pregunto” o “¿Debería ~?.
+
+**Con adjetivos な eliminar el な del final.**
+
+### Diferencia entre かな y のかな
+
+Se pueden usar indistintamente. Pero si quieres enfatizar la incertidumbre o tu duda, si puedes hacer algo o no, usa の
+
+```
+あのレストランは たかいかな
+Me pregunto si ese restaurante es caro
+
+あのレストランは たかいのかな
+Me pregunto si ese restaurante es caro
+```
+
+## Espero que ~, Deseo que ~ / かな o のかな
+
+Cuando te preguntas si algo no es o no fue ~ / si alguien no ha hecho o hizo algo / si algo no pasa o no pasó.
+
+```
+これ美味しくないのかな
+Me pregunto si no sabe bien.
+= sabe mal
 ```

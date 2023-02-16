@@ -319,3 +319,20 @@ Delicioso pastel, ¿verdad?
 En el primero, se asume que el que escucha no lo ha probado aún. Esa persona no sabe lo delicioso que está el maldito pastel… Y mejor, porque ya me lo comí.
 
 En la segunda, la otra persona ya ha probado tu delicioso pastel así que la pregunta es más como… "Esta bueno, ¿eh?".
+
+## なぁ vs ね
+
+なぁ se usa para uno mismo, añade más énfasis en ello. No busca confirmación, es una expresión de sentimiento, confirma algo, emoción…
+
+```
+懐かしいなぁ
+Que nostalgia…
+= comparado a usar sólo el adjetivo (que diría solo nostalgia).
+```
+
+ね se usa para para buscar confirmación de la otra persona. Busca una respuesta del oyente, incluye a los otros en la conversación. Se convierte en una pregunta “suave” en vez de preguntar directamente.
+
+```
+懐かしいね
+Es nostálgico, ¿no crees?
+```

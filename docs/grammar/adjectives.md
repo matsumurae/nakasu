@@ -26,6 +26,27 @@ progreso pequeño
 zapato pequeño
 ```
 
+## Cuidado con そう
+
+Dependiendo de la forma en que se diga (quitando かわいい), puede significar algo malo.
+
+```
+美味しそう
+Parece delicioso
+
+かわいい
+adorable, mono
+
+かわいそう
+pobrecito, penoso, patetico
+```
+
+## Adjetivos con pronunciación similar
+
+| 可愛い <br> adorable | 怖いい <br> asustadizo, tener miedo |
+| 触る <br> tocar a alguien | 座る <br> sentarse |
+| 立つ <br> ponerse de pie | 勃つ <br> tener una erección |
+
 ## Adjetivos い
 
 Este tipo de adjetivos son primos cercanos de los verbos, los puedes conjugar y cambiar. Para que lo entiendas, **la い equivale a だ/です**, por eso no hace falta usarlo.

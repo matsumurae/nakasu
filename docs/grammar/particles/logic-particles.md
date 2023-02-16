@@ -273,3 +273,26 @@ Usado al final de la frase, mismo significado que のだ ("Es que…").
 今は忙しいの?
 ¿Es que estás ocupado?
 ```
+
+### Nominalizador
+
+**Podemos usarlo para convertir verbos en nombres.**
+
+Podemos hablar de un verbo como si fuera un tema. En inglés sería como usar “I like walking” (en vez de I like to walk). También podemos usarlo para decir qué cosa es el objetivo del verbo.
+
+Para hablar de un tema…
+
+```
+散歩するのが好き
+Me gusta caminar.
+```
+
+Si queremos usarlo para decir cuál es el objetivo…
+
+```
+食べたのは
+Hablando del que me comí…
+
+食べたのはピザだ
+Hablando del que me comí, es pizza
+```
