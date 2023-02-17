@@ -161,6 +161,9 @@ no escuchar / no escucharé
 
 ### Deber hacer algo (~ないと)
 
+N5
+{: .label .label-red }
+
 > **Uso:** negativo + と (debo hacer, a menos que…) (+ いけない, だめ para "Debo ~" o いけません en formal).
 
 "Debo hacer ~", "A menos que haga ~". Se usa con だろう (volicional), でしょう (volicional formal), でください (imperativo formal).
@@ -178,17 +181,18 @@ debo escuchar
 
 #### Diferencia entre いけない y だめ
 
-| いけない        | だめ          |
-|:-------------|:------------------|
-| Más orden, menos personal <br> **No debes ir** | Más emocional, personal <br> (lo que dirías a un familiar) <br> **No debes morir** |
+| いけない | Más orden, menos personal <br> **No debes ir** |
+| だめ | Más emocional, personal <br> (lo que dirías a un familiar) <br> **No debes morir** |
 
 #### Diferencia entre ないと y いけない
 
-| ないと        | いけない          |
-|:-------------|:------------------|
-| Si no haces X, entonces no es bueno <br> **Debes hacer algo** | Si haces X, entonces no es bueno <br> **No debes hacer algo** |
+| ないと | Si no haces X, entonces no es bueno <br> **Debes hacer algo** |
+| いけない | Si haces X, entonces no es bueno <br> **No debes hacer algo** |
 
 ### No tener que hacer X (〜なくて(も)いい)
+
+N5
+{: .label .label-red }
 
 | Ichidan        | Godan          |
 |:-------------|:------------------|
@@ -208,6 +212,9 @@ Era un trabajo que Miller no tenía que hacer
 ```
 
 ### Invitación (〜ないか, 〜ませんか)
+
+N5
+{: .label .label-red }
 
 | Ichidan        | Godan          |
 |:-------------|:------------------|
@@ -292,6 +299,9 @@ no mueras
 
 ### Negativo imperativo (〜ないで)
 
+N5
+{: .label .label-red }
+
 | Ichidan        | Godan          |
 |:-------------|:------------------|
 | Raíz + ないで (+ ください para más formal) | Raíz + sílaba あ + ないで (+ ください para más formal) |
@@ -313,6 +323,9 @@ no escuches por favor
 ```
 
 ### Negativo volicional (〜ない + だろう / だろう)
+
+N5
+{: .label .label-red }
 
 | Ichidan        | Godan          |
 |:-------------|:------------------|
@@ -421,6 +434,9 @@ dejar hablar, hacer hablar
 
 ### Orden de なければ (〜いけない、〜いけません)
 
+N5
+{: .label .label-red }
+
 > **Uso:** neg provisional condicional + いけない o だめ (casual) o いけません (formal).
 
 Versión orden de なければ. **Esto es subjetivo**: Significa que no es una órden (sin なく), si no que es algo que uno mismo siente que debe hacer.
@@ -436,49 +452,27 @@ debo comer
 
 買わなくちゃ
 tengo que comprar
+
+この文法を覚えなくちゃいけない
+Debo memorizar esta gramática.
+
+授業に行かなくちゃいけない
+Debo ir a clase.
 ```
+
+#### Diferentes formalidades
+
+| なくちゃ / なきゃ | Más casual. |
+| ダメ | Más emocional, personal. Lo que le dirías a un familiar, no suena como una “norma”. <br> Usado por padres o profesores para supervisar acciones o comportamientos. |
+| いけない | Más orden, menos personal. |
+| いけません | Más formal. |
 
 #### Diferencia entre なくちゃ y なきゃ
 
-| なくちゃ        | なきゃ          |
-|:-------------|:------------------|
-| Tengo tiempo de sobra <br> Debería hacerlo… tal vez luego, o no. | No tengo tiempo <br> Debo hacerlo ahora. |
+| なくちゃ | Tengo tiempo de sobra <br> Debería hacerlo… tal vez luego, o no. |
+| なきゃ | No tengo tiempo <br> Debo hacerlo ahora. |
 
 ## Sílaba い（き、し、ち、に、ひ、み、り）
-
-Aquí dentro encontramos:
-
-- Pasado
-- Haber hecho algo antes
-- Nunca haber hecho algo antes
-- Continuativo
-- Continuativo (formal)
-- Formal (negativo)
-- Formal (pregunta)
-- Formal (pasado)
-- Formal (negativo pasado)
-- Formal (volicional)
-- Formal (volicional pregunta)
-- Formal (imperativo)
-- Deseo
-- Deseo (negativo)
-- Deseo (pasado negativo)
-- Parecer (subjetivo)
-- Convertir un verbo en sustantivo
-- Describir la forma de hacer algo
-- Algo difícil de hacer (objetivo)
-- Algo difícil de hacer (objetivo adverbio)
-- Algo difícil de hacer (subjetivo)
-- Algo difícil de hacer (subjetivo adverbio)
-- Algo muy difícil de hacer
-- Algo fácil de hacer
-- Algo fácil de hacer (adverbio)
-- Sufijo "-ness"
-- Demasiado ~
-- Demasiado ~ negativo
-- Demasiado ~ pasado
-- Demasiado ~ pasado negativo
-- Demasiado ~ forma unión
 
 ### Pasado
 
@@ -519,6 +513,9 @@ A veces habla por teléfono mientras conduce.
 
 ### Haber hecho algo antes (~V pasado + こと（が）ある)
 
+N5
+{: .label .label-red }
+
 > **Uso:** Verbo pasado + ことがある.
 
 Contrario de ことがない.
@@ -534,6 +531,9 @@ haber oído hablar de eso antes
 ```
 
 ### Nunca haber hecho algo antes (~V pasado + こと（が）ない)
+
+N5
+{: .label .label-red }
 
 > **Uso:** Verbo pasado + ことがない.
 
@@ -652,6 +652,9 @@ no bebí
 
 ### Formal Volicional (〜ましょう)
 
+N5
+{: .label .label-red }
+
 | Ichidan       | Godan          |
 |:-------------|:------------------|
 | Raíz + ましょう | Raíz + sílaba い + ましょう |
@@ -667,6 +670,9 @@ Vamos a comer
 ```
 
 ### Formal volicional pregunta (〜ましょうか)
+
+N5
+{: .label .label-red }
 
 | Ichidan       | Godan          |
 |:-------------|:------------------|
@@ -703,6 +709,9 @@ come
 ¡Ve!
 
 ### Deseo (〜たい)
+
+N5
+{: .label .label-red }
 
 | Ichidan       | Godan          |
 |:-------------|:------------------|
@@ -976,6 +985,9 @@ Es el sufijo “-ness” en inglés. Solo se puede usar con algunos sufijos:
 
 ### Demasiado (〜すぎる、〜すぎます)
 
+N5
+{: .label .label-red }
+
 | Ichidan        | Godan          |
 |:-------------|:------------------|
 | Raíz + すぎる (casual) o すぎます (formal) | Raíz + sílaba い + すぎる (casual) o すぎます (formal) |
@@ -1060,20 +1072,6 @@ Estoy tan feliz que podría morir
 
 ## Sílaba う（く、す、つ、ぬ、ふ、む、る）
 
-En esta columna puedes conjugar:
-
-- Diccionario: la raíz del verbo.
-- Parecer ~ (objetivo): rumores, conjeturas o indiferencia.
-- Parecer ~ versión adverbial
-- No parece ~: negativo del anterior
-- Imperativo.
-- Intención
-- Intención (negativo)
-- Tener planeado
-- Tener planeado (negativo)
-- Listar multiples acciones
-- "Hacer cosas como ~"
-
 ### Diccionario
 
 Forma diccionario. Para sacar la raíz:
@@ -1156,6 +1154,9 @@ Todos significan "No hagas ~", pero lo expresan de forma distinta.
 
 ### Intención de (V + つもり)
 
+N5
+{: .label .label-red }
+
 > **Uso:** V + つもり.
 
 Tener intención de hacer algo o un plan, pero **sin asegurar al 100% que se va a realizar**.
@@ -1212,6 +1213,9 @@ La jefa no está planeando retirarse.
 
 ### Listar múltiples acciones (Diccionario + たり)
 
+N5
+{: .label .label-red }
+
 > **Uso:** Forma diccionario + たり.
 
 ```
@@ -1233,38 +1237,59 @@ Recuerda que se puede omitir か en la forma casual.
 ¿Te gusta leer cosas como manga?
 ```
 
+### Ser malo haciendo algo / のが下手
+
+N5
+{: .label .label-red }
+
+> **Uso:** V forma diccionario + のが下手.
+
+Nominalizar un verbo en nombre usando の.
+
+```
+彼はおはしを使うのが下手だ
+Es malo usando palillos.
+
+まだ電気を溜めるのが下手
+Todavía no es muy bueno (ser malo) para almacenar electricidad (video)
+```
+
+### Ser bueno haciendo algo / のが上手
+
+N5
+{: .label .label-red }
+
+> **Uso:** V forma diccionario + のが上手.
+
+Nominalizar un verbo en nombre usando の.
+
+```
+あなたは教えるのが上手です
+Eres bueno enseñando.
+
+走るのが得意です
+Soy bueno corriendo.
+```
+
+#### Diferencia entre のが上手 y のが下手
+
+| 下手 | por debajo + mano = torpe / no hábil |
+| 上手 | por encima + mano = hábil |
+
+### gustar algo, gustar hacer algo / （の）が好き
+
+N5
+{: .label .label-red }
+
+> **Uso:** V forma diccionario + のが好き.
+
+```
+人を殺すのが好きで何人も殺してきた
+Me gusta matar gente. He matado a mucha gente.
+(Satsuriku no tenshi, 5:18 - 5:22, EP14)
+```
+
 ## Sílaba え（け、せ、て、ね、へ、め、れ）
-
-Aquí puedes encontrar:
-
-- Potencial
-- Potencial negativo
-- Ser capaz de ~
-- Imperativo suave
-- Es o ha sido hecho
-- Despues de hacer, desde
-- Hacer A y después B o A y B a la vez
-- Imperativo obligación o deber
-- Pedir permiso
-- Presente progresivo (Estar ~)
-- Presente progresivo negativo (No estar ~)
-- Pasado progresivo (Haber estado ~)
-- Pasado progresivo negativo (No haber estado ~)
-- Empezar a ~
-- Futuro empezar a ~
-- Pasado empezar a ~
-- Hacer algo e ir (negativo)
-- Hacer algo e ir (pasado)
-- Hacer algo e ir (pasado negativo)
-- Hacer algo y volver
-- Hacer algo y volver (negativo)
-- Hacer algo y volver (pasado)
-- Hacer algo y volver (pasado negativo)
-- Estar empezando a ~
-- Pasado estar empezando a ~
-- Acción hecha por accidente o terminada
-- Pasado acción hecha por accidente o terminada
-- No debo ~
 
 ### Potencial, "Ser capaz de ~" (〜る、〜られる)
 
@@ -1355,6 +1380,9 @@ parece que puede ganar
 ```
 
 ### Imperativo suave (〜て)
+
+N5
+{: .label .label-red }
 
 > **Uso:** Forma -te (+ ください para añadir "por favor", formal)
 
@@ -1475,6 +1503,9 @@ Significa “hacer algo por otro” o “dar”. Se utiliza para añadir el sent
 
 ### Es / ha sido hecho (~てある)
 
+N5
+{: .label .label-red }
+
 > **Uso:** Forma -te + ある.
 
 Algo hecho de forma intencional. Da énfasis en la acción habiendo sido intencional.
@@ -1505,6 +1536,9 @@ la puerta ha sido abierta
 ```
 
 ### Después de hacer, desde (〜て + から)
+
+N5
+{: .label .label-red }
 
 > **Uso:** Forma -te + から.
 
@@ -1548,6 +1582,9 @@ tengo que comprar
 
 ### Pedir permiso (〜て(も)いい)
 
+N5
+{: .label .label-red }
+
 > **Uso:** Forma -te + (も)いい.
 
 Tiene cuatro posibilidades:
@@ -1579,6 +1616,9 @@ dando permiso en negativo
 ```
 
 ### Acción que continúa (〜ている、〜ています)
+
+N5
+{: .label .label-red }
 
 > **Uso:** Forma -te + いる (casual) o います (formal).
 
@@ -1952,11 +1992,22 @@ compré
 morí
 ```
 
-### No debo ~ (〜て / で + ちゃいけ + ない / ません / ダメ)
+### No debo ~ (〜て / で + (ちゃ / じゃ o は) / + いけない o いけません o ダメ)
+
+N5
+{: .label .label-red }
 
 > **Casual:** V raíz + ちゃ o じゃ + いけない o ダメ.
 > 
 > **Formal:** Forma -te + は + いけません.
+
+| Verbo て        | Verbo で          |
+|:-------------|:------------------|
+| V + ちゃ (casual) o ては (formal) + (ダメ / いけない / いけません) | V + じゃ (casual) o では (formal) + (ダメ / いけない / いけません) |
+
+**Versión negativa de なくちゃいけない.**
+
+Usado con reglas, normas, conocimiento común, instrucciones u órdenes.
 
 ```
 食べちゃいけない
@@ -1970,15 +2021,33 @@ No debe beber
 
 死んじゃいけない
 No debe morir
+
+ここに車を止めてはいけません
+Aquí no se puede aparcar (regla).
+
+治るまでお風呂に入ってはいけません
+Hasta que mejore, no puede bañarse (instrucción).
+
+ここは入っちゃいけないよ
+No puedes / debes entrar ahí.
+(Cowboy Bebop (cap 20), 13:43 - 13:45)
+
+来ちゃ駄目～！
+¡No vengas aquí!
+(BNHA, 5:39 - 5:40, S02EP07)
+```
+
+{: .important-title }
+> Nota
+>
+> Si queremos dirigirnos a desconocidos o superiores, usamos `ないでください`.
+
+```
+すみません、暖房入れないでください
+Por favor, no ponga la calefacción.
 ```
 
 ## Sílaba お（こ、そ、と、の、ほ、も、ろ）
-
-Aquí puedes conjugar:
-
-- Volicional: “Vamos a x” o versión -mos del verbo (comamos, bebamos, compremos)
-- Volicional de probabilidad: Parece que ~
-- Intentar hacer algo
 
 ### Volicional informal (expresar deseo / 〜う、〜よう)
 

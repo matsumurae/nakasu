@@ -322,6 +322,8 @@ En la segunda, la otra persona ya ha probado tu delicioso pastel así que la pre
 
 ## なぁ vs ね
 
+**Debes tener en cuenta que ね es más formal y femenino mientras que な es más informal y masculino.**
+
 なぁ se usa para uno mismo, añade más énfasis en ello. No busca confirmación, es una expresión de sentimiento, confirma algo, emoción…
 
 ```

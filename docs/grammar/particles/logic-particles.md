@@ -17,6 +17,9 @@ permalink: /transcripts/particulas/logicas
 
 ## ¿Quién / Qué lo hizo? / が
 
+N5
+{: .label .label-red }
+
 > **Corresponde a:** A es B o A hace B
 
 Para explicarlo de forma sencilla, la partícula が pone énfasis sobre lo que va delante de ella. Marca algo que es, hace o padece el verbo de la oración. **La información importante es la que va antes**, además le da exclusividad a eso (puedes entenderlo más a fondo en la comparativa de は vs が en la página de **[Diferencias entre partículas]({% link docs/grammar/particles/differences-particles.md %})**)
@@ -68,6 +71,9 @@ Puedo leer Japonés pero, no puedo hablarlo.
 
 ## ¿A quién se le hizo o quién recibió la acción? / を
 
+N5
+{: .label .label-red }
+
 > Especifica a qué le hacemos la acción.
 
 Con la forma causativa se usa para hacer que alguien haga algo (lo controlamos por completo, tratándolo como un objeto).
@@ -86,6 +92,9 @@ Un pokemon pasó justo en frente de tus ojos.
 ***
 
 ## ¿A dónde ha ido? / に
+
+N5
+{: .label .label-red }
 
 > Marca el objetivo futuro (ir a alguna parte, de A a B), estar en ese lugar (ya estoy en el destino) o si A se convierte en B.
 
@@ -119,6 +128,13 @@ Un pokemon ha volado frente a ti
 
 ### Convertirse en… (になる) (puede expresar conversión o deseo)
 
+N5
+{: .label .label-red }
+
+| Nombres o adj-な        | adj-い          |
+|:-------------|:------------------|
+| N / adj-な + になる | adj-i (forma unión o adverbio く) + なる |
+
 ```
 警察犬になりたい
 Quiero convertirme en policia (たい = deseo)
@@ -131,6 +147,55 @@ Este año me convertiré en 18 = Tendré 18
 
 美しくなった
 Convirtió-es preciosa (convertimos adj en nombre) = Se volvió preciosa
+
+仲間になった
+Se convirtió en un compañero
+
+お前将来　昆虫博士になるんじゃないか 
+Te convertirás en un experto en bichos en el futuro, ¿no?
+(Tonari no kaibutsu-kun, 17:28 - 17:30, EP11)
+
+俺も強くなる
+Yo también me haré fuerte
+(Jujutsu Kaisen, 10:42 - 10:43, EP21)
+```
+
+### Ir a hacer ~ (に行く)
+
+N5
+{: .label .label-red }
+
+> **Uso:** V ichidan o V godan (sílaba い) o N + に行く.
+
+```
+食べにいく
+Ir a comer.
+
+友だちの家に遊びに行く
+Voy a ir a la casa de mis amigos a pasar el rato
+```
+
+Podemos usarlo con algunos nombres pero no con todos.
+
+
+{: .warning-title }
+> Mal
+>
+> サッカーに行く, スポーツに行く.
+
+{: .new-title }
+> Bien
+>
+> スキーに行く, 買い物に行く, 旅行に行く.
+
+#### Cómo usarlo con nombres
+
+Un truco para usarlo con nombres es usar する → Usando la raíz い (し):
+
+```
+買い物する → 買い物しに行く
+旅行する → 旅行しに行く
+サッカーする → サッカーしに行く
 ```
 
 ### Posición (estado de existencia / いる o ある)
@@ -159,6 +224,9 @@ Está en el puente
 
 ## ¿En qué dirección? / へ
 
+N5
+{: .label .label-red }
+
 > Marca dirección (de A a B).
 
 Aunque se usa con ubicación, sería como una **dirección de a dónde voy** más que un marcador en el mapa. Solo tiene esa función, a diferencia de に.
@@ -180,6 +248,9 @@ Voy al parque
 ***
 
 ## ¿Dónde ha sucedido? / で
+
+N5
+{: .label .label-red }
 
 > A hace B (se utiliza con activos)
 
@@ -239,6 +310,9 @@ Bailo en la habitación = Establezco la habitación como límite
 ***
 
 ## ¿A quién pertenece? / の
+
+N5
+{: .label .label-red }
 
 Nos cuenta la relación entre un nombre y otro. **Se utiliza para designar que algo pertenece al grupo de algo.** La traducción más directa sería “de” (posesión).
 

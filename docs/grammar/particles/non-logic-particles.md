@@ -17,6 +17,9 @@ permalink: /transcripts/particulas/no-logicas
 
 ## La famosa は
 
+N5
+{: .label .label-red }
+
 Seguro que has oído hablar de ella. Cuando empecé a aprender japonés hace muchos años, se decía que は marcaba el sujeto cuando **no es así**. は es una partícula que no tiene significado, no es más que un marcador y puede ser omitido (aunque también es cierto que muchos japoneses omiten las partículas en sí).
 
 La traducción sería "En cuanto a…". Si lo lees, no tiene sentido alguno básicamente por el hecho de que no tiene significado más que **marcar el tema**. Pero el motivo por el que prefiero esta traducción es porque puedes entender mejor cómo funciona realmente, en vez de forzarlo a entenderlo en tu propio idioma como si tuviera las mismas reglas.
@@ -105,6 +108,9 @@ Es como si en español dijéramos… "Oye, que acabo de ir al hospital y tu tío
 **Esa es la sensación.**
 
 ## También o incluso / も
+
+N5
+{: .label .label-red }
 
 Las dos opciones más comunes son "también" y "incluso". Pero, も tiene otros usos que verás más adelante.
 

@@ -17,6 +17,9 @@ permalink: /transcripts/particulas/final
 
 ## “¿Verdad?” / ね
 
+N5
+{: .label .label-red }
+
 **Buscamos una confirmación del oyente**, que está atendiendo y en armonía con nosotros. Se asume que el oyente comparte la opinión o la conoce.
 
 Imagina que tu amigo te dice, "Bua, menudo día…" y tú le dices "Si… hace mucho calor, ¿no?".
@@ -46,6 +49,9 @@ Vamos.
 ```
 
 ## Dar énfasis / よ (masculino)
+
+N5
+{: .label .label-red }
 
 Se utiliza con información que la otra persona (la que nos escucha) no conoce. Es decir, es informació nueva. Transmite convicción. Por ejemplo… Imagina que le vas a contar a tu mejor amigo que tu novia te ha dejado, ¡eso es información nueva!
 
@@ -118,7 +124,7 @@ También se puede usar para buscar la confirmación de algún hecho por parte de
 Kato-san puede hablar ruso. ¿No es así, Kato-san?
 ```
 
-## Expresar un pensamiento para uno mismo / な
+## Expresar un pensamiento para uno mismo / な, なあ o なぁ
 
 Se usa al final de la frase para compartir sentimientos con uno mismo, sin buscar confirmación ni sentimiento mutuo. **Esto es lo que pienso, estés de acuerdo o no.**
 

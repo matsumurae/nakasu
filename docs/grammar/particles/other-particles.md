@@ -16,6 +16,10 @@ permalink: /transcripts/particulas/otras
 {:toc}
 
 ## Preguntas u opciones / か
+
+N5
+{: .label .label-red }
+
 ### Pregunta
 
 El uso más común de todos. A decir verdad, en el japonés casual se omite hasta la partícula de pregunta ya que depende mucho de la entonación. Igual que en español "Allí va" vs "¿Allí va?" simplemente cambia la entonación.
@@ -140,6 +144,9 @@ al punto de las lágrimas
 
 ## Citar a alguien o dar una lista de opciones / と
 
+N5
+{: .label .label-red }
+
 **No se puede usar con la forma causativa.**
 
 Esto es porque usando la forma causativa TÚ tienes el control de la acción (ya seas tú o hacer que otro la haga). Eso significa que si haces que otro la haga, no es una acción mutua ya que tú tienes el control.
@@ -188,6 +195,9 @@ Sakura y Mary están caminando
 ```
 
 ## Listar opciones / や
+
+N5
+{: .label .label-red }
 
 Similar a と, pero **no es exclusivo**. No excluimos el resto de cosas que no mencionamos, sería como decir “Por ejemplo…”.
 
@@ -295,6 +305,9 @@ Es un domingo soleado pero… (estoy enfermo y no puedo salir)
 > **Uso:** Convertir una frase A hace B en A es B.
 
 ### のだ、んだ、のです、んです
+
+N5
+{: .label .label-red }
 
 Por ejemplo… Tu amigo entra en tu habitación y te pregunta "¿Cómo es que tu habitación está tan limpia?", por lo que tú respondes "Es que mi madre viene (y la limpia)".
 
@@ -414,6 +427,9 @@ Le deseo lo mejor en sus esfuerzos.
 ```
 
 ## Debido a, dado que, desde / ので
+
+N5
+{: .label .label-red }
 
 Explicar la razón de algo, dada antes de la partícula.
 

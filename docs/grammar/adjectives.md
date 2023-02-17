@@ -49,6 +49,9 @@ pobrecito, penoso, patetico
 
 ## Adjetivos い
 
+N5
+{: .label .label-red }
+
 Este tipo de adjetivos son primos cercanos de los verbos, los puedes conjugar y cambiar. Para que lo entiendas, **la い equivale a だ/です**, por eso no hace falta usarlo.
 
 {: .important-title }
@@ -120,6 +123,9 @@ peligroso-no es caro-no es = no es peligroso ni caro
 | Ser demasiado | Raiz + すぎる <br> Unión: Raiz + すぎて (過ぎる) <br> Pasado: Raiz + すぎた <br> Formal: Raiz + すぎます <br> Formal pasado: Raiz +すぎました |
 
 ## Adjetivos な
+
+N5
+{: .label .label-red }
 
 Estos adjetivos funcionan como un nombre, por lo que no se conjugan. **Siempre deben usarse con だ o です**.
 
