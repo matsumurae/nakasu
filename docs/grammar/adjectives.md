@@ -113,14 +113,18 @@ peligroso-no es caro-no es = no es peligroso ni caro
 
 | Conjugación        | Forma          |
 |:-------------|:------------------|
-| Adverbio | Adj + に |
-| Negativo | Adj + じゃない o じゃありません |
-| Pasado | Adj + だった o でした |
-| Pasado negativo | Adj + じゃなかった o じゃありませんでした |
-| Parece ~ | Adj + そう |
-| provisional condicional | Adj + ならば (+ formal = であれば) |
-| provisional condicional negativo | Adj + でなければ (casual = じゃなければ) |
-| Ser demasiado | Raiz + すぎる <br> Unión: Raiz + すぎて (過ぎる) <br> Pasado: Raiz + すぎた <br> Formal: Raiz + すぎます <br> Formal pasado: Raiz +すぎました |
+| Presente | おもしろい (です) <br> es-interesante |
+| Adverbio (-mente) | おもしろ**く** <br> interesante**mente** |
+| Forma unión + なる | おもしろ**くなる** <br> Se **convierte** interesante |
+| Negativo | おもしろ**くない** (です) <br> **no es**-interesante |
+| Pasado | おもしろ**かった** (です) <br> **era**-interesante |
+| Pasado negativo | おもしろ**くなかった** (です) <br> **no era**-interesante |
+| Parece ~ | おもしろ**そう** <br> **parece**-interesante |
+| provisional condicional | おもしろ**ければ** <br> **si** es (**si fuera**)-interesante |
+| provisional condicional negativo | おもしろ**くなければ** <br> **si no** es (**si no fuera** interesante)-interesante |
+| Cantidad (que se puede medir) | 重**さ** <br> peso |
+| Verdades objetivas <br> (さ para verdad externa, <br> み para verdad personal) <br> み está limitado a: dolor / placer, sabor y alguno más. | テストの難し**さ**を予想する <br> Puedo imaginar lo **difícil** que será la prueba <br> あの映画は面白**み**に欠けている <br> A la película le falta un elemento que me **intrigue** |
+| Ser demasiado ~ | おもしろ**すぎる** <br>** es demasiado** interesante |
 
 ## Adjetivos な
 
@@ -136,12 +140,13 @@ Estos adjetivos funcionan como un nombre, por lo que no se conjugan. **Siempre d
 
 | Conjugación        | Forma          |
 |:-------------|:------------------|
+| Presente | だ o です, な para calificar |
 | Adverbio | Adj + に |
 | Negativo | Adj + じゃない o じゃありません |
 | Pasado | Adj + だった o でした |
 | Pasado negativo | Adj + じゃなかった o じゃありませんでした |
 | Parece ~ | Adj + そう |
-| provisional condicional | Adj + ならば (+ formal = であれば) |
+| provisional condicional | Adj + らば (+ formal = であれば) |
 | provisional condicional negativo | Adj + でなければ (casual = じゃなければ) |
 | Ser demasiado | Raiz + すぎる <br> Unión: Raiz + すぎて (過ぎる) <br> Pasado: Raiz + すぎた <br> Formal: Raiz + すぎます <br> Formal pasado: Raiz +すぎました |
 
@@ -169,22 +174,28 @@ flor es-bella
 
 綺麗な花
 es-bella flor
+
+犬がヤンチャだ
+perro travieso-es
+
+ヤンチャな犬
+es-travieso perro
 ```
+
+#### -さ
+
+**Rara vez se usa con adjetivos na.**
 
 ### Tabla de ejemplo
 
 | Conjugación        | Forma 1          | Forma 2 |
 |:-------------|:------------------|:------------|
-| Adverbio | 静かに <br> tranquila-**mente** | 静かに町 <br> ciudad tranquila-**mente** |
-| Presente | 静かだ <br> 静かです <br> es-tranquila | 静かな町 <br> es-tranquila ciudad |
-| Negativo | 静かじゃない <br> 静かじゃありません <br> no es-tranquila | 静かな町じゃない <br> 静かな町じゃありません <br> no es-tranquila ciudad |
-| Pasado | 静かだった <br> 静かでした <br> fue-tranquila | 静かな町だった <br> 静かな町でした <br> fue-tranquila ciudad |
-| Pasado negativo | 静かじゃなかった <br> 静かじゃありませんでした <br> no fue-tranquila | 静かな町じゃなかった <br> 静かな町じゃありませんでした <br> no fue-tranquila ciudad |
-| Parece ~ | 静かそう <br> parece-tranquila | 静かなそう町 <br> parece-tranquila es ciudad |
-| provisional condicional | 静かならば <br> 静かであれば <br> si es (si fuera)-tranquila | 静かなならば町 <br> 静かなであれば町 <br> si es (si fuera)-tranquila ciudad |
-| provisional condicional negativo | 静かでなければ <br> 静かじゃなければ <br> si no es (si no fuera)-tranquila | 静かなでなければ町 <br> 静かなじゃなければ町 <br> si no es (si no fuera)-tranquila ciudad |
-| Es demasiado ~ | 大きすぎる <br> es demasiado grande |
-
-#### -さ
-
-**Rara vez se usa con adjetivos na.**
+| Presente | 静か**だ** <br> 静か**です** <br> **es**-tranquila | 静か**な**町 <br> **es**-tranquila ciudad |
+| Adverbio | 静か**に** <br> tranquila-**mente** | 静か**に**町 <br> ciudad tranquila-**mente** |
+| Negativo | 静か**じゃない** <br> 静か**じゃありません** <br> **no es**-tranquila | 静かな町**じゃない** <br> 静かな町**じゃありません** <br> **no es**-tranquila ciudad |
+| Pasado | 静か**だった** <br> 静か**でした** <br> **fue**-tranquila | 静かな町**だった** <br> 静かな町**でした** <br> **fue**-tranquila ciudad |
+| Pasado negativo | 静か**じゃなかった** <br> 静か**じゃありませんでした** <br> **no fue**-tranquila | 静かな町**じゃなかった** <br> 静かな町**じゃありませんでした** <br> **no fue**-tranquila ciudad |
+| Parece ~ | 静か**そう** <br> **parece**-tranquila | 静かな**そう**町 <br> **parece**-tranquila es ciudad |
+| provisional condicional | 静かな**らば** <br> 静かであ**れば** <br> **si** es (**si fuera**)-tranquila | 静かなな**らば**町 <br> 静かなであ**れば**町 <br> **si** es (**si fuera**)-tranquila ciudad |
+| provisional condicional negativo | 静か**でなければ** <br> 静か**じゃなければ** <br> **si no** es (**si no fuera**)-tranquila | 静かな**でなければ**町 <br> 静かな**じゃなければ**町 <br> **si no** es (**si no fuera**)-tranquila ciudad |
+| Es demasiado ~ | 静かな**すぎる** <br> **es demasiado** silenciosa |

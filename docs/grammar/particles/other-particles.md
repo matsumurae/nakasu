@@ -153,10 +153,58 @@ Esto es porque usando la forma causativa TÚ tienes el control de la acción (ya
 
 ### Consecuencias (“Si ~, entonces ~”)
 
+> **Uso:** V diccionario o (N o adj-na + だ) + と.
+
+Para resultados constantes, hechos sin cambios (como uno + uno = dos). Se utiliza con fenómenos naturales, acciones habituales, acciones programadas, etc.
+
 ```
-ニューヨークに行とおもしろい店がたくさんある
+ニューヨークに行くとおもしろい店がたくさんある
 Si vas a Nueva York, hay muchas tiendas interesantes.
+
+春になると桜が咲さく
+Si llega la primavera, brotarán los cerezos en flor.
+
+お腹が空くとパンを食たべる
+Si tengo hambre, comeré pan.
 ```
+
+### Condiciones actuales (~ y entonces, ~ y luego, cuando ~)
+
+> **Uso:** V diccionario + と.
+
+Se suele usar cuando se presenta algo que sucedió en el pasado.
+
+```
+新幹線に乗ると富士山が見えた
+Cuando cogí el tren bala, el monte Fuji era visible.
+
+祭りに行くとボブがいた
+Fui al festival y luego encontré a Bob
+= Lit. Bob estaba allí
+```
+
+### Acciones secuenciales en pasado
+
+> **Uso:** V diccionario + と.
+
+```
+ボブは魚を買うと、寿司を作つくった
+Hablando de Bob, compró pescado e hizo sushi.
+```
+
+#### Diferencia entre と y て
+
+Ambas se pueden usar para acciones secuenciales.
+
+| と        | て          |
+|:-------------|:------------------|
+| Solo sirve para describir a otros | Describirte a tí mismo y a otros |
+| ボブは魚を**買うと**、寿司を作つくった <br> Hablando de **Bob**, compró pescado e hizo sushi. | 魚を**買って**、寿司を作つくった <br> **Compré** pescado e hice sushi. |
+
+{: .warning-title }
+> Mal
+>
+> 魚を**買うと**、寿司を作つくった = No podemos hablar de nosotros con と.
 
 ### Relación
 

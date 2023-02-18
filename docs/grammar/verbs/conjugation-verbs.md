@@ -239,7 +239,7 @@ Se usa para hacer una pregunta, invitación o expresar deseo en forma negativa.
 |:-------------|:------------------|
 | Raíz + なければ o ないと, なくちゃ、なきゃ (casual) | Raíz + sílaba あ + なければ o ないと, なくちゃ、なきゃ (casual) |
 
-Versión negativa de れば. Si ~ entonces ~, Si no ~ entonces ~, pedir consejo / sugerencias o dar consejo a alguien, deseo propio.
+Versión negativa de れば. Si no [A] entonces [B].
 
 ```
 食べなければ
@@ -1329,11 +1329,16 @@ no puede escuchar
 
 ### Provisional condicional (〜れば、〜えば)
 
+N4
+{: .label .label-yellow }
+
 | Ichidan        | Godan          |
 |:-------------|:------------------|
 | Raíz + れば | Raíz + sílaba え + えば |
 
-Si ~ entonces ~, Si no ~ entonces ~, pedir consejo / sugerencias o dar consejo a alguien, deseo propio
+Situación hipotética, por eso no se suele usar con acciones propias. Implica una fuerte conexión entre los dos eventos. **No puede expresar voluntad, intención u órdenes.**
+
+Si [A] entonces [B], pedir consejo / sugerencias o dar consejo a alguien, deseo propio.
 
 ```
 食べれば
