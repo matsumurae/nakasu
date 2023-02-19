@@ -23,15 +23,15 @@ Tenemos diferentes niveles de formalidad (además de los derogatorios y formas m
 2. あります: Formal
 3. ございます: Formal y educado
 
-La forma casual es la que usamos con gente de nuestra edad o nivel inferior. Por eso, se enseña la forma formal de forma estandar… El fallo aquí reside en que enseñan esa forma y la gente cree que esa es su conjugación, cuando es incorrecto.
+La forma casual es la que usamos con **gente de nuestra edad o nivel inferior**. Por eso, se enseña la forma formal de forma estandar… El fallo aquí reside en que enseñan esa forma y la gente cree que esa es su conjugación, cuando es incorrecto.
 
 Es como si en vez de enseñarte el verbo "amar" te enseñasen que el verbo raíz es "ama". Entonces, ¿cómo lo uso con "yo"? ¿(yo) ama? Ya sé que es un ejemplo raro, pero la lógica de los verbos en español vs japonés no es la misma… Así que ejemplificarlo es difícil.
 
-El último nivel usado cuando hablas con alguien de un alto rango (como un jefe), siendo la forma más formal y educada de todas. Este nivel depende del verbo, ya que en este caso ある pasa a ser ございます: unión de ござい (ser) + ます.
+El último nivel es usado cuando hablas con **alguien de un alto rango** (como un jefe), siendo la forma más formal y educada de todas. Este nivel depende del verbo, ya que en este caso ある pasa a ser ございます: unión de ござい (ser) + ます.
 
 **¿Quieres saber lo que realmente significa ます?** ¡Sigue leyendo!
 
-###　〜ます
+### 〜ます
 
 ます en realidad es un **sufijo** que se añade a la raíz del verbo (en los godan, en la sílaba い). Cuando antes lo aprendas, antes podrás desprenderte de esa extraña dependencia y que todas las conjugaciones tomen sentido.
 
