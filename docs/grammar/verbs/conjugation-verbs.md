@@ -135,7 +135,10 @@ Iré y ayudaré a mi hermano a mudarse.
 
 ## Sílaba あ（か、さ、た、な、は、ま、ら）
 
-### Negativo
+### Negativo (～ない)
+
+N5
+{: .label .label-red }
 
 | Ichidan        | Godan          |
 |:-------------|:------------------|
@@ -613,7 +616,10 @@ Debo ir a clase.
 
 ## Sílaba い（き、し、ち、に、ひ、み、り）
 
-### Pasado
+### Pasado (〜た)
+
+N5
+{: .label .label-red }
 
 | Ichidan       | Godan          |
 |:-------------|:------------------|
@@ -705,6 +711,9 @@ Se une a otra acción que le sigue, se convierte en un nombre.
 
 ### Verbo formal (〜ます)
 
+N5
+{: .label .label-red }
+
 | Ichidan       | Godan          |
 |:-------------|:------------------|
 | Raíz + ます | Raíz + sílaba い + ます |
@@ -722,6 +731,9 @@ bebo / beberé
 El famoso “itadakimasu” viene de 頂く (recibir) → 頂きます (gracias por la comida que voy a recibir / recibo esta comida)
 
 ### Formal negativo (〜ません o 〜ませぬ)
+
+N5
+{: .label .label-red }
 
 | Ichidan       | Godan          |
 |:-------------|:------------------|
@@ -742,14 +754,14 @@ no como / no comeré
 no bebo / no beberé
 ```
 
-### Formal pregunta o deseo negativo (〜ませんか)
+### Formal pregunta o deseo negativo (〜(ください / いただけ)ませんか)
 
 N5
 {: .label .label-red }
 
 | Ichidan       | Godan          |
 |:-------------|:------------------|
-| Raíz + ませんか | Raíz + sílaba い + ませんか |
+| Raíz + (ください / いただけ)ませんか | Raíz + sílaba い + (ください / いただけ)ませんか |
 
 Se usa para hacer una pregunta, invitación o expresar deseo en forma negativa.
 
@@ -763,6 +775,20 @@ Se usa para hacer una pregunta, invitación o expresar deseo en forma negativa.
 今回だけ許していただけませんか？
 ¿No podría perdonarme solo esta vez?
 (Gokudolls, 13:06 - 13:08, EP03)
+```
+
+Podemos hacerlo más formal añadiendo ください delante. Con esto, decimos "¿Podría hacer…?". 
+
+```
+窓を開けてくださいませんか
+¿Podría abrir la ventana?
+```
+Con いただけ decimos "¿No le importaría…?".
+
+```
+コンピューターのts海方を教えていただけませんか
+¿No le importaría enseñarme la forma de usar el ordenador?
+= Le importaría sí…
 ```
 
 #### Diferencia entre ましょうか y ませんか
@@ -865,6 +891,8 @@ N5
 | Ichidan       | Godan          |
 |:-------------|:------------------|
 | Raíz + たい | Raíz + sílaba い + たい |
+
+Sirve tanto para deseos personales como para los de otras personas.
 
 "Quiero ~", "Me gustaría ~". Muy usado para expresar deseos futuros, **recuerda que el futuro no existe**.
 
@@ -1223,6 +1251,9 @@ Estoy tan feliz que podría morir
 
 ### Diccionario
 
+N5
+{: .label .label-red }
+
 Forma diccionario. Para sacar la raíz:
 
 | Ichidan        | Godan          |
@@ -1289,7 +1320,7 @@ parece que mira y come
 Hoy no pareces tú mismo.
 ```
 
-### Imperativo
+### Imperativo (〜な)
 
 > **Uso:** Diccionario + な
 
@@ -1580,12 +1611,16 @@ creer que puedo comerlo, puedo comerlo
 parece que puede ganar
 ```
 
-### Imperativo suave (〜て)
+### Imperativo suave (〜て + (ください, くれ, くれない))
 
 N5
 {: .label .label-red }
 
-> **Uso:** Forma -te (+ ください para añadir "por favor", formal)
+> **Uso:** Forma -te (+ ください para añadir "por favor", formal o くれ para hombres y くれない para mujeres)
+
+Utilizado para decir "Por favor…". Se usa cuando se recomienda o ofrece algo a otra persona y también para solicitar cortesmente que se lleve a cabo una acción.
+
+くれ es la versión usada de ください por los hombres mientras que くれない es la que utilizan las mujeres.
 
 ```
 食べて（ください）
@@ -1602,6 +1637,53 @@ por favor, muere
 
 示して（ください）
 por favor, muestra / enseña
+
+新聞を撮って(くれ, くれない)
+¡Pásame el periódico!
+```
+
+### "Deseo que hagas ~" / "Quiero que hagas ~" (para mí mismo) （〜てほしい）
+
+> **Uso:** Forma -te + ほしい (です).
+
+Se utiliza para indicar el deseo de que otra persona haga algo por nosotros.
+
+```
+日本語で話してほしいです
+Quiero que hables en japonés.
+
+このスーツケースを5じまでアズ亜買ってほしいんですが
+El caso es que querría que me guardara esta maleta hasta las cinco.
+
+日曜日に私の家へ来てほしいんですが
+El caso es que me gustaría que el domingo viniera a mi casa.
+
+日本語を教えてほしいです
+Quiero que me enseñes japonés.
+```
+
+### "Deseo que hagas ~" / "Quiero que hagas ~" (otra persona) （〜ほしいがって, たがって）
+
+| Ichidan  | Godan        |
+|:------------------|:------|
+| V raíz + (ほしい / た) + がって | V raíz + sílaba い + (ほしい / た) + がって |
+
+Utiliza el verbo たがる (querer, anlhelar…), que se trata de たい + がる.
+
+Usado para expresar deseos de otras personas, no propios. **Para los propios usar たい.**
+
+```
+ロペスさんは歌舞伎を見たがっています
+Hablando del Sr.Lopez, tiene ganas de ir a ver el Kabuki.
+
+兄はイタリアへ行きたがっています
+Hablando de mi hermano mayor, tiene ganas de ir a Italia.
+
+友達は新しいカメラをほしがっています
+Hablando de mi amigo, quiere una cámara nueva.
+
+ホセさんは公務員になりたがっています
+Hablando de José, está deseando hacerse funcionario.
 ```
 
 ### Hacer por adelantado / dejar en el estado actual esperando un cambio posterior (〜て + おく)
@@ -1694,12 +1776,44 @@ comer-no miró / comer-no intentó
 
 Opuesto a やがる. 
 
-Significa “hacer algo por otro” o “dar”. Se utiliza para añadir el sentimiento de la primera persona sobre algo, expresando que eso es favorable para la primera persona. 
+Significa “hacer algo por otro” o “dar”. Se utiliza para añadir el sentimiento de la primera persona sobre algo, expresando que eso es favorable para la primera persona. **Se enfoca en la acción y quién la realiza.**
 
 ```
 食べてくれる → presente / futuro
 食べてくれた → pasado
 食べてくれ → imperativo
+```
+
+### Se van a realizar (〜ておく)
+
+Se utiliza con acciones que se van a realizar con un acontecimiento futuro. **Pone énfasis en la acción y en quién la realiza.**
+
+```
+家を掃除しておきます
+Voy a dejar la casa limpia.
+```
+
+#### Dejar algo en el estado anterior
+
+```
+ハサミは引き出しに入れておいてください
+Deja las tijeras en el cajón como estaban, por favor.
+
+辞書を使ったら、元のところへおいてください
+Ponga el diccionario en su sitio después de utilizarlo.
+```
+
+#### Abandonar a alguien o algo
+
+```
+そっとしておきましょう
+Dejémoslo solo.
+
+そのままにしておいてください
+Déjelo así por favor.
+
+掘っておいてください
+Déjeme solo, por favor.
 ```
 
 ### Es / ha sido hecho (~てある)
@@ -1709,7 +1823,9 @@ N5
 
 > **Uso:** Forma -te + ある.
 
-Algo hecho de forma intencional. Da énfasis en la acción habiendo sido intencional.
+Algo hecho de forma intencional. Da énfasis en la acción habiendo sido intencional, **no importa ni el estado ni quién lo ha hecho.**
+
+**Se usa para indicar tanto preparación como existencia de algo.**
 
 ```
 あのリスト… 何が書いてあるんだ？
@@ -1735,6 +1851,37 @@ Abrí la puerta
 la puerta ha sido abierta
 = Nos enfocamos en el estado de que se haya abierto.
 ```
+
+#### Diferencia entre ておく y てある
+
+| ておく        | てある          |
+|:-------------|:------------------|
+| Énfasis en la acción y quién la realiza | Énfasis en el estado de algo **sin importar quién lo ha hecho**. |
+| Usa を | Usa が |
+
+Veamos un ejemplo:
+
+| **Vas a dar** una fiesta en casa. <br> ¿Cómo **vas a** prepararla? | **Has preparado tu** casa para una fiesta. <br> ¿Cómo **está** preparada? |
+|:-------------|:------------------|
+| 家**を**掃除しておきます <br> **Voy a** dejar la casa limpia. | 家**が**掃除してあります <br> La casa **está** limpia. |
+| 花**を**飾っておきます <br> **Voy a** poner flores. |　花**が**飾ってあります <br> Las flores **están** dispuestas. |
+| ケーキ**を**買っておきます <br> **Voy a** dejar la tarta comprada. |　ケーキ**が**買ってあります <br> La tarta **está** comprada. | 
+
+#### Diferencia entre てある y ている
+
+| てある        | ている          |
+|:-------------|:------------------|
+| Preparación o existencia de algo | Solo indica estado o situación |
+| Usado con verbos transitivos | Usado con verbos intransitivos |
+| Es así porque ha sido puesto por alguien | La acción no ha sido realizada por nadie (self-verb) |
+
+Veamos unos ejemplos:
+
+| 間も無くこの部屋で会議があるのでドアが開けて**あります** <br> Como enseguida habrá una reunión en esta sala, la puerta está abierta |  |
+| 黒板に何が書いて**ありますか** <br> ¿Qué pone en la pizarra? | あの時計は止まって**います** <br> Aquel reloj está parado |
+| 壁にポスターが貼って**あります** <br> En la pared hay un póster pegado. | この椅子は汚れて**います** <br> Esta silla está sucia. |
+| 机の上にメモが置いて**ありました** <br> Hay una nota puesta en el escritorio. | 大雪で電車が止まって**います** <br> Esta mañana la calle estaba atascada.
+| カレンダーに今月の予定が書いて**あります** <br> En el calendario está escrito el programa de este mes.  | 今朝は道が混んで**いました** <br> El tren está parado a casua de la gran nevada. |
 
 ### Después de hacer, desde (〜て + から)
 
@@ -1825,7 +1972,21 @@ N5
 
 Utiliza el verbo いる.
 
-Equivalente a “-ing” en inglés, “estar ~” (estar corriendo, estar caminando…).
+Equivalente a “-ing” en inglés, “estar ~” (estar corriendo, estar caminando…). **Pero, debes tener en cuenta que tiene otros usos.**
+
+Podemos convertir los verbos simplemente haciendo el cambio:
+
+```
+勉強する
+estudiar
+
+勉強している
+estar estudiando
+```
+
+#### Acción contínua
+
+Se utiliza con `estar + gerundio`.
 
 ```
 食べている
@@ -1842,16 +2003,62 @@ está muriendo
 
 志村様が探している
 Shimura-sama te está buscando.
+
+父は今電話をかけています
+Mi padre está llamando por teléfono ahora
 ```
 
-Podemos convertir los verbos simplemente haciendo el cambio:
+#### Acción habitual o costumbre
 
 ```
-勉強する
-estudiar
+私は毎朝ジョギングをしています
+Hago jogging todas las mañanas.
 
-勉強している
-estar estudiando
+姉はアカデミアで日本語を勉強しています
+Mi hermana mayor estudia japonés en una academia.
+
+受付で切手を売っています
+Se venden sellos en recepción.
+```
+
+#### Indica el estado actual de algo
+
+Se utiliza con `estar + participio`.
+
+```
+兄はもう結婚しています
+Mi hermano mayor ya está casado.
+
+あの時計は壊れいます
+Aquel reloj está roto.
+
+財布が落ちています
+Hay una cartera caída.
+```
+
+#### Profesión o posición en el tiempo prolongado
+
+Usado para verbos como vivir, trabajar, pertenecer, etc.
+
+```
+谷さんは病院に勤めています
+El Sr.Tani trabaja en el hospital.
+
+私の家族はメドリッドの郊外に住んでいます
+Mi familia vive a las afueras de Madrid.
+
+私はいいカメラを持っています
+Tengo una buena cámara.
+```
+
+#### Indica una característica permanente
+
+```
+このナイフは先が尖っています
+Este cuchillo tiene la punta afilada.
+
+あの街は曲がっています
+Aquel camino tiene curvas.
 ```
 
 ### Acción que continúa negativo (〜て + ない / いない、〜ていません)
@@ -1937,16 +2144,22 @@ no estaba muriendo
 
 Utiliza el verbo 行く.
 
-Estar empezando / convirtiendo en ~, acción que empieza ahora y sigue. Hacer algo e ir, describir un movimiento que se aleja del lugar donde está el hablante, con el flujo de tiempo desde el punto de vista del hablante –desde ahora hacia el futuro o acciones habituales–
+Estar empezando / convirtiendo en ~, acción que empieza ahora y sigue. Se trata únicamente de ir a un lugar, sin volver (a diferencia de て来る).
+
+- Se usa con verbos que expresan un cambio de estado o situación, que tendrá lugar de ahora en adelante.
+- Hacer algo e ir, describir un movimiento que se aleja del lugar donde está el hablante
+- Manera de ir.
 
 ```
 食べていく
 como y voy –después–
 
 食べていきます
+ir + comer
 como y voy
 
 買っていく
+ir + comprar
 compro y voy –a algun sitio–
 
 ドッグフードがないから買っていくね
@@ -1960,6 +2173,10 @@ Los cuervos se van volando
 人気があがっていく
 Ellos se volverán populares
 = de ahora en adelante, al futuro = Estás viendo su popularidad objetivamente
+
+駅へ走って行きました
+Ha ido corriendo hacia la estación.
+= manera de ir.
 ```
 
 #### Diferencia entre ていく y てくる
@@ -2053,7 +2270,12 @@ no compré y no fui –a algun sitio–
 
 **Utiliza el verbo 来る.**
 
-Se usa para describir "hacer algo y volver". Describe un movimiento que se acerca al lugar donde está el hablante, con el flujo de tiempo desde el punto de vista del hablante –desde ahora hacia el futuro o acciones habituales–
+Se usa para describir "hacer algo y volver". Se utiliza para ir a un lugar y volver, a diferencia de て行く.
+
+- Describe un movimiento que se acerca al lugar donde está el hablante
+- Cambio de estado o situación, desde el pasado hasta el presente
+- Comienzo de una acción
+- Continuación hasta este momento
 
 ```
 食べてくる
@@ -2076,6 +2298,18 @@ Los cuervos vienen volando
 人気があがってくる
 Ellos se volverán populares
 = de ahora en adelante, al futuro = Estás viendo su popularidad subjetivamente
+
+いい考えが浮かんできました
+Estoy teniendo una buena idea.
+= cambio de estado o situación del pasado al presente.
+
+雨が降ってきました
+Ha empezado a llover.
+= comienzo de una acción.
+
+今まで毎日漢字を勉強してきました
+Hasta este momento he estudiado kanji cada día.
+= continuación hasta este momento.
 ```
 
 ### Estar empezando a (〜てなってくる)
@@ -2165,6 +2399,8 @@ no compré y volví
 
 Utiliza el verbo しまう (terminar).
 
+Sirve tanto para hablar de acciones que se han llevado a cabo (es decir, está terminada) y para expresar lamento o pena por algo que ha ocurrido contra su voluntad.
+
 ```
 食べてしまう
 he comido (pero no era mi intención)
@@ -2174,6 +2410,26 @@ he comprado (pero no pensaba hacerlo)
 
 死んでしまう
 he muerto (aunque no estaba en mis planes)
+```
+
+Acciones ya terminadas:
+
+```
+学生はみんな帰ってしまいました
+Todos los estudiantes han regresado ya.
+
+作文は全部書いてしまいました
+Ya he escrito toda la redacción.
+```
+
+Expresar lamento o pena por algo ocurrido en contra de tu voluntad:
+
+```
+コーヒーが冷めてしまいました
+El café ya se ha enfriado.
+
+パスポートーを無くしてしまいました
+He perdido el pasaporte.
 ```
 
 ### Acción hecha por accidente o terminada - pasado (〜てちゃった、〜てしまった)

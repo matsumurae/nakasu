@@ -3,7 +3,7 @@ layout: default
 title: Otras partículas
 parent: Partículas
 grand_parent: Gramática
-nav_order: 3
+nav_order: 4
 permalink: /transcripts/particulas/otras
 ---
 
@@ -412,6 +412,10 @@ Es un domingo soleado pero… (estoy enfermo y no puedo salir)
 N5
 {: .label .label-red }
 
+Usado para dar a conocer una razón o bien para responder al que pregunta. También se suele usar para explicar las circunstancias actuales en las que ocurre la acción.
+
+#### Explicar un motivo
+
 Por ejemplo… Tu amigo entra en tu habitación y te pregunta "¿Cómo es que tu habitación está tan limpia?", por lo que tú respondes "Es que mi madre viene (y la limpia)".
 
 ```
@@ -446,6 +450,23 @@ El caso es que es difícil (Añade más énfasis)
 ```
 花が綺麗なのだ
 Es seguro que la flor es bonita.
+```
+
+### のですか、んですか
+
+{: .warning-title }
+> Recuerda
+>
+> No se puede usar か con だ.
+
+Usado para marcar interés por lo que se pregunta. **Si quieres usarlo con だ, tendrás que entonarlo de forma que parezca una pregunta.**
+
+```
+P: 今日はあまり元気がありませんね。どうしたんですか
+Hablando de hoy, no tiene buen aspecto. ¿Qué le pasa?
+
+R: 父は病院なんです
+Es que mi padre está enfermo.
 ```
 
 ## にも

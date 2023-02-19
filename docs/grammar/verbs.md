@@ -97,6 +97,11 @@ En japonés es muy normal tener dos verbos con el mismo significado. Por ejemplo
 - 他動詞 → 他 (otro) + 動詞 (verbo) = **Other-move** = transitivo → acción hecha a otras cosas
 - 自動詞 → 自 (uno mismo) + 動詞 (verbo) = **Self-move** = intransitivo → acción hecha a sí mismo
 
+| **ある** <br> V other-move / transitivo + **objeto** | Alguien realiza la acción | 田中さんは窓**を**閉めます <br> El Sr.Tanaka cierra la ventana. |
+| **いる** <br> V self-move / intransitivo | La acción se realiza pero **no importa quién** | 窓**が**閉まります <br> La ventana se cierra. |
+| **てある** | Indica un estado producido por **la acción de alguien** | 窓が閉めてあります <br> La ventana **ha sido** cerrada. |
+| **ている** | Indica un estado **sin importar quién** lo ha producido |　窓が閉まっています <br> La ventana **está** cerrada. |
+
 ### Verbos "other-move" (transitivos)
 
 Para explicarlo de una forma que lo entiendas mejor, lo vamos a llamar "other-move". Lo que en español sería "verbos con movimiento para otros", equivalente a **algo hace la acción**.

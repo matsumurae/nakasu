@@ -3,7 +3,7 @@ layout: default
 title: Diferencias entre partículas
 parent: Partículas
 grand_parent: Gramática
-nav_order: 5
+nav_order: 6
 permalink: /transcripts/particulas/diferencias
 ---
 
@@ -356,3 +356,56 @@ Que nostalgia…
 懐かしいね
 Es nostálgico, ¿no crees?
 ```
+
+## か vs も
+
+Al añadir か hacemos que esa palabra pase a ser "algo x":
+
+```
+何 = 何か
+Que = Algo
+
+あなたは[何か]飲みますか
+¿Vas a beber [algo]?
+
+どこ = どこか
+Donde = Algún lugar
+
+明日は[どこか]へ行きますか
+¿Vas a [alguna parte] mañana?
+
+誰 = 誰か
+Quién = Alguien
+
+家の中に[誰か]いますか
+¿Hay [alguien] en la casa?
+
+何時 = 何時か
+Cuándo = Algún día
+
+映画に[いつか]行きましょう
+Vamos a ver una peli al cine [alguna vez]
+```
+
+¡Esto también funciona con も! **Pero ten en cuenta que su significado puede ser negativo o positivo.**
+
+```
+何 = 何も
+Qué = Nada (negativo) o todo (positivo)
+
+どこ = どこも
+Dónde = Ningún sitio (negativo) o todas partes (positivo)
+
+誰 = 誰も
+Quién = Nadie (negativo) o todos (positivo)
+
+何時 = 何時も
+Cuándo = Nunca (negativo) o siempre (positivo)
+```
+
+| Palabra        | Contexto negativo          | Contexto positivo |
+|:-------------|:------------------|:-------------------|
+| 何も | **何も**しません <br>  No haré **nada** | **何も**かもします <br> Lo haré todo <br> *Ten en cuenta que se suele usar 全部* |
+| どこも | **どこも**いきたくない <br> No quiero ir a **ningún lugar** | **どこも**いそがしい <br> **En todas partes** está lleno |
+| 誰も | **誰も**いません <br> No hay **nadie** | **誰も**がかれをしっている <br> **Todo el mundo** lo cononce <br> *皆 es más común* |
+| 何時も | **何時も**きません <br> Él **nunca** viene | 彼女は**何時も**いそがしい <br> Ella **siempre** está ocupada |

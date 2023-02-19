@@ -79,7 +79,7 @@ N5
 Con la forma causativa se usa para hacer que alguien haga algo (lo controlamos por completo, tratándolo como un objeto).
 
 ### A través de
-Decimos a través de donde pasa la persona o cosa.
+Decimos a través de donde pasa la persona o cosa. **Expresa traslado o movimiento.**
 
 ```
 廊下を歩く
@@ -87,6 +87,23 @@ Caminar a través del pasillo
 
 目の前をポケモンが通り過ぎていた
 Un pokemon pasó justo en frente de tus ojos.
+```
+
+### Alejarse de un punto de origen o partida
+
+```
+9時ごろうちを出ます
+Salgo de casa a eso de las 9.
+
+銀行の前でバスを降ります
+Bajaré del autobús delante del banco.
+```
+
+### Causativa
+
+```
+私は友達を３０分待たせました
+Hice esperar a mi amigo durante 30 minutos.
 ```
 
 ***
@@ -188,7 +205,7 @@ Podemos usarlo con algunos nombres pero no con todos.
 >
 > スキーに行く, 買い物に行く, 旅行に行く.
 
-#### Cómo usarlo con nombres
+#### Cómo usarlo con nombres
 
 Un truco para usarlo con nombres es usar する → Usando la raíz い (し):
 
@@ -254,6 +271,8 @@ N5
 
 > A hace B (se utiliza con activos)
 
+Se suele traducir como "en", "con", "por"…
+
 Define el límite en el que algo sucede o el estado de ser. Nos establece dónde sucede la acción, estableciendo el límite.
 
 <figure>
@@ -302,9 +321,42 @@ Bailo solo = establezco el límite de personas
 
 ### Dónde sucede
 
+Definimos el lugar o escenario donde se desarrolla la acción.
+
 ```
 部屋で踊る
-Bailo en la habitación = Establezco la habitación como límite
+Bailo en la habitación
+= Establezco la habitación como límite
+
+専門学校でフランス語を勉強しています
+Estoy estudiando francés en una academia
+```
+
+### Estado o condición
+
+```
+ロビーは人でいっぱいでした
+El vestíbulo estaba lleno de gente.
+```
+
+### Causa o razón
+
+```
+病気で学校を休みました
+No fui al colegio por estar enfermo.
+```
+
+### Medio, utensilio o material utilizado
+
+```
+日本語でレポートを書きました
+Escribí un trabajo en japonés.
+
+ボールペンで書いてください
+Esciba con el bolígrafo, por favor.
+
+バスでここへきました
+He venido aquí en bus.
 ```
 
 ***
