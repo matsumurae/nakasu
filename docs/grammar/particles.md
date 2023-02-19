@@ -29,3 +29,27 @@ Para esto, debemos usar la forma -te de los verbos.
 >
 > 食べて、読む o 食べて読む
 
+## Sintaxis
+
+Todas las partículas van **detrás** de la palabra a la que afecta. Las podemos llamar **posposiciones** ya que van detrás, a diferencia de las preposiciones.
+
+```
+ゼロから
+Desde cero
+
+最後まで
+Hasta el final
+```
+
+### No solo une palabras…
+
+Lo que tienes que tener claro es que estas dos partículas van siempre detrás de la palabra a la que mandan. **Ten en cuenta que no tiene porqué ser una sola palabra.**
+
+```
+{彼が生まれた}日から
+Desde el día {que nació}
+```
+
+### Las partículas pueden unirse
+
+Puedes formar には, のには, なのには…

@@ -27,8 +27,9 @@ permalink: /transcripts/verbos/irregulares
 | Formal negativo pasado | Formal negativo (Raíz + ません) + でした | しませんでした |
 | Pasado negativo | Raíz + なかった | しなかった |
 | Provisional condicional negativo | Raíz + なければ | しなければ |
-| Causativo | **Este es diferente** | させる |
+| Causativo | **Este es diferente** | させる (poco común) o できる (más común) |
 | Forma -te negativa | Raíz + なくて | しなくて |
+| Sin hacer ~ | **Este es diferente** | せず（に） |
 
 ### Sílaba い
 

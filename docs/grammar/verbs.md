@@ -241,10 +241,6 @@ No hace falta que te diga que no lo uses pero… Si escuchaste anime, seguro que
 ¡Escucha!
 ```
 
-## 待て vs 待って
-
-Aunque suenan parecido no son lo mismo. El primero es “¡Para!” más orden, el segundo es como el て, más suave. 
-
 ## Tabla de conjugaciones básicas
 
 |  Conjugación       | Nombre japonés          | Uso |

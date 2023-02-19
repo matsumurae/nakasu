@@ -151,6 +151,11 @@ N5
 
 Esto es porque usando la forma causativa TÚ tienes el control de la acción (ya seas tú o hacer que otro la haga). Eso significa que si haces que otro la haga, no es una acción mutua ya que tú tienes el control.
 
+Tienes varias opciones:
+
+- A が B と V = A hace V **con** B.
+- A と B が V = A con B hace V (juntos) o A y B hace V (en paralelo)
+
 ### Consecuencias (“Si ~, entonces ~”)
 
 > **Uso:** V diccionario o (N o adj-na + だ) + と.
@@ -240,6 +245,56 @@ Café y té (y nada más)
 
 さくらとメアリーがあるいている
 Sakura y Mary están caminando
+```
+
+### Relación o compañía (como usar "con")
+
+Se puede usar para unir personas, describiendo así "con quien hago ~".
+
+```
+太郎が花子と遊ぶ
+Tarou juega con Hanako
+
+太郎が花子と話している
+Tarou está hablando con Hanako
+```
+
+Aunque también puede significar "en contra ~" o "entre sí".
+
+```
+地球人が火星人と戦っている
+Los terrícolas luchan contra los marcianos.
+
+地球人と火星人が戦っている
+Los terrícolas y los marcianos luchan entre sí.
+```
+
+#### Diferencia entre と y で
+
+| と        | で          |
+|:-------------|:------------------|
+| Marca personas o animales ya que necesitas marcar <br> hacer algo con alguien (marcas "con x") | Marca cosas inanimadas, instrumentos, herramientas… |
+
+### Comparativa
+
+```
+果物と野菜が違う
+Frutas y verduras difieren entre sí.
+
+果物が野菜と違う
+Las frutas difieren de las verduras.
+Las frutas son diferentes de las verduras.
+```
+
+También puede usarse al contrario.
+
+```
+自分と同じ趣味を持つ人
+Alguien con un pasatiempo que es el mismo que el mío.
+Alguien que tenga la misma afición que yo.
+
+有名人と似ている
+Pareciéndose a una persona famosa.
 ```
 
 ## Listar opciones / や
@@ -516,4 +571,159 @@ Cuando te preguntas si algo no es o no fue ~ / si alguien no ha hecho o hizo alg
 これ美味しくないのかな
 Me pregunto si no sabe bien.
 = sabe mal
+```
+
+## Citar (forma casual de と) / って
+
+### Citar a alguien
+
+Se usa más con verbos que significan decir, escuchar, escribir, leer, porque con esos verbos el mensaje citado está literalmente en alguna parte: se puede escuchar o ver literalmente.
+
+Cuando queremos citar las palabras que dijo otra persona:
+
+```
+太郎は「はい」って言った
+Hablando de Tarou, dijo "sí".
+
+死んだって聞いた
+Escuché que "él murió"
+"él murió", escuché.
+
+死んだって本当か？
+¿Es cierto que dijo que "él murió"?
+```
+
+Pero podemos sustituirlo por と:
+
+```
+太郎は「はい」と言った
+Hablando de Tarou, dijo "sí".
+
+すげぇと思った
+Pensé "eso es increíble"
+```
+
+### Expresar una función
+
+Se puede reemplazar con という.
+
+```
+人生ってもんだ
+La cosa que es la vida.
+
+人生っていうものだ
+人生というものだ
+Una cosa llamada vida.
+```
+
+### Marcar el tema
+
+```
+胸の小さい女子って、そのコトを
+気にしてる場合が多いらしいぜ
+Hablando de chicas con pechos pequeños,
+escuché que los casos en los que ellas se preocupan por eso son muchos.
+```
+
+### Dar más énfasis (って y ってば)
+
+Forma abreviada de って言っている.
+
+Normalmente usado como segunda o tercera respuesta. Puede expresar molestia, desesperación o el hecho de llamar a alguien después de que no te haya escuchado.
+
+```
+知らない
+No lo sé
+
+知らないって
+Dije que no lo sé
+```
+
+Por ejemplo, imagina que te preguntan si estás bien. Tú respondes que sí, pero siguen insistiendo. En este caso puede ser molestia:
+
+```
+大丈夫
+Está bien
+
+大丈夫って！
+¡Te digo / dije que está bien!
+```
+
+Ahora, veamos la desesperación y la molestia de alguien a quien has llamado varias veces pero te ignora. Clásico de los niños…
+
+```
+早く来いって！
+¡Te dije / digo que vengas rápido!
+
+起きろって！起きろってば！
+¡Despierta! ¡Te digo / dije que despiertes!
+```
+
+Esto queda más claro si ves estos dos:
+
+```
+待て
+Para
+
+待って
+Te digo / dije que pares
+= Usado después de decir "para" antes
+
+待って！待ってば！
+¡Para! ¡Te digo / dije que pares!
+```
+
+## Razonamiento o enfatizar hechos / し
+
+N4
+{: .label .label-yellow }
+
+> **Uso:** V casual o (N, adj-na + だ) o adj-i + し.
+
+### Explicar motivos
+
+Se utiliza como "Ya que ~" o "así que ~".
+
+```
+可愛いし
+Ya que ella es mona…
+
+私は暇だし、手伝ってあげるよ
+Hablando de mí, ya que estoy libre voy a ayudarte
+
+雨が降っているし、もう帰ります
+Está lloviendo así que ya me voy a casa.
+```
+
+Por ejemplo, imagina que tu amigo te pregunta "¿Podrías ayudarme?":
+
+```
+手伝ってくれる？
+¿Me ayudarás?
+
+いいよ、どうせ暇だし
+Bien, ya que de todos modos no tengo nada que hacer.
+```
+
+### Listar opciones (como "y")
+
+Puede usarse tanto para positivo:
+
+```
+この道は暗いし、危ない
+Hablando de esta calle, es oscura y peligrosa.
+```
+
+Como para negativo:
+
+```
+この道はもう暗くないし、危なくない
+Hablando de esta calle, ya no es oscura ni peligrosa.
+```
+
+### Contrastar entre dos cosas
+
+```
+彼は気分がいい時もあるし、悪い時もある
+Hablando de él, a veces se siente bien y a veces se siente mal.
 ```

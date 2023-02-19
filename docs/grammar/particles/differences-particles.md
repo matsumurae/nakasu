@@ -267,6 +267,24 @@ Vamos en bus y tren.
 Vamos en bus o tren.
 ```
 
+## と vs たら
+
+| と  | たら        |
+|:------------------|:------|
+| Cuando se espera que el evento occurra después <br> o como consecuencia del subordinado. | No tiene restricción. |
+
+{: .new-title }
+> Bien
+>
+> 天気がよかっ**たら**、公園に行こうか？
+> 
+> Si hace buen tiempo, ¿vamos al parque?
+
+{: .warning-title }
+> Mal
+>
+> 天気がいい**と**、公園にいこうか？
+
 ## を vs で
 
 を marca el objeto directo mientras que で explica que "A hace B".

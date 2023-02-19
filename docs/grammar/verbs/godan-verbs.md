@@ -19,7 +19,7 @@ permalink: /transcripts/verbos/godan
 
 Cada verbo tiene una sílaba diferente, lo cual significa que cada uno se conjuga diferente. Agrupamos varias en el mismo pack porque se conjugan igual. Así lo hacemos más fácil.
 
-**De todas formas, esto es de consulta. No te estudes esto (menuda matada)…**. La idea es que lo vayas aprendiendo a medida que vas disfrutando de lo que te gusta, absorviéndolo sin darte cuenta. ¿O acaso tú te acuerdas de todas las conjugaciones de verbos? Seguro que lo haces sin querer… Y ni sabes cómo se llaman.
+**De todas formas, esto es de consulta. No te estudies esto (menuda matada)…**. La idea es que lo vayas aprendiendo a medida que vas disfrutando de lo que te gusta, absorviéndolo sin darte cuenta. ¿O acaso tú te acuerdas de todas las conjugaciones de verbos? Seguro que lo haces sin querer… Y ni sabes cómo se llaman.
 
 ## う、つ、る
 

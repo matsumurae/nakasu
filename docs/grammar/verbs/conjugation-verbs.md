@@ -159,10 +159,78 @@ no comprar / no compraré
 no escuchar / no escucharé
 ```
 
-### Deber hacer algo (~ないと)
+### Provisional condicional de ～ぬ / Tener que hacer, Deber ~, Debería ~ (～ねばならない)
+
+N2
+{: .label .label-green }
+
+| Ichidan        | Godan          |
+|:-------------|:------------------|
+| Raíz + ねばならない | Raíz + sílaba あ + ねばならない |
+
+> **Uso:** negativo + ねばならない.
+
+Es la forma condicional de ～ぬ (～ば pasa a ser ～ねば).
+
+```
+Con れば:
+なんとかしなければならない
+
+なんとかせねばならん
+Si no hace algo, no se convertirá.
+= Debo hacer algo / tengo que hacer algo.
+```
+
+Como puedes ver, el significado es el mismo. La única diferencia que se usa ば o ぬ.
+
+```
+歯医者に行かねばならない
+Debo ir al dentista.
+
+9時までに戻らねばならない
+Se supone que debo estar de vuelta a las nueve.
+
+ビザが切れたので、国に帰らねばならない
+Mi visa expiró, así que tengo que volver a mi país de origen.
+```
+
+### Sin hacer ~ (～ずに)
+
+N3
+{: .label .label-purple }
+
+| Ichidan        | Godan          |
+|:-------------|:------------------|
+| Raíz + ずに | Raíz + sílaba あ + ずに |
+
+> **Uso:** negativo + ずに.
+
+```
+食べない - 食べずに
+No comer - Sin comer
+```
+
+Así se convierte un verbo de "no x" a "sin x".
+
+```
+今朝、私は朝ごはんを食べずに学校に来ました
+Esta mañana fui a la escuela sin desayunar.
+
+夕食を食べずに私を待っていてくれたんですか？
+¿Me esperaste sin cenar?
+
+今日は料理を作らずに、外食しに行こうよ。
+Hoy vamos a salir a comer sin cocinar nada.
+```
+
+### Deber hacer algo (～ないと)
 
 N5
 {: .label .label-red }
+
+| Ichidan        | Godan          |
+|:-------------|:------------------|
+| Raíz + ないと | Raíz + sílaba あ + ないと |
 
 > **Uso:** negativo + と (debo hacer, a menos que…) (+ いけない, だめ para "Debo ~" o いけません en formal).
 
@@ -356,6 +424,22 @@ no escuchemos
 |:-------------|:------------------|
 | Raíz + られる | Raíz + れる |
 
+Esto es un verbo auxiliar receptor usado para decir "A recibe X de B". **La acción está hecha por otra persona o cosa.** Recuerda que la acción no tiene que ser necesariamente hecha por una persona:
+
+```
+桜は誰かにカバンが盗まれた
+Hablando de Sakura, el bolso fue robado por alguien
+```
+
+Con が marcamos el sujeto (el bolso), que es el que recibió la acción.
+
+**¿Y por qué tenemos に siempre con el pasivo?** Aunque に se utiliza con verbos que proyectan algo (lanzar la bola, enviar una carta, dar un regalo…), en este caso el pasivo no lanza si no que es un verbo que recibe. Por eso, en este caso に marca la persona que recibe la acción: el ladrón recibió el bolso (que robó).
+
+{: .important-title }
+> Nota
+>
+> Ten en cuenta que el pasivo y el potencia utilizan la misma conjugación. La parte buena es que en la actualidad se quita el ら en la forma pasiva.
+
 ```
 食べられる
 ser comido
@@ -365,7 +449,56 @@ ser comprado
 
 聞かれる
 ser escuchado
+
+Activo: 花子は一郎をだました = Hanako engañó a Ichiro.
+Pasivo: 一郎は花子にだまされた = Ichiro fué engañado por Hanako.
 ```
+
+La lógica de las frases es la siguiente:
+
+| Frase normal | Tema / S + objetivo + OD + V | 田中さんはボブに質問を**した** <br> Tanaka-san **le hizo** una pregunta a Bob |
+| Pasivo | Tema / S + persona u objeto que hace la acción + OD + V <br> Tema / S + OD + persona u objeto que hace la acción + V | ボブは田中さんに質問を**された** <br> Bob **recibió** una pregunta de Tanaka-san <br> 私(は/が)テストの結を先生に褒められた <br> Fuí elogiado por el resultado de la prueba por mi profesor. |
+
+Cuando el verbo no indica contacto físico, se puede sustituir に por から.
+
+```
+お父さんに叩たたかれた
+= No podemos sustituirlo por から porque el V es de contacto físico
+
+お母さん(に/から)褒められた
+= Fui elogiada por mi madre.
+```
+
+#### Expresar acciones negativas
+
+Suele tener connotaciones negativas en forma hablada.
+
+```
+桜が誰かにカバンを盗まれた
+Alguien le robó el bolso a Sakura
+El bolso de sakura fue robado por alguien
+```
+
+En este caso, a diferencia de los anteriores, es Sakura el sujeto. 
+
+#### Diferencia entre pasivo y potencial
+
+Mientras que el pasivo se traduce en "Ser ~", el potencial se traduce en "Ser capaz de ~" o "Poder ~".
+
+| Verbo        | Pasivo          | Potencial |
+|:-------------|:------------------|:---------|
+| 書かれる | Ser escrito | Ser capaz de escribir <br> Poder escribir |
+| 食べられる | Ser comido | Ser capaz de comer <br> Poder comer |
+
+#### ¿Cómo saber si es pasivo o potencial?
+
+**Contexto, es la palabra clave.** Eso y las partículas, que te darán la pista.
+
+| Pasivo          | Potencial |
+|:------------------|:---------|
+| に, によって o から | が o を |
+| りんごが私**に**食べられる <br> La manzana va a ser comida por mi | りんご**が**食べられる <br> Puedo comer la manzana <br> Soy capaz de comer la manzana |
+| 「モナ・リザ」はダ・ヴィンチ**によって**描かれた <br> La "Mona Lisa" fue pintada por DaVinci. | 父にハンバーガー**を**食べられることが多い <br> Mis hamburguesas a menudo se las come mi padre. |
 
 ### Hacer B sin hacer A (〜ないで)
 
@@ -423,13 +556,19 @@ Dejar / hacer que alguien / algo haga X.
 
 ```
 食べさせる
-dejar comer, hacer comer
+Hacer que [alguien] coma [algo].
+Dejar que [alguien] coma [algo].
+Forzar a [alguien] a comer [algo].
 
 買わせる
-dejar comprar, hacer comprar
+Hacer que [alguien] compre [algo].
+Dejar que [alguien] compre [algo].
+Obligar a [alguien] a comprar [algo].
 
 話させる
-dejar hablar, hacer hablar
+Hacer que [alguien] hable de [algo].
+Dejar que [alguien] hable de [algo].
+Obligar a [alguien] a hablar de [algo].
 ```
 
 ### Orden de なければ (〜いけない、〜いけません)
@@ -582,11 +721,18 @@ bebo / beberé
 
 El famoso “itadakimasu” viene de 頂く (recibir) → 頂きます (gracias por la comida que voy a recibir / recibo esta comida)
 
-### Formal negativo (〜ません)
+### Formal negativo (〜ません o 〜ませぬ)
 
 | Ichidan       | Godan          |
 |:-------------|:------------------|
 | Raíz + ません | Raíz + sílaba い + ません |
+
+Es la contracción de ませぬ (forma negativa formal tradicional de `ない`).
+
+{: .important-title }
+> Nota
+>
+> Ten en cuenta que ませぬ es la forma tradicional, así que no lo escucharás en el japonés moderno. Te recomiendo que utilices su forma contraída y estandar ません.
 
 ```
 食べません
@@ -597,6 +743,9 @@ no bebo / no beberé
 ```
 
 ### Formal pregunta o deseo negativo (〜ませんか)
+
+N5
+{: .label .label-red }
 
 | Ichidan       | Godan          |
 |:-------------|:------------------|
@@ -1085,6 +1234,25 @@ Forma diccionario. Para sacar la raíz:
 >
 > Por eso llamamos a los verbos Ichidan "drop-verb" ya que quitas る y "change-verb" a los Godan porque solo lo cambias.
 
+### Orden / "No hagas ~" (〜な)
+
+N5
+{: .label .label-red }
+
+> **Uso:** Diccionario + な.
+
+Contracción de ないで (forma más formal de pedir a alguien que no haga algo).
+
+Se usa para dar una orden directa. Ten en cuenta que esto es muy directo y fuerte.
+
+```
+動くな！
+¡No te muevas!
+
+行くな
+No vayas
+```
+
 ### Parecer ~ (objetivo) (〜らしい)
 
 > **Uso:** Diccionario + らしい.
@@ -1276,7 +1444,7 @@ Soy bueno corriendo.
 | 下手 | por debajo + mano = torpe / no hábil |
 | 上手 | por encima + mano = hábil |
 
-### gustar algo, gustar hacer algo / （の）が好き
+### Gustar algo, gustar hacer algo / （の）が好き
 
 N5
 {: .label .label-red }
@@ -1289,6 +1457,29 @@ Me gusta matar gente. He matado a mucha gente.
 (Satsuriku no tenshi, 5:18 - 5:22, EP14)
 ```
 
+### Negativo (forma tradicional) / 〜ぬ o　〜ん
+
+N2
+{: .label .label-green }
+
+> **Uso:** V diccionario + ぬ o ん.
+
+Esta es la forma tradicional de `ない`. Solo tienes que reemplazar `ない` por `ぬ`.
+
+**~ん no es más que la contracción de ぬ.**
+
+{: .important-title }
+> Ups…
+>
+> Esto es japonés tradicional así que no se usa mucho en el japonés moderno.
+
+```
+知らない (común)
+知らぬ (tradicional)
+知らん (contracción)
+No lo sé
+```
+
 ## Sílaba え（け、せ、て、ね、へ、め、れ）
 
 ### Potencial, "Ser capaz de ~" (〜る、〜られる)
@@ -1297,15 +1488,20 @@ Me gusta matar gente. He matado a mucha gente.
 |:-------------|:------------------|
 | Raíz + られる | Raíz + sílaba え + る |
 
+**Se suele utilizar sin el ら en el japonés comun.**
+
 ```
 食べる → 食べられる
-puede comer
+Ser capaz de comer
+= puede comer
 
 買う → 買える
-puede comprar
+ser capaz de comprar
+= puede comprar
 
 聞く → 聞ける
-puede escuchar
+ser capaz de escuchar
+= puede escuchar
 ```
 
 ### Potencial negativo, "No ser capaz de ~" (〜ない、〜られない)
@@ -2055,6 +2251,9 @@ Por favor, no ponga la calefacción.
 ## Sílaba お（こ、そ、と、の、ほ、も、ろ）
 
 ### Volicional informal (expresar deseo / 〜う、〜よう)
+
+N4
+{: .label .label-yellow }
 
 Expresa deseo = “Vamos a escalar la montaña” **no significa que seamos capaces de hacerlo**.
 

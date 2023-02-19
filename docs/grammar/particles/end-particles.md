@@ -101,10 +101,30 @@ Obsoleto
 
 La contraparte de よ en versión femenina. Usado para enfatizar de la misma forma, solo que en el caso de las chicas suele tener una connotación de admiración.
 
+```
+そうだわ
+¡Eso es!
+
+これはすごいわ
+Esto es increíble
+```
+
 {: .important-title }
 > Nota
 >
 > Con esto sonarás más femenino, así que tenlo presente. En la actualidad ya no se utiliza y suena algo pasado de moda.
+
+La única razón por la que un hombre usaría esta partícula es para suavizar la frase, usada para mostrar sorpresa.
+
+```
+俺は信じるわ
+Hablando de mí, creo
+= Yo creo
+
+俺は寒いわ
+Hablando de mí, es frío
+= tengo frío
+```
 
 ## Información nueva + "¿verdad?" / よね
 
