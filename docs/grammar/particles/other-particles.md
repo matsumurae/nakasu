@@ -346,16 +346,19 @@ Dejé de correr.
 Me gusta mirar las estrellas.
 ```
 
-## Pero o aunque / のに
+## Pero, aunque o "para ~"  / のに
+
+N4
+{: .label .label-yellow }
 
 La segunda cláusula se contradice con la primera. La segunda cláusula es insatisfactoria y normalmente decepcionante para el hablante.
 
 ```
 お店にいった‘（が／けど）パンがなかった
-Fui a la tienda pero no había pan.
+Fui a la tienda [pero] no había pan.
 
 パンが美味しいのにお客さんが来ない
-Aunque el pan es delicioso, los clientes no vienen.
+[Aunque] el pan es delicioso, los clientes no vienen.
 ```
 
 ### Al final de la frase
@@ -367,6 +370,21 @@ También se puede usar para dejar la conclusión a medias (final de la frase).
 A pesar de que sakura lo prometió… (prometió venir pero no vino)
 ```
 
+### Para ~
+
+> **Uso:** V diccionario + のに.
+
+```
+始めるのに遅すぎることはない
+Nunca es tarde [para] empezar
+
+田んぼからお米を運ぶのに机つか使うの
+Lo usas [para] llevar arroz de los arrozales
+
+家に帰るのに3時間かかりました
+[para] volver a casa, tomó tres horas
+```
+
 ### Diferencia entre けど y のに
 
 | けど        | のに          |
@@ -374,11 +392,16 @@ A pesar de que sakura lo prometió… (prometió venir pero no vino)
 | No es más que un simple "pero" | Implica que lo que le sigue será negativo y decepcionante para el que habla. |
 | お店に行ったけどパンがなかった <br> Fui a las tiendas **pero** no había pan | パンが美味しいのにお客さんが来ない <br> **Aunque** el pan es delicioso, los clientes no vienen |
 
-## Dar una explicación / のは ~ だ
+## Dar una explicación / のは ~ だ, のは ~ です
+
+N4
+{: .label .label-yellow }
 
 > **Uso:** A es B o la razón de porque A es B.
 
 Lo podemos traducir como "Es ~ eso ~", "La razón ~ es porque ~". Aunque se parece a のだ "Es que…", en este caso **nos centramos en la última parte de la frase.**
+
+La lógica es: realidad + のは + (explicación, razón, cosa que quieres enfatizar) + だ
 
 ```
 このクラスで一番頭がいいのは吉田さんだ

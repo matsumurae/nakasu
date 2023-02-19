@@ -66,7 +66,7 @@ No, no bebo café cada mañana. Bebo té.
 
 En la primera respuesta, se enfatiza que **no bebes café cada mañana** mientras que la segunda enfatiza el hecho de que **bebes té cada mañana y no café.**
 
-### Oponerse
+### Oponerse
 
 Se usa para sustituir を o が por は.
 
@@ -181,4 +181,24 @@ Nancy ni siquiera escucha lo que le digo.
 ```
 今回は油断も慢心もない！
 ¡Esta vez no habrá descuido ni arrogancia!
+```
+
+### Tanto(s) como ~, hasta ~, casi ~
+
+N4
+{: .label .label-yellow }
+
+> **Uso:** Número o tiempo + contador + も.
+
+{: .warning-title }
+> Cuidado
+>
+> Esto solo se puede usar con algo que es medible, como un número o tiempo.
+
+```
+土曜日は12時間も寝てしまいました
+Hablando del sábado, dormí casi 12 horas.
+
+雨はもう3日も降っています
+Hablando de la lluvia, ha estado lloviendo durante casi 3 días.
 ```

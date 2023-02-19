@@ -306,6 +306,9 @@ Se usa para hacer una pregunta, invitación o expresar deseo en forma negativa.
 
 ### Negativo れば (〜なければ)
 
+N4
+{: .label .label-yellow }
+
 | Ichidan        | Godan          |
 |:-------------|:------------------|
 | Raíz + なければ o ないと, なくちゃ、なきゃ (casual) | Raíz + sílaba あ + なければ o ないと, なくちゃ、なきゃ (casual) |
@@ -350,6 +353,9 @@ no morí
 ```
 
 ### Negativo て (〜なくて)
+
+N5
+{: .label .label-red }
 
 | Ichidan        | Godan          |
 |:-------------|:------------------|
@@ -422,6 +428,9 @@ no escuchemos
 ```
 
 ### Pasivo (〜れる、〜られる)
+
+N4
+{: .label .label-yellow }
 
 | Ichidan        | Godan          |
 |:-------------|:------------------|
@@ -517,6 +526,9 @@ Siempre bebo cafe sin poner azucar.
 
 ### Pasivo negativo (〜れない、〜られない)
 
+N4
+{: .label .label-yellow }
+
 | Ichidan        | Godan          |
 |:-------------|:------------------|
 | Raíz + られない | Raíz + れない |
@@ -534,6 +546,9 @@ no ser escuchado
 
 ### Pasivo pasado (〜れた、〜られた)
 
+N4
+{: .label .label-yellow }
+
 | Ichidan        | Godan          |
 |:-------------|:------------------|
 | Raíz + られた | Raíz + れた |
@@ -550,6 +565,9 @@ fue escuchado
 ```
 
 ### Causativo (〜せる、〜させる)
+
+N4
+{: .label .label-yellow }
 
 | Ichidan        | Godan          |
 |:-------------|:------------------|
@@ -574,12 +592,12 @@ Dejar que [alguien] hable de [algo].
 Obligar a [alguien] a hablar de [algo].
 ```
 
-### Orden de なければ (〜いけない、〜いけません)
+### Orden de なければ (〜いけない、〜いけません、〜ならない)
 
-N5
-{: .label .label-red }
+N4
+{: .label .label-yellow }
 
-> **Uso:** neg provisional condicional + いけない o だめ (casual) o いけません (formal).
+> **Uso:** neg provisional condicional + ならない o いけない o (だめ o なきゃ) (casual) o いけません (formal).
 
 Versión orden de なければ. **Esto es subjetivo**: Significa que no es una órden (sin なく), si no que es algo que uno mismo siente que debe hacer.
 
@@ -640,6 +658,9 @@ morí
 ```
 
 ### Mientras ~, aunque,  a pesar de ~ (〜て + つつ (+も))
+
+N2
+{: .label .label-green }
 
 |  ていく      | てくる         |
 |:-------------|:------------------|
@@ -799,6 +820,9 @@ Con いただけ decimos "¿No le importaría…?".
 
 ### Formal pasado (〜ました)
 
+N5
+{: .label .label-red }
+
 | Ichidan       | Godan          |
 |:-------------|:------------------|
 | Raíz + ました | Raíz + sílaba い + ました |
@@ -812,6 +836,9 @@ hemos bebido
 ```
 
 ### Formal negativo pasado (〜ません + でした)
+
+N5
+{: .label .label-red }
 
 | Ichidan       | Godan          |
 |:-------------|:------------------|
@@ -871,6 +898,9 @@ Debo ~; ofrecer ayuda al oyente. **Se usa para hacer una pregunta, invitación o
 
 ### Formal imperativo (〜なさい)
 
+N4
+{: .label .label-yellow }
+
 | Ichidan       | Godan          |
 |:-------------|:------------------|
 | Raíz + なさい | Raíz + sílaba い + なさい |
@@ -914,6 +944,9 @@ Yo también quiero (estaba pensando) tener en un trabajo a media jornada
 
 ### Deseo negativo (〜たくない)
 
+N5
+{: .label .label-red }
+
 | Ichidan       | Godan          |
 |:-------------|:------------------|
 | Raíz + たくない | Raíz + sílaba い + たくない |
@@ -929,6 +962,9 @@ no quiero beber, no me gustaría beber
 ```
 
 ### Deseo pasado (〜たかった)
+
+N5
+{: .label .label-red }
 
 | Ichidan       | Godan          |
 |:-------------|:------------------|
@@ -946,6 +982,9 @@ quería beber, bebería
 
 ### Deseo pasado negativo (〜たくなかった)
 
+N5
+{: .label .label-red }
+
 | Ichidan       | Godan          |
 |:-------------|:------------------|
 | Raíz + たくなかった | Raíz + sílaba い + たくなかった |
@@ -962,6 +1001,9 @@ no quería beber, no bebería
 
 ### Parecer (subjetivo) (〜そう)
 
+N4
+{: .label .label-yellow }
+
 | Ichidan       | Godan          |
 |:-------------|:------------------|
 | Raíz + そう | Raíz + sílaba い + そう |
@@ -977,6 +1019,9 @@ a punto de escribir, parece s.o. va a escribir, escribible
 ```
 
 ### Convertir verbo en sustantivo (〜物)
+
+N5
+{: .label .label-red }
 
 | Ichidan       | Godan          |
 |:-------------|:------------------|
@@ -996,6 +1041,9 @@ buy-drinks = bebidas
 ```
 
 ### Forma de hacer algo (〜方)
+
+N5
+{: .label .label-red }
 
 | Ichidan       | Godan          |
 |:-------------|:------------------|
@@ -1019,6 +1067,9 @@ forma de pelear / cómo pelear
 
 ### Difícil de hacer - negativo やすい (objetivo) (〜にくい)
 
+N4
+{: .label .label-yellow }
+
 | Ichidan       | Godan          |
 |:-------------|:------------------|
 | Raíz + にくい | Raíz + sílaba い + にくい |
@@ -1038,6 +1089,9 @@ difícil de beber
 
 ### Difícil de hacer - adverbio (objetivo) (〜にくく)
 
+N4
+{: .label .label-yellow }
+
 | Ichidan       | Godan          |
 |:-------------|:------------------|
 | Raíz + にくく + V | Raíz + sílaba い + にくく + V |
@@ -1050,6 +1104,9 @@ Corté la chuleta de cerdo en trozos para que sea más difícil de comer
 ```
 
 ### Fácil de hacer - contrario にくい (〜やすい)
+
+N4
+{: .label .label-yellow }
 
 | Ichidan       | Godan          |
 |:-------------|:------------------|
@@ -1070,6 +1127,9 @@ fácil de beber
 
 ### Fácil de hacer - adverbio (〜やすく)
 
+N4
+{: .label .label-yellow }
+
 | Ichidan       | Godan          |
 |:-------------|:------------------|
 | Raíz + やすく + V | Raíz + sílaba い + やすく + V |
@@ -1085,6 +1145,9 @@ por favor enséñanos más claramente
 ```
 
 ### Difícil de hacer (subjetivo) (〜づらい)
+
+N4
+{: .label .label-yellow }
 
 | Ichidan       | Godan          |
 |:-------------|:------------------|
@@ -1106,6 +1169,9 @@ La impresión de este libro es demasiado pequeña, es difícil de leer
 
 ### Difícil de hacer - adverbio (subjetivo) (〜づらく)
 
+N4
+{: .label .label-yellow }
+
 | Ichidan       | Godan          |
 |:-------------|:------------------|
 | Raíz + 〜づらく + V | Raíz + sílaba い + 〜づらく + V |
@@ -1121,6 +1187,9 @@ por favor enséñanos más difícilmente
 ```
 
 ### Muy difícil de hacer (〜がたい)
+
+N3
+{: .label .label-purple }
 
 | Ichidan       | Godan          |
 |:-------------|:------------------|
@@ -1143,6 +1212,9 @@ Esta no es la respuesta correcta, pero tampoco puedo decir que sea un error
 | Es difícil, pero en menor medida. | Lo más difícil y casi imposible. |
 
 ### Sufijo “-ness” (〜さ)
+
+N4
+{: .label .label-yellow }
 
 > **Uso:** sufijo + さ.
 
@@ -1181,6 +1253,9 @@ beber demasiado
 
 ### Demasiado negativo (〜すぎない、〜すぎません)
 
+N5
+{: .label .label-red }
+
 | Ichidan        | Godan          |
 |:-------------|:------------------|
 | Raíz + すぎない (casual) o すぎません (formal) | Raíz + sílaba い + すぎない (casual) o すぎません (formal) |
@@ -1196,6 +1271,9 @@ no bebí demasiado
 ```
 
 ### Demasiado pasado (〜すぎた、〜すぎました)
+
+N5
+{: .label .label-red }
 
 | Ichidan        | Godan          |
 |:-------------|:------------------|
@@ -1213,6 +1291,9 @@ bebí demasiado
 
 ### Demasiado pasado negativo (〜すぎなかった、〜すぎませんでした)
 
+N5
+{: .label .label-red }
+
 | Ichidan        | Godan          |
 |:-------------|:------------------|
 | Raíz + すぎなかった (casual) o すぎませんでした (formal) | Raíz + sílaba い + すぎなかった (casual) o すぎませんでした (formal) |
@@ -1228,6 +1309,9 @@ no bebí demasiado
 ```
 
 ### Demasiado unión て (〜すぎて)
+
+N5
+{: .label .label-red }
 
 | Ichidan        | Godan          |
 |:-------------|:------------------|
@@ -1286,6 +1370,9 @@ No vayas
 
 ### Parecer ~ (objetivo) (〜らしい)
 
+N4
+{: .label .label-yellow }
+
 > **Uso:** Diccionario + らしい.
 
 Usado para expresar rumores (cosas que hemos oído de otros) o conjeturas o indiferencia. **Se puede añadir al final de cualquier conjugación.** Puedes leer más en la página de [Sufijos]({% link docs/grammar/suffix.md %}).
@@ -1300,6 +1387,9 @@ parece que no beba
 
 ### Parecer ~ adverbio (objetivo) (〜らしく)
 
+N4
+{: .label .label-yellow }
+
 > **Uso:** Diccionario + らしく + V.
 
 Usado para expresar rumores (cosas que hemos oído de otros) o conjeturas o indiferencia. **Forma adverbial de らしい.** Puedes leer más en la página de [Sufijos]({% link docs/grammar/suffix.md %}).
@@ -1311,6 +1401,9 @@ parece que mira y come
 
 ### No parece ~ (objetivo) (〜らしくない)
 
+N4
+{: .label .label-yellow }
+
 > **Uso:** Diccionario + らしくない.
 
 **Forma negativa de らしい.** Puedes leer más en la página de [Sufijos]({% link docs/grammar/suffix.md %}).
@@ -1321,6 +1414,9 @@ Hoy no pareces tú mismo.
 ```
 
 ### Imperativo (〜な)
+
+N4
+{: .label .label-yellow }
 
 > **Uso:** Diccionario + な
 
@@ -1370,6 +1466,9 @@ Tengo la intención de casarme a la edad de 35 años.
 
 ### Intención de - negativo (V + つもりはない、V + つもりはありません)
 
+N1
+{: .label .label-blue }
+
 > **Uso:** V + つもり + は + negativo (formal o informal).
 
 **Negativo de つもり.**
@@ -1384,6 +1483,9 @@ No tiene intención de ir a la universidad.
 
 ### Tener planeado (V + 予定)
 
+N4
+{: .label .label-yellow }
+
 > **Uso:** V + 予定 (+ です o だ).
 
 Cuando hablamos de un plan del que estamos seguros de ello. Puedes leer más de 予定 en la página de [Sufijos]({% link docs/grammar/suffix.md %}).
@@ -1397,6 +1499,9 @@ Ella planea perder 10 kilogramos este verano.
 ```
 
 ### Tener planeado - negativo (V + 予定はない o V + 予定はありません)
+
+N4
+{: .label .label-yellow }
 
 > **Uso:** V + 予定 + は + negativo (formal o informal).
 
@@ -1426,6 +1531,9 @@ Ver la tele e ir de compras
 ```
 
 ### Preguntar “hacer cosas como ~” (Diccionario + たりする + か)
+
+N5
+{: .label .label-red }
 
 > **Uso:** Forma diccionario + たり.
 
@@ -1515,6 +1623,9 @@ No lo sé
 
 ### Potencial, "Ser capaz de ~" (〜る、〜られる)
 
+N4
+{: .label .label-yellow }
+
 | Ichidan        | Godan          |
 |:-------------|:------------------|
 | Raíz + られる | Raíz + sílaba え + る |
@@ -1536,6 +1647,9 @@ ser capaz de escuchar
 ```
 
 ### Potencial negativo, "No ser capaz de ~" (〜ない、〜られない)
+
+N4
+{: .label .label-yellow }
 
 | Ichidan        | Godan          |
 |:-------------|:------------------|
@@ -1599,6 +1713,9 @@ Si es barato lo compraré (deseo propio)
 
 ### Poder, ser capaz (〜そう)
 
+N4
+{: .label .label-yellow }
+
 > **Uso:** Forma -te + そう.
 
 Puedo hacer ~, ~ capaz = asumiendo el potencial de alguien.
@@ -1644,6 +1761,9 @@ por favor, muestra / enseña
 
 ### "Deseo que hagas ~" / "Quiero que hagas ~" (para mí mismo) （〜てほしい）
 
+N4
+{: .label .label-yellow }
+
 > **Uso:** Forma -te + ほしい (です).
 
 Se utiliza para indicar el deseo de que otra persona haga algo por nosotros.
@@ -1663,6 +1783,9 @@ Quiero que me enseñes japonés.
 ```
 
 ### "Deseo que hagas ~" / "Quiero que hagas ~" (otra persona) （〜ほしいがって, たがって）
+
+N4
+{: .label .label-yellow }
 
 | Ichidan  | Godan        |
 |:------------------|:------|
@@ -1688,6 +1811,9 @@ Hablando de José, está deseando hacerse funcionario.
 
 ### Hacer por adelantado / dejar en el estado actual esperando un cambio posterior (〜て + おく)
 
+N4
+{: .label .label-yellow }
+
 > **Uso:** Forma -te + おく
 
 ```
@@ -1702,6 +1828,9 @@ Compraré los billetes antes del viaje
 ```
 
 ### Probar a hacer algo por primera vez (〜て + 見る)
+
+N4
+{: .label .label-yellow }
 
 > **Uso:** Forma -te + 見る.
 
@@ -1723,6 +1852,9 @@ hacer-mirar / hacer-intentar
 
 ### Probar a hacer algo por primera vez - pasado (〜て + 見た)
 
+N4
+{: .label .label-yellow }
+
 > **Uso:** Forma -te + 見た.
 
 Utiliza el verbo 見る en pasado.
@@ -1740,6 +1872,9 @@ comer-miró / comer-intentó
 
 ### Probar a hacer algo por primera vez - negativo (〜て + 見ない)
 
+N4
+{: .label .label-yellow }
+
 > **Uso:** Forma -te + 見ない.
 
 Utiliza el verbo 見る en negativo.
@@ -1755,6 +1890,9 @@ comer-no mira / comer-no intenta
 ```
 
 ### Probar a hacer algo por primera vez - pasado negativo (〜て + 見たない)
+
+N4
+{: .label .label-yellow }
 
 > **Uso:** Forma -te + 見たない.
 
@@ -1772,6 +1910,9 @@ comer-no miró / comer-no intentó
 
 ### Hacer algo por otro o dar (〜て + くれる)
 
+N4
+{: .label .label-yellow }
+
 > **Uso:** Forma -te + くれる.
 
 Opuesto a やがる. 
@@ -1785,6 +1926,9 @@ Significa “hacer algo por otro” o “dar”. Se utiliza para añadir el sent
 ```
 
 ### Se van a realizar (〜ておく)
+
+N4
+{: .label .label-yellow }
 
 Se utiliza con acciones que se van a realizar con un acontecimiento futuro. **Pone énfasis en la acción y en quién la realiza.**
 
@@ -1902,6 +2046,9 @@ Es porque es la primera vez que nos vemos desde que creciste
 
 ### Hacer A y después B o A + B a la vez (〜て + V)
 
+N5
+{: .label .label-red }
+
 > **Uso:** Forma -te + V.
 
 Específicas acción A y seguimos con la B o pueden ser acciones que hacemos a la vez.
@@ -1915,6 +2062,9 @@ Anoche canté y bailé
 ```
 
 ### Imperativo obligación o deber (〜てはならない、〜てはなりません)
+
+N4
+{: .label .label-yellow }
 
 > **Uso:** Forma -te + は + ならない (casual) o なりません (formal).
 
@@ -2083,6 +2233,9 @@ no estoy muriendo
 
 ### Acción que continúa pasado (〜ていた、〜てた、〜ていました)
 
+N4
+{: .label .label-yellow }
+
 > **Uso:** Forma -te + いた (común) o た (casual hablado) o いました (formal).
 
 Indica una acción que continuaba pero ya terminó en pasado. Utiliza el verbo いる en forma pasada.
@@ -2120,6 +2273,9 @@ estaba viendo una peli —pero no sabemos si terminó o no—
 
 ### Acción que continúa pasado negativo (〜てなかった、〜て + NEG +でした )
 
+N4
+{: .label .label-yellow }
+
 > **Uso:** Forma -te + なかった (casual) o negativo + でした (formal).
 
 Utiliza el verbo いる en forma pasada negativa.
@@ -2139,6 +2295,9 @@ no estaba muriendo
 ```
 
 ### Empezar a (〜ていく、〜ていきます)
+
+N4
+{: .label .label-yellow }
 
 > **Uso:** Forma -te + いく (casual) o いきます (formal).
 
@@ -2187,6 +2346,9 @@ Ha ido corriendo hacia la estación.
 
 ### Empezar a - futuro (〜てなっていく)
 
+N4
+{: .label .label-yellow }
+
 > **Uso:** Forma -te + なっていく.
 
 Utiliza el verbo なる (forma unión -te) + 行く.
@@ -2198,6 +2360,9 @@ empezará a hacer calor –desde ahora–
 
 ### Empezar a - pasado (〜てなっていった)
 
+N4
+{: .label .label-yellow }
+
 > **Uso:** Forma -te + なっていった.
 
 Utiliza el verbo なる (forma unión -te) + 行く (pasado).
@@ -2206,6 +2371,9 @@ Utiliza el verbo なる (forma unión -te) + 行く (pasado).
 暑くなっていった (empezó a hacer calor)
 
 ### Hacer algo e ir - negativo (〜ていかない、〜ていきません)
+
+N4
+{: .label .label-yellow }
 
 > **Uso:** Forma -te + いかない (casual) o いきません (formal).
 
@@ -2223,6 +2391,9 @@ compro y no voy –a algun sitio–
 ```
 
 ### Hacer algo e ir - pasado (〜ていった、〜ていきました)
+
+N4
+{: .label .label-yellow }
 
 > **Uso:** Forma -te + いった (casual) o いきました (formal).
 
@@ -2249,6 +2420,9 @@ Ellos se volvieron populares
 
 ### Hacer algo e ir - pasado negativo (〜ていかなかった、〜ていきませんでした)
 
+N4
+{: .label .label-yellow }
+
 > **Uso:** Forma -te + いかなかった (casual) o いきませんでした (formal).
 
 Utiliza el verbo 行く en pasado negativo.
@@ -2265,6 +2439,9 @@ no compré y no fui –a algun sitio–
 ```
 
 ### Hacer algo y volver (〜てくる、〜てきます)
+
+N4
+{: .label .label-yellow }
 
 > **Uso:** Forma -te + くる (casual) o きます (formal).
 
@@ -2314,6 +2491,9 @@ Hasta este momento he estudiado kanji cada día.
 
 ### Estar empezando a (〜てなってくる)
 
+N4
+{: .label .label-yellow }
+
 > **Uso:** Forma -te + なってくる.
 
 Utiliza el verbo なる (forma unión -te) + くる.
@@ -2325,6 +2505,9 @@ Utiliza el verbo なる (forma unión -te) + くる.
 
 ### Estar empezando a - pasado (〜てなってきた)
 
+N4
+{: .label .label-yellow }
+
 > **Uso:** Forma -te + なってきた.
 
 Utiliza el verbo なる (forma unión -te) + くる (pasado).
@@ -2335,6 +2518,9 @@ Utiliza el verbo なる (forma unión -te) + くる (pasado).
 ```
 
 ### Hacer algo y volver - negativo (〜てこない、〜てきません)
+
+N4
+{: .label .label-yellow }
 
 > **Uso:** Forma -te + こない (casual) o きません (formal).
 
@@ -2352,6 +2538,9 @@ no compro y vuelvo
 ```
 
 ### Hacer algo y volver - pasado (〜てきた、〜てきました)
+
+N4
+{: .label .label-yellow }
 
 > **Uso:** Forma -te + きた (casual) o きました (formal).
 
@@ -2378,6 +2567,9 @@ Pueden continuar haciéndose cada vez más populares o pueden dejar de serlo.
 
 ### Hacer algo y volver - negativo (〜てこなかった (てくる、〜てきませんでした)
 
+N4
+{: .label .label-yellow }
+
 > **Uso:** Forma -te + こなかった (casual) o きませんでした (formal).
 
 Esto se forma con 来る en forma pasada negativa.
@@ -2394,6 +2586,9 @@ no compré y volví
 ```
 
 ### Acción hecha por accidente o terminada (〜てちゃう、〜てしまう、〜てしまいました )
+
+N4
+{: .label .label-yellow }
 
 > **Uso:** Forma -te + ちゃう (casual) o しまう (formal) o しまいました (más formal)
 
@@ -2433,6 +2628,9 @@ He perdido el pasaporte.
 ```
 
 ### Acción hecha por accidente o terminada - pasado (〜てちゃった、〜てしまった)
+
+N4
+{: .label .label-yellow }
 
 > **Uso:** Forma -te + ちゃった (casual) o しまった (formal).
 
@@ -2535,6 +2733,9 @@ escuchemos o Vamos a escuchar.
 
 ### Volicional de probabilidad (Probablemente, parece que ~, supongo ~ / 〜たろう、〜だろう)
 
+N4
+{: .label .label-yellow }
+
 Expresa probabilidad. Usa el volicional de だ.
 
 | Ichidan        | Godan          |
@@ -2553,6 +2754,9 @@ probablemente murió
 ```
 
 ### Probar a hacer algo por primera vez (〜とする)
+
+N3
+{: .label .label-purple }
 
 > **Uso:** volicional + とする.
 
