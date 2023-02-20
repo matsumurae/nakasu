@@ -14,7 +14,10 @@ permalink: /gramatica/sufijos
 1. TOC
 {:toc}
 
-## 〜さ / “-ness”
+## “-ness”, nominalizador adjetivos 〜さ /
+
+N4
+{: .label .label-yellow }
 
 > Adj-i (algunos na) + さ
 > 
@@ -30,9 +33,12 @@ Es como el "-ness" en inglés: masculinidad, feminidad…
 
 ## Parece que ~, Escuché ~, Aparentemente ~ / 〜らしい o 〜らしく
 
-> V (raíz o い) / N / Adj-な / Adj-い + らしい
+N4
+{: .label .label-yellow }
 
-Usado para expresar rumores (cosas que hemos oído de otros) o conjeturas o indiferencia. **Se puede añadir al final de cualquier conjugación.**
+> **Uso:** V (raíz o い) / N / Adj-な / Adj-い + らしい
+
+Usado para expresar rumores (cosas que hemos oído de otros) o conjeturas o indiferencia. Se trata de una una presunción / suposición (una suposición / conjetura basada en algunos motivos). **Se puede añadir al final de cualquier conjugación.**
 
 ```
 雨らしい
@@ -60,6 +66,9 @@ Parece que él puede correr 50m en 3 segundos. ¿es un coche?
 
 ## No parece ~, No es típico de ~ / 〜らしくない
 
+N4
+{: .label .label-yellow }
+
 > V (raíz o い) / N / Adj-な / Adj-い + らしい
 
 Usado para expresar rumores (cosas que hemos oído de otros) o conjeturas o indiferencia. **Se puede añadir al final de cualquier conjugación.**
@@ -70,6 +79,9 @@ Hoy no pareces tú mismo.
 ```
 
 ## Se ve como ~, Parece ~, “-ish”, “-ly” / 〜っぽい
+
+N3
+{: .label .label-purple }
 
 Subjetivo / personal
 {: .label .label-purple }
@@ -103,7 +115,10 @@ Puaj… Parece crudo…
 (Usagi drop, 19:44 - 19:47, EP04)
 ```
 
-## Tener planeado ~ / 〜予定（だ
+## Tener planeado ~ / 〜予定（だ)
+
+N4
+{: .label .label-yellow }
 
 Cuando hablamos de un plan del que estamos seguros de ello.
 
@@ -132,6 +147,9 @@ Planeo ir (seguro)
 ```
 
 ##  No tener planeado ~ / 〜予定（はない・はありません）
+
+N4
+{: .label .label-yellow }
 
 > (V diccionario / N + の) + 予定 + はない / はありません
 

@@ -59,7 +59,7 @@ Cuando digo que debes cambiar entre sílabas, significa que solo debes cambiar l
 
 Esto no es como en inglés o español… ¡Aquí solo hay dos verbos! Solo する y 来る se salen fuera de las reglas y tienen una conjugación diferente. Más fácil imposible.
 
-### Especiales
+### Especiales / ある, いる y です
 
 En esta categoría tenemos dos verbos: los verbos de "existir" y los verbos de "ser" o "estar".
 
@@ -148,9 +148,16 @@ En español no se diferencian los verbos pero sí que tenemos verbos con objeto 
 - Esteban pidió dos libros en la biblioteca. --> ¿Qué pidió Esteban? = Dos libros.
 - Todos caminaban por la acera. --> ❌ ¿Qué caminaban? = No podemos usar la pregunta.
 
-## Cómo unir varios verbos
+## Cómo unir varios verbos (て, で)
 
-Si lo que queremos es decir "Voy a comprar y después, a tomar un té" lo que hacemos es usar dos verbos. Aunque en español no se unen ya que tenemos conjunciones, esto escenifica lo complejo que es el español y lo simple que es el japonés.
+{: .warning-title }
+> Ten en cuenta que…
+> 
+> Aunque en las reglas gramaticales pintan a て y で como una conjunción, desde mi punto de vista no lo son… Es exactamente la misma lógica que la conjugación て.
+> 
+> ¿Por qué se cataloga como una conjunción? Básicamente, porque une dos verbos (igual que en español usamos "y"). Así que, llámalo conjunción o forma unión, no importa. **El resultado es el mismo.**
+
+Si lo que queremos es decir "Voy a comprar y tomar un té" lo que hacemos es usar dos verbos. Aunque en español no se unen ya que tenemos conjunciones, esto escenifica lo complejo que es el español y lo simple que es el japonés.
 
 Ahora, volvamos a lo anterior. ¿Cómo se unen varios verbos para realizar acciones unidas "Hago X e Y"? Para eso existe la forma -te de los verbos. **¡Esta es la forma unión!** De la misma forma que en los adjetivos な cambiamos だ por な para unir varios… *Esto es lo mismo.*
 
@@ -193,7 +200,7 @@ Ayer fui a Starbucks, compré café y di un paseo
 >
 > Recuerda que el tiempo de la frase lo define el verbo final.
 
-## Convertir verbos en adjetivos
+## Convertir verbos en adjetivos (〜ある)
 
 Sólo tenemos que poner el verbo delante del nombre que queremos cambiar.
 
@@ -225,7 +232,7 @@ hablar + conejo
 = conejo parlante / conejo que habla
 ```
 
-## Versión ruda del verbo
+## Versión ruda del verbo (〜ろ、〜え)
 
 |  Ichidan       | Godan          |
 |:-------------|:------------------|

@@ -1368,14 +1368,14 @@ Se usa para dar una orden directa. Ten en cuenta que esto es muy directo y fuert
 No vayas
 ```
 
-### Parecer ~ (objetivo) (〜らしい)
+### Parece que ~, Escuché ~, Aparentemente ~ (objetivo) (〜らしい)
 
 N4
 {: .label .label-yellow }
 
 > **Uso:** Diccionario + らしい.
 
-Usado para expresar rumores (cosas que hemos oído de otros) o conjeturas o indiferencia. **Se puede añadir al final de cualquier conjugación.** Puedes leer más en la página de [Sufijos]({% link docs/grammar/suffix.md %}).
+Usado para expresar rumores (cosas que hemos oído de otros) o conjeturas o indiferencia. Se trata de una una presunción / suposición (una suposición / conjetura basada en algunos motivos). **Se puede añadir al final de cualquier conjugación.** Puedes leer más en la página de [Sufijos]({% link docs/grammar/suffix.md %}).
 
 ```
 食べるらしい
@@ -1759,7 +1759,7 @@ por favor, muestra / enseña
 ¡Pásame el periódico!
 ```
 
-### "Deseo que hagas ~" / "Quiero que hagas ~" (para mí mismo) （〜てほしい）
+### "Necesito que hagas ~" / "Quiero que hagas ~" (para mí mismo) （〜てほしい）
 
 N4
 {: .label .label-yellow }
@@ -1782,7 +1782,7 @@ El caso es que me gustaría que el domingo viniera a mi casa.
 Quiero que me enseñes japonés.
 ```
 
-### "Deseo que hagas ~" / "Quiero que hagas ~" (otra persona) （〜ほしいがって, たがって）
+### "Necesito que hagas ~" / "Quiero que hagas ~" (otra persona) （〜ほしいがって, たがって）
 
 N4
 {: .label .label-yellow }
@@ -1908,33 +1908,126 @@ comer-no miró / comer-no intentó
 = no intentó comer / no miró de comer
 ```
 
-### Hacer algo por otro o dar (〜て + くれる)
+### "¿Haces por mí ~?", Hacer algo por mí o hacer un favor a mí (o los míos) (〜て + くれる)
 
 N4
 {: .label .label-yellow }
 
 > **Uso:** Forma -te + くれる.
 
-Opuesto a やがる. 
+Opuesto a やがる. Forma menos formal que いただけませんか.
 
-Significa “hacer algo por otro” o “dar”. Se utiliza para añadir el sentimiento de la primera persona sobre algo, expresando que eso es favorable para la primera persona. **Se enfoca en la acción y quién la realiza.**
+Significa "hacer algo por mí" o lo que es lo mismo, hacerte un favor. Se utiliza para añadir el sentimiento de la primera persona sobre algo, expresando que eso es favorable para la primera persona. **Se enfoca en la acción y quién la realiza.**
+
+El que recibe el favor se marca con に mientras que el sujeto que realiza el favor está con が o は.
 
 ```
 食べてくれる → presente / futuro
 食べてくれた → pasado
 食べてくれ → imperativo
+
+パパが宇宙を見せてくれた
+Papá me enseñó el universo (me hizo el favor a mí)
+
+先生が日本語を教えてくれた
+El profesor me enseñó japonés (a mí)
+
+母がお弁当を作ってくれた
+Mi madre me preparó el almuerzo (a mí)
 ```
 
-### Se van a realizar (〜ておく)
+#### Dar las gracias por un favor
+
+Cuando quieres agradecer a alguien el hecho de haber hecho algo por ti.
+
+```
+見てくれてありがとうございました
+Gracias por mirar.
+
+お弁当を作ってくれてありがとうございました
+Gracias por preparme el almuerzo.
+```
+
+#### Pedir un favor
+
+```
+ここに名前を書いてくれる？
+¿Puedes escribirme aquí tu nombre?
+
+明日来てくれますか？
+¿Puedes venir mañana?
+
+朝６時に起こしてくれる？
+¿Me puedes despertar mañana a las 6?
+```
+
+O más formal con くれません
+
+```
+日本語を教えて くれませんか？
+¿Me puede enseñar japonés? (¿me hace ese favor?)
+
+もう一度言って くれませんか？
+¿Me hace el favor de volvérmelo a decir?
+```
+
+#### Quejarse por un favor no realizado (forma negativa)
+
+En caso de que hayas pedido un favor pero no lo hayan hecho, siempre puedes usar la forma negativa.
+
+```
+誰も教えてくれませんでした
+Nadie (tuvo el detalle) de decírmelo.
+= Nadie me lo dijo
+```
+
+#### Diferencia entre あげる y くれる
+
+| あげる        | くれる          |
+|:-------------|:------------------|
+| Significa "dar" (dar a otro) | Significa "recibir" (de otro) |
+| Haces un favor <br> tú -> **otra persona** | Hacerte un favor <br> otra persona -> **tú** |
+| これあげる <br> **Tú**: Te doy esto | これくれる <br> **Tu amigo**: Te doy esto |
+
+### Hacer algo por adelantado (〜ておく)
 
 N4
 {: .label .label-yellow }
 
-Se utiliza con acciones que se van a realizar con un acontecimiento futuro. **Pone énfasis en la acción y en quién la realiza.**
+Se trata de algo que haces por adelantado. ¿Recuerdas lo que tu madre decía de "te lo voy a decir antes…"? ¡Pues es el mismo uso! **Pone énfasis en la acción y en quién la realiza.**
+
+Imagina que tienes un examen en dos semanas, por lo que decides pepararte por adelantado. Se suele abreviar como `とく`.
+
+```
+勉強しておく
+勉強しとく
+Estudiar [por adelantado]
+```
+
+O tal vez te vas de viaje y decides dejar limpia la casa antes irte.
 
 ```
 家を掃除しておきます
-Voy a dejar la casa limpia.
+Voy a dejar la casa limpia (por adelantado).
+```
+
+Se trata de algo que haces por adelantado, preparándose a eso.
+
+```
+これだけは言っておく
+Solo diré esto [por adelantado].
+
+お弁当を作っておいたよ
+[Ya hice] tu almuerzo.
+
+出かける前に何か食べておこう
+Comamos algo (por adelantado) antes de salir.
+
+旅行の前に切符を買っておきます
+Compraré los tickets (por adelantado) antes del viaje.
+
+編集は俺の方でやっとくから
+Me encargaré de la edición [por adelantado].
 ```
 
 #### Dejar algo en el estado anterior
@@ -2294,7 +2387,7 @@ no estaba comprando
 no estaba muriendo
 ```
 
-### Empezar a (〜ていく、〜ていきます)
+### Empezar a, continuar (〜ていく、〜ていきます)
 
 N4
 {: .label .label-yellow }
@@ -2306,6 +2399,7 @@ Utiliza el verbo 行く.
 Estar empezando / convirtiendo en ~, acción que empieza ahora y sigue. Se trata únicamente de ir a un lugar, sin volver (a diferencia de て来る).
 
 - Se usa con verbos que expresan un cambio de estado o situación, que tendrá lugar de ahora en adelante.
+- Acción que sigue.
 - Hacer algo e ir, describir un movimiento que se aleja del lugar donde está el hablante
 - Manera de ir.
 
@@ -2336,6 +2430,10 @@ Ellos se volverán populares
 駅へ走って行きました
 Ha ido corriendo hacia la estación.
 = manera de ir.
+
+これからどんどん暑くなっていく
+De aquí [en adelante] va a ser más y más caliente
+= Acción que sigue.
 ```
 
 #### Diferencia entre ていく y てくる
@@ -2343,6 +2441,7 @@ Ha ido corriendo hacia la estación.
 |  ていく      | てくる         |
 |:-------------|:------------------|
 | describe cosas **objetivamente** | describe cosas **subjetivamente** |
+| X se aleja de ti | X se acerca a ti |
 
 ### Empezar a - futuro (〜てなっていく)
 
@@ -2449,7 +2548,7 @@ N4
 
 Se usa para describir "hacer algo y volver". Se utiliza para ir a un lugar y volver, a diferencia de て行く.
 
-- Describe un movimiento que se acerca al lugar donde está el hablante
+- Describe un movimiento que se acerca al lugar donde está el hablante (puede ser fisico o no)
 - Cambio de estado o situación, desde el pasado hasta el presente
 - Comienzo de una acción
 - Continuación hasta este momento
@@ -2471,6 +2570,10 @@ no queda comida para perros, así que la compraré y volveré a casa
 カラスが飛んでくる
 Los cuervos vienen volando
 = se acercan al hablante
+
+お腹が空いてきた
+Estoy hambriento
+= el hambre ha venido
 
 人気があがってくる
 Ellos se volverán populares
@@ -2596,6 +2699,8 @@ Utiliza el verbo しまう (terminar).
 
 Sirve tanto para hablar de acciones que se han llevado a cabo (es decir, está terminada) y para expresar lamento o pena por algo que ha ocurrido contra su voluntad.
 
+**Muy común usarlo con acciones que implican arrepentimiento, algo desfavorable o lamentable.**
+
 ```
 食べてしまう
 he comido (pero no era mi intención)
@@ -2605,6 +2710,12 @@ he comprado (pero no pensaba hacerlo)
 
 死んでしまう
 he muerto (aunque no estaba en mis planes)
+
+寝ちゃった
+me quedé dormido [por accidente]
+
+しまった
+Mierda. (hacer algo lamentable)
 ```
 
 Acciones ya terminadas:
@@ -2625,6 +2736,9 @@ El café ya se ha enfriado.
 
 パスポートーを無くしてしまいました
 He perdido el pasaporte.
+
+妻や友人仕事。。。何もかも30年前に置いてきてしまった
+My mujer, mis amigos, mi trabajo… lo dejé todo atrás [por completo] hace treinta años (pero me arrepiento por ello)
 ```
 
 ### Acción hecha por accidente o terminada - pasado (〜てちゃった、〜てしまった)

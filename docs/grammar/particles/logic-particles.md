@@ -282,7 +282,7 @@ Define el límite en el que algo sucede o el estado de ser. Nos establece dónde
 
 ### Define el límite dentro del cual se aplica un estado de ser
 
-Definimos un límite en el que sucede una acción (como si hubiera una caja).
+Definimos un límite en el que sucede una acción (como si hubiera una caja). ¿Sabes el modo selección que tienen los programas de diseño o las aplicaciones de captura de pantalla? **¡Sería algo así!**
 
 ```
 目の前でポケモンが飛び回っている
@@ -296,7 +296,10 @@ El ramen más delicioso del mundo
 この町で一番美味しいラーメン
 El ramen más delicioso de la ciudad
 
-この町で → Establecemos el límite en esta ciudad = NO es el ramen más delicioso posible (para eso diríamos el mundo entero), pero SÍ de esta ciudad
+この町で
+Establecemos el límite en esta ciudad
+= NO es el ramen más delicioso posible
+(para eso diríamos el mundo entero), pero SÍ de esta ciudad
 ```
 
 <figure>
@@ -348,15 +351,49 @@ No fui al colegio por estar enfermo.
 
 ### Medio, utensilio o material utilizado
 
+Usado para especificar el material, utensilio o medio que se usa para hacer algo. Igual que hemos dicho antes que es como la selección (dibujando un cuadro alrededor), aquí **marcamos qué herramienta es la usada**.
+
+No solo sirve para utensilios (tijeras), también para marcar cómo se hace una actividad: voy a pie, vengo en bus… **¡No tiene porqué ser algo físico!** Por ejemplo, si decimos "hablemos en japonés", sugerimos que la conversación debería ser en japonés y por tanto, llevarse a cabo **por ese medio**.
+
 ```
 日本語でレポートを書きました
-Escribí un trabajo en japonés.
+Escribí un trabajo [en] japonés.
 
 ボールペンで書いてください
-Esciba con el bolígrafo, por favor.
+Esciba [con] el bolígrafo, por favor.
 
 バスでここへきました
-He venido aquí en bus.
+He venido aquí [en] bus.
+```
+
+### Indicar la relación de X
+
+Por ejemplo, digamos que quieres decir… "La mesa está hecha de madera".
+
+```
+このテーブルは木でできている
+Esta mesa está hecha [de] madera.
+```
+
+Como puedes ver, casi siempre suele traducirse con "de" pero también puede ser "con". En este caso, se utiliza para especificar los componentes de la cosa de la que hablamos.
+
+```
+このクッキーは、 小麦粉と 砂糖だけで作りました
+Hablando de estas galletas, las hice solo [con] harina y azúcar.
+
+この小説は五つの章で 構成されている
+Hablando de esta novela, está compuesta [por] cinco capítulos.
+```
+
+Resumiendo, se utiliza para **indicar la relación dentro de una categoría mayor**: capítulos de un libro, ingredientes de una comida, material de algo…
+
+### "Entonces…"
+
+Se usa al inicio de la frase para decir "Entonces ~".
+
+```
+で。何食う？
+Entonces… ¿qué comeremos?
 ```
 
 ***
