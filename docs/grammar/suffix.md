@@ -15,6 +15,7 @@ permalink: /gramatica/sufijos
 {:toc}
 
 ## “-ness”, nominalizador adjetivos 〜さ /
+{: .d-inline-block }
 
 N4
 {: .label .label-yellow }
@@ -32,6 +33,7 @@ Es como el "-ness" en inglés: masculinidad, feminidad…
 ```
 
 ## Parece que ~, Escuché ~, Aparentemente ~ / 〜らしい o 〜らしく
+{: .d-inline-block }
 
 N4
 {: .label .label-yellow }
@@ -65,6 +67,7 @@ Parece que él puede correr 50m en 3 segundos. ¿es un coche?
 | El mensaje es más subjetivo. | Transmite lo que quiere decir de manera <br> más objetiva distanciándose de la situación. |
 
 ## No parece ~, No es típico de ~ / 〜らしくない
+{: .d-inline-block }
 
 N4
 {: .label .label-yellow }
@@ -79,6 +82,7 @@ Hoy no pareces tú mismo.
 ```
 
 ## Se ve como ~, Parece ~, “-ish”, “-ly” / 〜っぽい
+{: .d-inline-block }
 
 N3
 {: .label .label-purple }
@@ -116,6 +120,7 @@ Puaj… Parece crudo…
 ```
 
 ## Tener planeado ~ / 〜予定（だ)
+{: .d-inline-block }
 
 N4
 {: .label .label-yellow }
@@ -147,6 +152,7 @@ Planeo ir (seguro)
 ```
 
 ##  No tener planeado ~ / 〜予定（はない・はありません）
+{: .d-inline-block }
 
 N4
 {: .label .label-yellow }

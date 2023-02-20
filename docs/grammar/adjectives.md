@@ -48,6 +48,7 @@ pobrecito, penoso, patetico
 | 立つ <br> ponerse de pie | 勃つ <br> tener una erección |
 
 ## Adjetivos い
+{: .d-inline-block }
 
 N5
 {: .label .label-red }
@@ -127,6 +128,7 @@ peligroso-no es caro-no es = no es peligroso ni caro
 | Ser demasiado ~ | おもしろ**すぎる** <br>** es demasiado** interesante |
 
 ## Adjetivos な
+{: .d-inline-block }
 
 N5
 {: .label .label-red }

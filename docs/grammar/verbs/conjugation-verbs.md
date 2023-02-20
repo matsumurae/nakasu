@@ -136,6 +136,7 @@ Iré y ayudaré a mi hermano a mudarse.
 ## Sílaba あ（か、さ、た、な、は、ま、ら）
 
 ### Negativo (～ない)
+{: .d-inline-block }
 
 N5
 {: .label .label-red }
@@ -163,6 +164,7 @@ no escuchar / no escucharé
 ```
 
 ### Provisional condicional de ～ぬ / Tener que hacer, Deber ~, Debería ~ (～ねばならない)
+{: .d-inline-block }
 
 N2
 {: .label .label-green }
@@ -198,6 +200,7 @@ Mi visa expiró, así que tengo que volver a mi país de origen.
 ```
 
 ### Sin hacer ~ (～ずに)
+{: .d-inline-block }
 
 N3
 {: .label .label-purple }
@@ -227,6 +230,7 @@ Hoy vamos a salir a comer sin cocinar nada.
 ```
 
 ### Deber hacer algo (～ないと)
+{: .d-inline-block }
 
 N5
 {: .label .label-red }
@@ -261,6 +265,7 @@ debo escuchar
 | いけない | Si haces X, entonces no es bueno <br> **No debes hacer algo** |
 
 ### No tener que hacer X (〜なくて(も)いい)
+{: .d-inline-block }
 
 N5
 {: .label .label-red }
@@ -283,6 +288,7 @@ Era un trabajo que Miller no tenía que hacer
 ```
 
 ### Invitación (〜ないか, 〜ませんか)
+{: .d-inline-block }
 
 N5
 {: .label .label-red }
@@ -305,6 +311,7 @@ Se usa para hacer una pregunta, invitación o expresar deseo en forma negativa.
 ```
 
 ### Negativo れば (〜なければ)
+{: .d-inline-block }
 
 N4
 {: .label .label-yellow }
@@ -353,6 +360,7 @@ no morí
 ```
 
 ### Negativo て (〜なくて)
+{: .d-inline-block }
 
 N5
 {: .label .label-red }
@@ -375,6 +383,7 @@ no mueras
 ```
 
 ### Negativo imperativo (〜ないで)
+{: .d-inline-block }
 
 N5
 {: .label .label-red }
@@ -400,6 +409,7 @@ no escuches por favor
 ```
 
 ### Negativo volicional (〜ない + だろう / だろう)
+{: .d-inline-block }
 
 N5
 {: .label .label-red }
@@ -428,6 +438,7 @@ no escuchemos
 ```
 
 ### Pasivo (〜れる、〜られる)
+{: .d-inline-block }
 
 N4
 {: .label .label-yellow }
@@ -525,6 +536,7 @@ Siempre bebo cafe sin poner azucar.
 ```
 
 ### Pasivo negativo (〜れない、〜られない)
+{: .d-inline-block }
 
 N4
 {: .label .label-yellow }
@@ -545,6 +557,7 @@ no ser escuchado
 ```
 
 ### Pasivo pasado (〜れた、〜られた)
+{: .d-inline-block }
 
 N4
 {: .label .label-yellow }
@@ -565,6 +578,7 @@ fue escuchado
 ```
 
 ### Causativo (〜せる、〜させる)
+{: .d-inline-block }
 
 N4
 {: .label .label-yellow }
@@ -593,6 +607,7 @@ Obligar a [alguien] a hablar de [algo].
 ```
 
 ### Orden de なければ (〜いけない、〜いけません、〜ならない)
+{: .d-inline-block }
 
 N4
 {: .label .label-yellow }
@@ -635,6 +650,7 @@ Debo ir a clase.
 ## Sílaba い（き、し、ち、に、ひ、み、り）
 
 ### Pasado (〜た)
+{: .d-inline-block }
 
 N5
 {: .label .label-red }
@@ -658,6 +674,7 @@ morí
 ```
 
 ### Mientras ~, aunque,  a pesar de ~ (〜て + つつ (+も))
+{: .d-inline-block }
 
 N2
 {: .label .label-green }
@@ -678,6 +695,7 @@ A veces habla por teléfono mientras conduce.
 ```
 
 ### Haber hecho algo antes (~V pasado + こと（が）ある)
+{: .d-inline-block }
 
 N5
 {: .label .label-red }
@@ -697,6 +715,7 @@ haber oído hablar de eso antes
 ```
 
 ### Nunca haber hecho algo antes (~V pasado + こと（が）ない)
+{: .d-inline-block }
 
 N5
 {: .label .label-red }
@@ -731,6 +750,7 @@ Se une a otra acción que le sigue, se convierte en un nombre.
 ```
 
 ### Verbo formal (〜ます)
+{: .d-inline-block }
 
 N5
 {: .label .label-red }
@@ -752,6 +772,7 @@ bebo / beberé
 El famoso “itadakimasu” viene de 頂く (recibir) → 頂きます (gracias por la comida que voy a recibir / recibo esta comida)
 
 ### Formal negativo (〜ません o 〜ませぬ)
+{: .d-inline-block }
 
 N5
 {: .label .label-red }
@@ -776,6 +797,7 @@ no bebo / no beberé
 ```
 
 ### Formal pregunta o deseo negativo (〜(ください / いただけ)ませんか)
+{: .d-inline-block }
 
 N5
 {: .label .label-red }
@@ -819,6 +841,7 @@ Con いただけ decimos "¿No le importaría…?".
 | ラーメンを食べに行きましょうか <br> ¿Vamos a comer ramen? | ラーメンを食べに行きませんか <br> ¿Por qué no vienes a comer ramen conmigo? |
 
 ### Formal pasado (〜ました)
+{: .d-inline-block }
 
 N5
 {: .label .label-red }
@@ -836,6 +859,7 @@ hemos bebido
 ```
 
 ### Formal negativo pasado (〜ません + でした)
+{: .d-inline-block }
 
 N5
 {: .label .label-red }
@@ -853,6 +877,7 @@ no bebí
 ```
 
 ### Formal Volicional (〜ましょう)
+{: .d-inline-block }
 
 N5
 {: .label .label-red }
@@ -872,6 +897,7 @@ Vamos a comer
 ```
 
 ### Formal volicional pregunta (〜ましょうか)
+{: .d-inline-block }
 
 N5
 {: .label .label-red }
@@ -897,6 +923,7 @@ Debo ~; ofrecer ayuda al oyente. **Se usa para hacer una pregunta, invitación o
 ```
 
 ### Formal imperativo (〜なさい)
+{: .d-inline-block }
 
 N4
 {: .label .label-yellow }
@@ -914,6 +941,7 @@ come
 ¡Ve!
 
 ### Deseo (〜たい)
+{: .d-inline-block }
 
 N5
 {: .label .label-red }
@@ -943,6 +971,7 @@ Yo también quiero (estaba pensando) tener en un trabajo a media jornada
 ```
 
 ### Deseo negativo (〜たくない)
+{: .d-inline-block }
 
 N5
 {: .label .label-red }
@@ -962,6 +991,7 @@ no quiero beber, no me gustaría beber
 ```
 
 ### Deseo pasado (〜たかった)
+{: .d-inline-block }
 
 N5
 {: .label .label-red }
@@ -981,6 +1011,7 @@ quería beber, bebería
 ```
 
 ### Deseo pasado negativo (〜たくなかった)
+{: .d-inline-block }
 
 N5
 {: .label .label-red }
@@ -1000,6 +1031,7 @@ no quería beber, no bebería
 ```
 
 ### Parecer (subjetivo) (〜そう)
+{: .d-inline-block }
 
 N4
 {: .label .label-yellow }
@@ -1019,6 +1051,7 @@ a punto de escribir, parece s.o. va a escribir, escribible
 ```
 
 ### Convertir verbo en sustantivo (〜物)
+{: .d-inline-block }
 
 N5
 {: .label .label-red }
@@ -1041,6 +1074,7 @@ buy-drinks = bebidas
 ```
 
 ### Forma de hacer algo (〜方)
+{: .d-inline-block }
 
 N5
 {: .label .label-red }
@@ -1066,6 +1100,7 @@ forma de pelear / cómo pelear
 ```
 
 ### Difícil de hacer - negativo やすい (objetivo) (〜にくい)
+{: .d-inline-block }
 
 N4
 {: .label .label-yellow }
@@ -1088,6 +1123,7 @@ difícil de beber
 ```
 
 ### Difícil de hacer - adverbio (objetivo) (〜にくく)
+{: .d-inline-block }
 
 N4
 {: .label .label-yellow }
@@ -1104,6 +1140,7 @@ Corté la chuleta de cerdo en trozos para que sea más difícil de comer
 ```
 
 ### Fácil de hacer - contrario にくい (〜やすい)
+{: .d-inline-block }
 
 N4
 {: .label .label-yellow }
@@ -1126,6 +1163,7 @@ fácil de beber
 ```
 
 ### Fácil de hacer - adverbio (〜やすく)
+{: .d-inline-block }
 
 N4
 {: .label .label-yellow }
@@ -1145,6 +1183,7 @@ por favor enséñanos más claramente
 ```
 
 ### Difícil de hacer (subjetivo) (〜づらい)
+{: .d-inline-block }
 
 N4
 {: .label .label-yellow }
@@ -1168,6 +1207,7 @@ La impresión de este libro es demasiado pequeña, es difícil de leer
 | Más objetivo. | Significado subjetivo. Se limita a acciones intencionales. |
 
 ### Difícil de hacer - adverbio (subjetivo) (〜づらく)
+{: .d-inline-block }
 
 N4
 {: .label .label-yellow }
@@ -1187,6 +1227,7 @@ por favor enséñanos más difícilmente
 ```
 
 ### Muy difícil de hacer (〜がたい)
+{: .d-inline-block }
 
 N3
 {: .label .label-purple }
@@ -1212,6 +1253,7 @@ Esta no es la respuesta correcta, pero tampoco puedo decir que sea un error
 | Es difícil, pero en menor medida. | Lo más difícil y casi imposible. |
 
 ### Sufijo “-ness” (〜さ)
+{: .d-inline-block }
 
 N4
 {: .label .label-yellow }
@@ -1233,6 +1275,7 @@ Es el sufijo “-ness” en inglés. Solo se puede usar con algunos sufijos:
 ```
 
 ### Demasiado (〜すぎる、〜すぎます)
+{: .d-inline-block }
 
 N5
 {: .label .label-red }
@@ -1252,6 +1295,7 @@ beber demasiado
 ```
 
 ### Demasiado negativo (〜すぎない、〜すぎません)
+{: .d-inline-block }
 
 N5
 {: .label .label-red }
@@ -1271,6 +1315,7 @@ no bebí demasiado
 ```
 
 ### Demasiado pasado (〜すぎた、〜すぎました)
+{: .d-inline-block }
 
 N5
 {: .label .label-red }
@@ -1290,6 +1335,7 @@ bebí demasiado
 ```
 
 ### Demasiado pasado negativo (〜すぎなかった、〜すぎませんでした)
+{: .d-inline-block }
 
 N5
 {: .label .label-red }
@@ -1309,6 +1355,7 @@ no bebí demasiado
 ```
 
 ### Demasiado unión て (〜すぎて)
+{: .d-inline-block }
 
 N5
 {: .label .label-red }
@@ -1334,6 +1381,7 @@ Estoy tan feliz que podría morir
 ## Sílaba う（く、す、つ、ぬ、ふ、む、る）
 
 ### Diccionario
+{: .d-inline-block }
 
 N5
 {: .label .label-red }
@@ -1350,6 +1398,7 @@ Forma diccionario. Para sacar la raíz:
 > Por eso llamamos a los verbos Ichidan "drop-verb" ya que quitas る y "change-verb" a los Godan porque solo lo cambias.
 
 ### Orden / "No hagas ~" (〜な)
+{: .d-inline-block }
 
 N5
 {: .label .label-red }
@@ -1369,6 +1418,7 @@ No vayas
 ```
 
 ### Parece que ~, Escuché ~, Aparentemente ~ (objetivo) (〜らしい)
+{: .d-inline-block }
 
 N4
 {: .label .label-yellow }
@@ -1386,6 +1436,7 @@ parece que no beba
 ```
 
 ### Parecer ~ adverbio (objetivo) (〜らしく)
+{: .d-inline-block }
 
 N4
 {: .label .label-yellow }
@@ -1400,6 +1451,7 @@ parece que mira y come
 ```
 
 ### No parece ~ (objetivo) (〜らしくない)
+{: .d-inline-block }
 
 N4
 {: .label .label-yellow }
@@ -1414,6 +1466,7 @@ Hoy no pareces tú mismo.
 ```
 
 ### Imperativo (〜な)
+{: .d-inline-block }
 
 N4
 {: .label .label-yellow }
@@ -1448,6 +1501,7 @@ Todos significan "No hagas ~", pero lo expresan de forma distinta.
 | Orden | Petición | Petición formal |
 
 ### Intención de (V + つもり)
+{: .d-inline-block }
 
 N5
 {: .label .label-red }
@@ -1465,6 +1519,7 @@ Tengo la intención de casarme a la edad de 35 años.
 ```
 
 ### Intención de - negativo (V + つもりはない、V + つもりはありません)
+{: .d-inline-block }
 
 N1
 {: .label .label-blue }
@@ -1482,6 +1537,7 @@ No tiene intención de ir a la universidad.
 ```
 
 ### Tener planeado (V + 予定)
+{: .d-inline-block }
 
 N4
 {: .label .label-yellow }
@@ -1499,6 +1555,7 @@ Ella planea perder 10 kilogramos este verano.
 ```
 
 ### Tener planeado - negativo (V + 予定はない o V + 予定はありません)
+{: .d-inline-block }
 
 N4
 {: .label .label-yellow }
@@ -1516,6 +1573,7 @@ La jefa no está planeando retirarse.
 ```
 
 ### Listar múltiples acciones (Diccionario + たり)
+{: .d-inline-block }
 
 N5
 {: .label .label-red }
@@ -1531,6 +1589,7 @@ Ver la tele e ir de compras
 ```
 
 ### Preguntar “hacer cosas como ~” (Diccionario + たりする + か)
+{: .d-inline-block }
 
 N5
 {: .label .label-red }
@@ -1545,6 +1604,7 @@ Recuerda que se puede omitir か en la forma casual.
 ```
 
 ### Ser malo haciendo algo / のが下手
+{: .d-inline-block }
 
 N5
 {: .label .label-red }
@@ -1562,6 +1622,7 @@ Todavía no es muy bueno (ser malo) para almacenar electricidad (video)
 ```
 
 ### Ser bueno haciendo algo / のが上手
+{: .d-inline-block }
 
 N5
 {: .label .label-red }
@@ -1584,6 +1645,7 @@ Soy bueno corriendo.
 | 上手 | por encima + mano = hábil |
 
 ### Gustar algo, gustar hacer algo / （の）が好き
+{: .d-inline-block }
 
 N5
 {: .label .label-red }
@@ -1597,6 +1659,7 @@ Me gusta matar gente. He matado a mucha gente.
 ```
 
 ### Negativo (forma tradicional) / 〜ぬ o　〜ん
+{: .d-inline-block }
 
 N2
 {: .label .label-green }
@@ -1622,6 +1685,7 @@ No lo sé
 ## Sílaba え（け、せ、て、ね、へ、め、れ）
 
 ### Potencial, "Ser capaz de ~" (〜る、〜られる)
+{: .d-inline-block }
 
 N4
 {: .label .label-yellow }
@@ -1647,6 +1711,7 @@ ser capaz de escuchar
 ```
 
 ### Potencial negativo, "No ser capaz de ~" (〜ない、〜られない)
+{: .d-inline-block }
 
 N4
 {: .label .label-yellow }
@@ -1669,6 +1734,7 @@ no puede escuchar
 ```
 
 ### Provisional condicional (〜れば、〜えば)
+{: .d-inline-block }
 
 N4
 {: .label .label-yellow }
@@ -1712,6 +1778,7 @@ Si es barato lo compraré (deseo propio)
 | Se puede usar con eventos pasados | Solo se puede usar en pasado para hablar de algo de lo que te arrepientes, algo que no hayas hecho o algo que no es verdad. |
 
 ### Poder, ser capaz (〜そう)
+{: .d-inline-block }
 
 N4
 {: .label .label-yellow }
@@ -1729,6 +1796,7 @@ parece que puede ganar
 ```
 
 ### Imperativo suave (〜て + (ください, くれ, くれない))
+{: .d-inline-block }
 
 N5
 {: .label .label-red }
@@ -1760,6 +1828,7 @@ por favor, muestra / enseña
 ```
 
 ### "Necesito que hagas ~" / "Quiero que hagas ~" (para mí mismo) （〜てほしい）
+{: .d-inline-block }
 
 N4
 {: .label .label-yellow }
@@ -1783,6 +1852,7 @@ Quiero que me enseñes japonés.
 ```
 
 ### "Necesito que hagas ~" / "Quiero que hagas ~" (otra persona) （〜ほしいがって, たがって）
+{: .d-inline-block }
 
 N4
 {: .label .label-yellow }
@@ -1810,6 +1880,7 @@ Hablando de José, está deseando hacerse funcionario.
 ```
 
 ### Hacer por adelantado / dejar en el estado actual esperando un cambio posterior (〜て + おく)
+{: .d-inline-block }
 
 N4
 {: .label .label-yellow }
@@ -1828,6 +1899,7 @@ Compraré los billetes antes del viaje
 ```
 
 ### Probar a hacer algo por primera vez (〜て + 見る)
+{: .d-inline-block }
 
 N4
 {: .label .label-yellow }
@@ -1851,6 +1923,7 @@ hacer-mirar / hacer-intentar
 ```
 
 ### Probar a hacer algo por primera vez - pasado (〜て + 見た)
+{: .d-inline-block }
 
 N4
 {: .label .label-yellow }
@@ -1871,6 +1944,7 @@ comer-miró / comer-intentó
 ```
 
 ### Probar a hacer algo por primera vez - negativo (〜て + 見ない)
+{: .d-inline-block }
 
 N4
 {: .label .label-yellow }
@@ -1890,6 +1964,7 @@ comer-no mira / comer-no intenta
 ```
 
 ### Probar a hacer algo por primera vez - pasado negativo (〜て + 見たない)
+{: .d-inline-block }
 
 N4
 {: .label .label-yellow }
@@ -1909,6 +1984,7 @@ comer-no miró / comer-no intentó
 ```
 
 ### "¿Haces por mí ~?", Hacer algo por mí o hacer un favor a mí (o los míos) (〜て + くれる)
+{: .d-inline-block }
 
 N4
 {: .label .label-yellow }
@@ -1990,6 +2066,7 @@ Nadie (tuvo el detalle) de decírmelo.
 | これあげる <br> **Tú**: Te doy esto | これくれる <br> **Tu amigo**: Te doy esto |
 
 ### Hacer algo por adelantado (〜ておく)
+{: .d-inline-block }
 
 N4
 {: .label .label-yellow }
@@ -2054,6 +2131,7 @@ Déjeme solo, por favor.
 ```
 
 ### Es / ha sido hecho (~てある)
+{: .d-inline-block }
 
 N5
 {: .label .label-red }
@@ -2121,6 +2199,7 @@ Veamos unos ejemplos:
 | カレンダーに今月の予定が書いて**あります** <br> En el calendario está escrito el programa de este mes.  | 今朝は道が混んで**いました** <br> El tren está parado a casua de la gran nevada. |
 
 ### Después de hacer, desde (〜て + から)
+{: .d-inline-block }
 
 N5
 {: .label .label-red }
@@ -2138,6 +2217,7 @@ Es porque es la primera vez que nos vemos desde que creciste
 ```
 
 ### Hacer A y después B o A + B a la vez (〜て + V)
+{: .d-inline-block }
 
 N5
 {: .label .label-red }
@@ -2155,6 +2235,7 @@ Anoche canté y bailé
 ```
 
 ### Imperativo obligación o deber (〜てはならない、〜てはなりません)
+{: .d-inline-block }
 
 N4
 {: .label .label-yellow }
@@ -2172,6 +2253,7 @@ tengo que comprar
 ```
 
 ### Pedir permiso (〜て(も)いい)
+{: .d-inline-block }
 
 N5
 {: .label .label-red }
@@ -2207,6 +2289,7 @@ dando permiso en negativo
 ```
 
 ### Acción que continúa (〜ている、〜ています)
+{: .d-inline-block }
 
 N5
 {: .label .label-red }
@@ -2325,6 +2408,7 @@ no estoy muriendo
 ```
 
 ### Acción que continúa pasado (〜ていた、〜てた、〜ていました)
+{: .d-inline-block }
 
 N4
 {: .label .label-yellow }
@@ -2365,6 +2449,7 @@ estaba viendo una peli —pero no sabemos si terminó o no—
 ```
 
 ### Acción que continúa pasado negativo (〜てなかった、〜て + NEG +でした )
+{: .d-inline-block }
 
 N4
 {: .label .label-yellow }
@@ -2388,6 +2473,7 @@ no estaba muriendo
 ```
 
 ### Empezar a, continuar (〜ていく、〜ていきます)
+{: .d-inline-block }
 
 N4
 {: .label .label-yellow }
@@ -2444,6 +2530,7 @@ De aquí [en adelante] va a ser más y más caliente
 | X se aleja de ti | X se acerca a ti |
 
 ### Empezar a - futuro (〜てなっていく)
+{: .d-inline-block }
 
 N4
 {: .label .label-yellow }
@@ -2458,6 +2545,7 @@ empezará a hacer calor –desde ahora–
 ```
 
 ### Empezar a - pasado (〜てなっていった)
+{: .d-inline-block }
 
 N4
 {: .label .label-yellow }
@@ -2470,6 +2558,7 @@ Utiliza el verbo なる (forma unión -te) + 行く (pasado).
 暑くなっていった (empezó a hacer calor)
 
 ### Hacer algo e ir - negativo (〜ていかない、〜ていきません)
+{: .d-inline-block }
 
 N4
 {: .label .label-yellow }
@@ -2490,6 +2579,7 @@ compro y no voy –a algun sitio–
 ```
 
 ### Hacer algo e ir - pasado (〜ていった、〜ていきました)
+{: .d-inline-block }
 
 N4
 {: .label .label-yellow }
@@ -2518,6 +2608,7 @@ Ellos se volvieron populares
 ```
 
 ### Hacer algo e ir - pasado negativo (〜ていかなかった、〜ていきませんでした)
+{: .d-inline-block }
 
 N4
 {: .label .label-yellow }
@@ -2538,6 +2629,7 @@ no compré y no fui –a algun sitio–
 ```
 
 ### Hacer algo y volver (〜てくる、〜てきます)
+{: .d-inline-block }
 
 N4
 {: .label .label-yellow }
@@ -2593,6 +2685,7 @@ Hasta este momento he estudiado kanji cada día.
 ```
 
 ### Estar empezando a (〜てなってくる)
+{: .d-inline-block }
 
 N4
 {: .label .label-yellow }
@@ -2607,6 +2700,7 @@ Utiliza el verbo なる (forma unión -te) + くる.
 ```
 
 ### Estar empezando a - pasado (〜てなってきた)
+{: .d-inline-block }
 
 N4
 {: .label .label-yellow }
@@ -2621,6 +2715,7 @@ Utiliza el verbo なる (forma unión -te) + くる (pasado).
 ```
 
 ### Hacer algo y volver - negativo (〜てこない、〜てきません)
+{: .d-inline-block }
 
 N4
 {: .label .label-yellow }
@@ -2641,6 +2736,7 @@ no compro y vuelvo
 ```
 
 ### Hacer algo y volver - pasado (〜てきた、〜てきました)
+{: .d-inline-block }
 
 N4
 {: .label .label-yellow }
@@ -2669,6 +2765,7 @@ Pueden continuar haciéndose cada vez más populares o pueden dejar de serlo.
 ```
 
 ### Hacer algo y volver - negativo (〜てこなかった (てくる、〜てきませんでした)
+{: .d-inline-block }
 
 N4
 {: .label .label-yellow }
@@ -2689,6 +2786,7 @@ no compré y volví
 ```
 
 ### Acción hecha por accidente o terminada (〜てちゃう、〜てしまう、〜てしまいました )
+{: .d-inline-block }
 
 N4
 {: .label .label-yellow }
@@ -2742,6 +2840,7 @@ My mujer, mis amigos, mi trabajo… lo dejé todo atrás [por completo] hace tre
 ```
 
 ### Acción hecha por accidente o terminada - pasado (〜てちゃった、〜てしまった)
+{: .d-inline-block }
 
 N4
 {: .label .label-yellow }
@@ -2762,6 +2861,7 @@ morí
 ```
 
 ### No debo ~ (〜て / で + (ちゃ / じゃ o は) / + いけない o いけません o ダメ)
+{: .d-inline-block }
 
 N5
 {: .label .label-red }
@@ -2819,6 +2919,7 @@ Por favor, no ponga la calefacción.
 ## Sílaba お（こ、そ、と、の、ほ、も、ろ）
 
 ### Volicional informal (expresar deseo / 〜う、〜よう)
+{: .d-inline-block }
 
 N4
 {: .label .label-yellow }
@@ -2846,6 +2947,7 @@ escuchemos o Vamos a escuchar.
 ```
 
 ### Volicional de probabilidad (Probablemente, parece que ~, supongo ~ / 〜たろう、〜だろう)
+{: .d-inline-block }
 
 N4
 {: .label .label-yellow }
@@ -2868,6 +2970,7 @@ probablemente murió
 ```
 
 ### Probar a hacer algo por primera vez (〜とする)
+{: .d-inline-block }
 
 N3
 {: .label .label-purple }

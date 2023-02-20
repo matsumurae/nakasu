@@ -15,6 +15,7 @@ permalink: /gramatica/conjunciones
 {:toc}
 
 ## Por eso ~, Es por eso que ~, Entonces ~ o Debido a ~ / から o だから
+{: .d-inline-block }
 
 N5
 {: .label .label-red }
@@ -50,6 +51,7 @@ Daikichi, ¿está bien si compramos esta merienda? ¡¿SNACK?! Ah… es porque s
 ```
 
 ## Pero ~, sin embargo ~, aunque ~ / でも, しかし
+{: .d-inline-block }
 
 N5
 {: .label .label-red }
@@ -76,6 +78,7 @@ Me encanta Kyoto. Sin embargo, el verano de Kyoto es muy caluroso.
 ```
 
 ### Grados de formalidad
+{: .d-inline-block }
 
 N5
 {: .label .label-red }
@@ -107,6 +110,7 @@ Quiero encontrarme con él pero no tengo el coraje para hacerlo
 | けれども | Formal y educado |
 
 ## Y, y entonces, y ahora / そして
+{: .d-inline-block }
 
 N5
 {: .label .label-red }
@@ -127,6 +131,7 @@ Piensa correctamente y luego camina despacio
 | ピザを食べました。それから映画を見ました <br> Podría ver la peli (B) sin comer la pizza (A). | 私は朝5時に起きました。そして、散歩に出かけました <br> No puedo ir a pasear (B) si no me despierto primero (A). |
 
 ## Después de eso, desde entonces / それから
+{: .d-inline-block }
 
 N5
 {: .label .label-red }

@@ -16,6 +16,7 @@ permalink: /transcripts/particulas/logicas
 {:toc}
 
 ## ¿Quién / Qué lo hizo? / が
+{: .d-inline-block }
 
 N5
 {: .label .label-red }
@@ -70,6 +71,7 @@ Puedo leer Japonés pero, no puedo hablarlo.
 ***
 
 ## ¿A quién se le hizo o quién recibió la acción? / を
+{: .d-inline-block }
 
 N5
 {: .label .label-red }
@@ -109,6 +111,7 @@ Hice esperar a mi amigo durante 30 minutos.
 ***
 
 ## ¿A dónde ha ido? / に
+{: .d-inline-block }
 
 N5
 {: .label .label-red }
@@ -144,6 +147,7 @@ Un pokemon ha volado frente a ti
 </figure>
 
 ### Convertirse en… (になる) (puede expresar conversión o deseo)
+{: .d-inline-block }
 
 N5
 {: .label .label-red }
@@ -178,6 +182,7 @@ Yo también me haré fuerte
 ```
 
 ### Ir a hacer ~ (に行く)
+{: .d-inline-block }
 
 N5
 {: .label .label-red }
@@ -240,6 +245,7 @@ Está en el puente
 ***
 
 ## ¿En qué dirección? / へ
+{: .d-inline-block }
 
 N5
 {: .label .label-red }
@@ -265,6 +271,7 @@ Voy al parque
 ***
 
 ## ¿Dónde ha sucedido? / で
+{: .d-inline-block }
 
 N5
 {: .label .label-red }
@@ -399,6 +406,7 @@ Entonces… ¿qué comeremos?
 ***
 
 ## ¿A quién pertenece? / の
+{: .d-inline-block }
 
 N5
 {: .label .label-red }

@@ -16,6 +16,7 @@ permalink: /transcripts/particulas/no-logicas
 {:toc}
 
 ## La famosa は
+{: .d-inline-block }
 
 N5
 {: .label .label-red }
@@ -108,6 +109,7 @@ Es como si en español dijéramos… "Oye, que acabo de ir al hospital y tu tío
 **Esa es la sensación.**
 
 ## También o incluso / も
+{: .d-inline-block }
 
 N5
 {: .label .label-red }
@@ -184,6 +186,7 @@ Nancy ni siquiera escucha lo que le digo.
 ```
 
 ### Tanto(s) como ~, hasta ~, casi ~
+{: .d-inline-block }
 
 N4
 {: .label .label-yellow }

@@ -16,6 +16,7 @@ permalink: /transcripts/particulas/otras
 {:toc}
 
 ## Preguntas u opciones / か
+{: .d-inline-block }
 
 N5
 {: .label .label-red }
@@ -143,6 +144,7 @@ al punto de las lágrimas
 ```
 
 ## Citar a alguien o dar una lista de opciones / と
+{: .d-inline-block }
 
 N5
 {: .label .label-red }
@@ -298,6 +300,7 @@ Pareciéndose a una persona famosa.
 ```
 
 ## Listar opciones / や
+{: .d-inline-block }
 
 N5
 {: .label .label-red }
@@ -347,6 +350,7 @@ Me gusta mirar las estrellas.
 ```
 
 ## Pero, aunque o "para ~"  / のに
+{: .d-inline-block }
 
 N4
 {: .label .label-yellow }
@@ -393,6 +397,7 @@ Lo usas [para] llevar arroz de los arrozales
 | お店に行ったけどパンがなかった <br> Fui a las tiendas **pero** no había pan | パンが美味しいのにお客さんが来ない <br> **Aunque** el pan es delicioso, los clientes no vienen |
 
 ## Dar una explicación / のは ~ だ, のは ~ です
+{: .d-inline-block }
 
 N4
 {: .label .label-yellow }
@@ -431,6 +436,7 @@ Es un domingo soleado pero… (estoy enfermo y no puedo salir)
 > **Uso:** Convertir una frase A hace B en A es B.
 
 ### のだ、んだ、のです、んです
+{: .d-inline-block }
 
 N5
 {: .label .label-red }
@@ -574,6 +580,7 @@ Le deseo lo mejor en sus esfuerzos.
 ```
 
 ## Debido a, dado que, desde / ので
+{: .d-inline-block }
 
 N5
 {: .label .label-red }
@@ -718,6 +725,7 @@ Te digo / dije que pares
 ```
 
 ## Razonamiento o enfatizar hechos / し
+{: .d-inline-block }
 
 N4
 {: .label .label-yellow }

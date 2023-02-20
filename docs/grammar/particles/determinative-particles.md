@@ -25,6 +25,7 @@ Usado para decir "hacemos X o algo parecido".
 ```
 
 ## Cuánto ~, Alrededor de ~, aproximadamente ~ / くらい, ぐらい
+{: .d-inline-block }
 
 N5
 {: .label .label-red }

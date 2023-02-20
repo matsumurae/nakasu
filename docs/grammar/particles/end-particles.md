@@ -16,6 +16,7 @@ permalink: /transcripts/particulas/final
 {:toc}
 
 ## “¿Verdad?” / ね
+{: .d-inline-block }
 
 N5
 {: .label .label-red }
@@ -49,6 +50,7 @@ Vamos.
 ```
 
 ## Dar énfasis / よ (masculino)
+{: .d-inline-block }
 
 N5
 {: .label .label-red }
@@ -95,6 +97,7 @@ No hay tal cosa =  No puede ser cierto
 ```
 
 ## Dar énfasis / わ (femenino)
+{: .d-inline-block }
 
 Obsoleto
 {: .label .label-red }
