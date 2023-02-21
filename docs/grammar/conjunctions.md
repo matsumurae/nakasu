@@ -150,3 +150,84 @@ Y luego, después de un corto tiempo, hablando de mí, contraté a un nuevo limp
 ¡Perdóneme! ¿Podemos pedir? Bagel de huevo para él y luego, hablando de mí, me quedo con este bagel de salmón
 (Toradora!, 13:34 - 13:40, EP11)
 ```
+
+## Pero, sin embargo / でも
+{: .d-inline-block }
+
+N5
+{: .label .label-red }
+
+**No puede usarse con situaciones hipotéticas u objetivas.**
+
+Usado para unir dos frases, contradiciendo la primera. Viene de それでも, es la **forma hablada**.
+
+[A] puede ser relevante o no. Se utiliza para responder a algo con una justificación o una opinión contradictoria. También se puede usar para responder a algo subjetivamente con una pregunta, duda, insatisfacción, decepción, algo imprevisto o una conclusión contradictoria.
+
+Similar a しかし (que es más fuerte).
+
+```
+私は魚が好すきです。でも肉も好きです
+Hablando de mí, me gusta el pescado. [Pero] también me gusta la carne.
+
+パン屋に行きました。でも、何も買いませんでした
+Fui a la pastelería [pero] no compré nada.
+
+スーパーに行きました。でも、財布を忘れました！
+Fui a la tienda, ¡[pero] me olvidé de la cartera!
+```
+
+### Algo así ~
+
+Usado para decir "hacemos X o algo parecido".
+
+```
+コーヒーでも飲みませんか
+¿Tomamos café o algo?
+```
+
+### Diferencia entre しかし y でも
+
+| しかし        | でも          |
+|:-------------|:------------------|
+| "sin embargo" | "sí pero…" |
+| Reconoce [A] y añade hechos inesperados o contrastantes (opinión) [B] | Reconoce [A] y al mismo tiempo, muestra la coexistencia de alguna otra cosa [B] |
+
+## Pero, sin embargo / しかし
+{: .d-inline-block }
+
+N5
+{: .label .label-red }
+
+Mismo significado que でも, usado para contrastar [A] contra [B].
+
+```
+しかしなぜ？
+Pero ¿por qué? (expresar desacuerdo)
+
+日本は大好きです。しかし、日本の夏がとても暑いです
+Amo Japón [A]. [Sin embargo], ¡el verano es muy caluroso! [B]
+
+冬は寒い、しかし私は好きだ
+El invierno es frío [A], [sin embargo] me gusta [B].
+```
+
+## Si [A] se cumple, [B] también / と
+
+> **Uso:** V diccionario o neg (nai), (N o adj-na + だ) o (adj-i + い) + と.
+
+**Usado con verdades generales o hechos acerca de algo.**
+
+Esta conexión es irrompible, ya que siempre que ocurra A pasará B. La conexión entre A y B es muy fuerte.
+
+```
+毎日ピザを食べると太ります
+Si comes pizza cada día [A], te pondrás gordo [B].
+= [B] no se puede cumplir sin [A],
+pero si [A] se cumple, irremediablemente [B] también.
+
+このボタンを押すと、両方のドアが開きますよ
+Si presionas este botón, se abrirán ambas puertas.
+
+最初の角を右に曲がると、銀行が見えます
+Si gira a la derecha en la primera esquina, podrá ver el banco.
+```

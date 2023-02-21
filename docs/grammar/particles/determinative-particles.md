@@ -15,15 +15,6 @@ permalink: /transcripts/particulas/determinativas
 1. TOC
 {:toc}
 
-## Algo así / でも
-
-Usado para decir "hacemos X o algo parecido".
-
-```
-コーヒーでも飲みませんか
-¿Tomamos café o algo?
-```
-
 ## Cuánto ~, Alrededor de ~, aproximadamente ~ / くらい, ぐらい
 {: .d-inline-block }
 
@@ -73,4 +64,21 @@ Solo una persona
 ```
 できるだけ
 Hacer todo lo que puedas
+```
+
+## Incluso ~ o incluso si ~ / ても、でも
+
+> **Uso:** V -te, N, (adj na forma -te で) o (adj-i forma -te くて) + も.
+
+Se usa cuando queremos decir "Incluso X".
+
+```
+子供でも分かる
+[Incluso] un niño puede entender.
+
+先生でも間違う
+[Incluso] los maestros cometen errores.
+
+日曜日でも、働きます
+Trabajo [hasta] los domingos.
 ```

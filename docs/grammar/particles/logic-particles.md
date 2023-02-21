@@ -59,13 +59,21 @@ No, esto es lo que necesito.
 
 El chico ha cogido algo de la estantería pero resulta que **no es lo que buscábamos**. Por lo que nosotros le corregimos y señalamos que es **esto lo que quiero**.
 
-### "Pero…"
+### Comparación: [A] pero [B], Sin embargo ~
+
+> **Uso:** N + は ~ が ~ N + は
 
 Cuando queremos decir que hago A pero no hago B, podemos usar が.
 
 ```
-日本語を読むことはできますが 話すことはできません
-Puedo leer Japonés pero, no puedo hablarlo.
+日本語を読むこと[は]できます[が]話すこと[は]できません
+Puedo leer Japonés [pero] no puedo hablarlo.
+
+ひらがな[は]書けます[が]、漢字[は]書けません
+Puedo escribir hiragana [pero] no puedo escribir kanji.
+
+彼女は美人だが頭は良くない
+Ella es hermosa [pero] no muy inteligente.
 ```
 
 ***

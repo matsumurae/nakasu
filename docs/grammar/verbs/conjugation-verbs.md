@@ -1139,7 +1139,7 @@ Contrario de やすい y forma adverbial de にくい
 Corté la chuleta de cerdo en trozos para que sea más difícil de comer
 ```
 
-### Fácil de hacer - contrario にくい (〜やすい)
+### Fácil de hacer, probable que suceda ~, tener una tendencia a ~ - contrario にくい (〜やすい)
 {: .d-inline-block }
 
 N4
@@ -1160,6 +1160,23 @@ fácil de ver
 
 飲みやすい
 fácil de beber
+```
+
+#### Probable que suceda ("es probable que ~")
+
+```
+事故が起こりやすい
+[Es probable que] ocurran accidentes.
+```
+
+#### Tener una tendencia o ser propenso a algo
+
+```
+光に感じやすい
+Ser sensible a la luz.
+
+彼女はカゼを引きやすいです
+Hablando de ella, [es propensa a] resfriarse.
 ```
 
 ### Fácil de hacer - adverbio (〜やすく)
@@ -1205,6 +1222,8 @@ La impresión de este libro es demasiado pequeña, es difícil de leer
 | にくい       | づらい          |
 |:-------------|:------------------|
 | Más objetivo. | Significado subjetivo. Se limita a acciones intencionales. |
+| Viene de 難しい <br> Algo complicado o un desafío | Viene de 辛い <br> Algo duro emocional o físicamente. |
+| 言いにくい <br> difícil de decir (en su proceso) | 言いづらい <br> doloroso de decir (emocional o físico) |
 
 ### Difícil de hacer - adverbio (subjetivo) (〜づらく)
 {: .d-inline-block }
