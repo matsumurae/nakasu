@@ -2993,7 +2993,7 @@ intenta comerte el pastel
 pero INSISTES en que debe intentarlo (aunque luego no pueda).
 ```
 
-### Diferencia entre とする y て見る
+### Diferencia entre とする y て見る
 
 **Ninguno de los dos implica ser capaz de hacer X.**
 

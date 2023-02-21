@@ -365,7 +365,7 @@ Fui a la tienda [pero] no había pan.
 [Aunque] el pan es delicioso, los clientes no vienen.
 ```
 
-### Al final de la frase
+### Al final de la frase
 
 También se puede usar para dejar la conclusión a medias (final de la frase).
 
@@ -389,7 +389,7 @@ Lo usas [para] llevar arroz de los arrozales
 [para] volver a casa, tomó tres horas
 ```
 
-### Diferencia entre けど y のに
+### Diferencia entre けど y のに
 
 | けど        | のに          |
 |:-------------|:------------------|
@@ -602,7 +602,7 @@ Se usan para decir “Me pregunto” o “¿Debería ~?.
 
 **Con adjetivos な eliminar el な del final.**
 
-### Diferencia entre かな y のかな
+### Diferencia entre かな y のかな
 
 Se pueden usar indistintamente. Pero si quieres enfatizar la incertidumbre o tu duda, si puedes hacer algo o no, usa の
 

@@ -38,9 +38,39 @@ N5
 (Eromanga sensei, 2:20 - 2:21, S01EP08)
 ```
 
-### Para expresar cantidades aproximadas
+### Para expresar cantidades aproximadas
 
 ```
 今は100人くらいが部屋にいる
 Ahora hay aproximadamente 100 personas en la sala.
+```
+
+## Sólo ~, tanto como ~ / だけ
+
+> **Uso:** (V, N, (Adj-な + な), Adj-い) + だけ.
+
+Indica un límite.
+
+```
+遊んでるだけじゃない？
+¿No están solo jugando?
+(Ansatsu Kyoushitsu, 17:03 - 17:04, S01EP04)
+
+ホントですよ！今月だけでもう３回目
+¡Es verdad! Ya es la tercera vez sólo este mes
+(Gokudolls, 19:27 - 19:30, EP08)
+```
+
+### "Solo ~"
+
+```
+一人だけ
+Solo una persona
+```
+
+### “Tanto como ~"
+
+```
+できるだけ
+Hacer todo lo que puedas
 ```
