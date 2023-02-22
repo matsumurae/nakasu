@@ -126,7 +126,7 @@ Hablando del japonés, [no es tan] difícil.
 Si tienes [tantas] ganas de saberlo, te lo diré.
 ```
 
-## No importa cuánto ~ / どんなに～ても
+## Por mucho que ~ / どんなに～も
 {: .d-inline-block }
 
 N3
@@ -147,4 +147,69 @@ Se usa para expresar la medida de algo que es insuficiente. Se puede traducir co
 
 どんなに好きでも、それを伝えなければ始まらない
 [No importa cuánto] te puedan gustar, si no les dejas saber, nada comenzará nunca.
+```
+
+## Incluso si ~ / いくら～も
+{: .d-inline-block }
+
+N3
+{: .label .label-purple }
+
+Igual que どんなに.
+
+```
+お金はいくらあっても困りません
+Hablando de dinero, [incluso si] tienes nunca hay demasiado.
+
+これはいくら安くても、買いたくない
+[No importa] lo barato que sea, no quiero comprarlo.
+```
+
+### Diferencia entre いくら y どんなに
+
+| いくら | どんなに |
+|:------|:-------|
+| "Incluso si ~" | "Independientemente de ~" |
+| Tiene cierto límite, la situación se puede esperar hasta cierto punto | Espera lo inesperado. |
+| **いくら**雨が降っても、キャンセルしない <br> **Incluso si** llueve, no lo vamos a cancelar | **どんなに**雨が降っても、キャンセルしない <br> **por mucho que** llueva no lo vamos a cancelar |
+
+## Realmente no es ~ o particularmente no es ~ / 別に~
+{: .d-inline-block }
+
+N3
+{: .label .label-purple }
+
+> **Uso:** 別に + V neg o (N + ではない) o adj neg.
+
+```
+それは別に悪いことでもない
+Eso [no es particularmente] malo.
+
+別に彼のために作ったわけではない
+[Realmente no] lo hice por él.
+
+この仕事には別に期限はない
+[No] hay límite de tiempo [en particular] para completar este trabajo.
+```
+
+## Tanto como sea posible o tanto como puedas / なるべく
+{: .d-inline-block }
+
+N3
+{: .label .label-purple }
+
+> **Uso:** なるべく + acción.
+
+Imagina que te vas de viaje por primera vez. Tu madre (como es lógico), está preocupada. Ay esas madres… Antes de que te marches, te dice:
+
+```
+なるべく気をつけてください
+¡Por favor, sé [tan] cuidadoso [como puedas]!
+```
+
+Lo que hace なるべく es exagerar lo que decimos después de ello. Por ejemplo, imagina que estás en baja forma y el médico te dice:
+
+```
+なるべく運動すべきです
+Debes ejercitarte [tanto como sea posible].
 ```

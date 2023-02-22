@@ -804,24 +804,73 @@ N4
 - なら
 - ならば = Más formal
 
-## Como ~, Cosas como ~, o similar, etc. / 〜など
+## Dar ejemplos (cosas como ~), mostrar modestia o menospreciar de algo / なんか, なんて, など
 {: .d-inline-block }
 
-N4
-{: .label .label-yellow }
+N3
+{: .label .label-purple }
 
-> **Uso:** N + など.
+> **Uso:** N + なんか, なんて, など.
+
+### Dar ejemplos
+
+Esto tiene varios usos. Uno de ellos es dar ejemplos.
 
 ```
+試験も近いし、テレビなど見ている暇はない
+Los exámenes están cerca y no tengo tiempo para hacer [cosas como] ver la televisión.
+
 私は小説や映画などが好きです
-Hablando de mí, me gustan cosas [como] novelas, películas, etc.
+Hablando de mí, me gustan [cosas como] novelas, películas, etc.
 
 私はとても車などは買えない
 Hablando de mí, no puedo permitirme comprar un coche (o algo similar).
 
 学校をやめて海外に行くことなどと言っている 
-Habla de cosas [como] dejar la escuela e irse al extranjero.
+Habla de [cosas como] dejar la escuela e irse al extranjero.
 ```
+
+### Mostrar modestia
+
+```
+彼は私なんかよりすごい人だよ
+Hablando de él, es mucho mejor hombre que yo.
+
+彼は私などには目もくれようとしないだろう
+Hablando de él, nunca se molestaría en fijarse en (alguien como) yo.
+```
+
+### Menospreciar algo (Realmente ~)
+
+Imagina que un amigo tuyo te cuenta como conoció a una maravillosa chica que nadie conoce… Así que, lógico, tú le dices "pero tío… ¿en serio crees que alguien te va a creer? suena a trola".
+
+```
+お前の話なんか誰が信じるもんか
+¿Quién va a creer tu historia?
+```
+
+O que alguien admite haber visto un fantasma, por lo que tú te burlas:
+
+```
+幽霊なんかいるもんか
+¡Cómo podría alguien creer en fantasmas!
+```
+
+En realidad, no tiene un significado concreto y es más bien la "sensación" o "sentimiento" que expresa.
+
+```
+カラオケなんか行きたくない
+[Realmente] no quiero ir al karaoke.
+
+納豆なんて嫌いだ
+[Realmente] odio el natto.
+```
+
+### Diferencia entre なんか, なんて y など
+
+| なんか | なんて | など |
+|:------|:------|:----|
+| Informal <br> usado en japonés hablado | menos formal <br> usado en japonés hablado | formal <br> más usado en forma escrita |
 
 ## Mientras, durante, como, simultáneamente (Hacer A mientras se hace B) / ながら
 {: .d-inline-block }

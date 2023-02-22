@@ -448,3 +448,26 @@ Existen dos significados:
 Debido a que mi presión arterial era baja, pensé que iba a colapsar.
 =[Como] mi presión arterial era baja, pensé que iba a colapsar.
 ```
+
+## Porque ~, la razón es porque ~ / なぜなら(ば), なぜかというと, どうしてかというと
+{: .d-inline-block }
+
+N3
+{: .label .label-purple }
+
+> **Uso:** Resultado + なぜなら(ば) + razón.
+
+**Usado en ocasiones formales.**
+
+Se usa para dar explicaciones algo. Lo podrías traducir como "bueno… pues si quieres saber porque… TE LO VOY A DECIR GI**" (Eso último no viene incluído).
+
+```
+なぜかというと、私は本が好きだからです
+[La razón es porque] me gustan los libros.
+
+なぜなら彼は病気だったからです
+[Porque] él estaba enfermo.
+
+買いたいけど買えません。なぜならばお金がないからです
+Quiero comprarlo pero no puedo. [La razón es porque] no tengo dinero.
+```

@@ -487,3 +487,19 @@ Hablando de Inoue, [parece que] todavía está despierto.
 
 | そう | あのラーメンは美味しいそうです (viendo el aspecto del ramen) <br> Hablando de ese ramen, se ve delicioso = tiene buena pinta. |
 | よう | あの店のラーメンは美味しいようです (viendo la cola que hay) <br> Hablando de esta tienda de ramen, parece que es buena. |
+
+## Más y más ~, continúa ~ / 一方だ
+{: .d-inline-block }
+
+N3
+{: .label .label-purple }
+
+> **Uso:** V diccionario + 一方だ.
+
+```
+最近、この町の人口は減る一方だ
+La población de este pueblo ha estado [continúa] disminuyendo últimamente.
+
+日本に来る外国人の数は増える一方だ
+El número de extranjeros que vienen a Japón [sigue] aumentando.
+```
