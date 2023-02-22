@@ -135,3 +135,62 @@ incluso algo como el sonido es [completamente] diferente
 全然眠い
 [completamente] somnoliento
 ```
+
+## Seguramente, sin duda, ciertamente / 確かに
+{: .d-inline-block }
+
+N3
+{: .label .label-purple }
+
+> **Uso:** 確かに + frase.
+
+```
+それは確かにそのように見えます
+Hablando de eso, [ciertamente] se ve de esa manera.
+
+私は確かに少し疲れている
+Hablando de mí, [sin duda] estoy un poco cansado.
+
+僕は、彼女の言うことが確かに正しいと思う
+Hablando de mí, creo que ella [ciertamente] tiene razón.
+```
+
+## Por ejemplo… / 例えば
+{: .d-inline-block }
+
+N3
+{: .label .label-purple }
+
+> **Uso:** 例えば + frase.
+
+Se puede usar tanto al principio como siendo la continuación de algo: "No se puede hacer. Por ejemplo, si tenemos…" o "Por ejemplo, calcula esto".
+
+```
+日本の食べ物は美味しいです。例えば、すしはすごく美味しい！
+Hablando de la comida japonesa, es  deliciosa. [Por ejemplo], ¡el sushi es muy delicioso!
+
+私にはたくさん趣味がある。例えば魚釣り、登山です。
+Hablando de mí, tengo muchos hobbies como [por ejemplo] pesar y escalar.
+
+私は例えばイタリアやスペインなど外国へ行きたい
+Hablando de mí, me gustaría visitar países extranjeros, [por ejemplo] Italia y España.
+```
+
+## Incluso si [A], pasará [B] / たとえ～も
+{: .d-inline-block }
+
+N3
+{: .label .label-purple }
+
+> **Uso:** たとえ + V -te o (N + で) o adj-na -te o adj-i -te + も
+
+```
+たとえ彼は忙しくても来るよ
+[Incluso si] está ocupado, vendrá.
+
+たとえ明日雨が降っても私は出かけるつもりです
+[Incluso si] llueve, planeo salir mañana.
+
+たとえ君が何を言っても私の気持ちは変わらない
+[No importa] lo que digas, mis sentimientos no cambiarán.
+```

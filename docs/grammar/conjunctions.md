@@ -398,3 +398,53 @@ Hablando de mí, me encanta la comida japonesa [como] el sushi, el ramen, etc.
 |:----|:---|
 | Puede usarse las veces que quieras | solo puede ser usado **UNA VEZ** |
 | Puede usarse como など: [A] とか o [A] とか [B] とか. | - |
+
+## Pero, sin embargo / (ん/の) だけど, ですけど
+{: .d-inline-block }
+
+N3
+{: .label .label-purple }
+
+> **Uso:** V casual o N o adj-na o (adj-i + い) + だけど.
+
+Igual que けど, solo que esa es más casual. Para hacerlo más casual, añade の o ん delante
+
+Es la unión de だ/です con けど.
+
+```
+スキー行きたいんだけど、お金が全然ないよ
+Quiero ir a esquiar [pero] no tengo dinero.
+
+彼女はかわいいんだけど僕のタイプではない
+Hablando de ella, es mona [pero] no es mi tipo.
+
+私は女だけど。それがなにか？
+[Sin embargo] soy una mujer. ¿Qué pasa con eso?
+```
+
+## A causa de, para o con el fin de ~, Debido a o como resultado de ~ / ため(に)
+{: .d-inline-block }
+
+N3
+{: .label .label-purple }
+
+> **Uso:** V o (N + の) o (adj-na + な) o adj-i + ため(に).
+
+Existen dos significados:
+
+1. Con el fin de ~: "Con el fin de conseguir la paz, iré a la guerra".
+2. Debido a ~: "Debido a lo que pasó, no pude dormir".
+
+```
+日本へ旅行をするために、貯金しています
+[Con el fin de] viajar a Japón, estoy ahorrando dinero.
+= Estoy ahorrando dinero [para] viajar a Japón.
+
+彼氏に会うために、東京に行きます
+[Con el fin de] ver a mi novio, iré a Japón.
+= Voy a Tokio [para] ver a mi novio.
+
+私は血圧が低かったため、倒れそうになった
+Debido a que mi presión arterial era baja, pensé que iba a colapsar.
+=[Como] mi presión arterial era baja, pensé que iba a colapsar.
+```

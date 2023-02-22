@@ -87,3 +87,21 @@ Vuelva (pasado) a verificar si escribió el nombre o no.
 田中さんが大学を卒業できたかどうか知っていますか
 ¿Sabes si Tanaka se graduó de la universidad o no?
 ```
+
+## En resumen, en pocas palabras, es decir / つまり
+{: .d-inline-block }
+
+N3
+{: .label .label-purple }
+
+> **Uso:** cláusula + つまり + explicación alternativa.
+
+Se utiliza cuando se da una explicación para hacer algo más fácil de entender.
+
+```
+彼は獣医、つまり、動物の医者です
+Hablando de él, es veterinario. [En pocas palabras], es médico de animales.
+
+彼女は姉の娘だ。つまり、私にとっては姪です
+Hablando de ella, es la hija de mi hermana. [Es decir], ella es mi sobrina.
+```

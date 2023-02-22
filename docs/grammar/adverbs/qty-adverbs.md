@@ -125,3 +125,26 @@ Hablando del japonés, [no es tan] difícil.
 そんなに知りたいのなら教えるよ
 Si tienes [tantas] ganas de saberlo, te lo diré.
 ```
+
+## No importa cuánto ~ / どんなに～ても
+{: .d-inline-block }
+
+N3
+{: .label .label-purple }
+
+> **Uso:** どんなに + V -te o N o adj-na -te o adj-i -te + も.
+
+Combina どんなに con ても (N4).
+
+Se usa para expresar la medida de algo que es insuficiente. Se puede traducir como "no importa cómo (A), (B)".
+
+```
+どんなに頑張っても、70点しか取れなかった
+[No importa cuánto] lo intenté, nunca obtuve más de 70 puntos.
+
+どんなに苦しくても最後まで走り抜くつもりだ
+[No importa cuán] doloroso sea, planeo correr hasta el final.
+
+どんなに好きでも、それを伝えなければ始まらない
+[No importa cuánto] te puedan gustar, si no les dejas saber, nada comenzará nunca.
+```
