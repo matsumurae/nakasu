@@ -967,3 +967,37 @@ La gente [dice que] siempre hay un mañana.
 彼はかっこいいというよりかわいい
 Hablando de él, la gente [dice que] es más mono que guay.
 ```
+
+## Querer recordar algo / っけ
+{: .d-inline-block }
+
+N3
+{: .label .label-purple }
+
+> **Uso:** V o (N, adj-na + (だ / だった)) o (adj-i + かった) + っけ.
+
+Muy usada en conversaciones, usada para tratar de recordar algo "he olvidado X, que era…".
+
+```
+誰?どっかで会ったっけ?
+¿Quién? ¿Nos hemos conocido en alguna parte?
+(One punch man, 2:22 - 2:24, S02EP09)
+
+お兄ちゃん 話聞いてた  
+ああ　ごめんごめん 何だっけ
+Hermano, ¿escuchaste lo que dije?
+Aah… Lo siento. ¿Qué era?
+(Orenchi no furo jijou, 1:06 - 1:13, EP07)
+
+いや　なんかすっげぇ長い夢を見ていた気がするんだけど何だったっけ
+思い出せねぇな
+Bueno… se siente como si hubiera tenido un sueño
+increíblemente largo o algo así pero… ¿qué era? no puedo recordarlo
+(Shingeki! Kyojin chuugakkou, 0:47 - 0:54, EP01)
+
+交流会って 何？
+あ？ 言ってなかったっけ？
+"Reunión de intercambio", ¿Qué es?
+¿Ah? ¿No te lo había dicho?
+(Jujutsu Kaisen, 19:16 - 19:19:21, EP07)
+```
