@@ -161,12 +161,67 @@ Que ruidoso / que persona más ruidosa (no estamos diciendo que se calle, damos 
 
 En la segunda opción, lo que quieres decir realmente es "¡Dios, cállate de una maldita vez pesado!" pero como no quieres ser desagradable… Simplemente dejas en el aire "que ruidosa es la gente" esperando que se de por aludido. Quieres que lo escuche a ver si se calla de una vez.
 
-## "Me pregunto…" / かな
+## "Me pregunto…" / かな o 〜かしら
+{: .d-inline-block }
 
-Unimos か (pregunta) + な (sentimiento de uno mismo) = pregunta a uno mismo. Es la típica pregunta al aire que lanzamos. Por ejemplo, miras al cielo y ves que está nublado y dices "Ah… me pregunto si lloverá. Me va a fastidiar los planes". No estás buscando confirmación, simplemente expresas tus pensamientos.
+N4
+{: .label .label-yellow }
+
+Unimos か (pregunta) + な (sentimiento de uno mismo) = pregunta a uno mismo. Es la típica pregunta que lanzamos al aire.
+
+Se usa para: 
+- Contemplar sobre hacer algo
+- Preguntarse si algo pasará
+- Expresar dudas y pedir consejo
+- Expresar esperanza
+- Ofrecer una opinión
+- Hacer una sugerencia
+- Pedir un pequeño favor
+- Expresar deseo o intención
+
+Por ejemplo, miras al cielo y ves que está nublado y dices "Ah… me pregunto si lloverá. Me va a fastidiar los planes". No estás buscando confirmación, simplemente expresas tus pensamientos.
 
 ```
 明日は雨が降るかな
 Hablando de mañana, me pregunto si caerá lluvia
 Me pregunto si lloverá mañana
 ```
+
+かしら es la versión femenina de かな. かな es la versión ambigua, usado por ambos.
+
+```
+彼女は元気かな
+Me pregunto si ella está bien.
+
+雨が降るかな
+Me pregunto si lloverá.
+
+死んだら、生まれ変われるかしら？
+Si muero, ¿me pregunto si volveré a renacer?
+
+本当かしら
+Me pregunto si es cierto.
+```
+
+## Convertir una pregunta en “sí o no” / 〜かい
+{: .d-inline-block }
+
+N4
+{: .label .label-yellow }
+
+**Casual (porque es directo).** Normalmente, en japonés no lanzas la pregunta directa si no que lo haces de forma indirecta.
+
+```
+歩けるかい？
+¿Puedes caminar? (si o no)
+
+コーヒーいるかい？
+¿Quieres café? (sí o no)
+```
+
+### Diferencia entre か y かい
+
+| か | かい |
+|:---|:----|
+| pregunta simple | pregunta de sí o no |
+| 女の人に振られたのですか？ <br> ¿Fuiste engañado por una mujer? | 女の人に振られたのかい？ <br> ¿Fuiste engañado por una mujer? (si o no) |

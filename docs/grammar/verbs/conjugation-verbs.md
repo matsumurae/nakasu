@@ -1397,6 +1397,73 @@ Estoy tan feliz que podría morir
 = me muero de felicidad
 ```
 
+### Empezar a ~, irrumpir en ~ / 〜出す
+{: .d-inline-block }
+
+N4
+{: .label .label-yellow }
+
+| Ichidan        | Godan          |
+|:-------------|:------------------|
+| Raíz + 出す | Raíz + sílaba い + 出す |
+
+Sería como decir “empezar a ~ de repente” → Echarse a reír (de repente), empezar a pensar (de repente).
+
+```
+笑い出す
+Echarse a reír
+= reír de repente
+
+飛び出す
+Saltar volando o salir corriendo
+= volar de repente
+
+その日、人類は思い出した
+Ese día, la humanidad empezó a recordarlo.
+= recordar de repente
+
+敵は動き出しました
+El enemigo ha empezado a moverse.
+= empezó a moverse de repente
+```
+
+### Empezar a ~, estar empezando a ~ (intencionalmente) / 〜始める
+{: .d-inline-block }
+
+N4
+{: .label .label-yellow }
+
+| Ichidan        | Godan          |
+|:-------------|:------------------|
+| Raíz + 始める | Raíz + sílaba い + 始める |
+
+Expresa cuando algo está comenzando o acaba de comenzar. **Indica una acción que se inicia intencionalmente.**
+
+```
+食べ始める
+[empezar a] comer
+
+いつそれをやり始めるの？ 
+¿Cuándo empiezas eso? / ¿Cuándo [empezarás] con eso?
+
+今朝、歯が痛くなり始めた
+Mi diente [comenzó a] doler esta mañana.
+
+私は今年から働き始めたばかりです
+Hablando de mí, justo [empecé a] trabajar este año.
+
+私はまだ走り始めていない
+Hablando de mí, todavía [no he empezado] a correr.
+
+私はまだ夕食を作り始めていない
+Hablando de mí, aún [no he empezado] a cocinar la cena.
+```
+
+### Diferencia entre 出す y 始める
+
+| 出す | 子供が飛び出した <br> El niño saltó **(de repente)** |
+| 始める | 子供が飛び始めた <br> El niño **empezó a** saltar |
+
 ## Sílaba う（く、す、つ、ぬ、ふ、む、る）
 
 ### Diccionario

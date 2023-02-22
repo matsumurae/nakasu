@@ -2,6 +2,7 @@
 layout: default
 title: Adverbios
 parent: Gramática
+has_children: true
 nav_order: 6
 permalink: /gramatica/adverbios
 ---
@@ -98,13 +99,10 @@ Se usan con referencias temporales, de duración o de frecuencia. En español se
 | 時々 (N5) | A veces |
 | まず | Primero |
 | もうすぐ | enseguida |
-| 決して | nunca |
 | 頻繁に | frecuentemente |
 | 年中 | todo el año |
-| 二度と | nunca más |
 | 少ない | raramente |
 | たまに | ocasionalmente |
-| 全然 | en absoluto |
 | まもなく | inmediatamente |
 | 後で | más tarde |
 
@@ -184,3 +182,11 @@ Por ejemplo, "ciertamente", "claro", "efectivamente", "exacto", "obviamente"…
 | まさか | ¡imposible! ¡no puede ser verdad! |
 | 流石に | era de esperar |
 | とにかく | en cualquier caso, como sea |
+
+### Negación
+
+Sirven para negar declaraciones y se usan en las oraciones negativas. Aquí encuentras cosas como "en absoluto, "jamás", "nunca", "tampoco"…
+
+| 決して | nunca |
+| 二度と | nunca más |
+| 全然 | en absoluto |

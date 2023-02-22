@@ -779,3 +779,191 @@ Hablando de esta calle, ya no es oscura ni peligrosa.
 彼は気分がいい時もあるし、悪い時もある
 Hablando de él, a veces se siente bien y a veces se siente mal.
 ```
+
+## Si ~ entonces ~ / 〜なら, 〜ならば
+{: .d-inline-block }
+
+N4
+{: .label .label-yellow }
+
+> **Uso:** N + なら o ならば.
+
+```
+数学なら彼女に聞いてみて
+[Si] se trata de matemáticas, [entonces] pregúntale a ella.
+
+便利ならば
+[Si] es conveniente…
+
+ピッざならば 
+[Si] es pizza…
+```
+
+### Formalidad
+
+- なら
+- ならば = Más formal
+
+## Como ~, Cosas como ~, o similar, etc. / 〜など
+{: .d-inline-block }
+
+N4
+{: .label .label-yellow }
+
+> **Uso:** N + など.
+
+```
+私は小説や映画などが好きです
+Hablando de mí, me gustan cosas [como] novelas, películas, etc.
+
+私はとても車などは買えない
+Hablando de mí, no puedo permitirme comprar un coche (o algo similar).
+
+学校をやめて海外に行くことなどと言っている 
+Habla de cosas [como] dejar la escuela e irse al extranjero.
+```
+
+## Mientras, durante, como, simultáneamente (Hacer A mientras se hace B) / ながら
+{: .d-inline-block }
+
+N4
+{: .label .label-yellow }
+
+> **Uso:** V raíz (o い en godan) + ながら.
+
+Siempre son dos verbos que están relacionados: A pasa mientras B. El verbo conectado a ながら es el verbo secundario, eso significa que el verbo que le sigue es la acción principal.
+
+```
+飲み[A]ながら話しましょう[A]！
+Hablemos [B] mientras bebemos [A]
+```
+
+Se usa para expresar acciones simultáneas (hacer A mientras se hace B). **No se puede usar con verbos relacionados con el tiempo.**
+
+```
+話を聞きながらメモします
+Tomo notas [mientras] escucho la historia.
+
+歩きながら話しましょう
+Hablemos [mientras] caminamos.
+
+勉強をしながら音楽を聞きます
+Escucho música [mientras] estudio.
+```
+
+## (y) Si ~, Si ~ entonces ~, En caso de que ~ / 〜なら
+{: .d-inline-block }
+
+N4
+{: .label .label-yellow }
+
+> **Uso:** N o (V casual o adj-na o adj-i + の) + なら.
+
+Ten en cuenta que solo se puede usar en situaciones hipotéticas. También se puede usar para mostrar confianza en el objetivo.
+
+{: .new-title }
+> Bien
+>
+> 暑いなら = Si hace calor…
+
+{: .warning-title }
+> Mal
+>
+> 秋になるなら (porque el otoño es algo seguro que pasa)
+
+```
+もし違うなら
+Si estás equivocado… ¿Y si estás equivocado?
+
+それなら問題ありません
+Si ese es el caso, entonces no hay problemas.
+
+君なら必ずできる
+Si eres tú, ¡definitivamente puedes hacerlo! (confianza en el objetivo)
+```
+
+## Algo acaba de ocurrir o terminar / 〜ばかり
+{: .d-inline-block }
+
+N4
+{: .label .label-yellow }
+
+> **Uso:** V pasado + ばかり.
+
+Se utiliza para decir que el verbo acaba de terminar o de pasar.
+
+```
+ゲーム終わったばかりだよ
+¡El juego [acaba de] terminar!
+
+今、始まったばかりです
+Recién [acaba de] empezar ahora.
+
+私は今起きたばかりです
+Hablando de mí, [acabo de] despertar ahora.
+
+入ったばかりの先生
+El profesor que [acaba de] unirse.
+```
+
+## Llamado o conocido como ~, Se dice o la gente dice que ~ / 〜という, 〜と言います, っていう
+{: .d-inline-block }
+
+N4
+{: .label .label-yellow }
+
+> **Uso:** N o Frase + と言います, と言う o っていう.
+
+**っていう es la contracción de と言う. Forma casual.**
+
+Para que entiendas la lógica, sobre lo que damos el detalle va después mientras que lo que se conoce va antes. “X se hace llamar”, “X es llamado” o “X es conocido como…”.
+
+```
+日本という国
+el país [llamado] Japón
+```
+
+Se utiliza para decir “ellos dicen que ~”, “la gente dice que ~”, “se dice que ~".
+
+```
+熱があるといっています
+[Dice que] tiene fiebre.
+```
+
+Cuando se habla del presente, se usa la forma といっている.
+
+```
+太郎君はお腹がすいたといっています
+Hablando de Tarou, [dice que] tiene hambre.
+```
+
+Podemos hablar en pasado también といいました o っていった.
+
+```
+熱があるっていってる = 熱があるっていった
+Dice que tiene fiebre = Dijo que tenía fiebre.
+```
+
+Si la persona que hace la acción va antes, usa は pero si va después, usa が.
+
+```
+トムさん[は]もう食べたといいました
+Hablando de Tom, ha dicho que ya ha comido.
+
+鼠だと小さな子供[が]叫びました
+Un niño chico gritó que había un ratón.
+```
+
+```
+ゲーム言語というチャネル
+El canal (de YT) [llamado / conocido como] Game Gengo.
+
+ここはケージっていう場所なの？
+Hablando de aquí, ¿Es este el lugar [llamado] La jaula?
+
+明日という日もある
+La gente [dice que] siempre hay un mañana.
+
+彼はかっこいいというよりかわいい
+Hablando de él, la gente [dice que] es más mono que guay.
+```

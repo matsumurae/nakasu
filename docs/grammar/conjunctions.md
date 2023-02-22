@@ -77,7 +77,7 @@ Sin embargo, el incidente parece ser un poco más complicado
 Me encanta Kyoto. Sin embargo, el verano de Kyoto es muy caluroso.
 ```
 
-### Grados de formalidad
+### Formalidad
 {: .d-inline-block }
 
 N5
@@ -103,7 +103,7 @@ Quiero encontrarme con él pero no tengo el coraje para hacerlo
 (Tonari no kaibutsu-kun, 18:50 - 18:53, EP13)
 ```
 
-### Grados de formalidad
+### Formalidad
 
 | けど | Casual |
 | けれど | Formal |
@@ -123,7 +123,7 @@ Piensa correctamente y luego camina despacio
 (91 days, 8:19 - 8:23, EP02)
 ```
 
-### Diferencia entre それから y そして
+### Diferencia entre それから y そして
 
 | それから        | そして          |
 |:-------------|:------------------|
@@ -177,12 +177,27 @@ Fui a la tienda, ¡[pero] me olvidé de la cartera!
 ```
 
 ### Algo así ~
+{: .d-inline-block }
 
-Usado para decir "hacemos X o algo parecido".
+N4
+{: .label .label-yellow }
+
+> **Uso:** N + でも.
+
+Usado para sugerir algo sin especificar.
 
 ```
 コーヒーでも飲みませんか
-¿Tomamos café o algo?
+¿Tomamos café [o algo]?
+
+ゲームでもしましょう！
+¡Vamos a jugar juegos [o algo]! / ¡[Qué tal si] jugamos!
+
+水でも飲みますか？
+¿Quiere beber agua [o algo]?
+
+パーティでもやるのか？
+¿Estáis montando una fiesta [o algo así]?
 ```
 
 ### Diferencia entre しかし y でも
@@ -231,3 +246,155 @@ Si presionas este botón, se abrirán ambas puertas.
 最初の角を右に曲がると、銀行が見えます
 Si gira a la derecha en la primera esquina, podrá ver el banco.
 ```
+
+## 〜または / Ambos, o, de lo contrario, elegir entre A y B
+{: .d-inline-block }
+
+N4
+{: .label .label-yellow }
+
+> **Uso:** N + または + N.
+
+Tiene dos significados:
+- Elegir una opción entre [A] y [B]. Una versión formal de か (“o”).
+- Ambas opciones [A] y [B] son válidas.
+
+```
+コーヒーまたはお茶からお選びください
+Por favor, Por favor, elija entre café o té (elegir entre a o b)
+
+日本語または英語で話せます
+Puedo hablar japonés e inglés (ambos).
+```
+
+## Sin embargo, aún así, pero / 〜それでも〜
+{: .d-inline-block }
+
+N4
+{: .label .label-yellow }
+
+> **Uso:** Frase 1 + それでも + frase 2.
+
+Combinación de それ + でも.
+
+**Suele expresar sorpresa en la segunda frase**, por lo que ambas están relacionadas.
+
+```
+今日は雨が降るよ、それでも釣りに行くの？
+Hablando de hoy, va a llover. [Aún así], ¿vas a ir a pescar?
+
+彼はテストの準備をしていなかった。それでも合格した
+Hablando de él, no se preparó para el examen. Pero [aun así] aprobó.
+```
+
+## Además / それに〜
+{: .d-inline-block }
+
+N4
+{: .label .label-yellow }
+
+> **Uso:** それに + frase.
+
+Se usa para unir declaraciones.
+
+```
+これはとっても美味しい、それに値段もいい
+Hablando de esto, es delicioso. [Además], el precio también es bueno.
+
+チーズバーガー、それにフライドポテトをお願いします
+Quiero una hamburguesa de queso. [Además], patatas fritas por favor.
+
+それに、私は日本語あまりが話せません
+[Además], hablando de mí, no no hablo mucho japonés.
+```
+
+## Si ~, Si ~ entonces ~ / 〜たら
+{: .d-inline-block }
+
+N4
+{: .label .label-yellow }
+
+Se utiliza de forma diferente dependiendo de la palabra:
+- V pasado + ら.
+- N o adj-na + だったら
+- adj-i (sin い) + かった
+
+Igual que なら.
+
+Usado para indicar suposiciones: Si [A] entonces [B]. Por eso, no puede existir B si no hay primero A. Lo que sí puede pasar es dejar la frase a medias, igual que “Si tuviera dinero… (haría muchas cosas)”.
+
+```
+お金があったら、旅行します
+[Si] tuviera dinero, me iría de viaje.
+
+甘い物を食べたら虫歯になる
+[Si] comes cosas dulces, te saldrán caries.
+```
+
+## Diría ~ / 〜と言っても(いい)
+{: .d-inline-block }
+
+N4
+{: .label .label-yellow }
+
+> **Uso:** Frase + と言っても(いい).
+
+La traducción literal es “incluso si dices eso, estaría bien”.
+
+Usado para expresar que alguien dice algo (yo o otra persona).
+
+```
+それはよい買い物だったといってもいいでしょう
+[Diría que] fue una buena compra.
+
+彼はやさしいが，だまされやすいといってもいい
+Hablando de él, [diría que] es amable pero crédulo.
+```
+
+## Como ~, entre otras cosas, algo así / とか～とか
+{: .d-inline-block }
+
+N4
+{: .label .label-yellow }
+
+Dos formas de usarlo:
+- V diccionario + とか + V diccionario + とか
+- N + とか + N + とか
+
+**Implica que hay más cosas además de las que se mencionan.** Es similar a でも (“algo así”).
+
+```
+日本の新聞とか読むの？
+¿Lees periódicos japoneses [o algo así]?
+
+このイベントでは、バーベキューとかゲームとかをします
+En este evento haremos cosas [como] barbacoa y [como] juegos.
+
+毎日、5分とか、10分とかでもいいので、運動をしたほうがいいですよ
+Debes hacer ejercicio todos los días, [como] 5 minutos y [como] 10 minutos está bien.
+```
+
+### Enumerar varias cosas
+
+```
+私はおすしとかラーメンとか日本料理が好きです
+Hablando de mí, me encanta la comida japonesa [como] el sushi, el ramen, etc.
+```
+
+### Dar un solo ejemplo pero que implique más
+
+```
+趣味とかありますか？
+¿Tienes algún pasatiempo (o cualquier otra cosa que hagas)?
+```
+
+### Diferencia entre と, とか y や
+
+| と | とか |
+|:---|:----|
+| **define claramente las cosas** <br> esto Y esto (y nada más) | **da una lista de opciones sin cerrarla** <br> esto y esto (y más cosas), igual que や |
+
+| とか | や |
+|:----|:---|
+| Puede usarse las veces que quieras | solo puede ser usado **UNA VEZ** |
+| Puede usarse como など: [A] とか o [A] とか [B] とか. | - |
