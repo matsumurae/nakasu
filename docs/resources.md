@@ -24,36 +24,42 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 - Tiene audio log. Esto significa que puedes abrir el log (de todos los diálogos ya dichos) y volver a escucharlos todas las veces que quieras. ¡Y tienen el texto también! **Muy útil si no hemos pillado bien una palabra.**
 - Tiene voice acting. Hay muchos juegos que, aunque tengan diálogos en japonés, no hablan = solo hay texto para leer. ¿Recuerdas los viejos Pokemon donde solo podías leer?
 
-### Switch
-
-| Nombre        | Nombre japonés          | ¿Voice / audio log? | ¿Voice / audio acting? | ¿furigana?
-|:-------------|:------------------|:--------|:------------|:-------------|
-| 13 sentinels: aegis rim           | 十三機兵防衛圏 | ✅ | ✅ | ❌ |
-| Ni no kuni           | 二ノ国 | ❌ | ✅ | ✅ |
-| Famicom detective club           | ファミコン探偵倶楽部 | ❌ | ✅ | ✅ |
-| Buddy mission bond           | バディミッション BOND | ✅ | ✅ | Algunos |
-| Persona 3 portable           | P3P | ✅ | ✅ | ❌ |
-| Persona 4 golden           | P4G | ✅ | ✅ | ❌ |
-| Persona 5 royal           | P5R | ✅ | ✅ | ❌ |
-| Fire emblem: Fūin no Tsurugi           | ファイアーエムブレム封印の剣 | ✅ | ❌ | ❌ |
-| Boku no natsuyasumi Tsurugi           | 僕の夏休み | ❌ | ❌ | ❌ |
-| Yo-kai watch 1 y 4           | 妖怪ウォッチ | ❌ | ❌ | ✅ |
-| Yokai gakuen Y           | 妖怪ウォッチJam: 妖怪学園Y 〜Nとの遭遇〜 | ✅ | ✅ | ✅ |
-| Marco & the galaxy dragon           | マルコと銀河竜 | - | - | - |
-| Dragon quest 11           | ドラゴンクエストXI 過ぎ去りし時を求めて | ❌ | ✅ | ✅ |
-| Crayon shin chan           | クレヨンしんちゃん『オラと博士の夏休み』 | ❌ | ❌ | ✅ |
-| Jack jeanne           | ジャックジャンヌ | - | - | - |
-| Fuuraiki 4           | 風雨来記 | - | Casi no tiene voces | - |
-| Triange strategy           | トライアングルストラテジー | ✅ | ❌ | ❌ |
-| Akiba trip           | アキバズトリップ | ✅ | ❌ | ✅ |
-| Megaton musashi           | メガトン級ムサシ | ❌ | ❌ | ✅ |
-| Pokemon escarlata           | ポケットモンスター スカーレット | ❌ | ❌ | ✅ |
-| Pokemon púrpura           | ポケットモンスター バイオレット | ❌ | ❌ | ✅ |
-| Pokemon legends: arceus           | Pokémon LEGENDS アルセウス | ❌ | ❌ | ✅ <br> Usa kanjis antiguos que ya no se usan |
-| Digimon survive           | デジモンサヴァイブ | ✅ | ✅ | ❌ |
-| Blue reflection           | ブルー リフレクション 幻に舞う少女の剣 | ✅ | ✅ | ❌ |
-| Danganronpa           | ダンガンロンパ | ✅ | ✅ | ❌ |
-| Nekopara           | ネコぱら | ✅ | ✅ | ❌ |
+| Consola | Nombre        | Nombre japonés          | ¿Voice / audio log? | ¿Voice / audio acting? | ¿furigana?
+|:---------|:-------------|:------------------|:--------|:------------|:-------------|
+| Switch | 13 sentinels: aegis rim           | 十三機兵防衛圏 | ✅ | ✅ | ❌ |
+| Switch | Ni no kuni           | 二ノ国 | ❌ | ✅ | ✅ |
+| Switch | Famicom detective club           | ファミコン探偵倶楽部 | ✅ | ✅ | ✅ |
+| Switch | Buddy mission bond           | バディミッション BOND | ✅ | ✅ | Algunos |
+| Switch | Persona 3 portable           | P3P | ✅ | ✅ | ❌ |
+| Switch | Persona 4 golden           | P4G | ✅ | ✅ | ❌ |
+| Switch | Persona 5 royal           | P5R | ✅ | ✅ | ❌ |
+| Switch | Fire emblem: Fūin no Tsurugi           | ファイアーエムブレム封印の剣 | ✅ | ❌ | ❌ |
+| Switch | Boku no natsuyasumi Tsurugi           | 僕の夏休み | ❌ | ❌ | ❌ |
+| Switch | Yo-kai watch 1 y 4           | 妖怪ウォッチ | ❌ | ❌ | ✅ |
+| Switch | Yokai gakuen Y           | 妖怪ウォッチJam: 妖怪学園Y 〜Nとの遭遇〜 | ✅ | ✅ | ✅ |
+| Switch | Marco & the galaxy dragon           | マルコと銀河竜 | - | - | - |
+| Switch | Dragon quest 11           | ドラゴンクエストXI 過ぎ去りし時を求めて | ❌ | ✅ | ✅ |
+| Switch | Crayon shin chan           | クレヨンしんちゃん『オラと博士の夏休み』 | ❌ | ❌ | ✅ |
+| Switch | Jack jeanne           | ジャックジャンヌ | - | - | - |
+| PS1/PS2 | Fuuraiki 1 (Hokkaido)          | 風雨来記1 | - | Casi no tiene voces | - |
+| PS2 | Fuuraiki 2 (Okinawa)          | 風雨来記2 | - | Casi no tiene voces | - |
+| PS Vita | Fuuraiki 2 (Hokkaido)          | 風雨来記3 | - | Casi no tiene voces | - |
+| Switch | Fuuraiki 4 (Gifu)          | 風雨来記4 | - | Casi no tiene voces | - |
+| Switch | Triange strategy           | トライアングルストラテジー | ✅ | ❌ | ❌ |
+| Switch | Akiba trip           | アキバズトリップ | ✅ | ❌ | ✅ |
+| Switch | Megaton musashi           | メガトン級ムサシ | ❌ | ❌ | ✅ |
+| Switch | Pokemon escarlata           | ポケットモンスター スカーレット | ❌ | ❌ | ✅ |
+| Switch | Pokemon púrpura           | ポケットモンスター バイオレット | ❌ | ❌ | ✅ |
+| Switch | Pokemon legends: arceus           | Pokémon LEGENDS アルセウス | ❌ | ❌ | ✅ <br> Usa kanjis antiguos que ya no se usan |
+| Switch | Digimon survive           | デジモンサヴァイブ | ✅ | ✅ | ❌ |
+| Switch | Blue reflection           | ブルー リフレクション 幻に舞う少女の剣 | ✅ | ✅ | ❌ |
+| Switch | Danganronpa           | ダンガンロンパ | ✅ | ✅ | ❌ |
+| Switch | Nekopara           | ネコぱら | ✅ | ✅ | ❌ |
+| VN (PC) | Grisaia: Phantom Trigger | - | ❌ | ✅ | ❌ |
+| VN (PC) | Tokyo School Life | - | ❌ | ✅ | ✅ |
+| Switch | Tales of Vesperia: Definitive Edition | テイルズ オブ ヴェスペリア | ❌ | ✅ | ❌ |
+| PC | Angels of Death | 殺戮の天使 | ❌ | ❌ | ❌ |
+| VN (PC) | Senren＊Banka | 千恋＊万花 | ❌ | ✅ | ❌ |
 
 ## Audio condensado
 
