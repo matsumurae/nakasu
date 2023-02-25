@@ -54,12 +54,47 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | Switch | Digimon survive           | デジモンサヴァイブ | ✅ | ✅ | ❌ |
 | Switch | Blue reflection           | ブルー リフレクション 幻に舞う少女の剣 | ✅ | ✅ | ❌ |
 | Switch | Danganronpa           | ダンガンロンパ | ✅ | ✅ | ❌ |
-| Switch | Nekopara           | ネコぱら | ✅ | ✅ | ❌ |
-| VN (PC) | Grisaia: Phantom Trigger | - | ❌ | ✅ | ❌ |
-| VN (PC) | Tokyo School Life | - | ❌ | ✅ | ✅ |
-| Switch | Tales of Vesperia: Definitive Edition | テイルズ オブ ヴェスペリア | ❌ | ✅ | ❌ |
+| Switch / PC | Nekopara Vol. 1           | ネコぱら1 | ✅ | ✅ | ❌ (simultaneos EN+JP) |
+| Switch / PC | Nekopara Vol. 2           | ネコぱら2 | ✅ | ✅ | ❌ (simultaneos EN+JP) |
+| Switch | Nekopara Vol. 3           | ネコぱら3 | ✅ | ✅ | ❌ (simultaneos EN+JP) |
+| Switch | Nekopara Vol. 4           | ネコぱら4 | ✅ | ✅ | ❌ (simultaneos EN+JP) |
+| PC / Switch | Tokyo School Life | - | ❌ | ✅ | ✅ (simultaneos EN+JP) |
+| PC | Malus Code | - | ❌ | ✅ | ✅ (simultaneos EN+JP) |
+| PC | Go Go Nippon | - | ❌ | ✅ | ❌ (simultaneos EN+JP) |
+| PC | Karakara | - | ❌ | ✅ | ❌ (simultaneos EN+JP) |
+| PC | Corona Blossom Vol 1 y Vol 2 | - | ❌ | ✅ | ❌ (simultaneos EN+JP) |
+| PC / Switch | Grisaia Phantom Trigger | グリザイアの果実 | ❌ | ✅ | ❌ (simultaneos EN+JP) |
+| Switch | Tales of Vesperia: Definitive Edition | テイルズオブヴェスペリア | ❌ | ✅ | ❌ |
 | PC | Angels of Death | 殺戮の天使 | ❌ | ❌ | ❌ |
-| VN (PC) | Senren＊Banka | 千恋＊万花 | ❌ | ✅ | ❌ |
+| PC / Switch | Senren＊Banka | 千恋＊万花 | ❌ | ✅ | ❌ |
+| PC / Switch | WitchSpring3 | 魔女の泉3 | ❌ | ✅ | ❌ |
+| Switch | Tales of Symphonia Remastered | テイルズオブシンフォニア | ❌ | Cuando es una animación | ❌ |
+| Switch | Fairy tail | フェアリーテイル | ❌ | ✅ | ✅ |
+| Switch | The Witcher 3: Wild Hunt | ウィッチャー3ワイルドハント | ❌ | ✅ | ✅ |
+| Switch | Skyrim | スカイリム | ❌ | ✅ | ❌ |
+| Switch | The legend of Zelda: Breath of the Wild | ゼルダの伝説ブレスオブザワイルド | ❌ | ❌ (solo animaciones) | ✅ |
+| Switch | The legend of Zelda: Skyward Sword | ゼルダの伝説スカイウォードソード | ❌ | ❌ (solo animaciones) | ✅ |
+| Switch | The legend of Zelda: Link's Awakening Remake | ゼルダの伝説 夢をみる島 | ❌ | ❌ | ✅ |
+| Switch | Hyrule Warriors: Age of Calamity | ゼルダ無双 | ❌ | ❌ (solo animaciones) | ✅ |
+| Switch | Animal Crossing: New Horizons | どうぶつの森 | ❌ | ❌ (las voces no son humanas) | ✅ |
+| Switch | SNK2 | 進撃の巨人２ | ❌ | ✅ | ❌ |
+| Switch | Megaton Musashi | メガトン級ムサシ | ❌ | ✅ | ✅ |
+| PC / PS3 / XBOX360 | Bioshock: Infinite | バイオショックインフィニット | ❌ | ✅ | ❌ |
+| Switch | Bioshock Infinite: The complete edition | バイオショックインフィニット | ❌ | ✅ | ❌ |
+| Switch | AI: THE SOMNIUM FILES | AI:ソムニウムファイル | ❌ | ✅ | ❌ |
+| Switch | Sumire | すみれの空 | ❌ | ❌ | ❌ |
+| Switch | Monster Hunter RISE | モンスターハンターライズ | ❌ | ✅ | ✅ |
+| Switch | Voice of Cards: The Isle Dragon Roars | ヴォイス オブ カード ドラゴンの島 | ❌ | ✅ | ❌ |
+| Switch | Voice of Cards: The Beasts of Burden | ヴォイス オブ カード 囚われの魔物 | ❌ | ✅ | ❌ |
+| Switch | Voice of Cards: The Forsaken Maiden | ヴォイス オブ カード できそこないの巫女 | ❌ | ✅ | ❌ |
+| Switch | Monark | モナーク | ✅ | ✅ | ❌ |
+| Switch | ANONYMOUS;CODE | アノニマス・コード | ✅ | ✅ | ❌ |
+| Switch | NEO: It's a Wonderful World | 新すばらしきこのせかい | ✅ | ✅ | ❌ |
+| Switch | Assassin's Creed: The Rebel Collection | アサシン クリード リベルコレクション | ❌ | ✅ | ❌ |
+| Switch | Assassin's Creed: The Ezio Collection | アサシン クリード エツィオコレクション | ❌ | ✅ | ❌ |
+| PC / PS4 / XBOX | Yakuza Saga | 龍が如く | ❌ | ❌ (solo animaciones) | ❌ |
+| PC / PS4 / XBOX | Tales of Arise | テイルズ オブ アライズ | ❌ | ❌ (solo animaciones) | ❌ |
+| PC / PS4 | Heavy Rain | HEAVY RAIN 心の軋むとき | ❌ | ✅ | ❌ |
 
 ## Audio condensado
 
