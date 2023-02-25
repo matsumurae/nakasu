@@ -33,7 +33,8 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | Switch | Persona 3 portable           | P3P | ✅ | ✅ | ❌ |
 | Switch | Persona 4 golden           | P4G | ✅ | ✅ | ❌ |
 | Switch | Persona 5 royal           | P5R | ✅ | ✅ | ❌ |
-| Switch | Fire emblem: Fūin no Tsurugi           | ファイアーエムブレム封印の剣 | ✅ | ❌ | ❌ |
+| Switch | Fire emblem: Three Houses           | ファイアーエムブレム 風花雪月 | ✅ | ❌ | ❌ |
+| Switch | Fire Emblem Warriors: Three Hopes           | ファイアーエムブレム無双 風花雪月 | ✅ | ❌ | ❌ |
 | Switch | Boku no natsuyasumi Tsurugi           | 僕の夏休み | ❌ | ❌ | ❌ |
 | Switch | Yo-kai watch 1 y 4           | 妖怪ウォッチ | ❌ | ❌ | ✅ |
 | Switch | Yokai gakuen Y           | 妖怪ウォッチJam: 妖怪学園Y 〜Nとの遭遇〜 | ✅ | ✅ | ✅ |
@@ -95,6 +96,12 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | PC / PS4 / XBOX | Yakuza Saga | 龍が如く | ❌ | ❌ (solo animaciones) | ❌ |
 | PC / PS4 / XBOX | Tales of Arise | テイルズ オブ アライズ | ❌ | ❌ (solo animaciones) | ❌ |
 | PC / PS4 | Heavy Rain | HEAVY RAIN 心の軋むとき | ❌ | ✅ | ❌ |
+| PSVita / PS4 / PC / Switch | The Caligula Effect: Overdose | カリギュラ オーバードーズ | ❌ | ✅ | ❌ |
+| PSVita / PS4 / PC / Switch | The Caligula Effect 2 | カリギュラ オーバードーズ 2 | ❌ | ✅ | ❌ |
+| PSVita / PS4 / PC / Switch | Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings | リディー＆スールのアトリエ ～不思議な絵画の錬金術士～ | ❌ | ✅ | ❌ |
+| Switch / XBOX / PC | OPUS: Echo Of Starsong | 星歌の響き | ❌ | ✅ | ❌ |
+| Switch / PS4 / PC | Re:Zero − Starting Life in Another World | Re:ゼロから始める異世界生活 | ❌ | ✅ | ❌ |
+| Switch / PS4 / PC / PSVita | Steins;Gate Elite | シュタインズ・ゲート | ❌ | ✅ | ❌ |
 
 ## Audio condensado
 
