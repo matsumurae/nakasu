@@ -104,6 +104,9 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | Switch / PS4 / PC / PSVita | Steins;Gate Elite | シュタインズ・ゲート | ❌ | ✅ | ❌ |
 | Switch / XBOX / PS4&5 / PC | Life is Strange: Remastered Collection | ライフイズストレンジリマスターコレクション | ❌ | ✅ | ❌ |
 | Switch / PS4&5 / XBOX / PC | Life is Strange: True Colors | ライフイズストレンジトゥルーカラーズ | ❌ | ✅ | ❌ |
+| Switch / PS4 / PC | Doraemon: Story of Seasons | ドラえもんのび太の牧場物語 | ❌ | ✅ | ✅ |
+| Switch | Story of Seasons: Reunion with Mineral Town | 牧場物語 再会のミネラルタウン | ❌ | ❌ | ✅ |
+| Switch | Pikmin 3 Deluxe | ピクミン3 | ❌ | ❌ | ✅ |
 
 ## Audio condensado
 
