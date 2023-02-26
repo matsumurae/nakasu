@@ -102,6 +102,8 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | Switch / XBOX / PC | OPUS: Echo Of Starsong | 星歌の響き | ❌ | ✅ | ❌ |
 | Switch / PS4 / PC | Re:Zero − Starting Life in Another World | Re:ゼロから始める異世界生活 | ❌ | ✅ | ❌ |
 | Switch / PS4 / PC / PSVita | Steins;Gate Elite | シュタインズ・ゲート | ❌ | ✅ | ❌ |
+| Switch / XBOX / PS4&5 / PC | Life is Strange: Remastered Collection | ライフイズストレンジリマスターコレクション | ❌ | ✅ | ❌ |
+| Switch / PS4&5 / XBOX / PC | Life is Strange: True Colors | ライフイズストレンジトゥルーカラーズ | ❌ | ✅ | ❌ |
 
 ## Audio condensado
 
