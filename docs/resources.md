@@ -77,7 +77,7 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | Switch | The legend of Zelda: Skyward Sword | ゼルダの伝説スカイウォードソード | ❌ | ❌ (solo animaciones) | ✅ |
 | Switch | The legend of Zelda: Link's Awakening Remake | ゼルダの伝説 夢をみる島 | ❌ | ❌ | ✅ |
 | Switch | Hyrule Warriors: Age of Calamity | ゼルダ無双 | ❌ | ❌ (solo animaciones) | ✅ |
-| Switch | Animal Crossing: New Horizons | どうぶつの森 | ❌ | ❌ (las voces no son humanas) | ✅ |
+| Switch | Animal Crossing: New Horizons | あつまれ どうぶつの森 | ❌ | ❌ (las voces no son humanas) | ✅ |
 | Switch | SNK2 | 進撃の巨人２ | ❌ | ✅ | ❌ |
 | Switch | Megaton Musashi | メガトン級ムサシ | ❌ | ✅ | ✅ |
 | PC / PS3 / XBOX360 | Bioshock: Infinite | バイオショックインフィニット | ❌ | ✅ | ❌ |
@@ -107,6 +107,16 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | Switch / PS4 / PC | Doraemon: Story of Seasons | ドラえもんのび太の牧場物語 | ❌ | ✅ | ✅ |
 | Switch | Story of Seasons: Reunion with Mineral Town | 牧場物語 再会のミネラルタウン | ❌ | ❌ | ✅ |
 | Switch | Pikmin 3 Deluxe | ピクミン3 | ❌ | ❌ | ✅ |
+| 3DS | Zelda: Ocarina of time | ゼルダの伝説 時のオカリナ GC裏 | ❌ | ❌ | ✅ |
+| 3DS | Animal Crossing | どうぶつの森 | ❌ | ❌ | ✅ |
+| 3DS | Monster Hunter XX | モンスターハンターダブルクロス | ❌ | ❌ | ✅ |
+| 3DS | Monster Hunter Stories | モンスターハンター ストーリーズ | ❌ | ❌ | ✅ |
+| 3DS | Monster Hunter Generations (Monster Hunter X en Japón) | モンスターハンタークロス | ❌ | ❌ | ✅ |
+| 3DS | Monster Hunter 4 Ultimate | モンスターハンター 4G | ❌ | ❌ | ✅ |
+| 3DS / Switch / PS4 / Xbox / PC | Rune Factory 4 | ルーンファクトリー4 | ❌ | ✅ | ❌ |
+| Switch / PC | Rune Factory 5 | ルーンファクトリー5 | ❌ | ✅ | ❌ |
+| Switch / XBOX / PS4 / PC | Phoenix Wright: Ace Attorney Trilogy | ルーンファクトリー5 | ❌ | ❌ | ❌ |
+| Switch | Shin Megami Tensei V | 真・女神転生Ⅴ | ❌ | ✅ | ❌ |
 
 ## Audio condensado
 
