@@ -117,6 +117,9 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | Switch / PC | Rune Factory 5 | ルーンファクトリー5 | ❌ | ✅ | ❌ |
 | Switch / XBOX / PS4 / PC | Phoenix Wright: Ace Attorney Trilogy | ルーンファクトリー5 | ❌ | ❌ | ❌ |
 | Switch | Shin Megami Tensei V | 真・女神転生Ⅴ | ❌ | ✅ | ❌ |
+| Switch / XBOX / PS4 / PC | Story of Seasons: Friends of Mineral Town (Harvest Moon) | 牧場物語 再会のミネラルタウン | ❌ | ❌ | ✅ |
+| Switch / PS4 / XBOX | Story of Seasons: Pioneers of Olive Town (Harvest Moon) | 牧場物語 オリーブタウンと希望の大地 | ❌ | ❌ | ✅ |
+| Switch / PS3&4 / XBOX / PC | Ookami HD | 大神 絶景版 | ❌ | ❌ | ✅ |
 
 ## Audio condensado
 
