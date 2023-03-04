@@ -36,11 +36,12 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | Switch | Fire emblem: Three Houses           | ファイアーエムブレム 風花雪月 | ✅ | ❌ | ❌ |
 | Switch | Fire Emblem Warriors: Three Hopes           | ファイアーエムブレム無双 風花雪月 | ✅ | ❌ | ❌ |
 | Switch | Boku no natsuyasumi Tsurugi           | 僕の夏休み | ❌ | ❌ | ❌ |
-| Switch | Yo-kai watch 1 y 4           | 妖怪ウォッチ | ❌ | ❌ | ✅ |
-| Switch | Yokai gakuen Y           | 妖怪ウォッチJam: 妖怪学園Y 〜Nとの遭遇〜 | ✅ | ✅ | ✅ |
+| Switch | Yo-kai watch 1           | 妖怪ウォッチ 1 for Nintendo Switch レベルファイブ ザ ベスト | ❌ | ❌ | ✅ |
+| Switch | Yo-kai watch 4++           | 妖怪ウォッチ4++ | ❌ | ❌ | ✅ |
+| Switch | Yo-kai Watch Jam: Yo-kai Academy Y           | 妖怪学園Y ～ワイワイ学園生活～ | ✅ | ✅ | ✅ |
 | Switch | Marco & the galaxy dragon           | マルコと銀河竜 | - | - | - |
 | Switch | Dragon quest 11           | ドラゴンクエストXI 過ぎ去りし時を求めて | ❌ | ✅ | ✅ |
-| Switch | Crayon shin chan           | クレヨンしんちゃん『オラと博士の夏休み』 | ❌ | ❌ | ✅ |
+| Switch | Shin chan: Mi verano con el profesor           | クレヨンしんちゃん『オラと博士の夏休み』 | ❌ | ❌ | ✅ |
 | Switch | Jack jeanne           | ジャックジャンヌ | - | - | - |
 | PS1/PS2 | Fuuraiki 1 (Hokkaido)          | 風雨来記1 | - | Casi no tiene voces | - |
 | PS2 | Fuuraiki 2 (Okinawa)          | 風雨来記2 | - | Casi no tiene voces | - |
@@ -51,10 +52,17 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | Switch | Megaton musashi           | メガトン級ムサシ | ❌ | ❌ | ✅ |
 | Switch | Pokemon escarlata           | ポケットモンスター スカーレット | ❌ | ❌ | ✅ |
 | Switch | Pokemon púrpura           | ポケットモンスター バイオレット | ❌ | ❌ | ✅ |
-| Switch | Pokemon legends: arceus           | Pokémon LEGENDS アルセウス | ❌ | ❌ | ✅ <br> Usa kanjis antiguos que ya no se usan |
+| Switch | Leyendas pokemon: arceus           | Pokémon LEGENDS アルセウス | ❌ | ❌ | ✅ <br> Usa kanjis antiguos que ya no se usan |
+| Switch | Pokémon Mundo Misterioso: Equipo de Rescate DX           | ポケモン不思議のダンジョン 救助隊DX | ❌ | ❌ | ✅ |
+| Switch | Pokémon Colosseum           | ポケモンコロシアム | ❌ | ❌ | ✅ |
+| Switch | Pokémon XD           | ポケモンXD 闇の旋風ダーク・ルギア | ❌ | ❌ | ✅ |
 | Switch | Digimon survive           | デジモンサヴァイブ | ✅ | ✅ | ❌ |
 | Switch | Blue reflection           | ブルー リフレクション 幻に舞う少女の剣 | ✅ | ✅ | ❌ |
-| Switch | Danganronpa           | ダンガンロンパ | ✅ | ✅ | ❌ |
+| Switch | Danganronpa Decadence (JP incluye Danganronpa S: Ultimate Summer Camp)           | ダンガンロンパ トリロジーパック+ハッピーダンガンロンパＳ 超高校級の南国サイコロ合宿 | ✅ | ✅ | ❌ |
+| Switch / XBOX / PC | Danganronpa: Trigger Happy Havoc           | ダンガンロンパ 希望の学園と絶望の高校生 | ✅ | ✅ | ❌ |
+| Switch / XBOX / PC | Danganronpa V3: Killing Harmony           | ニューダンガンロンパV3 みんなのコロシアイ新学期 | ✅ | ✅ | ❌ |
+| Switch / XBOX / PC | Danganronpa 2: Goodbye Despair           | スーパーダンガンロンパ2 さよなら絶望学園 | ✅ | ✅ | ❌ |
+| Switch / PS4 / PC | Danganronpa S: Ultimate Summer Camp           | ハッピーダンガンロンパＳ 超高校級の南国サイコロ合宿 | ✅ | ✅ | ❌ |
 | Switch / PC | Nekopara Vol. 1           | ネコぱら1 | ✅ | ✅ | ❌ (simultaneos EN+JP) |
 | Switch / PC | Nekopara Vol. 2           | ネコぱら2 | ✅ | ✅ | ❌ (simultaneos EN+JP) |
 | Switch | Nekopara Vol. 3           | ネコぱら3 | ✅ | ✅ | ❌ (simultaneos EN+JP) |
@@ -66,18 +74,28 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | PC | Corona Blossom Vol 1 y Vol 2 | - | ❌ | ✅ | ❌ (simultaneos EN+JP) |
 | PC / Switch | Grisaia Phantom Trigger | グリザイアの果実 | ❌ | ✅ | ❌ (simultaneos EN+JP) |
 | Switch | Tales of Vesperia: Definitive Edition | テイルズオブヴェスペリア | ❌ | ✅ | ❌ |
+| Switch | Tales of Symphonia Remastered | テイルズオブシンフォニア | ❌ | Cuando es una animación | ❌ |
+| PC / PS4 / XBOX | Tales of Arise | テイルズ オブ アライズ | ❌ | ❌ (solo animaciones) | ❌ |
 | PC | Angels of Death | 殺戮の天使 | ❌ | ❌ | ❌ |
 | PC / Switch | Senren＊Banka | 千恋＊万花 | ❌ | ✅ | ❌ |
-| PC / Switch | WitchSpring3 | 魔女の泉3 | ❌ | ✅ | ❌ |
-| Switch | Tales of Symphonia Remastered | テイルズオブシンフォニア | ❌ | Cuando es una animación | ❌ |
+| PC / Switch | Witch Spring 3 Re:Fine -The Story of the Marionette Witch Eirudy- | 魔女の泉３ Re:Fine　―人形魔女、『アイールディ』の物語― | ❌ | ✅ | ❌ |
+| Switch | Super Mario 3D All-Stars (Mario 64, Super Mario Sunshine + Super Mario Galaxy) | スーパーマリオ ３Ｄコレクション | ❌ | ❌ | ✅ (Sunshine no tiene Kanji) |
+| Switch | Super Mario Odyssey | スーパーマリオオデッセイ | ❌ | ❌ | ✅ |
 | Switch | Fairy tail | フェアリーテイル | ❌ | ✅ | ✅ |
-| Switch | The Witcher 3: Wild Hunt | ウィッチャー3ワイルドハント | ❌ | ✅ | ✅ |
-| Switch | Skyrim | スカイリム | ❌ | ✅ | ❌ |
+| Switch / XBOX / PS4 / PC | The Witcher 3: Wild Hunt | ウィッチャー3ワイルドハント | ❌ | ✅ | ✅ |
+| Switch / XBOX / PS4 / PC | Skyrim | スカイリム | ❌ | ✅ | ❌ |
 | Switch | The legend of Zelda: Breath of the Wild | ゼルダの伝説ブレスオブザワイルド | ❌ | ❌ (solo animaciones) | ✅ |
 | Switch | The legend of Zelda: Skyward Sword | ゼルダの伝説スカイウォードソード | ❌ | ❌ (solo animaciones) | ✅ |
 | Switch | The legend of Zelda: Link's Awakening Remake | ゼルダの伝説 夢をみる島 | ❌ | ❌ | ✅ |
+| Gamecube | The Legend of Zelda: The Wind Waker | ゼルダの伝説 風のタクト | ❌ | ❌ | ✅ |
+| Wii U | The Legend of Zelda: The Wind Waker HD | ゼルダの伝説 風のタクト HD | ❌ | ❌ | ✅ |
+| Wii / Gamecube | The Legend of Zelda: Twilight Princess | ゼルダの伝説 トワイライトプリンセス | ❌ | ❌ | ✅ |
+| Wii U | The Legend of Zelda: Twilight Princess HD | ゼルダの伝説 トワイライトプリンセス HD | ❌ | ❌ | ✅ |
+| 3DS | Zelda: Ocarina of time | ゼルダの伝説 時のオカリナ GC裏 | ❌ | ❌ | ✅ |
+| 3DS | Zelda: Majora's Mask | ゼルダの伝説 ムジュラの仮面 | ❌ | ❌ | ✅ |
 | Switch | Hyrule Warriors: Age of Calamity | ゼルダ無双 | ❌ | ❌ (solo animaciones) | ✅ |
 | Switch | Animal Crossing: New Horizons | あつまれ どうぶつの森 | ❌ | ❌ (las voces no son humanas) | ✅ |
+| 3DS | Animal Crossing | どうぶつの森 | ❌ | ❌ | ✅ |
 | Switch | SNK2 | 進撃の巨人２ | ❌ | ✅ | ❌ |
 | Switch | Megaton Musashi | メガトン級ムサシ | ❌ | ✅ | ✅ |
 | PC / PS3 / XBOX360 | Bioshock: Infinite | バイオショックインフィニット | ❌ | ✅ | ❌ |
@@ -91,14 +109,14 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | Switch | Monark | モナーク | ✅ | ✅ | ❌ |
 | Switch | ANONYMOUS;CODE | アノニマス・コード | ✅ | ✅ | ❌ |
 | Switch | NEO: It's a Wonderful World | 新すばらしきこのせかい | ✅ | ✅ | ❌ |
-| Switch | Assassin's Creed: The Rebel Collection | アサシン クリード リベルコレクション | ❌ | ✅ | ❌ |
 | Switch | Assassin's Creed: The Ezio Collection | アサシン クリード エツィオコレクション | ❌ | ✅ | ❌ |
+| Switch | Assassin's Creed III Remastered | アサシン クリードIII　リマスター | ❌ | ✅ | ❌ |
+| Switch | Assassin's Creed: The Rebel Collection | アサシン クリード リベルコレクション | ❌ | ✅ | ❌ |
 | PC / PS4 / XBOX | Yakuza Saga | 龍が如く | ❌ | ❌ (solo animaciones) | ❌ |
-| PC / PS4 / XBOX | Tales of Arise | テイルズ オブ アライズ | ❌ | ❌ (solo animaciones) | ❌ |
 | PC / PS4 | Heavy Rain | HEAVY RAIN 心の軋むとき | ❌ | ✅ | ❌ |
 | PSVita / PS4 / PC / Switch | The Caligula Effect: Overdose | カリギュラ オーバードーズ | ❌ | ✅ | ❌ |
 | PSVita / PS4 / PC / Switch | The Caligula Effect 2 | カリギュラ オーバードーズ 2 | ❌ | ✅ | ❌ |
-| PSVita / PS4 / PC / Switch | Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings | リディー＆スールのアトリエ ～不思議な絵画の錬金術士～ | ❌ | ✅ | ❌ |
+| PS4 / PC / Switch | Atelier Dusk Trilogy Deluxe Pack | アトリエ ～不思議の錬金術士 トリロジー～ DX | ❌ | ✅ | ❌ |
 | Switch / XBOX / PC | OPUS: Echo Of Starsong | 星歌の響き | ❌ | ✅ | ❌ |
 | Switch / PS4 / PC | Re:Zero − Starting Life in Another World | Re:ゼロから始める異世界生活 | ❌ | ✅ | ❌ |
 | Switch / PS4 / PC / PSVita | Steins;Gate Elite | シュタインズ・ゲート | ❌ | ✅ | ❌ |
@@ -106,20 +124,67 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | Switch / PS4&5 / XBOX / PC | Life is Strange: True Colors | ライフイズストレンジトゥルーカラーズ | ❌ | ✅ | ❌ |
 | Switch / PS4 / PC | Doraemon: Story of Seasons | ドラえもんのび太の牧場物語 | ❌ | ✅ | ✅ |
 | Switch | Story of Seasons: Reunion with Mineral Town | 牧場物語 再会のミネラルタウン | ❌ | ❌ | ✅ |
+| Gamecube | Pikmin 1 | ピクミン1 | ❌ | ❌ | ✅ |
+| Gamecube | Pikmin 2 | ピクミン2 | ❌ | ❌ | ✅ |
 | Switch | Pikmin 3 Deluxe | ピクミン3 | ❌ | ❌ | ✅ |
-| 3DS | Zelda: Ocarina of time | ゼルダの伝説 時のオカリナ GC裏 | ❌ | ❌ | ✅ |
-| 3DS | Animal Crossing | どうぶつの森 | ❌ | ❌ | ✅ |
 | 3DS | Monster Hunter XX | モンスターハンターダブルクロス | ❌ | ❌ | ✅ |
 | 3DS | Monster Hunter Stories | モンスターハンター ストーリーズ | ❌ | ❌ | ✅ |
 | 3DS | Monster Hunter Generations (Monster Hunter X en Japón) | モンスターハンタークロス | ❌ | ❌ | ✅ |
 | 3DS | Monster Hunter 4 Ultimate | モンスターハンター 4G | ❌ | ❌ | ✅ |
 | 3DS / Switch / PS4 / Xbox / PC | Rune Factory 4 | ルーンファクトリー4 | ❌ | ✅ | ❌ |
+| PS1 | Jak and Daxter: The Precursor Legacy | ジャック×ダクスター 旧世界の遺産 | ❌ | ✅ | ❌ |
+| PS2 | Jak 2 | ジャック×ダクスター2 | ❌ | ✅ | ❌ |
+| Switch / PS3&4 / XBOX / PC | Kingdom Hearts HD 1.5+2.5 ReMIX | キングダム ハーツ HD 1.5+2.5 リミックス | ❌ | ❌ (Solo animaciones) | ❌ |
+| PS2 | Kingdom Hearts 2 | キングダム ハーツ 2 | ❌ | ✅ | ❌ |
+| PS3 / XBOX / PC | Kingdom Hearts 3 | キングダム ハーツ 3 | ❌ | ✅ | ❌ |
 | Switch / PC | Rune Factory 5 | ルーンファクトリー5 | ❌ | ✅ | ❌ |
 | Switch / XBOX / PS4 / PC | Phoenix Wright: Ace Attorney Trilogy | ルーンファクトリー5 | ❌ | ❌ | ❌ |
+| Switch / Wii U | Tokyo Mirage Sessions ♯FE | 幻影異聞録♯FE | ❌ | ✅ | ❌ |
+| Switch | Shin Megami Tensei III: Nocturne HD Remaster | 真・女神転生Ⅲ NOCTURNE HD REMASTER | ❌ | ✅ | ❌ |
 | Switch | Shin Megami Tensei V | 真・女神転生Ⅴ | ❌ | ✅ | ❌ |
 | Switch / XBOX / PS4 / PC | Story of Seasons: Friends of Mineral Town (Harvest Moon) | 牧場物語 再会のミネラルタウン | ❌ | ❌ | ✅ |
 | Switch / PS4 / XBOX | Story of Seasons: Pioneers of Olive Town (Harvest Moon) | 牧場物語 オリーブタウンと希望の大地 | ❌ | ❌ | ✅ |
 | Switch / PS3&4 / XBOX / PC | Ookami HD | 大神 絶景版 | ❌ | ❌ | ✅ |
+| Switch / PS4 | Process of Elimination | 探偵撲滅 | ❌ | (Algunos) | ❌ |
+| Switch / PS4 | The Quintessential Quintuplets the Movie: Five Memories of My Time with You | 映画「五等分の花嫁」 ～君と過ごした五つの思い出～ | ❌ | ✅ | ❌ |
+| Switch / PS4 | The Quintessential Quintuplets ∬: Summer Memories Also Come in Five | 五等分の花嫁∬　～夏の思い出も五等分～ | ❌ | ✅ | ❌ |
+| Switch / PSVita | Yahari Game Demo Ore no Seishun Love-Kome wa Machigatteiru. & Zoku: Oatome Set | やはりゲームでも俺の青春ラブコメはまちがっている。＆続 おまとめセット | ❌ | ✅ | ❌ |
+| Switch | Grisaia: Phantom Trigger 01 to 05 | グリザイア ファントムトリガー 01 to 05 | ❌ | ✅ | ❌ |
+| Switch / PS4 / XBOX / PC | TASOMACHI: Behind the Twilight | 黄昏ニ眠ル街 | ❌ | ❌ | ❌ |
+| Switch / PS4&5 / XBOX / PC | Doki Doki Literature Club Plus! | ドキドキ文芸部プラス！ | ❌ | ❌ | ❌ |
+| Switch / PS4 / XBOX / PC | Ataque a los titanes 2 | 進撃の巨人2 | ❌ | ✅ | ❌ |
+| Switch / PS4 / XBOX / PC | Ataque a los titanes 2 -Batalla final- | 進撃の巨人2 -Final Battle- | ❌ | ✅ | ❌ |
+| Switch / PS4 / PC | God Eater 3 | ゴッドイーター3 | ❌ | ✅ | ❌ |
+| Switch / PS4 / XBOX / PC | Call of Cthulhu | コール・オブ・クトゥルフ | ❌ | ❌ (Voces en inglés) | ❌ |
+| Switch / PS4 / XBOX / PC | Vampyr | ヴァンパイア | ❌ | ❌ (Voces en inglés) | ❌ |
+| PS4 / XBOX / PC | Red Dead Redemption 2 | レッドデッドリデンプション2 | ❌ | ❌ (Voces en inglés) | ❌ |
+| Switch / PS4 / XBOX / PC | Hokko Life | ホッコライフ | ❌ | ❌ | ❌ |
+
+### Por estrenar
+
+| Switch / PC | Master Detective Archives: Rain Code | 超探偵事件簿 レインコード | ❌ | ✅ | ❌ |
+| Switch / PC | World's End Club | ワールズエンドクラブ | ❌ | ✅ | ❌ |
+| Switch / PC / XBOX / PS4 | LOOP8: Summer of Gods | ループエイト | ❌ | ✅ | ❌ |
+
+### Emuladores
+
+Para **Steam Deck**, echa un vistazo a [EmuDeck](https://www.emudeck.com/) que ya contiene todos los emuladores. Si buscas emuladores para **Mac**, echa un ojo a [OpenEmu](https://openemu.org/) que ya tiene PSP, Gamecube, N64 y otros.
+
+- Wii y Gamecube: [Dolphin](https://es.dolphin-emu.org/download/). **Windows y Android**
+- Wii U: [Cemu](https://cemu.info/). **Windows**
+- N64: [Mupen64Plus](https://mupen64plus.org/) **Todas las plataformas**
+- DS: [DeSmuME](https://desmume.org/) **Todas las plataformas**
+- 3DS: [Citra](https://citra-emu.org/). **Windows, Linux y Mac (No M1)**
+- PS Vita: [Vita3K](https://vita3k.org/). **Todas las plataformas**
+- PSP: [PPSSPP](https://www.ppsspp.org/). **Todas las plataformas**
+- PS2: [PCSX2](https://pcsx2.net/) **Windows y Linux**
+- PS3: [RPCS3](https://rpcs3.net/) **Windows, Linux y Mac**
+- Switch:
+  - [Yuzu](https://yuzu-emu.org/) **Windows y Linux**
+  - [Ryujinx](https://ryujinx.org/) **Windows, Linux y Mac**
+- XBOX: [Xemu](https://xemu.app/) **Windows, Linux y Mac**
+- XBOX 360: [Xenia](https://xenia.jp/) **Windows**
+- GBA: [mGBA](https://mgba.io/) **Todas las plataformas**
 
 ## Audio condensado
 
