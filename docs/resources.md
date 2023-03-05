@@ -36,13 +36,12 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | 13 sentinels: aegis rim           | 十三機兵防衛圏 | ✅ | ✅ | ❌ |
 | Ni no kuni           | 二ノ国 | ❌ | ✅ | ✅ |
 | Famicom detective club           | ファミコン探偵倶楽部 | ✅ | ✅ | ✅ |
-| Buddy mission bond           | バディミッション BOND | ✅ | ✅ | Algunos |
-| Persona 3 portable           | P3P | ✅ | ✅ | ❌ |
-| Persona 4 golden           | P4G | ✅ | ✅ | ❌ |
-| Persona 5 royal           | P5R | ✅ | ✅ | ❌ |
+| Buddy mission: BOND           | バディミッション BOND | ✅ | ✅ | Algunos |
+| Persona 3 portable (P3P)           | ペルソナ3 ポータブル | ✅ | ✅ | ❌ |
+| Persona 4 golden (P4G)           | ペルソナ4 ザ・ゴールデン | ✅ | ✅ | ❌ |
+| Persona 5 royal (P5R)           | ペルソナ5 ザ・ロイヤル | ✅ | ✅ | ❌ |
 | Fire emblem: Three Houses           | ファイアーエムブレム 風花雪月 | ✅ | ❌ | ❌ |
 | Fire Emblem Warriors: Three Hopes           | ファイアーエムブレム無双 風花雪月 | ✅ | ❌ | ❌ |
-| Boku no natsuyasumi Tsurugi           | 僕の夏休み | ❌ | ❌ | ❌ |
 | Yo-kai watch 1 for Nintendo Switch           | 妖怪ウォッチ 1 for Nintendo Switch レベルファイブ ザ ベスト | ❌ | ❌ | ✅ |
 | Yo-kai watch 4++           | 妖怪ウォッチ4++ | ❌ | ❌ | ✅ |
 | Yo-kai Watch Jam: Yo-kai Academy Y           | 妖怪学園Y ～ワイワイ学園生活～ | ✅ | ✅ | ✅ |
@@ -57,9 +56,7 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | Pokemon escarlata           | ポケットモンスター スカーレット | ❌ | ❌ | ✅ |
 | Pokemon púrpura           | ポケットモンスター バイオレット | ❌ | ❌ | ✅ |
 | Leyendas pokemon: arceus           | Pokémon LEGENDS アルセウス | ❌ | ❌ | ✅ <br> Usa kanjis antiguos que ya no se usan |
-| Pokémon Mundo Misterioso: Equipo de Rescate DX           | ポケモン不思議のダンジョン 救助隊DX | ❌ | ❌ | ✅ |
-| Pokémon Colosseum           | ポケモンコロシアム | ❌ | ❌ | ✅ |
-| Pokémon XD           | ポケモンXD 闇の旋風ダーク・ルギア | ❌ | ❌ | ✅ |
+| Pokemon Mundo Misterioso: Equipo de Rescate DX           | ポケモン不思議のダンジョン 救助隊DX | ❌ | ❌ | ✅ |
 | Digimon survive           | デジモンサヴァイブ | ✅ | ✅ | ❌ |
 | Blue reflection           | ブルー リフレクション 幻に舞う少女の剣 | ✅ | ✅ | ❌ |
 | Danganronpa Decadence (JP incluye Danganronpa S: Ultimate Summer Camp)           | ダンガンロンパ トリロジーパック+ハッピーダンガンロンパＳ 超高校級の南国サイコロ合宿 | ✅ | ✅ | ❌ |
@@ -71,11 +68,11 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | Nekopara Vol. 2           | ネコぱら2 | ✅ | ✅ | ❌ (simultaneos EN+JP) |
 | Nekopara Vol. 3           | ネコぱら3 | ✅ | ✅ | ❌ (simultaneos EN+JP) |
 | Nekopara Vol. 4           | ネコぱら4 | ✅ | ✅ | ❌ (simultaneos EN+JP) |
-| Tokyo School Life | - | ❌ | ✅ | ✅ (simultaneos EN+JP) |
+| Tokyo School Life | - | ❌ | ✅ | ✅ (simultaneos EN+JP) |
 | Grisaia Phantom Trigger | グリザイアの果実 | ❌ | ✅ | ❌ (simultaneos EN+JP) |
-| Tales of Vesperia: Definitive Edition | テイルズオブヴェスペリア | ❌ | ✅ | ❌ |
+| Tales of Vesperia: Definitive Edition | テイルズオブヴェスペリア | ❌ | ✅ | ❌ |
 | Tales of Symphonia Remastered | テイルズオブシンフォニア | ❌ | Cuando es una animación | ❌ |
-| Senren＊Banka | 千恋＊万花 | ❌ | ✅ | ❌ |
+| Senren＊Banka | 千恋＊万花 | ❌ | ✅ | ❌ |
 | Witch Spring 3 Re:Fine -The Story of the Marionette Witch Eirudy- | 魔女の泉３ Re:Fine　―人形魔女、『アイールディ』の物語― | ❌ | ✅ | ❌ |
 | Super Mario 3D All-Stars (Mario 64, Super Mario Sunshine + Super Mario Galaxy) | スーパーマリオ ３Ｄコレクション | ❌ | ❌ | ✅ (Sunshine no tiene Kanji) |
 | Super Mario Odyssey | スーパーマリオオデッセイ | ❌ | ❌ | ✅ |
@@ -87,7 +84,8 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | The legend of Zelda: Link's Awakening Remake | ゼルダの伝説 夢をみる島 | ❌ | ❌ | ✅ |
 | Hyrule Warriors: Age of Calamity | ゼルダ無双 | ❌ | ❌ (solo animaciones) | ✅ |
 | Animal Crossing: New Horizons | あつまれ どうぶつの森 | ❌ | ❌ (las voces no son humanas) | ✅ |
-| SNK2 | 進撃の巨人２ | ❌ | ✅ | ❌ |
+| Shingeki no Kyojin 2 | 進撃の巨人２ | ❌ | ✅ | ❌ |
+| Shingeki no Kyojin -Final Battle- | 進撃の巨人2 -Final Battle- | ❌ | ✅ | ❌ |
 | Megaton Musashi | メガトン級ムサシ | ❌ | ✅ | ✅ |
 | Bioshock Infinite: The complete edition | バイオショックインフィニット | ❌ | ✅ | ❌ |
 | AI: THE SOMNIUM FILES | AI:ソムニウムファイル | ❌ | ✅ | ❌ |
@@ -130,8 +128,6 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | Grisaia: Phantom Trigger 01 to 05 | グリザイア ファントムトリガー 01 to 05 | ❌ | ✅ | ❌ |
 | TASOMACHI: Behind the Twilight | 黄昏ニ眠ル街 | ❌ | ❌ | ❌ |
 | Doki Doki Literature Club Plus! | ドキドキ文芸部プラス！ | ❌ | ❌ | ❌ |
-| Ataque a los titanes 2 | 進撃の巨人2 | ❌ | ✅ | ❌ |
-| Ataque a los titanes 2 -Batalla final- | 進撃の巨人2 -Final Battle- | ❌ | ✅ | ❌ |
 | God Eater 3 | ゴッドイーター3 | ❌ | ✅ | ❌ |
 | Call of Cthulhu | コール・オブ・クトゥルフ | ❌ | ❌ (Voces en inglés) | ❌ |
 | Vampyr | ヴァンパイア | ❌ | ❌ (Voces en inglés) | ❌ |
@@ -156,8 +152,8 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | Nombre        | Nombre japonés          | ¿Voice / audio log? | ¿Voice / audio acting? | ¿furigana?
 |:-------------|:------------------|:--------|:------------|:-------------|
 | Red Dead Redemption 2 | レッドデッドリデンプション2 | ❌ | ❌ (Voces en inglés) | ❌ |
-| Malus Code | - | ❌ | ✅ | ✅ (simultaneos EN+JP) |
-| Go Go Nippon | - | ❌ | ✅ | ❌ (simultaneos EN+JP) |
+| Malus Code | - | ❌ | ✅ | ✅ (simultaneos EN+JP) |
+| Go Go Nippon | - | ❌ | ✅ | ❌ (simultaneos EN+JP) |
 | Karakara | - | ❌ | ✅ | ❌ (simultaneos EN+JP) |
 | Corona Blossom Vol 1 y Vol 2 | - | ❌ | ✅ | ❌ (simultaneos EN+JP) |
 | Angels of Death | 殺戮の天使 | ❌ | ❌ | ❌ |
@@ -173,6 +169,8 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | The Legend of Zelda: The Wind Waker | ゼルダの伝説 風のタクト | ❌ | ❌ | ✅ |
 | Pikmin 1 | ピクミン1 | ❌ | ❌ | ✅ |
 | Pikmin 2 | ピクミン2 | ❌ | ❌ | ✅ |
+| Pokemon Colosseum           | ポケモンコロシアム | ❌ | ❌ | ✅ |
+| Pokemon XD           | ポケモンXD 闇の旋風ダーク・ルギア | ❌ | ❌ | ✅ |
 
 ### Wii / Wii U
 
@@ -193,6 +191,8 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | Animal Crossing | どうぶつの森 | ❌ | ❌ | ✅ |
 | Zelda: Ocarina of time | ゼルダの伝説 時のオカリナ GC裏 | ❌ | ❌ | ✅ |
 | Zelda: Majora's Mask | ゼルダの伝説 ムジュラの仮面 | ❌ | ❌ | ✅ |
+| Yo-kai Watch 2: Bony Spirits | 妖怪ウォッチ2元祖 | ❌ | ❌ (Solo animaciones) | ✅ |
+| Yo-kai Watch 3 | 妖怪ウォッチ３ | ❌ | ✅ | ✅ |
 
 ### PS1, PS2 y PS3
 
@@ -211,7 +211,6 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | Nombre        | Nombre japonés          | ¿Voice / audio log? | ¿Voice / audio acting? | ¿furigana?
 |:-------------|:------------------|:--------|:------------|:-------------|
 | Fuuraiki 2 (Hokkaido)          | 風雨来記3 | - | Casi no tiene voces | - |
-✅ | ✅ | ❌ |
 | Bad Apple Wars | バッドアップルウォーズ | ❌ | ✅ | ❌ |
 | Boku no Natsuyasumi 4 | ぼくのなつやすみ4 瀬戸内少年探偵団「ボクと秘密の地図」 | ❌ | ✅ | ❌ |
 
