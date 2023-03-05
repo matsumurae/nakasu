@@ -137,7 +137,20 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | Code: Realize ~Future Blessings~ | Code:Realize ~祝福の未来~ | ❌ | ✅ (solo personajes) | ❌ |
 | BLUE REFLECTION: Second Light | ブルー リフレクション 帝/タイ | ❌ | ❌ (solo animaciones) | ❌ |
 | Liar Princess And The Blind Prince | 嘘つき姫と盲目王子 | ❌ | ✅ | ❌ |
+| Ghostrunner | ゴーストランナー | ❌ | ❌ (Voces en inglés) | ❌ |
+| Astral Chain | アストラルチェイン | ❌ | ✅ | ❌ |
+| Bayonetta | ベヨネッタ | ❌ | ✅ | ❌ |
+| Bayonetta 2 | ベヨネッタ2 | ❌ | ✅ | ❌ |
+| Bayonetta 3 | ベヨネッタ3 | ❌ | ✅ | ❌ |
+| Ys VIII: Lacrimosa of Dana | イースVIII -Lacrimosa of DANA- | ❌ | ✅ (solo animaciones) | ❌ |
+| No More Heroes 3 | ノーモア☆ヒーローズIII | ❌ | ✅ | ❌ |
+| Daemon x Machina | デモンエクスマキナ | ❌ | ✅ | ❌ |
 | Final Fantasy Crystal Chronicles Remastered | ファイナルファンタジー・クリスタルクロニクル リマスター | ❌ | ❌ | ❌ |
+| Crisis Core Final Fantasy VII | クライシス コア -ファイナルファンタジーＶＩＩ | ❌ | ✅ | ❌ |
+| Final Fantasy X/X-2 HD Remaster | ファイナルファンタジーX/X-2 HD リマスター | ❌ | ✅ | ❌ |
+| Final Fantasy XII THE ZODIAC AGE | ファイナルファンタジーXII | ❌ | ✅ | ❌ |
+| World of Final Fantasy Maxima | ワールド オブ ファイナルファンタジー | ❌ | ✅ | ❌ |
+| Final Fantasy XV: Pocket Edition | ファイナルファンタジーXV ポケットエディション | ❌ | ✅ | ❌ |
 
 #### Por estrenar
 
@@ -171,6 +184,11 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | Heavy Rain | HEAVY RAIN 心の軋むとき | ❌ | ✅ | ❌ |
 | WitchSpring R | 魔女の泉R | ❌ | ✅ | ❌ |
 | Ghostwire: Tokyo | ゴーストワイヤー：トーキョー | ❌ | ✅ | ❌ |
+| Ghostrunner | ゴーストランナー | ❌ | ✅ | ❌ |
+| Dishonored 2 | ディスオナード 2 | ❌ | ✅ | ❌ |
+| Dishonored: Death of the Outsider | ディスオナード デスオブアウトサイダー 攻略 | ❌ | ✅ | ❌ |
+| Metal Gear Solid V | メタルギアソリッドV ファントムペイン | ❌ | ✅ | ❌ |
+| FFXV | ファイナルファンタジーXV | ❌ | ✅ | ❌ |
 
 ### Gamecube
 
@@ -188,6 +206,7 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 |:-------------|:------------------|:--------|:------------|:-------------|
 | The Legend of Zelda: The Wind Waker HD | ゼルダの伝説 風のタクト HD | ❌ | ❌ | ✅ |
 | The Legend of Zelda: Twilight Princess HD | ゼルダの伝説 トワイライトプリンセス HD | ❌ | ❌ | ✅ |
+| The Wonderful 101 | ザ・ワンダフル ワン・オー・ワン | ❌ | ✅ | ✅ |
 
 ### 3DS
 
