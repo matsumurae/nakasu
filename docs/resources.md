@@ -158,9 +158,14 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | Corona Blossom Vol 1 y Vol 2 | - | ❌ | ✅ | ❌ (simultaneos EN+JP) |
 | Angels of Death | 殺戮の天使 | ❌ | ❌ | ❌ |
 | Tales of Arise | テイルズ オブ アライズ | ❌ | ❌ (solo animaciones) | ❌ |
-| Yakuza Saga | 龍が如く | ❌ | ❌ (solo animaciones) | ❌ |
+| Yakuza 0 | 龍が如く0 誓いの場所 | ❌ | ❌ (solo animaciones) | ❌ |
+| Yakuza Kiwami | 龍が如く極 | ❌ | ✅ | ❌ |
+| Yakuza Kiwami 2 | 龍が如く 極2 | ❌ | ✅ | ❌ |
+| Yakuza 3 | 龍が如く3 | ❌ | ✅ | ❌ |
+| Yakuza 4 | 龍が如く4 伝説を継ぐもの | ❌ | ✅ | ❌ |
+| Yakuza 5 | 龍が如く5 夢、叶えし者 | ❌ | ✅ | ❌ |
+| Yakuza 6: The Song of Life | 龍が如く6 命の詩 | ❌ | ✅ | ❌ |
 | Heavy Rain | HEAVY RAIN 心の軋むとき | ❌ | ✅ | ❌ |
-| Bioshock: Infinite | バイオショックインフィニット | ❌ | ✅ | ❌ |
 
 ### Gamecube
 
