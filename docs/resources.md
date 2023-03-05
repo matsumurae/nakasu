@@ -112,8 +112,8 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | Story of Seasons: Reunion with Mineral Town | 牧場物語 再会のミネラルタウン | ❌ | ❌ | ✅ |
 | Pikmin 3 Deluxe | ピクミン3 | ❌ | ❌ | ✅ |
 | Rune Factory 4 | ルーンファクトリー4 | ❌ | ✅ | ❌ |
-| Kingdom Hearts HD 1.5+2.5 ReMIX | キングダム ハーツ HD 1.5+2.5 リミックス | ❌ | ❌ (Solo animaciones) | ❌ |
 | Rune Factory 5 | ルーンファクトリー5 | ❌ | ✅ | ❌ |
+| Kingdom Hearts HD 1.5+2.5 ReMIX | キングダム ハーツ HD 1.5+2.5 リミックス | ❌ | ❌ (Solo animaciones) | ❌ |
 | Phoenix Wright: Ace Attorney Trilogy | ルーンファクトリー5 | ❌ | ❌ | ❌ |
 | Tokyo Mirage Sessions ♯FE | 幻影異聞録♯FE | ❌ | ✅ | ❌ |
 | Shin Megami Tensei III: Nocturne HD Remaster | 真・女神転生Ⅲ NOCTURNE HD REMASTER | ❌ | ✅ | ❌ |
@@ -135,6 +135,9 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | Root Letter: Last Answer | √Letter ルートレター Last Answer | ❌ | ❌ | ❌ |
 | Code: Realize ~Guardian of Rebirth~ | Code:Realize ～創世の姫君~ | ❌ | ✅ (solo personajes) | ❌ |
 | Code: Realize ~Future Blessings~ | Code:Realize ~祝福の未来~ | ❌ | ✅ (solo personajes) | ❌ |
+| BLUE REFLECTION: Second Light | ブルー リフレクション 帝/タイ | ❌ | ❌ (solo animaciones) | ❌ |
+| Liar Princess And The Blind Prince | 嘘つき姫と盲目王子 | ❌ | ✅ | ❌ |
+| Final Fantasy Crystal Chronicles Remastered | ファイナルファンタジー・クリスタルクロニクル リマスター | ❌ | ❌ | ❌ |
 
 #### Por estrenar
 
@@ -152,9 +155,9 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | Nombre        | Nombre japonés          | ¿Voice / audio log? | ¿Voice / audio acting? | ¿furigana?
 |:-------------|:------------------|:--------|:------------|:-------------|
 | Red Dead Redemption 2 | レッドデッドリデンプション2 | ❌ | ❌ (Voces en inglés) | ❌ |
-| Malus Code | - | ❌ | ✅ | ✅ (simultaneos EN+JP) |
+| Malus Code | マルスコード | ❌ | ✅ | ✅ (simultaneos EN+JP) |
 | Go Go Nippon | - | ❌ | ✅ | ❌ (simultaneos EN+JP) |
-| Karakara | - | ❌ | ✅ | ❌ (simultaneos EN+JP) |
+| Karakara | カラカラ | ❌ | ✅ | ❌ (simultaneos EN+JP) |
 | Corona Blossom Vol 1 y Vol 2 | - | ❌ | ✅ | ❌ (simultaneos EN+JP) |
 | Angels of Death | 殺戮の天使 | ❌ | ❌ | ❌ |
 | Tales of Arise | テイルズ オブ アライズ | ❌ | ❌ (solo animaciones) | ❌ |
@@ -166,6 +169,8 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | Yakuza 5 | 龍が如く5 夢、叶えし者 | ❌ | ✅ | ❌ |
 | Yakuza 6: The Song of Life | 龍が如く6 命の詩 | ❌ | ✅ | ❌ |
 | Heavy Rain | HEAVY RAIN 心の軋むとき | ❌ | ✅ | ❌ |
+| WitchSpring R | 魔女の泉R | ❌ | ✅ | ❌ |
+| Ghostwire: Tokyo | ゴーストワイヤー：トーキョー | ❌ | ✅ | ❌ |
 
 ### Gamecube
 
