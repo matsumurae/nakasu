@@ -91,6 +91,7 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | AI: THE SOMNIUM FILES | AI:ソムニウムファイル | ❌ | ✅ | ❌ |
 | Sumire | すみれの空 | ❌ | ❌ | ❌ |
 | Monster Hunter RISE | モンスターハンターライズ | ❌ | ✅ | ✅ |
+| Monster Hunter Stories 2: Wings of Ruin | モンスターハンターストーリーズ2 ～破滅の翼～ | ❌ | ✅ | ✅ |
 | Voice of Cards: The Isle Dragon Roars | ヴォイス オブ カード ドラゴンの島 | ❌ | ✅ | ❌ |
 | Voice of Cards: The Beasts of Burden | ヴォイス オブ カード 囚われの魔物 | ❌ | ✅ | ❌ |
 | Voice of Cards: The Forsaken Maiden | ヴォイス オブ カード できそこないの巫女 | ❌ | ✅ | ❌ |
@@ -151,6 +152,8 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | Final Fantasy XII THE ZODIAC AGE | ファイナルファンタジーXII | ❌ | ✅ | ❌ |
 | World of Final Fantasy Maxima | ワールド オブ ファイナルファンタジー | ❌ | ✅ | ❌ |
 | Final Fantasy XV: Pocket Edition | ファイナルファンタジーXV ポケットエディション | ❌ | ✅ | ❌ |
+| Bravely Default II | ブレイブリーデフォルトII | ❌ | ✅ | ❌ |
+| .hack//G.U. Last Recode | ドットハック ジーユー ラストリコード | ❌ | ✅ | ❌ |
 
 #### Por estrenar
 
@@ -182,6 +185,7 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | Yakuza 5 | 龍が如く5 夢、叶えし者 | ❌ | ✅ | ❌ |
 | Yakuza 6: The Song of Life | 龍が如く6 命の詩 | ❌ | ✅ | ❌ |
 | Heavy Rain | HEAVY RAIN 心の軋むとき | ❌ | ✅ | ❌ |
+| Heavy Rain & Beyond: Two Souls | HEAVY RAIN -心の軋むとき- & BEYOND: Two Souls Collection | ❌ | ✅ | ❌ |
 | WitchSpring R | 魔女の泉R | ❌ | ✅ | ❌ |
 | Ghostwire: Tokyo | ゴーストワイヤー：トーキョー | ❌ | ✅ | ❌ |
 | Ghostrunner | ゴーストランナー | ❌ | ✅ | ❌ |
@@ -189,6 +193,8 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | Dishonored: Death of the Outsider | ディスオナード デスオブアウトサイダー 攻略 | ❌ | ✅ | ❌ |
 | Metal Gear Solid V | メタルギアソリッドV ファントムペイン | ❌ | ✅ | ❌ |
 | FFXV | ファイナルファンタジーXV | ❌ | ✅ | ❌ |
+| Death Stranding | デス・ストランディング | ❌ | ✅ | ✅ |
+| Detroit: Become Human | デトロイト ビカム ヒューマン | ❌ | ✅ | ❌ |
 
 ### Gamecube
 
@@ -223,25 +229,30 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | Yo-kai Watch 2: Bony Spirits | 妖怪ウォッチ2元祖 | ❌ | ❌ (Solo animaciones) | ✅ |
 | Yo-kai Watch 3 | 妖怪ウォッチ３ | ❌ | ✅ | ✅ |
 
-### PS1, PS2 y PS3
+### PS1, PS2, PS3 & PS4
 
-| Nombre        | Nombre japonés          | ¿Voice / audio log? | ¿Voice / audio acting? | ¿furigana?
-|:-------------|:------------------|:--------|:------------|:-------------|
-| Fuuraiki 1 (Hokkaido)          | 風雨来記1 | - | Casi no tiene voces | - |
-| Fuuraiki 2 (Okinawa)          | 風雨来記2 | - | Casi no tiene voces | - |
-| Jak and Daxter: The Precursor Legacy | ジャック×ダクスター 旧世界の遺産 | ❌ | ✅ | ❌ |
-| Jak 2 | ジャック×ダクスター2 | ❌ | ✅ | ❌ |
-| Kingdom Hearts 2 | キングダム ハーツ 2 | ❌ | ✅ | ❌ |
-| Kingdom Hearts 3 | キングダム ハーツ 3 | ❌ | ✅ | ❌ |
-| Boku no Natsuyasumi 3 | ぼくのなつやすみ3 -北国篇- 小さなボクの大草原 | ❌ | ✅ | ❌ |
+| Consola | Nombre        | Nombre japonés          | ¿Voice / audio log? | ¿Voice / audio acting? | ¿furigana?
+|:--------|:-------------|:------------------|:--------|:------------|:-------------|
+| | Fuuraiki 1 (Hokkaido)          | 風雨来記1 | - | Casi no tiene voces | - |
+| | Fuuraiki 2 (Okinawa)          | 風雨来記2 | - | Casi no tiene voces | - |
+| PS2 | Jak and Daxter: The Precursor Legacy | ジャック×ダクスター 旧世界の遺産 | ❌ | ✅ | ❌ |
+| PS2 | Jak 2 | ジャック×ダクスター2 | ❌ | ✅ | ❌ |
+| PS2 | Jak 3 | ジャック×ダクスター3 | ❌ | ✅ | ❌ |
+| PS2 | Kingdom Hearts 2 | キングダム ハーツ 2 | ❌ | ✅ | ❌ |
+| PS3 | Jak and Daxter Trilogy HD | ジャック×ダクスター三部作 | ❌ | ✅ | ❌ |
+| PS3 | Boku no Natsuyasumi 3 | ぼくのなつやすみ3 -北国篇- 小さなボクの大草原 | ❌ | ✅ | ❌ |
+| PS4 | Kingdom Hearts 3 | キングダム ハーツ 3 | ❌ | ✅ | ❌ |
 
 ### PSP & PS Vita
 
-| Nombre        | Nombre japonés          | ¿Voice / audio log? | ¿Voice / audio acting? | ¿furigana?
-|:-------------|:------------------|:--------|:------------|:-------------|
-| Fuuraiki 2 (Hokkaido)          | 風雨来記3 | - | Casi no tiene voces | - |
-| Bad Apple Wars | バッドアップルウォーズ | ❌ | ✅ | ❌ |
-| Boku no Natsuyasumi 4 | ぼくのなつやすみ4 瀬戸内少年探偵団「ボクと秘密の地図」 | ❌ | ✅ | ❌ |
+| Consola | Nombre        | Nombre japonés          | ¿Voice / audio log? | ¿Voice / audio acting? | ¿furigana?
+|:--------|:-------------|:------------------|:--------|:------------|:-------------|
+| PSP | Boku no Natsuyasumi 4 | ぼくのなつやすみ4 瀬戸内少年探偵団「ボクと秘密の地図」 | ❌ | ✅ | ❌ |
+| PSVita | Fuuraiki 3 (Hokkaido)          | 風雨来記3 | - | Casi no tiene voces | - |
+| PSVita | Bad Apple Wars | バッドアップルウォーズ | ❌ | ✅ | ❌ |
+| PSVita | Jak and Daxter Trilogy HD | ジャック×ダクスター三部作 | ❌ | ✅ | ❌ |
+| PSVita | Zero Escape: Nine Hours, Nine Persons, Nine Doors | ZERO ESCAPE 9時間9人9の扉 | ✅ | ✅ | ❌ |
+| PSVita | Zero Time Dilemma | ZERO ESCAPE 刻のジレンマ | ✅ | ✅ | ❌ |
 
 ### Emuladores
 
