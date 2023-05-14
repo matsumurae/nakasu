@@ -213,3 +213,73 @@ Lo que hace なるべく es exagerar lo que decimos después de ello. Por ejempl
 なるべく運動すべきです
 Debes ejercitarte [tanto como sea posible].
 ```
+
+## Tanto que ~, Tan ~ que ~ / あまり〜
+{: .d-inline-block }
+
+N3
+{: .label .label-purple }
+
+> **Uso:** V dict / V casual pasado / (N + の) + あまり
+
+Se usa para conectar dos cláusulas: [A] (V o N) es la cosa de la que hablamos, lo cual causa que [B] (detrás de あまり) ocurra = resultado.
+
+Por ejemplo, digamos que tu amigo ha conseguido poder…
+
+```
+あの子は力を得た[あまり]逆に力に取り憑かれてしまいました
+Ha obtenido tanto [poder] que se ha [obsesionado] con él.
+[A] = poder
+[B] = se ha obsesionado (con el poder)
+```
+
+Ahora, imagina que hablamos de tu amiga. Ella recibe una buena noticia… ¡Qué digo, buenísima! Tanto, que se pone a llorar.
+
+```
+嬉しさ[のあまり]、彼女は涙を流しました
+Estaba [tan] feliz [que] lloró.
+[A] = feliz
+[B] = llorar
+
+Ella estaba TAN [A = causa] feliz QUE [B = efecto] lloró.
+```
+
+Sencillo, ¿no? Esta forma se puede usar tanto para algo positivo —lloró de felicidad— como negativo —se obsesionó con algo (para mal)—.
+
+```
+それ[のあまり]の安さにおどろいた
+Me [sorprendió] que fuera tan [barato]
+
+プレゼンのとき、緊張[のあまり]間違えてしまった
+Durante mi presentación estaba tan [nervioso] que terminé [cometiendo un error]
+
+しばらくは心配[のあまり]、眠れない夜が続きました
+Estaba tan [preocupada] que estuve [noches sin dormir]
+```
+
+## Demasiado ~, Excesivamente ~ / あまりに(も)〜 o あまりの〜
+{: .d-inline-block }
+
+N3
+{: .label .label-purple }
+
+> **Uso:** あまり + に(も) + V o Adv o Adj / の + N
+
+Añadimos el も si queremos dar énfasis a la frase.
+
+Se usa para decir que [A] es demasiado, ya sea "demasiado calor"; "demasiado difícil" o lo que quieras.
+
+```
+最近[あまりに]暑すぎる
+Últimamente hace [demasiado] calor.
+
+彼は[あまりにも]変わった
+Ha cambiado [demasiado].
+
+私はこの作業にあまりにも時間がかかっている
+Estoy tardando [demasiado] en esta tarea.
+```
+
+### ¿Por qué no usar あまり?
+
+Básicamente, あまり **no se puede usar con adjetivos**. Por eso, en este caso se añade に(も) delante.

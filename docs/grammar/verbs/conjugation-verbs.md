@@ -1459,7 +1459,7 @@ Hablando de mí, todavía [no he empezado] a correr.
 Hablando de mí, aún [no he empezado] a cocinar la cena.
 ```
 
-### Diferencia entre 出す y 始める
+#### Diferencia entre 出す y 始める
 
 | 出す | 子供が飛び出した <br> El niño saltó **(de repente)** |
 | 始める | 子供が飛び始めた <br> El niño **empezó a** saltar |
