@@ -128,7 +128,7 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | Yahari Game Demo Ore no Seishun Love-Kome wa Machigatteiru. & Zoku: Oatome Set | やはりゲームでも俺の青春ラブコメはまちがっている。＆続 おまとめセット | ❌ | ✅ | ❌ | ❌ |
 | Grisaia: Phantom Trigger 01 to 05 | グリザイア ファントムトリガー 01 to 05 | ❌ | ✅ | ❌ | ❌ |
 | TASOMACHI: Behind the Twilight | 黄昏ニ眠ル街 | ❌ | ❌ | ❌ | ✅ |
-| Doki Doki Literature Club Plus! | ドキドキ文芸部プラス！ | ❌ | ❌ | ❌ | ✅ | ✅ |
+| Doki Doki Literature Club Plus! | ドキドキ文芸部プラス！ | ❌ | ❌ | ❌ | ✅ |
 | God Eater 3 | ゴッドイーター3 | ❌ | ✅ | ❌ | ✅ |
 | Call of Cthulhu | コール・オブ・クトゥルフ | ❌ | ❌ (Voces en inglés) | ❌ | ✅ |
 | Vampyr | ヴァンパイア | ❌ | ❌ (Voces en inglés) | ❌ | ✅ |
