@@ -223,8 +223,8 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 
 | Consola | Nombre        | Nombre japonés          | ¿Voice / audio log? | ¿Voice / audio acting? | ¿furigana?
 |:--------|:-------------|:------------------|:--------|:------------|:-------------|
-| | Fuuraiki 1 (Hokkaido)          | 風雨来記1 | - | Casi no tiene voces | - |
-| | Fuuraiki 2 (Okinawa)          | 風雨来記2 | - | Casi no tiene voces | - |
+| PS1 | Fuuraiki 1 (Hokkaido)          | 風雨来記1 | - | Casi no tiene voces | - |
+| PS2 | Fuuraiki 2 (Okinawa)          | 風雨来記2 | - | Casi no tiene voces | - |
 | PS2 | Jak and Daxter: The Precursor Legacy | ジャック×ダクスター 旧世界の遺産 | ❌ | ✅ | ❌ |
 | PS2 | Jak 2 | ジャック×ダクスター2 | ❌ | ✅ | ❌ |
 | PS2 | Jak 3 | ジャック×ダクスター3 | ❌ | ✅ | ❌ |
