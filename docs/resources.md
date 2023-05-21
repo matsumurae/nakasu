@@ -31,140 +31,141 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 
 ### Switch
 
-| Nombre        | Nombre japonés          | ¿Voice / audio log? | ¿Voice / audio acting? | ¿furigana?
-|:-------------|:------------------|:--------|:------------|:-------------|
-| 13 sentinels: aegis rim           | 十三機兵防衛圏 | ✅ | ✅ | ❌ |
-| Ni no kuni           | 二ノ国 | ❌ | ✅ | ✅ |
-| Famicom detective club           | ファミコン探偵倶楽部 | ✅ | ✅ | ✅ |
-| Buddy mission: BOND           | バディミッション BOND | ✅ | ✅ | Algunos |
-| Persona 3 portable (P3P)           | ペルソナ3 ポータブル | ✅ | ✅ | ❌ |
-| Persona 4 golden (P4G)           | ペルソナ4 ザ・ゴールデン | ✅ | ✅ | ❌ |
-| Persona 5 royal (P5R)           | ペルソナ5 ザ・ロイヤル | ✅ | ✅ | ❌ |
-| Fire emblem: Three Houses           | ファイアーエムブレム 風花雪月 | ✅ | ❌ | ❌ |
-| Fire Emblem Warriors: Three Hopes           | ファイアーエムブレム無双 風花雪月 | ✅ | ❌ | ❌ |
-| Yo-kai watch 1 for Nintendo Switch           | 妖怪ウォッチ 1 for Nintendo Switch レベルファイブ ザ ベスト | ❌ | ❌ | ✅ |
-| Yo-kai watch 4++           | 妖怪ウォッチ4++ | ❌ | ❌ | ✅ |
-| Yo-kai Watch Jam: Yo-kai Academy Y           | 妖怪学園Y ～ワイワイ学園生活～ | ✅ | ✅ | ✅ |
-| Marco & the galaxy dragon           | マルコと銀河竜 | - | - | - |
-| Dragon quest 11           | ドラゴンクエストXI 過ぎ去りし時を求めて | ❌ | ✅ | ✅ |
-| Shin chan: Mi verano con el profesor           | クレヨンしんちゃん『オラと博士の夏休み』 | ❌ | ❌ | ✅ |
-| Jack jeanne           | ジャックジャンヌ | - | - | - |
-| Fuuraiki 4 (Gifu)          | 風雨来記4 | - | Casi no tiene voces | - |
-| Triange strategy           | トライアングルストラテジー | ✅ | ❌ | ❌ |
-| Akiba trip           | アキバズトリップ | ✅ | ❌ | ✅ |
-| Megaton musashi           | メガトン級ムサシ | ❌ | ❌ | ✅ |
-| Pokemon escarlata           | ポケットモンスター スカーレット | ❌ | ❌ | ✅ |
-| Pokemon púrpura           | ポケットモンスター バイオレット | ❌ | ❌ | ✅ |
-| Leyendas pokemon: arceus           | Pokémon LEGENDS アルセウス | ❌ | ❌ | ✅ <br> Usa kanjis antiguos que ya no se usan |
-| Pokemon Mundo Misterioso: Equipo de Rescate DX           | ポケモン不思議のダンジョン 救助隊DX | ❌ | ❌ | ✅ |
-| Digimon survive           | デジモンサヴァイブ | ✅ | ✅ | ❌ |
-| Blue reflection           | ブルー リフレクション 幻に舞う少女の剣 | ✅ | ✅ | ❌ |
-| Danganronpa Decadence (JP incluye Danganronpa S: Ultimate Summer Camp)           | ダンガンロンパ トリロジーパック+ハッピーダンガンロンパＳ 超高校級の南国サイコロ合宿 | ✅ | ✅ | ❌ |
-| Danganronpa: Trigger Happy Havoc           | ダンガンロンパ 希望の学園と絶望の高校生 | ✅ | ✅ | ❌ |
-| Danganronpa V3: Killing Harmony           | ニューダンガンロンパV3 みんなのコロシアイ新学期 | ✅ | ✅ | ❌ |
-| Danganronpa 2: Goodbye Despair           | スーパーダンガンロンパ2 さよなら絶望学園 | ✅ | ✅ | ❌ |
-| Danganronpa S: Ultimate Summer Camp           | ハッピーダンガンロンパＳ 超高校級の南国サイコロ合宿 | ✅ | ✅ | ❌ |
-| Nekopara Vol. 1           | ネコぱら1 | ✅ | ✅ | ❌ (simultaneos EN+JP) |
-| Nekopara Vol. 2           | ネコぱら2 | ✅ | ✅ | ❌ (simultaneos EN+JP) |
-| Nekopara Vol. 3           | ネコぱら3 | ✅ | ✅ | ❌ (simultaneos EN+JP) |
-| Nekopara Vol. 4           | ネコぱら4 | ✅ | ✅ | ❌ (simultaneos EN+JP) |
-| Tokyo School Life | - | ❌ | ✅ | ✅ (simultaneos EN+JP) |
-| Grisaia Phantom Trigger | グリザイアの果実 | ❌ | ✅ | ❌ (simultaneos EN+JP) |
-| Tales of Vesperia: Definitive Edition | テイルズオブヴェスペリア | ❌ | ✅ | ❌ |
-| Tales of Symphonia Remastered | テイルズオブシンフォニア | ❌ | Cuando es una animación | ❌ |
-| Senren＊Banka | 千恋＊万花 | ❌ | ✅ | ❌ |
-| Witch Spring 3 Re:Fine -The Story of the Marionette Witch Eirudy- | 魔女の泉３ Re:Fine　―人形魔女、『アイールディ』の物語― | ❌ | ✅ | ❌ |
-| Super Mario 3D All-Stars (Mario 64, Super Mario Sunshine + Super Mario Galaxy) | スーパーマリオ ３Ｄコレクション | ❌ | ❌ | ✅ (Sunshine no tiene Kanji) |
-| Super Mario Odyssey | スーパーマリオオデッセイ | ❌ | ❌ | ✅ |
-| Fairy tail | フェアリーテイル | ❌ | ✅ | ✅ |
-| The Witcher 3: Wild Hunt | ウィッチャー3ワイルドハント | ❌ | ✅ | ✅ |
-| Skyrim | スカイリム | ❌ | ✅ | ❌ |
-| The legend of Zelda: Breath of the Wild | ゼルダの伝説ブレスオブザワイルド | ❌ | ❌ (solo animaciones) | ✅ |
-| The legend of Zelda: Skyward Sword | ゼルダの伝説スカイウォードソード | ❌ | ❌ (solo animaciones) | ✅ |
-| The legend of Zelda: Link's Awakening Remake | ゼルダの伝説 夢をみる島 | ❌ | ❌ | ✅ |
-| Hyrule Warriors: Age of Calamity | ゼルダ無双 | ❌ | ❌ (solo animaciones) | ✅ |
-| Animal Crossing: New Horizons | あつまれ どうぶつの森 | ❌ | ❌ (las voces no son humanas) | ✅ |
-| Shingeki no Kyojin 2 | 進撃の巨人２ | ❌ | ✅ | ❌ |
-| Shingeki no Kyojin -Final Battle- | 進撃の巨人2 -Final Battle- | ❌ | ✅ | ❌ |
-| Megaton Musashi | メガトン級ムサシ | ❌ | ✅ | ✅ |
-| Bioshock Infinite: The complete edition | バイオショックインフィニット | ❌ | ✅ | ❌ |
-| AI: THE SOMNIUM FILES | AI:ソムニウムファイル | ❌ | ✅ | ❌ |
-| Sumire | すみれの空 | ❌ | ❌ | ❌ |
-| Monster Hunter RISE | モンスターハンターライズ | ❌ | ✅ | ✅ |
-| Monster Hunter Stories 2: Wings of Ruin | モンスターハンターストーリーズ2 ～破滅の翼～ | ❌ | ✅ | ✅ |
-| Voice of Cards: The Isle Dragon Roars | ヴォイス オブ カード ドラゴンの島 | ❌ | ✅ | ❌ |
-| Voice of Cards: The Beasts of Burden | ヴォイス オブ カード 囚われの魔物 | ❌ | ✅ | ❌ |
-| Voice of Cards: The Forsaken Maiden | ヴォイス オブ カード できそこないの巫女 | ❌ | ✅ | ❌ |
-| Monark | モナーク | ✅ | ✅ | ❌ |
-| ANONYMOUS;CODE | アノニマス・コード | ✅ | ✅ | ❌ |
-| NEO: It's a Wonderful World | 新すばらしきこのせかい | ✅ | ✅ | ❌ |
-| Assassin's Creed: The Ezio Collection | アサシン クリード エツィオコレクション | ❌ | ✅ | ❌ |
-| Assassin's Creed III Remastered | アサシン クリードIII　リマスター | ❌ | ✅ | ❌ |
-| Assassin's Creed: The Rebel Collection | アサシン クリード リベルコレクション | ❌ | ✅ | ❌ |
-| The Caligula Effect: Overdose | カリギュラ オーバードーズ | ❌ | ✅ | ❌ |
-| The Caligula Effect 2 | カリギュラ オーバードーズ 2 | ❌ | ✅ | ❌ |
-| Atelier Dusk Trilogy Deluxe Pack | アトリエ ～不思議の錬金術士 トリロジー～ DX | ❌ | ✅ | ❌ |
-| OPUS: Echo Of Starsong | 星歌の響き | ❌ | ✅ | ❌ |
-| Re:Zero − Starting Life in Another World | Re:ゼロから始める異世界生活 | ❌ | ✅ | ❌ |
-| Steins;Gate Elite | シュタインズ・ゲート | ❌ | ✅ | ❌ |
-| Life is Strange: Remastered Collection | ライフイズストレンジリマスターコレクション | ❌ | ✅ | ❌ |
-| Life is Strange: True Colors | ライフイズストレンジトゥルーカラーズ | ❌ | ✅ | ❌ |
-| Doraemon: Story of Seasons | ドラえもんのび太の牧場物語 | ❌ | ✅ | ✅ |
-| Story of Seasons: Reunion with Mineral Town | 牧場物語 再会のミネラルタウン | ❌ | ❌ | ✅ |
-| Pikmin 3 Deluxe | ピクミン3 | ❌ | ❌ | ✅ |
-| Rune Factory 4 | ルーンファクトリー4 | ❌ | ✅ | ❌ |
-| Rune Factory 5 | ルーンファクトリー5 | ❌ | ✅ | ❌ |
-| Kingdom Hearts HD 1.5+2.5 ReMIX | キングダム ハーツ HD 1.5+2.5 リミックス | ❌ | ❌ (Solo animaciones) | ❌ |
-| Phoenix Wright: Ace Attorney Trilogy | ルーンファクトリー5 | ❌ | ❌ | ❌ |
-| Tokyo Mirage Sessions ♯FE | 幻影異聞録♯FE | ❌ | ✅ | ❌ |
-| Shin Megami Tensei III: Nocturne HD Remaster | 真・女神転生Ⅲ NOCTURNE HD REMASTER | ❌ | ✅ | ❌ |
-| Shin Megami Tensei V | 真・女神転生Ⅴ | ❌ | ✅ | ❌ |
-| Story of Seasons: Friends of Mineral Town (Harvest Moon) | 牧場物語 再会のミネラルタウン | ❌ | ❌ | ✅ |
-| Story of Seasons: Pioneers of Olive Town (Harvest Moon) | 牧場物語 オリーブタウンと希望の大地 | ❌ | ❌ | ✅ |
-| Ookami HD | 大神 絶景版 | ❌ | ❌ | ✅ |
-| Process of Elimination | 探偵撲滅 | ❌ | (Algunos) | ❌ |
-| The Quintessential Quintuplets the Movie: Five Memories of My Time with You | 映画「五等分の花嫁」 ～君と過ごした五つの思い出～ | ❌ | ✅ | ❌ |
-| The Quintessential Quintuplets ∬: Summer Memories Also Come in Five | 五等分の花嫁∬　～夏の思い出も五等分～ | ❌ | ✅ | ❌ |
-| Yahari Game Demo Ore no Seishun Love-Kome wa Machigatteiru. & Zoku: Oatome Set | やはりゲームでも俺の青春ラブコメはまちがっている。＆続 おまとめセット | ❌ | ✅ | ❌ |
-| Grisaia: Phantom Trigger 01 to 05 | グリザイア ファントムトリガー 01 to 05 | ❌ | ✅ | ❌ |
-| TASOMACHI: Behind the Twilight | 黄昏ニ眠ル街 | ❌ | ❌ | ❌ |
-| Doki Doki Literature Club Plus! | ドキドキ文芸部プラス！ | ❌ | ❌ | ❌ |
-| God Eater 3 | ゴッドイーター3 | ❌ | ✅ | ❌ |
-| Call of Cthulhu | コール・オブ・クトゥルフ | ❌ | ❌ (Voces en inglés) | ❌ |
-| Vampyr | ヴァンパイア | ❌ | ❌ (Voces en inglés) | ❌ |
-| Hokko Life | ホッコライフ | ❌ | ❌ | ❌ |
-| Root Letter: Last Answer | √Letter ルートレター Last Answer | ❌ | ❌ | ❌ |
-| Code: Realize ~Guardian of Rebirth~ | Code:Realize ～創世の姫君~ | ❌ | ✅ (solo personajes) | ❌ |
-| Code: Realize ~Future Blessings~ | Code:Realize ~祝福の未来~ | ❌ | ✅ (solo personajes) | ❌ |
-| BLUE REFLECTION: Second Light | ブルー リフレクション 帝/タイ | ❌ | ❌ (solo animaciones) | ❌ |
-| Liar Princess And The Blind Prince | 嘘つき姫と盲目王子 | ❌ | ✅ | ❌ |
-| Ghostrunner | ゴーストランナー | ❌ | ❌ (Voces en inglés) | ❌ |
-| Astral Chain | アストラルチェイン | ❌ | ✅ | ❌ |
-| Bayonetta | ベヨネッタ | ❌ | ✅ | ❌ |
-| Bayonetta 2 | ベヨネッタ2 | ❌ | ✅ | ❌ |
-| Bayonetta 3 | ベヨネッタ3 | ❌ | ✅ | ❌ |
-| Ys VIII: Lacrimosa of Dana | イースVIII -Lacrimosa of DANA- | ❌ | ✅ (solo animaciones) | ❌ |
-| No More Heroes 3 | ノーモア☆ヒーローズIII | ❌ | ✅ | ❌ |
-| Daemon x Machina | デモンエクスマキナ | ❌ | ✅ | ❌ |
-| Final Fantasy Crystal Chronicles Remastered | ファイナルファンタジー・クリスタルクロニクル リマスター | ❌ | ❌ | ❌ |
-| Crisis Core Final Fantasy VII | クライシス コア -ファイナルファンタジーＶＩＩ | ❌ | ✅ | ❌ |
-| Final Fantasy X/X-2 HD Remaster | ファイナルファンタジーX/X-2 HD リマスター | ❌ | ✅ | ❌ |
-| Final Fantasy XII THE ZODIAC AGE | ファイナルファンタジーXII | ❌ | ✅ | ❌ |
-| World of Final Fantasy Maxima | ワールド オブ ファイナルファンタジー | ❌ | ✅ | ❌ |
-| Final Fantasy XV: Pocket Edition | ファイナルファンタジーXV ポケットエディション | ❌ | ✅ | ❌ |
-| Bravely Default II | ブレイブリーデフォルトII | ❌ | ✅ | ❌ |
-| .hack//G.U. Last Recode | ドットハック ジーユー ラストリコード | ❌ | ✅ | ❌ |
+| Nombre        | Nombre japonés          | ¿Voice / audio log? | ¿Voice / audio acting? | ¿Furigana? | ¿PC version?
+|:-------------|:------------------|:--------|:------------|:-------------|:----------|
+| 13 sentinels: aegis rim           | 十三機兵防衛圏 | ✅ | ✅ | ❌ | ❌ |
+| Ni no Kuni: Wrath of the White Witch           | 二ノ国 白き聖灰の女王 | ❌ | ✅ | ✅ | ✅ |
+| Ni no Kuni II: Revenant Kingdom          | 二ノ国II レヴァナントキングダム | ❌ | ✅ | ✅ | ✅ |
+| Famicom detective club           | ファミコン探偵倶楽部 | ✅ | ✅ | ✅ | ❌ |
+| Buddy mission: BOND           | バディミッション BOND | ✅ | ✅ | Algunos | ❌ |
+| Persona 3 portable (P3P)           | ペルソナ3 ポータブル | ✅ | ✅ | ❌ | ✅ |
+| Persona 4 golden (P4G)           | ペルソナ4 ザ・ゴールデン | ✅ | ✅ | ❌ | ✅ |
+| Persona 5 royal (P5R)           | ペルソナ5 ザ・ロイヤル | ✅ | ✅ | ❌ | ✅ |
+| Fire emblem: Three Houses           | ファイアーエムブレム 風花雪月 | ✅ | ❌ | ❌ | ❌ |
+| Fire Emblem Warriors: Three Hopes           | ファイアーエムブレム無双 風花雪月 | ✅ | ❌ | ❌ | ❌ |
+| Yo-kai watch 1 for Nintendo Switch           | 妖怪ウォッチ 1 for Nintendo Switch レベルファイブ ザ ベスト | ❌ | ❌ | ✅ | ❌ |
+| Yo-kai watch 4++           | 妖怪ウォッチ4++ | ❌ | ❌ | ✅ | ❌ |
+| Yo-kai Watch Jam: Yo-kai Academy Y           | 妖怪学園Y ～ワイワイ学園生活～ | ✅ | ✅ | ✅ | ❌ |
+| Marco & the galaxy dragon           | マルコと銀河竜 | - | - | - | ✅ |
+| Dragon quest 11           | ドラゴンクエストXI 過ぎ去りし時を求めて | ❌ | ✅ | ✅ | ✅ |
+| Shin chan: Mi verano con el profesor           | クレヨンしんちゃん『オラと博士の夏休み』 | ❌ | ❌ | ✅ | ✅ |
+| Jack jeanne           | ジャックジャンヌ | - | - | - | ❌ |
+| Fuuraiki 4 (Gifu)          | 風雨来記4 | - | Casi no tiene voces | - | ❌ |
+| Triange strategy           | トライアングルストラテジー | ✅ | ❌ | ❌ | ✅ |
+| Akiba trip           | アキバズトリップ | ✅ | ❌ | ✅ | ✅ |
+| Pokemon escarlata           | ポケットモンスター スカーレット | ❌ | ❌ | ✅ | ❌ |
+| Pokemon púrpura           | ポケットモンスター バイオレット | ❌ | ❌ | ✅ | ❌ |
+| Leyendas pokemon: arceus           | Pokémon LEGENDS アルセウス | ❌ | ❌ | ✅ <br> Usa kanjis antiguos que ya no se usan | ❌ |
+| Pokemon Mundo Misterioso: Equipo de Rescate DX           | ポケモン不思議のダンジョン 救助隊DX | ❌ | ❌ | ✅ | ❌ |
+| Digimon survive           | デジモンサヴァイブ | ✅ | ✅ | ❌ | ✅ |
+| Blue reflection           | ブルー リフレクション 幻に舞う少女の剣 | ✅ | ✅ | ❌ | ✅ |
+| Danganronpa Decadence (JP incluye Danganronpa S: Ultimate Summer Camp)           | ダンガンロンパ トリロジーパック+ハッピーダンガンロンパＳ 超高校級の南国サイコロ合宿 | ✅ | ✅ | ❌ | ✅ |
+| Danganronpa: Trigger Happy Havoc           | ダンガンロンパ 希望の学園と絶望の高校生 | ✅ | ✅ | ❌ | ✅ |
+| Danganronpa V3: Killing Harmony           | ニューダンガンロンパV3 みんなのコロシアイ新学期 | ✅ | ✅ | ❌ | ✅ |
+| Danganronpa 2: Goodbye Despair           | スーパーダンガンロンパ2 さよなら絶望学園 | ✅ | ✅ | ❌ | ✅ |
+| Danganronpa S: Ultimate Summer Camp           | ハッピーダンガンロンパＳ 超高校級の南国サイコロ合宿 | ✅ | ✅ | ❌ | ✅ |
+| Nekopara Vol. 1           | ネコぱら1 | ✅ | ✅ | ❌ (simultaneos EN+JP) | ✅ |
+| Nekopara Vol. 2           | ネコぱら2 | ✅ | ✅ | ❌ (simultaneos EN+JP) | ✅ |
+| Nekopara Vol. 3           | ネコぱら3 | ✅ | ✅ | ❌ (simultaneos EN+JP) | ✅ |
+| Nekopara Vol. 4           | ネコぱら4 | ✅ | ✅ | ❌ (simultaneos EN+JP) | ✅ |
+| Tokyo School Life | - | ❌ | ✅ | ✅ (simultaneos EN+JP) | ✅ |
+| Grisaia Phantom Trigger | グリザイアの果実 | ❌ | ✅ | ❌ (simultaneos EN+JP) | ✅ |
+| Tales of Vesperia: Definitive Edition | テイルズオブヴェスペリア | ❌ | ✅ | ❌ | ✅ |
+| Tales of Symphonia Remastered | テイルズオブシンフォニア | ❌ | Cuando es una animación | ❌ | ✅ |
+| Senren＊Banka | 千恋＊万花 | ❌ | ✅ | ❌ | ✅ |
+| Witch Spring 3 Re:Fine -The Story of the Marionette Witch Eirudy- | 魔女の泉３ Re:Fine　―人形魔女、『アイールディ』の物語― | ❌ | ✅ | ❌ | ✅ |
+| Super Mario 3D All-Stars (Mario 64, Super Mario Sunshine + Super Mario Galaxy) | スーパーマリオ ３Ｄコレクション | ❌ | ❌ | ✅ (Sunshine no tiene Kanji) | ❌ |
+| Super Mario Odyssey | スーパーマリオオデッセイ | ❌ | ❌ | ✅ | ❌ |
+| Fairy tail | フェアリーテイル | ❌ | ✅ | ✅ | ✅ |
+| The Witcher 3: Wild Hunt | ウィッチャー3ワイルドハント | ❌ | ✅ | ✅ | ✅ |
+| Skyrim | スカイリム | ❌ | ✅ | ❌ | ✅ |
+| The legend of Zelda: Breath of the Wild | ゼルダの伝説ブレスオブザワイルド | ❌ | ❌ (solo animaciones) | ✅ | ❌ |
+| The legend of Zelda: Skyward Sword | ゼルダの伝説スカイウォードソード | ❌ | ❌ (solo animaciones) | ✅ | ❌ |
+| The legend of Zelda: Link's Awakening Remake | ゼルダの伝説 夢をみる島 | ❌ | ❌ | ✅ | ❌ |
+| Hyrule Warriors: Age of Calamity | ゼルダ無双 | ❌ | ❌ (solo animaciones) | ✅ | ❌ |
+| Animal Crossing: New Horizons | あつまれ どうぶつの森 | ❌ | ❌ (las voces no son humanas) | ✅ | ❌ |
+| Shingeki no Kyojin 2 | 進撃の巨人２ | ❌ | ✅ | ❌ | ✅ |
+| Shingeki no Kyojin -Final Battle- | 進撃の巨人2 -Final Battle- | ❌ | ✅ | ❌ | ❌ |
+| Megaton Musashi | メガトン級ムサシ | ❌ | ✅ | ✅ | ✅ |
+| Bioshock Infinite: The complete edition | バイオショックインフィニット | ❌ | ✅ | ❌ | ✅ |
+| AI: THE SOMNIUM FILES | AI:ソムニウムファイル | ❌ | ✅ | ❌ | ✅ |
+| Sumire | すみれの空 | ❌ | ❌ | ❌ | ✅ |
+| Monster Hunter RISE | モンスターハンターライズ | ❌ | ✅ | ✅ | ✅ |
+| Monster Hunter Stories 2: Wings of Ruin | モンスターハンターストーリーズ2 ～破滅の翼～ | ❌ | ✅ | ✅ | ✅ |
+| Voice of Cards: The Isle Dragon Roars | ヴォイス オブ カード ドラゴンの島 | ❌ | ✅ | ❌ | ✅ |
+| Voice of Cards: The Beasts of Burden | ヴォイス オブ カード 囚われの魔物 | ❌ | ✅ | ❌ | ✅ |
+| Voice of Cards: The Forsaken Maiden | ヴォイス オブ カード できそこないの巫女 | ❌ | ✅ | ❌ | ✅ |
+| Monark | モナーク | ✅ | ✅ | ❌ | ✅ |
+| ANONYMOUS;CODE | アノニマス・コード | ✅ | ✅ | ❌ | ✅ |
+| Neo: The World Ends with You | 新すばらしきこのせかい | ✅ | ✅ | ❌ | ✅ |
+| Assassin's Creed: The Ezio Collection | アサシン クリード エツィオコレクション | ❌ | ✅ | ❌ | ✅ |
+| Assassin's Creed III Remastered | アサシン クリードIII　リマスター | ❌ | ✅ | ❌ | ✅ |
+| Assassin's Creed: The Rebel Collection | アサシン クリード リベルコレクション | ❌ | ✅ | ❌ | ✅ |
+| The Caligula Effect: Overdose | カリギュラ オーバードーズ | ❌ | ✅ | ❌ | ✅ |
+| The Caligula Effect 2 | カリギュラ オーバードーズ 2 | ❌ | ✅ | ❌ | ✅ |
+| Atelier Dusk Trilogy Deluxe Pack | アトリエ ～不思議の錬金術士 トリロジー～ DX | ❌ | ✅ | ❌ | ✅ |
+| OPUS: Echo Of Starsong | 星歌の響き | ❌ | ✅ | ❌ | ✅ |
+| Re:Zero − Starting Life in Another World | Re:ゼロから始める異世界生活 | ❌ | ✅ | ❌ | ✅ |
+| Steins;Gate Elite | シュタインズ・ゲート | ❌ | ✅ | ❌ | ✅ |
+| Life is Strange: Remastered Collection | ライフイズストレンジリマスターコレクション | ❌ | ✅ | ❌ | ✅ |
+| Life is Strange: True Colors | ライフイズストレンジトゥルーカラーズ | ❌ | ✅ | ❌ | ✅ |
+| Doraemon: Story of Seasons | ドラえもんのび太の牧場物語 | ❌ | ✅ | ✅ | ✅ |
+| Story of Seasons: Reunion with Mineral Town | 牧場物語 再会のミネラルタウン | ❌ | ❌ | ✅ | ✅ |
+| Pikmin 3 Deluxe | ピクミン3 | ❌ | ❌ | ✅ | ❌ |
+| Rune Factory 4 | ルーンファクトリー4 | ❌ | ✅ | ❌ | ✅ |
+| Rune Factory 5 | ルーンファクトリー5 | ❌ | ✅ | ❌ | ✅ |
+| Kingdom Hearts HD 1.5+2.5 ReMIX | キングダム ハーツ HD 1.5+2.5 リミックス | ❌ | ❌ (Solo animaciones) | ❌ | ✅ |
+| Phoenix Wright: Ace Attorney Trilogy | ルーンファクトリー5 | ❌ | ❌ | ❌ | ✅ |
+| Tokyo Mirage Sessions ♯FE | 幻影異聞録♯FE | ❌ | ✅ | ❌ | ❌ |
+| Shin Megami Tensei III: Nocturne HD Remaster | 真・女神転生Ⅲ NOCTURNE HD REMASTER | ❌ | ✅ | ❌ | ✅ |
+| Shin Megami Tensei V | 真・女神転生Ⅴ | ❌ | ✅ | ❌ | ❌ |
+| Story of Seasons: Friends of Mineral Town (Harvest Moon) | 牧場物語 再会のミネラルタウン | ❌ | ❌ | ✅ | ✅ |
+| Story of Seasons: Pioneers of Olive Town (Harvest Moon) | 牧場物語 オリーブタウンと希望の大地 | ❌ | ❌ | ✅ | ✅ |
+| Ookami HD | 大神 絶景版 | ❌ | ❌ | ✅ | ✅ |
+| Process of Elimination | 探偵撲滅 | ❌ | (Algunos) | ❌ | ❌ |
+| The Quintessential Quintuplets the Movie: Five Memories of My Time with You | 映画「五等分の花嫁」 ～君と過ごした五つの思い出～ | ❌ | ✅ | ❌ | ❌ |
+| The Quintessential Quintuplets ∬: Summer Memories Also Come in Five | 五等分の花嫁∬　～夏の思い出も五等分～ | ❌ | ✅ | ❌ | ❌ |
+| Yahari Game Demo Ore no Seishun Love-Kome wa Machigatteiru. & Zoku: Oatome Set | やはりゲームでも俺の青春ラブコメはまちがっている。＆続 おまとめセット | ❌ | ✅ | ❌ | ❌ |
+| Grisaia: Phantom Trigger 01 to 05 | グリザイア ファントムトリガー 01 to 05 | ❌ | ✅ | ❌ | ❌ |
+| TASOMACHI: Behind the Twilight | 黄昏ニ眠ル街 | ❌ | ❌ | ❌ | ✅ |
+| Doki Doki Literature Club Plus! | ドキドキ文芸部プラス！ | ❌ | ❌ | ❌ | ✅ | ✅ |
+| God Eater 3 | ゴッドイーター3 | ❌ | ✅ | ❌ | ✅ |
+| Call of Cthulhu | コール・オブ・クトゥルフ | ❌ | ❌ (Voces en inglés) | ❌ | ✅ |
+| Vampyr | ヴァンパイア | ❌ | ❌ (Voces en inglés) | ❌ | ✅ |
+| Hokko Life | ホッコライフ | ❌ | ❌ | ❌ | ✅ |
+| Root Letter: Last Answer | √Letter ルートレター Last Answer | ❌ | ❌ | ❌ | ✅ |
+| Code: Realize ~Guardian of Rebirth~ | Code:Realize ～創世の姫君~ | ❌ | ✅ (solo personajes) | ❌ | ❌ |
+| Code: Realize ~Future Blessings~ | Code:Realize ~祝福の未来~ | ❌ | ✅ (solo personajes) | ❌ | ❌ |
+| BLUE REFLECTION: Second Light | ブルー リフレクション 帝/タイ | ❌ | ❌ (solo animaciones) | ❌ | ✅ |
+| Liar Princess And The Blind Prince | 嘘つき姫と盲目王子 | ❌ | ✅ | ❌ | ❌ |
+| Ghostrunner | ゴーストランナー | ❌ | ❌ (Voces en inglés) | ❌ | ✅ |
+| Astral Chain | アストラルチェイン | ❌ | ✅ | ❌ | ❌ |
+| Bayonetta | ベヨネッタ | ❌ | ✅ | ❌ | ✅ |
+| Bayonetta 2 | ベヨネッタ2 | ❌ | ✅ | ❌ | ❌ |
+| Bayonetta 3 | ベヨネッタ3 | ❌ | ✅ | ❌ | ❌ |
+| Ys VIII: Lacrimosa of Dana | イースVIII -Lacrimosa of DANA- | ❌ | ✅ (solo animaciones) | ❌ | ✅ |
+| No More Heroes 3 | ノーモア☆ヒーローズIII | ❌ | ✅ | ❌ | ✅ |
+| Daemon x Machina | デモンエクスマキナ | ❌ | ✅ | ❌ | ✅ |
+| Final Fantasy Crystal Chronicles Remastered | ファイナルファンタジー・クリスタルクロニクル リマスター | ❌ | ❌ | ❌ | ❌ |
+| Crisis Core Final Fantasy VII | クライシス コア -ファイナルファンタジーＶＩＩ | ❌ | ✅ | ❌ | ✅ |
+| Final Fantasy X/X-2 HD Remaster | ファイナルファンタジーX/X-2 HD リマスター | ❌ | ✅ | ❌ | ✅ |
+| Final Fantasy XII THE ZODIAC AGE | ファイナルファンタジーXII | ❌ | ✅ | ❌ | ✅ |
+| World of Final Fantasy Maxima | ワールド オブ ファイナルファンタジー | ❌ | ✅ | ❌ | ✅ |
+| Final Fantasy XV: Pocket Edition | ファイナルファンタジーXV ポケットエディション | ❌ | ✅ | ❌ | ❌ |
+| Bravely Default II | ブレイブリーデフォルトII | ❌ | ✅ | ❌ | ✅ |
+| .hack//G.U. Last Recode | ドットハック ジーユー ラストリコード | ❌ | ✅ | ❌ | ✅ |
+| Immortals Fenix Rising | イモータルズ フィニクス ライジング | ❌ | ✅ | ❌ | ✅ |
+| World's End Club | ワールズエンドクラブ | ❌ | ✅ | ❌ | ✅ |
+| PARANORMASIGHT: The Seven Mysteries of Honjo | パラノマサイト FILE23 本所七不思議 | ❌ | ✅ | ❌ | ✅ |
 
 #### Por estrenar
 
-| Nombre        | Nombre japonés          | ¿Voice / audio log? | ¿Voice / audio acting? | ¿furigana?
-|:-------------|:------------------|:--------|:------------|:-------------|
-| Master Detective Archives: Rain Code | 超探偵事件簿 レインコード | ❌ | ✅ | ❌ |
-| World's End Club | ワールズエンドクラブ | ❌ | ✅ | ❌ |
-| LOOP8: Summer of Gods | ループエイト | ❌ | ✅ | ❌ |
-| Natsu-Mon! 20th Century Summer Vacation | なつもん！ 20世紀の夏休み | ❌ | ❌ | ❌ |
-| Atelier Marie Remake: The Alchemist of Salburg | マリーのアトリエ Remake ～ザールブルグの錬金術士～ | ❌ | ✅ | ❌ |
-| PARANORMASIGHT: The Seven Mysteries of Honjo | パラノマサイト FILE23 本所七不思議 | ❌ | ✅ | ❌ |
+| Nombre        | Nombre japonés          | ¿Voice / audio log? | ¿Voice / audio acting? | ¿furigana? | ¿PC version?
+|:-------------|:------------------|:--------|:------------|:-------------|:------------|
+| Master Detective Archives: Rain Code | 超探偵事件簿 レインコード | ❌ | ✅ | ❌ | ❌ |
+| LOOP8: Summer of Gods | ループエイト | ❌ | ✅ | ❌ | ✅ |
+| Natsu-Mon! 20th Century Summer Vacation | なつもん！ 20世紀の夏休み | ❌ | ❌ | ❌ | ❌ |
+| Atelier Marie Remake: The Alchemist of Salburg | マリーのアトリエ Remake ～ザールブルグの錬金術士～ | ❌ | ✅ | ❌ | ✅ |
 
 ### PC
 
