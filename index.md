@@ -17,7 +17,7 @@ Hecha la presentación, ¡vamos al lío! Si no estás familiarizado con el japon
 >
 > **Esta documentación está hecha para servir a los que quieren aprender a hablar / entender el japonés, no a leer (y mucho menos escribir)…**
 > 
-> Si quieres aprender a leer, te recomiendo que visites [Cómo leer en japonés]({% link docs/read.md %}), donde te recomiendo lo que debes hacer.
+> Si quieres aprender a leer, te recomiendo que visites [Cómo leer en japonés]({% link docs/reading/read.md %}), donde te recomiendo lo que debes hacer.
 
 ## Si no estás familiarizado…
 

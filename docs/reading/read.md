@@ -1,7 +1,8 @@
 ---
-title: Cómo leer en japonés
+title: Lectura en japonés
 layout: default
 nav_order: 3
+has_children: true
 ---
 
 # Cómo leer en japonés
