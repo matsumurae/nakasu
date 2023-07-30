@@ -48,6 +48,8 @@ nav_order: 3
 - [料理研究家リュウジのバズレシピ](https://www.youtube.com/@ryuji825)
 - [食堂あさごはん](https://www.youtube.com/@user-bb2tp3fi3k)
 - [馬場ごはん〈ロバート〉Baba's Kitchen](https://www.youtube.com/@babagohan)
+- [konamaru kitchen](https://www.youtube.com/@konamaru8440)
+- [yaa channel](https://www.youtube.com/@yaachannel4956)
 
 ## Psicología
 
@@ -247,6 +249,11 @@ nav_order: 3
 - [丸山礼チャンネル](https://www.youtube.com/@rei_maruyama)
 - [朝倉未来 Mikuru Asakura](https://www.youtube.com/@mikuruasakura1)
 - [鳥さん学級](https://www.youtube.com/@torisan_gakkyu)
+- [やまこ / yamako](https://www.youtube.com/@ya_ma_ko)
+
+## Idiomas
+
+- [ちゃいなサプリ―高卒のプロ通訳](https://www.youtube.com/@0703Jackie)
 
 ## Salud
 
