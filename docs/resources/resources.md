@@ -29,7 +29,7 @@ Puedes ver el ranking de dificultad [aquí](https://jpdb.io/anime-difficulty-lis
 
 ### Con subtítulos en inglés (a veces tienes otros idiomas)
 
-- https://zoro.to/home
+- https://aniwatch.to/ (Viejo zoro.to)
 
 ### Con subtítulos en español
 
@@ -48,6 +48,10 @@ Puedes ver el ranking de dificultad [aquí](https://jpdb.io/anime-difficulty-lis
 - https://klmanga.com/ybed-jujutsu-kaisen-raw.html
 - https://tonarinoyj.jp/
 - http://mangareader.to/
+- https://mangarawjp.so/
+- https://kissaway.net/
+- https://nikaraw.com/
+- https://mangareader.to/
 
 ### Decargar raws de manga
 
