@@ -14,7 +14,7 @@ nav_order: 3
 - [1人前食堂](https://www.youtube.com/@mai_ichininmae)
 - [ayahare diet](https://www.youtube.com/@ayaharediet)
 - [cooking with momo](https://www.youtube.com/@cookingwithmomo1375)
-- [eorge Cooking ジョージクッキング](https://www.youtube.com/@georgecooking2935/videos)
+- [eorge Cooking ジョージクッキング](https://www.youtube.com/@georgecooking2935)
 - [KAZUAKI EGUCHI / チョコレートのプロ：ショコラティエ Chocolate](https://www.youtube.com/@KAZUCHOCOLATE)
 - [Koh Kentetsu Kitchen【料理研究家コウケンテツ公式チャンネル】](https://www.youtube.com/@kohkentetsukitchen)
 - [macaroni マカロニ](https://www.youtube.com/@macaroni_recipe)
@@ -182,6 +182,7 @@ nav_order: 3
 - [理事さん](https://www.youtube.com/@nitrorizi)
 - [花江夏樹](https://www.youtube.com/@hanae0626)
 - [やまももゲーム部](https://www.youtube.com/@yamogame)
+- [椎名唯華 / Shiina Yuika](https://www.youtube.com/@ShiinaYuika)
 
 ### Gamers
 
@@ -205,6 +206,8 @@ nav_order: 3
 - [初瀬くん / Hatsuse-kun](https://www.youtube.com/@hatsuse-kun5463/featured)
 - [日本語の森](https://www.youtube.com/@nihongonomori2013)
 - [津田健次郎](https://www.youtube.com/@user-hj2gu4ql8e)
+- [YUYUの日本語Podcast](https://www.youtube.com/@yuyunihongopodcast)
+- [Japanese Language Community　 絵里子塾　ERIKO JUKU](https://www.youtube.com/@erikojuku)
 
 ### Real-life VLOGS
 
@@ -238,7 +241,7 @@ nav_order: 3
 - [かっつー](https://www.youtube.com/@kattu0403)
 - [かなたいむ。](https://www.youtube.com/@kanatime1023)
 - [けんとぅー](https://www.youtube.com/@Kentoo1116)
-- [まるこ](https://www.youtube.com/@user-gr6og3vv1g/videos)
+- [まるこ](https://www.youtube.com/@user-gr6og3vv1g)
 - [クリエイティブの裏側](https://www.youtube.com/@c.uragawa)
 - [タケヤキ翔/ラトゥラトゥ](https://www.youtube.com/@takeyakisan)
 - [トバログ](https://www.youtube.com/@tobalog_toba)
@@ -252,7 +255,7 @@ nav_order: 3
 - [鳥さん学級](https://www.youtube.com/@torisan_gakkyu)
 - [やまこ / yamako](https://www.youtube.com/@ya_ma_ko)
 - [やまももちゃんねるつ](https://www.youtube.com/@yamamomoda4)
-- [やまもものサ部](https://www.youtube.com/@yamamomosub/videos)
+- [やまもものサ部](https://www.youtube.com/@yamamomosub)
 
 ## Idiomas
 
@@ -281,7 +284,8 @@ nav_order: 3
 - [石井亜美AmiIshii](https://www.youtube.com/@AmiIshii)
 - [脂肪燃焼ちゃん](https://www.youtube.com/@user-df3uw8fb4d)
 - [薬学生トレーニーSakura](https://www.youtube.com/@sakufitness)
-- [身体は自分で良くしましょう](https://www.youtube.com/@user-df5uj6ez8o/videos)
+- [身体は自分で良くしましょう](https://www.youtube.com/@user-df5uj6ez8o)
+- [斎藤裕](https://www.youtube.com/@yutakasaito1008)
 
 ## Medicina
 
@@ -307,10 +311,11 @@ nav_order: 3
 - [動画、はじめてみました【テレビ朝日公式】](https://www.youtube.com/channel/UCkGCQ4TN-8gvb8QCYIqygHw)
 - [毎週キングコング](https://www.youtube.com/@mainichikingkong)
 - [諏訪部順一×石原慎也 Voice Pallet 【ボイパレ】](https://www.youtube.com/@voicepalletmbs4495)
+- [スカイピース](https://www.youtube.com/@Skypeace)
 
 ## Reviews
 
-- [ちょっぴり大人の贅沢旅](https://www.youtube.com/@user-ut5lq2bw5l/videos)
+- [ちょっぴり大人の贅沢旅](https://www.youtube.com/@user-ut5lq2bw5l)
 
 ### Motos
 
@@ -322,6 +327,8 @@ nav_order: 3
 - [あおいひと](https://www.youtube.com/@aoihito)
 - [しのせんせい](https://www.youtube.com/@user-dz8ku4zg5k)
 - [西村俊彦の朗読ノオト](https://www.youtube.com/@roudokunote)
+- [NPO多言語多読](https://www.youtube.com/@tadokuorg)
+- [【公式】窪田等の世界](https://www.youtube.com/@hitoshi_kubota_official)
 
 ### Audio mangas
 
@@ -332,12 +339,15 @@ nav_order: 3
 - [暇くまラボ](https://www.youtube.com/@himakumalabo)
 - [漫画エンジェルネコオカ](https://www.youtube.com/@neko-oka)
 - [絵鳩ウタのボイコミワンダーランド【恋愛ラブコメ漫画】](https://www.youtube.com/@ebatouta)
+- [コミックエッセイ劇場【公式】](https://www.youtube.com/@KADOKAWAcomicessay)
 
 ## Canales para niños
 
 - [しまじろうチャンネル（YouTube）](https://www.youtube.com/@SHIMAJIROCH)
 - [カイユー日本語 - WildBrain](https://www.youtube.com/@CaillouJapanese)
 - [ボンボンアカデミー](https://www.youtube.com/@Bom-Bom-Academy)
+- [サザエさん2023](https://www.youtube.com/@maocarole)
+- [ペッパピッグ ー Peppa Pig](https://www.youtube.com/@PeppaPigJapaneseOfficial)
 
 ## Aprender en Japonés
 
@@ -354,6 +364,13 @@ nav_order: 3
 ## Random
 
 - [ホモサピ](https://www.youtube.com/@homosapi)
+
+## Noticias
+
+- [ANNnewsCH](https://www.youtube.com/@ANNnewsCH)
+- [TBS NEWS DIG Powered by JNN](https://www.youtube.com/@tbsnewsdig)
+- [ウェザーニュース](https://www.youtube.com/@weathernews)
+- [日テレNEWS](https://www.youtube.com/@ntv_news)
 
 ## Para estudiantes de Japonés (en inglés)
 
