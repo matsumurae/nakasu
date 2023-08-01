@@ -181,6 +181,7 @@ nav_order: 3
 - [牛沢](https://www.youtube.com/@uszw)
 - [理事さん](https://www.youtube.com/@nitrorizi)
 - [花江夏樹](https://www.youtube.com/@hanae0626)
+- [やまももゲーム部](https://www.youtube.com/@yamogame)
 
 ### Gamers
 
@@ -251,6 +252,7 @@ nav_order: 3
 - [鳥さん学級](https://www.youtube.com/@torisan_gakkyu)
 - [やまこ / yamako](https://www.youtube.com/@ya_ma_ko)
 - [やまももちゃんねるつ](https://www.youtube.com/@yamamomoda4)
+- [やまもものサ部](https://www.youtube.com/@yamamomosub/videos)
 
 ## Idiomas
 
