@@ -13,28 +13,6 @@ has_children: true
 1. TOC
 {:toc}
 
-## Dificultad animes
-
-Puedes ver el ranking de dificultad [aquí](https://jpdb.io/anime-difficulty-list).
-
-## Dónde ver anime online
-
-### Con subtítulos en japonés
-
-- https://anisub.tv/
-- http://animejpnsub.ezyro.com/?i=1
-- https://animelon.com/
-- https://9tsu.guru/
-- https://nihonnobangumi.com/
-
-### Con subtítulos en inglés (a veces tienes otros idiomas)
-
-- https://aniwatch.to/ (Viejo zoro.to)
-
-### Con subtítulos en español
-
-- https://www1.otakustv.com/
-
 ## Gramática
 
 - [Genki](https://genki3.japantimes.co.jp/en/student/)
