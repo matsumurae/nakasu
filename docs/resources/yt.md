@@ -250,6 +250,7 @@ nav_order: 3
 - [朝倉未来 Mikuru Asakura](https://www.youtube.com/@mikuruasakura1)
 - [鳥さん学級](https://www.youtube.com/@torisan_gakkyu)
 - [やまこ / yamako](https://www.youtube.com/@ya_ma_ko)
+- [やまももちゃんねるつ](https://www.youtube.com/@yamamomoda4)
 
 ## Idiomas
 
