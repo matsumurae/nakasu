@@ -256,6 +256,10 @@ nav_order: 3
 - [やまこ / yamako](https://www.youtube.com/@ya_ma_ko)
 - [やまももちゃんねるつ](https://www.youtube.com/@yamamomoda4)
 - [やまもものサ部](https://www.youtube.com/@yamamomosub)
+- [Kimono Mon](https://www.youtube.com/@KimonoMom)
+- [Kana Oya](https://www.youtube.com/@KanaOyaOfficial)
+- [日常かこちん](https://www.youtube.com/@user-jh2ss3do3k)
+- [むくえなちっく。](https://www.youtube.com/@mukuena)
 
 ## Idiomas
 
