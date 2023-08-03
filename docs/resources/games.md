@@ -75,7 +75,19 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | Assassin's Creed: The Rebel Collection | アサシン クリード リベルコレクション | ❌ | ✅ | ❌ |
 | The Caligula Effect: Overdose | カリギュラ オーバードーズ | ❌ | ✅ | ❌ |
 | The Caligula Effect 2 | カリギュラ オーバードーズ 2 | ❌ | ✅ | ❌ |
-| Atelier Dusk Trilogy Deluxe Pack | アトリエ ～不思議の錬金術士 トリロジー～ DX | ❌ | ✅ | ❌ |
+| Atelier Rorona ~The Alchemist of Arland~ DX | ロロナのアトリエ 〜アーランドの錬金術士〜 | ❌ | ✅ | ❌ |
+| Atelier Totori ~The Adventurer of Arland~ DX | トトリのアトリエ ～アーランドの錬金術士 2～ | ❌ | ✅ | ❌ |
+| Atelier Meruru ~The Apprentice of Arland~ DX | メルルのアトリエ～アーランドの錬金術士3～ | ❌ | ✅ | ❌ |
+| Atelier Lulua ~The Scion of Arland~ | ルルアのアトリエ ～アーランドの錬金術士4～ | ❌ | ✅ | ❌ |
+| Nelke & the Legendary Alchemists ~Ateliers of the New World~ | ネルケと伝説の錬金術士たち ～新たな大地のアトリエ～ | ❌ | ✅ | ❌ |
+| Atelier Ayesha: The Alchemist of Dusk DX | アーシャのアトリエ ～黄昏の大地の錬金術士～ DX | ❌ | ✅ | ❌ |
+| Atelier Escha & Logy: Alchemists of the Dusk Sky DX | エスカ＆ロジーのアトリエ ～黄昏の空の錬金術士～ | ❌ | ✅ | ❌ |
+| Atelier Shallie: Alchemists of the Dusk Sea DX | シャリーのアトリエ ～黄昏の海の錬金術士～ | ❌ | ✅ | ❌ |
+| Atelier Firis: The Alchemist and the Mysterious Journey DX | フィリスのアトリエ~ 不思議な旅の錬金術士 DX | ❌ | ✅ | ❌ |
+| Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings DX | リディー＆スールのアトリエ ～不思議な絵画の錬金術士～ | ❌ | ✅ | ❌ |
+| Atelier Sophie: The Alchemist of the Mysterious Book DX | ソフィーのアトリエ ～不思議な本の錬金術士～ | ❌ | ✅ | ❌ |
+| Atelier Sophie 2: The Alchemist of the Mysterious Dream | ソフィーのアトリエ2 ～不思議な夢の錬金術士～ | ❌ | ✅ | ❌ |
+| Atelier Ryza 3: Alchemist of the End & the Secret Key | ライザのアトリエ３ ～終わりの錬金術士と秘密の鍵～ | ❌ | ✅ | ❌ |
 | OPUS: Echo Of Starsong | 星歌の響き | ❌ | ✅ | ❌ |
 | Re:Zero − Starting Life in Another World | Re:ゼロから始める異世界生活 | ❌ | ✅ | ❌ |
 | Steins;Gate Elite | シュタインズ・ゲート | ❌ | ✅ | ❌ |
@@ -119,6 +131,9 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | Dusk Diver 2 | 酉閃町2:崑崙靈動 | ❌ | ✅ | ❌ |
 | STEINS;GATE ELITE | STEINS;GATE ELITE | ❌ | ❌ | ❌ |
 | CHAOS;HEAD NOAH | CHAOS;HEAD NOAH | ❌ | ❌ | ❌ |
+| The crown of Wu | — | ❌ | ❌ | ❌ |
+| Marvel's Guardians of the Galaxy | ガーディアンズ・オブ・ギャラクシー | ❌ | ✅ | ❌ |
+| ANNO: Mutationem | アノー：ミューテーショネム | ❌ | ✅ | ❌ |
 
 ### PC & PS VITA
 
@@ -172,6 +187,7 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | Final Fantasy XV: Pocket Edition | ファイナルファンタジーXV ポケットエディション | ❌ | ✅ | ❌ |
 | Master Detective Archives: Rain Code | 超探偵事件簿 レインコード | ❌ | ✅ | ❌ |
 | Natsu-Mon! 20th Century Summer Vacation | なつもん！ 20世紀の夏休み | ❌ | ❌ | ❌ |
+| Atelier Dusk Trilogy Deluxe Pack | アトリエ ～不思議の錬金術士 トリロジー～ DX | ❌ | ✅ | ❌ |
 
 ## PC
 
@@ -206,7 +222,13 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | One Piece Odyssey | ワンピース オデッセイ | ❌ | ✅ | ❌ |
 | Cyberpunk 2077 | サイバーパンク エッジランナーズ | ❌ | ✅ | ❌ |
 | Toukiden 2 | 討鬼伝2 | ❌ | ✅ | ❌ |
-| メモリーズオフ-Innocent Fille- | メモリーズオフ-Innocent Fille- | ❌ | ? | ❌ |
+| メモリーズオフ-Innocent Fille- | メモリーズオフ-Innocent Fille- | ❌ | ❌ | ❌ |
+| Wild Hearts | ワイルドハルスト | ❌ | ? | ❌ |
+| Uncharted: Collection | アンチャーテッド エル | ❌ | ✅ | ❌ |
+| Detroit: become human | デトロイト ビカム ヒューマン | ❌ | ✅ | ❌ |
+| Ghostrunner | ゴーストランナー | ❌ | ❌ (En inglés) | ❌ |
+| The Darkness 2 | ダークネス2 | ❌ | ✅ | ❌ |
+| Tokyo Xanadu eX+ | 東亰ザナドゥ | ❌ | ✅ | ❌ |
 
 ## Gamecube
 
