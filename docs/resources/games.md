@@ -97,7 +97,6 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | Story of Seasons: Reunion with Mineral Town | 牧場物語 再会のミネラルタウン | ❌ | ❌ | ✅ |
 | Rune Factory 4 | ルーンファクトリー4 | ❌ | ✅ | ❌ |
 | Rune Factory 5 | ルーンファクトリー5 | ❌ | ✅ | ❌ |
-| Kingdom Hearts HD 1.5+2.5 ReMIX | キングダム ハーツ HD 1.5+2.5 リミックス | ❌ | ❌ (Solo animaciones) | ❌ |
 | Phoenix Wright: Ace Attorney Trilogy | ルーンファクトリー5 | ❌ | ❌ | ❌ |
 | Shin Megami Tensei III: Nocturne HD Remaster | 真・女神転生Ⅲ NOCTURNE HD REMASTER | ❌ | ✅ | ❌ |
 | Story of Seasons: Friends of Mineral Town (Harvest Moon) | 牧場物語 再会のミネラルタウン | ❌ | ❌ | ✅ |
@@ -141,6 +140,8 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 |:-------------|:------------------|:--------|:------------|:-------------|:----------|
 | CHAOS;CHILD           | CHAOS;CHILD | ❌ | ❌ | ❌ |
 | STEINS;GATE           | STEINS;GATE | ❌ | ❌ | ❌ |
+| Zero Escape: The Nonary games | ZERO ESCAPE 9時間9人9の扉 | ✅ | ✅ | ❌ |
+| Zero Time Dilemma | ZERO ESCAPE 刻のジレンマ | ✅ | ✅ | ❌ |
 
 ## Switch
 
@@ -272,9 +273,9 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | PS2 | Jak and Daxter: The Precursor Legacy | ジャック×ダクスター 旧世界の遺産 | ❌ | ✅ | ❌ |
 | PS2 | Jak 2 | ジャック×ダクスター2 | ❌ | ✅ | ❌ |
 | PS2 | Jak 3 | ジャック×ダクスター3 | ❌ | ✅ | ❌ |
-| PS2 | Kingdom Hearts 2 | キングダム ハーツ 2 | ❌ | ✅ | ❌ |
 | PS3 | Jak and Daxter Trilogy HD | ジャック×ダクスター三部作 | ❌ | ✅ | ❌ |
 | PS3 | Boku no Natsuyasumi 3 | ぼくのなつやすみ3 -北国篇- 小さなボクの大草原 | ❌ | ✅ | ❌ |
+| PS2 | Kingdom Hearts 2 | キングダム ハーツ 2 | ❌ | ✅ | ❌ |
 | PS4 | Kingdom Hearts 3 | キングダム ハーツ 3 | ❌ | ✅ | ❌ |
 
 ## PSP & PS Vita
@@ -284,9 +285,6 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | PSP | Boku no Natsuyasumi 4 | ぼくのなつやすみ4 瀬戸内少年探偵団「ボクと秘密の地図」 | ❌ | ✅ | ❌ |
 | PSVita | Fuuraiki 3 (Hokkaido)          | 風雨来記3 | - | Casi no tiene voces | - |
 | PSVita | Bad Apple Wars | バッドアップルウォーズ | ❌ | ✅ | ❌ |
-| PSVita | Jak and Daxter Trilogy HD | ジャック×ダクスター三部作 | ❌ | ✅ | ❌ |
-| PSVita | Zero Escape: Nine Hours, Nine Persons, Nine Doors | ZERO ESCAPE 9時間9人9の扉 | ✅ | ✅ | ❌ |
-| PSVita | Zero Time Dilemma | ZERO ESCAPE 刻のジレンマ | ✅ | ✅ | ❌ |
 | PSVita | PSYCHO-PASS: Mandatory Happiness | サイコパス 選択なき幸福 | ❌ | ✅ | ❌ |
 
 ## Emuladores
