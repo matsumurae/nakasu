@@ -9,47 +9,49 @@ nav_order: 3
 
 ## Cocina / dieta
 
-- [やさいのひチャンネル Yasainohi Channel](https://www.youtube.com/@yasainohi831)
+- [やさいのひチャンネル Yasainohi Channel (YT JP subs)](https://www.youtube.com/@yasainohi831)
 - [*オーストラリアで 暮らす *](https://www.youtube.com/@user-rn1gz9oj7x)
 - [1人前食堂](https://www.youtube.com/@mai_ichininmae)
-- [ayahare diet](https://www.youtube.com/@ayaharediet)
+- [ayahare diet (subs JP hardcode debajo)](https://www.youtube.com/@ayaharediet)
 - [cooking with momo](https://www.youtube.com/@cookingwithmomo1375)
 - [eorge Cooking ジョージクッキング](https://www.youtube.com/@georgecooking2935)
 - [KAZUAKI EGUCHI / チョコレートのプロ：ショコラティエ Chocolate](https://www.youtube.com/@KAZUCHOCOLATE)
 - [Koh Kentetsu Kitchen【料理研究家コウケンテツ公式チャンネル】](https://www.youtube.com/@kohkentetsukitchen)
-- [macaroni マカロニ](https://www.youtube.com/@macaroni_recipe)
-- [Natsutaro](https://www.youtube.com/@natsutaro9497)
+- [macaroni マカロニ (Sin voz - Subs JP hardcode debajo)](https://www.youtube.com/@macaroni_recipe)
+- [Natsutaro (YT JP subs)](https://www.youtube.com/@natsutaro9497)
 - [Yuka Kinoshita木下ゆうか](https://www.youtube.com/@kinoyuu0204)
-- [yukap](https://www.youtube.com/@yukap)
+- [yukap (Sin voz - Subs JP hardcode debajo)](https://www.youtube.com/@yukap)
 - [あおにーな作りおきキッチン](https://www.youtube.com/@ao27_seikatsu)
 - [あべしキッチン](https://www.youtube.com/@abeshi_kitchen)
 - [うさもぐるめ](https://www.youtube.com/@mgmgbutter3)
 - [きまぐれクックKimagure Cook](https://www.youtube.com/@kimagurecook)
-- [こてぃん食堂](https://www.youtube.com/@user-ik4qf7zl9v)
+- [こてぃん食堂 (Sin voz - Subs JP hardcode debajo)](https://www.youtube.com/@user-ik4qf7zl9v)
 - [せっかちかあちゃん](https://www.youtube.com/@sekkachikachan)
-- [なおよキッチン](https://www.youtube.com/@naoyofujimoto)
-- [にぎりっ娘。nigiricco](https://www.youtube.com/c/obentotyu%E3%81%8A%E5%BC%81%E5%BD%93%E4%B8%AD)
+- [なおよキッチン (subs JP hardcode debajo)](https://www.youtube.com/@naoyofujimoto)
+- [にぎりっ娘。nigiricco (Sin voz - Subs JP hardcode debajo)](https://www.youtube.com/c/obentotyu%E3%81%8A%E5%BC%81%E5%BD%93%E4%B8%AD)
 - [はるあん](https://www.youtube.com/@haruanne)
-- [ばくばクック](https://www.youtube.com/@bakubacook)
-- [ゆり子のおいしい暮らし](https://www.youtube.com/@yuriko_momrecipe)
-- [りょこkitchen Ryoko kitchen](https://www.youtube.com/@ryokokichi)
-- [るうとじゅうの食channel](https://www.youtube.com/@channel-tu3yw)
+- [ばくばクック (Sin voz - Subs JP hardcode debajo)](https://www.youtube.com/@bakubacook)
+- [ゆり子のおいしい暮らし (subs JP hardcode debajo)](https://www.youtube.com/@yuriko_momrecipe)
+- [りょこkitchen Ryoko kitchen (Voz niño adorable - Subs JP hardcode debajo)](https://www.youtube.com/@ryokokichi)
+- [るうとじゅうの食channel (Subs JP hardcode debajo)](https://www.youtube.com/@channel-tu3yw)
 - [ギャル曽根公式チャンネル「ごはんは残さず食べましょう」](https://www.youtube.com/@galsone_1204)
-- [フーディーボーイのグルメ日記と料理チャンネル](https://www.youtube.com/@foodie_boy)
-- [ホルモンしま田](https://www.youtube.com/@horumonshimata)
-- [マユトレクック / 月に1kg痩せるご飯](https://www.youtube.com/@mayufitcook)
-- [ムラニシは腹ペコ](https://www.youtube.com/@user-yj2rr4ns5z)
-- [Rotaciones de ramen](https://www.youtube.com/@ramenrotas)
-- [五十嵐ゆかり](https://www.youtube.com/@user-qr8zf8he3i)
-- [八王子の民チャンネル](https://www.youtube.com/@8tami)
+- [フーディーボーイのグルメ日記と料理チャンネル  (Subs JP hardcode debajo - con subs JP YT)](https://www.youtube.com/@foodie_boy)
+- [ホルモンしま田 (Subs JP hardcode debajo)](https://www.youtube.com/@horumonshimata)
+- [マユトレクック / 月に1kg痩せるご飯 (subs JP hardcode debajo)](https://www.youtube.com/@mayufitcook)
+- [ムラニシは腹ペコ (subs JP hardcode debajo)](https://www.youtube.com/@user-yj2rr4ns5z)
+- [Ramen Rotas (YT JP subs)](https://www.youtube.com/@ramenrotas)
+- [五十嵐ゆかり (Subs JP hardcode debajo)](https://www.youtube.com/@user-qr8zf8he3i)
+- [八王子の民チャンネル (Subs JP hardcode debajo)](https://www.youtube.com/@8tami)
 - [北斗晶のYouTube](https://www.youtube.com/@user-bm1ey5fl8z)
-- [奥薗壽子の日めくりレシピ【家庭料理研究家公式チャンネル】](https://www.youtube.com/@himekuri-okuzono2021)
+- [奥薗壽子の日めくりレシピ【家庭料理研究家公式チャンネル】 (Subs JP hardcode debajo)](https://www.youtube.com/@himekuri-okuzono2021)
 - [料理研究家ゆかりのおうちで簡単レシピ / Yukari's Kitchen](https://www.youtube.com/@yukariskitchen3689)
 - [料理研究家リュウジのバズレシピ](https://www.youtube.com/@ryuji825)
-- [食堂あさごはん](https://www.youtube.com/@user-bb2tp3fi3k)
+- [食堂あさごはん (YT JP subs)](https://www.youtube.com/@user-bb2tp3fi3k)
 - [馬場ごはん〈ロバート〉Baba's Kitchen](https://www.youtube.com/@babagohan)
-- [konamaru kitchen](https://www.youtube.com/@konamaru8440)
-- [yaa channel](https://www.youtube.com/@yaachannel4956)
+- [konamaru kitchen (subs JP hardcode debajo)](https://www.youtube.com/@konamaru8440)
+- [yaa channel (subs JP hardcode debajo)](https://www.youtube.com/@yaachannel4956)
+- [美メシちゃん (Sin voz - Subs JP hardcode debajo)](https://www.youtube.com/@bimeshich)
+- [さきっちん (Sin voz - Subs JP hardcode debajo)](https://www.youtube.com/@sakitchen.)
 
 ## Psicología
 
@@ -63,27 +65,27 @@ nav_order: 3
 ### Tutoriales
 
 - [Dokidoki drawking](https://www.youtube.com/@DoKiDoKiDrawing)
-- [Emoco Ch. / えもこ](https://www.youtube.com/@emoco_art)
-- [hide channel【顔と体の描き方講座】](https://www.youtube.com/@hidechannel2)
+- [Emoco Ch. / えもこ (subs JP hardcode debajo)](https://www.youtube.com/@emoco_art)
+- [hide channel【顔と体の描き方講座】 (YT JP subs)](https://www.youtube.com/@hidechannel2)
 - [SS manga diary-Shin Shinmoto-](https://www.youtube.com/@ssmangadiary)
-- [Watercolor by Shibasaki](https://www.youtube.com/@WatercolorbyShibasaki)
-- [およよ｜イラストレーター](https://www.youtube.com/@Oyoyo_13)
+- [Watercolor by Shibasaki (subs JP hardcode debajo)](https://www.youtube.com/@WatercolorbyShibasaki)
+- [およよ｜イラストレーター (subs JP hardcode debajo)](https://www.youtube.com/@Oyoyo_13)
 - [なつめさんち](https://www.youtube.com/@natsume_sanchi)
 - [ののまろのお絵かきちゃんねる](https://www.youtube.com/@nonomallo)
-- [はなあられ/Hanaarare](https://www.youtube.com/@hanaarare5386)
-- [ゆりたの森[YURITA]](https://www.youtube.com/@pokotoyurita)
+- [はなあられ/Hanaarare (subs JP hardcode debajo)](https://www.youtube.com/@hanaarare5386)
+- [ゆりたの森[YURITA] (subs JP hardcode debajo)](https://www.youtube.com/@pokotoyurita)
 - [Deep Blizzard's Art School](https://www.youtube.com/@deepblizzard)
-- [モレシャン/Morechand_illustration](https://www.youtube.com/@morechand112)
-- [北爪くみん - Kitazume Kumin -](https://www.youtube.com/@KitazumeKumin)
-- [浦沢チャンネル -URASAWA CHANNEL-](https://www.youtube.com/@-urasawachannel-5463)
+- [モレシャン/Morechand_illustration (subs JP hardcode debajo)](https://www.youtube.com/@morechand112)
+- [北爪くみん - Kitazume Kumin - (subs JP hardcode debajo)](https://www.youtube.com/@KitazumeKumin)
+- [浦沢チャンネル -URASAWA CHANNEL- (subs JP hardcode debajo)](https://www.youtube.com/@-urasawachannel-5463)
 - [湊ゆう](https://www.youtube.com/@Minato_yu)
-- [Canal de dibujo de Yaki Mayuru](https://www.youtube.com/@yakimayuru)
+- [Yaki Mayuru (subs JP hardcode debajo)](https://www.youtube.com/@yakimayuru)
 - [背景イラストレーターAri](https://www.youtube.com/@aribgillust)
 - [駒米トオル](https://www.youtube.com/@comeo8108)
 
 ### Artistas
 
-- [Akihito Yoshitomi](https://www.youtube.com/@akihitoyoshitomi3758)
+- [Akihito Yoshitomi (Sin voz)](https://www.youtube.com/@akihitoyoshitomi3758)
 
 ### iPad
 
@@ -93,40 +95,39 @@ nav_order: 3
 
 ### 3D
 
-- [3D Bibi](https://www.youtube.com/@3DBibi)
+- [3D Bibi (subs JP hardcode debajo)](https://www.youtube.com/@3DBibi)
 - [ML/Ch](https://www.youtube.com/@mlch4204)
-- [sachiko15](https://www.youtube.com/@sachiko15)
-- [はらけんしch](https://www.youtube.com/@harakenshi)
+- [sachiko15 (YT JP subs - sin voz)](https://www.youtube.com/@sachiko15)
+- [はらけんしch (YT JP subs)](https://www.youtube.com/@harakenshi)
 
 ## Viajes
 
 - [Yunaty日本語](https://www.youtube.com/@yunaty7700)
 - [エンイチぶらり旅。](https://www.youtube.com/@en_ichi)
 - [スーツ 旅行 / Suit Travel](https://www.youtube.com/@SuitTravel)
-- [石川界人【秘密基地】](https://www.youtube.com/@ch19931013)
 
 ### Tours
 
-- [Anna film production](https://www.youtube.com/@amity_sensei8834)
-- [BELLE HOME【岡山・倉敷・津山のデザイン住宅】](https://www.youtube.com/@bellehome01)
-- [Daily otaku life](https://www.youtube.com/@DailyOtakuLife)
-- [ゆっくり不動産](https://www.youtube.com/@YukkuriFudosan)
+- [Anna film production (Sin voz)](https://www.youtube.com/@annafilmproduction1143)
+- [BELLE HOME【岡山・倉敷・津山のデザイン住宅】 (Sin voz - subs JP hardcode)](https://www.youtube.com/@bellehome01)
+- [Daily otaku life (Sin voz)](https://www.youtube.com/@DailyOtakuLife)
+- [ゆっくり不動産 (voz robot - subs JP hardcode)](https://www.youtube.com/@YukkuriFudosan)
 
 ### En moto
 
-- [Ruriko_675](https://www.youtube.com/@ruriko_675)
+- [Ruriko_675 (subs JP hardcode)](https://www.youtube.com/@ruriko_675)
 - [Woka Rider](https://www.youtube.com/@WokaRider)
-- [こつぶちゃんねる](https://www.youtube.com/@kotsubu)
-- [なるおっさんTV](https://www.youtube.com/@TV-xg7qx)
+- [こつぶちゃんねる (subs JP harcode)](https://www.youtube.com/@kotsubu)
+- [なるおっさんTV (subs JP hardcode)](https://www.youtube.com/@TV-xg7qx)
 - [はしれ！なっちゃんねる【平嶋夏海】](https://www.youtube.com/@nacchannel_bike)
 - [canal hasusan](https://www.youtube.com/@hasusanchannel)
-- [マーボーチビットソン](https://www.youtube.com/@user-vi8qz9sh6z)
-- [哀愁のワジマシーン](https://www.youtube.com/@wajimachine)
-- [脳筋ライダー【No King Rider】](https://www.youtube.com/@No_king_rider)
+- [マーボーチビットソン (subs JP hardcode)](https://www.youtube.com/@user-vi8qz9sh6z)
+- [哀愁のワジマシーン (subs JP hardcode)](https://www.youtube.com/@wajimachine)
+- [脳筋ライダー【No King Rider】 (subs JP hardcode)](https://www.youtube.com/@No_king_rider)
 
 ## Reformas
 
-- [DIY Magazine](https://www.youtube.com/@DIY-MAGAZINE)
+- [DIY Magazine (Sin voz - subs JP hardcode)](https://www.youtube.com/@DIY-MAGAZINE)
 
 ## Aprendizaje 
 
@@ -140,23 +141,23 @@ nav_order: 3
 
 ### Peinados
 
-- [AYAMAR美ヘアチャンネル](https://www.youtube.com/@ayamar_hair)
+- [AYAMAR美ヘアチャンネル (subs JP hardcode)](https://www.youtube.com/@ayamar_hair)
 - [Naomi](https://www.youtube.com/@NAOMI-hh3oo)
 - [Ricoちゃんネル](https://www.youtube.com/@rico8743)
 - [SALONTube渡邊義明](https://www.youtube.com/@salontube3179)
 - [ショートヘア・ボブを楽しむ専門728ch](https://www.youtube.com/@728ch4)
-- [マツカワリュウドウBASSARIヘアチャンネル](マツカワリュウドウBASSARIヘアチャンネル)
-- [軍司あやな、キレイになるってよ。](https://www.youtube.com/@gunjiayana)
+- [マツカワリュウドウBASSARIヘアチャンネル](https://www.youtube.com/channel/UC92a6JHDZ6VqI-XPOAOWa1w)
+- [軍司あやな、キレイになるってよ。 (subs JP hardcode)](https://www.youtube.com/@gunjiayana)
 
 ### Skincare
 
-- [hustlemommy](https://www.youtube.com/@hustlemommych)
+- [hustlemommy (YT JP subs)](https://www.youtube.com/@hustlemommych)
 - [Hyukヒョク](https://www.youtube.com/@hyuk6509)
-- [Manami](https://www.youtube.com/@Manamichannel19)
-- [shabon](https://www.youtube.com/@shabon_official)
-- [Tsumiki つみき](https://www.youtube.com/@tsumikibeauty)
+- [Manami (YT JP subs)](https://www.youtube.com/@Manamichannel19)
+- [shabon (subs JP hardcode)](https://www.youtube.com/@shabon_official)
+- [Tsumiki つみき (YT JP subs)](https://www.youtube.com/@tsumikibeauty)
 - [【美肌研究家】KyoN](https://www.youtube.com/@kyon7699)
-- [水越みさと](https://www.youtube.com/@mizukoshimisato)
+- [水越みさと (subs JP hardcode)](https://www.youtube.com/@mizukoshimisato)
 
 ### Química
 
@@ -168,7 +169,7 @@ nav_order: 3
 
 ## Videojuegos
 
-- [GAMEゆうな](https://www.youtube.com/@yuna_game_)
+- [GAMEゆうな (subs JP hardcode)](https://www.youtube.com/@yuna_game_)
 - [Gerard Youtube](https://www.youtube.com/@gerardyoutube577)
 - [Toshiki Masuda](https://www.youtube.com/@ToshikiMasuda38)
 - [あるまちゃんねる](https://www.youtube.com/@arumchannel0902)
@@ -184,44 +185,45 @@ nav_order: 3
 - [やまももゲーム部](https://www.youtube.com/@yamogame)
 - [椎名唯華 / Shiina Yuika](https://www.youtube.com/@ShiinaYuika)
 - [However Games](https://www.youtube.com/@HoweverGames)
+- [石川界人【秘密基地】](https://www.youtube.com/@ch19931013)
 
 ### Gamers
 
-- [たこまる/TAKOMARU](https://www.youtube.com/@Takomaruuun)
+- [たこまる/TAKOMARU (subs JP hardcode)](https://www.youtube.com/@Takomaruuun)
 
 ## Programación
 
 - [HIROCODE.ヒロコード](https://www.youtube.com/@hirocode)
 - [mikimiki web スクール](https://www.youtube.com/@mikimikiweb)
 - [Webの神様](https://www.youtube.com/@webgodweb)
-- [ひろはす ゲームクリエイター養成所](https://www.youtube.com/@hirohasu)
+- [ひろはす ゲームクリエイター養成所 (subs JP hardcode)](https://www.youtube.com/@hirohasu)
 
 ## Conversaciones / podcast para aprender
 
-- [Japonés con Clara Sensei](https://www.youtube.com/@ClaraSensei)
-- [Learn japanese with Noriko](https://www.youtube.com/@LearnJapanesewithNoriko)
+- [Japonés con Clara Sensei (YT JP subs)](https://www.youtube.com/@ClaraSensei)
+- [Learn japanese with Noriko (YT JP subs)](https://www.youtube.com/@LearnJapanesewithNoriko)
 - [Nihongo TOMATO Tube](https://www.youtube.com/@NihongoTomatotube)
-- [Nihongo-Learning](https://www.youtube.com/@nihongo-learning7582)
+- [Nihongo-Learning (YT JP subs)](https://www.youtube.com/@nihongo-learning7582)
 - [けんと レイディオ Channel](https://www.youtube.com/@Channel-ec7mc)
 - [よっちんの今夜ウチこいよ! 　　ー吉野裕行ー](https://www.youtube.com/@yocchin_konya)
 - [初瀬くん / Hatsuse-kun](https://www.youtube.com/@hatsuse-kun5463/featured)
-- [日本語の森](https://www.youtube.com/@nihongonomori2013)
+- [日本語の森 (YT JP subs)](https://www.youtube.com/@nihongonomori2013)
 - [津田健次郎](https://www.youtube.com/@user-hj2gu4ql8e)
 - [YUYUの日本語Podcast](https://www.youtube.com/@yuyunihongopodcast)
-- [Japanese Language Community　 絵里子塾　ERIKO JUKU](https://www.youtube.com/@erikojuku)
+- [Japanese Language Community　 絵里子塾　ERIKO JUKU (subs JP hardcode)](https://www.youtube.com/@erikojuku)
 
 ### Real-life VLOGS
 
 - [Japanese with Shun](https://www.youtube.com/@JapanesewithShun)
-- [The ninja man in Japan](https://www.youtube.com/@theroamingninjaman2870)
-- [あかね的日本語教室](https://www.youtube.com/@Akane-JapaneseClass)
-- [けんさんおかえり / Japanese Conversations](https://www.youtube.com/@JapanesewithKen)
+- [The ninja man in Japan (subs JP hardcode)](https://www.youtube.com/@theroamingninjaman2870)
+- [あかね的日本語教室 (subs JP hardcode)](https://www.youtube.com/@Akane-JapaneseClass)
+- [けんさんおかえり / Japanese Conversations (subs JP hardcode)](https://www.youtube.com/@JapanesewithKen)
 - [まっちゃん71号](https://www.youtube.com/@zzchan)
-- [みゆみゆチャンネル](https://www.youtube.com/@miyumiyuchannel)
-- [めしを食ったり作ったり Eating and Cooking at Japan : )](https://www.youtube.com/@kojintekisyumi)
-- [もしもしゆうすけ](https://www.youtube.com/@moshimoshi.yusuke)
+- [みゆみゆチャンネル (subs JP hardcode)](https://www.youtube.com/@miyumiyuchannel)
+- [めしを食ったり作ったり Eating and Cooking at Japan (subs JP hardcode)](https://www.youtube.com/@kojintekisyumi)
+- [もしもしゆうすけ (subs JP hardcode)](https://www.youtube.com/@moshimoshi.yusuke)
 - [バイリンガール英会話 Bilingirl Chika](https://www.youtube.com/@cyoshida1231)
-- [野食ハンター茸本朗（たけもとあきら）ch](https://www.youtube.com/@hunter.takemoto)
+- [野食ハンター茸本朗（たけもとあきら）ch (subs JP hardcode)](https://www.youtube.com/@hunter.takemoto)
 
 ### ASMR
 
@@ -264,15 +266,15 @@ nav_order: 3
 
 ## Idiomas
 
-- [ちゃいなサプリ―高卒のプロ通訳](https://www.youtube.com/@0703Jackie)
+- [ちゃいなサプリ―高卒のプロ通訳 (subs JP hardcode)](https://www.youtube.com/@0703Jackie)
 
 ## Salud
 
-- [がんサバイバーみことのコト](https://www.youtube.com/@user-tp5ef3zo1z)
+- [がんサバイバーみことのコト (subs JP hardcode)](https://www.youtube.com/@user-tp5ef3zo1z)
 
 ## Tatuajes
 
-- [NINE PINE【ナインパイン】](https://www.youtube.com/@NINEPINE-)
+- [NINE PINE【ナインパイン】 (subs JP hardcode)](https://www.youtube.com/@NINEPINE-)
 
 ## Deportes
 
@@ -395,3 +397,4 @@ nav_order: 3
 - [VR Nihongo](https://www.youtube.com/@vrnihongo)
 - [三本塾 -Sambon Juku-](https://www.youtube.com/@sambonjuku)
 - [𝘑𝘤𝘪𝘦𝘯𝘤𝘦 • light smit](https://www.youtube.com/@-LightSmit)
+- [ゆきえ【桜の間　日本語ルーム】](https://www.youtube.com/@yukijapanese00)
