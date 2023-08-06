@@ -183,6 +183,7 @@ nav_order: 3
 - [花江夏樹](https://www.youtube.com/@hanae0626)
 - [やまももゲーム部](https://www.youtube.com/@yamogame)
 - [椎名唯華 / Shiina Yuika](https://www.youtube.com/@ShiinaYuika)
+- [However Games](https://www.youtube.com/@HoweverGames)
 
 ### Gamers
 
