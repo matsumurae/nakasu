@@ -130,7 +130,6 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | Dusk Diver 2 | 酉閃町2:崑崙靈動 | ❌ | ✅ | ❌ |
 | CHAOS;HEAD NOAH | CHAOS;HEAD NOAH | ❌ | ❌ | ❌ |
 | The crown of Wu | — | ❌ | ❌ | ❌ |
-| Marvel's Guardians of the Galaxy | ガーディアンズ・オブ・ギャラクシー | ❌ | ✅ | ❌ |
 | ANNO: Mutationem | アノー：ミューテーショネム | ❌ | ✅ | ❌ |
 | メモリーズオフ-Innocent Fille- | メモリーズオフ-Innocent Fille- | ❌ | ❌ | ❌ |
 
@@ -138,7 +137,6 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 
 - [メモリーズオフ-Innocent Fille-](https://www.youtube.com/playlist?list=PLdfjWy4PiNwgBlRUNn_XU2DKxw0BxskHn)
 - [ANNO: Mutationem](https://www.youtube.com/playlist?list=PLYQwk2STjWv1WimwrSZ4mHzRlzIkwR9Og)
-- [Guardians of the Galaxy](https://www.youtube.com/playlist?list=PLsdh6D6poKdluptfdLsGE44S7LLwG8usW)
 - [CHAOS;HEAD NOAH](https://www.youtube.com/playlist?list=PL_cmGW_NmncxF7FzoB-KEby-JyqO-n1CL)
 - [Tales of Symphonia](https://www.youtube.com/playlist?list=PL3eJk5JavxfNSFow5KR6xMpyCmf62OCno)
 - [Dusk River](https://www.youtube.com/playlist?list=PLVf1jZfWrJjNDoh5-IxI6UuLTkwjkc96B)
@@ -376,6 +374,7 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | Uncharted: Collection | アンチャーテッド エル | ❌ | ✅ | ❌ |
 | The Darkness 2 | ダークネス2 | ❌ | ✅ | ❌ |
 | Tokyo Xanadu eX+ | 東亰ザナドゥ | ❌ | ✅ | ❌ |
+| Guardians of the Galaxy | ガーディアンズ・オブ・ギャラクシー | ❌ | ✅ | ❌ |
 
 ### Gameplays
 
@@ -405,6 +404,7 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 - [Heavy Rain](https://www.youtube.com/playlist?list=PL4fd59i0eA3XklmtQSZHlhwULuZphUN4a)
 - Tales of Arise: [Opt 1](https://www.youtube.com/playlist?list=PL2Q0tmOhQbJJmXT5sfEGyXeMZ9rQZ1FAJ), [Opt 2](https://www.youtube.com/playlist?list=PLkDkv3_93q1R-psRbnkU6Ky3D-jfUbWt0)
 - [Red Dead Redemption 2](https://www.youtube.com/playlist?list=PL1Z1KdfmKuealViuys440YMMQUZOx8eh3)
+- [Guardians of the Galaxy](https://www.youtube.com/playlist?list=PLsdh6D6poKdluptfdLsGE44S7LLwG8usW)
 
 ## Gamecube
 
