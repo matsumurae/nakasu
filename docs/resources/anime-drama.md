@@ -37,3 +37,4 @@ Puedes ver el ranking de dificultad [aquí](https://jpdb.io/anime-difficulty-lis
 - https://www2.solarmovie.cr/country/japan/
 - https://www.viki.com/categories/country/japan/genre/all
 - https://ww.yesmovies.ag/country/japan.html
+- https://jdramacademy.com/ (como Animelon)

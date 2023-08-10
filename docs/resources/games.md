@@ -375,6 +375,8 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | The Darkness 2 | ダークネス2 | ❌ | ✅ | ❌ |
 | Tokyo Xanadu eX+ | 東亰ザナドゥ | ❌ | ✅ | ❌ |
 | Guardians of the Galaxy | ガーディアンズ・オブ・ギャラクシー | ❌ | ✅ | ❌ |
+| Prey | 『PREY』 | ❌ | ✅ | ❌ |
+| Fallout 4 | 『Fallout 4』 | ❌ | ✅ | ❌ |
 
 ### Gameplays
 
@@ -405,6 +407,8 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 - Tales of Arise: [Opt 1](https://www.youtube.com/playlist?list=PL2Q0tmOhQbJJmXT5sfEGyXeMZ9rQZ1FAJ), [Opt 2](https://www.youtube.com/playlist?list=PLkDkv3_93q1R-psRbnkU6Ky3D-jfUbWt0)
 - [Red Dead Redemption 2](https://www.youtube.com/playlist?list=PL1Z1KdfmKuealViuys440YMMQUZOx8eh3)
 - [Guardians of the Galaxy](https://www.youtube.com/playlist?list=PLsdh6D6poKdluptfdLsGE44S7LLwG8usW)
+- [PREY](https://www.youtube.com/playlist?list=PL1Z1KdfmKueYtB7O-FHaNJSf91VutI9WH)
+- [Fallout 4](https://www.youtube.com/playlist?list=PL1Z1KdfmKueZ8pDJ1-xCP5q6G9AMnDh1B)
 
 ## Gamecube
 
