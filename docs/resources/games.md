@@ -251,6 +251,18 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 - [Zero Escape: The Nonary games](https://www.youtube.com/playlist?list=PL_dZgbOdMYsIUb74iTZhexnCjR7yd3PrT)
 - Zero Escape: Zero Time DIlemma: [Opt 1](https://www.youtube.com/playlist?list=PLLbx_vEjJ9ikUXJ-4dgqe3NNlwxWtYHUb), [Opt 2](https://www.youtube.com/playlist?list=PLGivO-fNBAI607AMJN0aqXjcXleZOWzJY)
 
+### Switch y GameCube
+
+| Nombre        | Nombre japonés          | ¿Voice / audio log? | ¿Voice / audio acting? | ¿Furigana? |
+|:-------------|:------------------|:--------|:------------|:-------------|:----------|
+| Pikmin 1 | ピクミン1 | ❌ | ❌ | ✅ |
+| Pikmin 2 | ピクミン2 | ❌ | ❌ | ✅ |
+
+#### Gameplays
+
+- Pikmin 1: [GC](https://www.youtube.com/playlist?list=PLyveqP3_jGKZV3I2FAL1V6YcrJenMFjSf), [Switch 1](https://www.youtube.com/playlist?list=PLOZOho2RXG3yBpIg-rPMcOeNstMHGKlXW), [Switch 2](https://www.youtube.com/playlist?list=PLpDKQMcY-CFINKQfd0u3ok9NN46iWNkVy)
+- Pikmin 2: [GC](https://www.youtube.com/playlist?list=PLHHLpQuAr5pwZKZtFOiB4iwndHcbOEUWh), [Switch](https://www.youtube.com/playlist?list=PLpDKQMcY-CFI79fJrNJFbC8WmbVERlST4)
+
 ## Switch
 
 | Nombre        | Nombre japonés          | ¿Voice / audio log? | ¿Voice / audio acting? | ¿Furigana? |
@@ -279,6 +291,7 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | Animal Crossing: New Horizons | あつまれ どうぶつの森 | ❌ | ❌ (las voces no son humanas) | ✅ |
 | Shingeki no Kyojin -Final Battle- | 進撃の巨人2 -Final Battle- | ❌ | ✅ | ❌ |
 | Pikmin 3 Deluxe | ピクミン3 | ❌ | ❌ | ✅ |
+| Pikmin 4 | ピクミン4 | ❌ | ❌ | ✅ |
 | Tokyo Mirage Sessions ♯FE | 幻影異聞録♯FE | ❌ | ✅ | ❌ |
 | Shin Megami Tensei V | 真・女神転生Ⅴ | ❌ | ✅ | ❌ |
 | Process of Elimination | 探偵撲滅 | ❌ | (Algunos) | ❌ |
@@ -322,6 +335,7 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 - Animal Crossing: New Horizons: [Opt 1](https://www.youtube.com/playlist?list=PLbfA_UBcJ5OTLGugh7ixOYRR34MoG49yX), [Opt 2](https://www.youtube.com/playlist?list=PLku8eVfcRSNRcWzb72rh3BxXSn4NpBZym), [Opt 3](https://www.youtube.com/playlist?list=PLPUGXakMkjRHoSu_GsHTarUi549AG5q9A)
 - [SNK 2 Final Battle](https://www.youtube.com/playlist?list=PLKzgVhFtTfhad7_Gl1S0w5HWvXvbRkpPD)
 - Pikmin 3: [Opt 1](https://www.youtube.com/playlist?list=PLOZOho2RXG3xCEcZnOiqbo2pjrOxt1SaW), [Opt 2](https://www.youtube.com/playlist?list=PLSszGF__n8Ss-k_nU7yJaLx5UIw9i3hZY)
+- Pikmin 4: [Opt 1](https://www.youtube.com/playlist?list=PLSszGF__n8SvNw-GEWk19dFDzTml1mm4j), [Opt 2](https://www.youtube.com/playlist?list=PLuE-Qcu1JsMcoQkY8vnWkhb_0PkmJVDIY)
 - Tokyo Mirage Sessions ♯FE: [Opt 1](https://www.youtube.com/playlist?list=PLi5jgRErdxbzdOt1RpcVATjWGQvXFaiJL), [Opt 2](https://www.youtube.com/playlist?list=PLcP4Cu9eK8s9nn-B8VCodkpKj-TVn3DGQ), [Opt 3](https://www.youtube.com/playlist?list=PLoSJ_I3MFPPfIOiVfMHCDiiJHCni5vtnO)
 - Shin Megami Tensei V: [Opt 1](https://www.youtube.com/playlist?list=PLi5jgRErdxbygrqEiSfbqiBuJ_krhS303), [Opt 2](https://www.youtube.com/playlist?list=PL2IubMaW2aWjTtzkvRCuhf1ppAFJHNGsk)
 - Process of Elimination: [Opt 1](https://www.youtube.com/playlist?list=PLGU0OtE7mmqVaaGSUr9S6KinmXJisQAHW), [Opt 2](https://www.youtube.com/playlist?list=PLNpF_h8_lGLIeF48780dWLx-TDPR8g6sS)
@@ -415,16 +429,12 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | Nombre        | Nombre japonés          | ¿Voice / audio log? | ¿Voice / audio acting? | ¿furigana?
 |:-------------|:------------------|:--------|:------------|:-------------|
 | The Legend of Zelda: The Wind Waker | ゼルダの伝説 風のタクト | ❌ | ❌ | ✅ |
-| Pikmin 1 | ピクミン1 | ❌ | ❌ | ✅ |
-| Pikmin 2 | ピクミン2 | ❌ | ❌ | ✅ |
 | Pokemon Colosseum           | ポケモンコロシアム | ❌ | ❌ | ✅ |
 | Pokemon XD           | ポケモンXD 闇の旋風ダーク・ルギア | ❌ | ❌ | ✅ |
 
 ### Gameplays
 
 - The Legend of Zelda. The Wind Waker: [Opt 1](https://www.youtube.com/playlist?list=PLRVOMzMTjyiAc5yt0zoQneJHD6I7zTIyI), [Opt 2](https://www.youtube.com/playlist?list=PLkdLPWB8m1rq9mZzrDPFBMjD1RAsZnOOt), [Opt 3](https://www.youtube.com/playlist?list=PLqlZtJqQFcvDL3qiNwsjb5nJx5vYr5DtY), [Opt 4](https://www.youtube.com/playlist?list=PLbItprE2aJY6ZZUeqksp5BjuLXP_wRzpM)
-- [Pikmin 1](https://www.youtube.com/playlist?list=PLyveqP3_jGKZV3I2FAL1V6YcrJenMFjSf)
-- [Pikmin 2](https://www.youtube.com/playlist?list=PLHHLpQuAr5pwZKZtFOiB4iwndHcbOEUWh)
 - [Pokemon Colosseum](https://www.youtube.com/playlist?list=PLa46vfGmbDJSauHqporsehzjPMwqvEGsx)
 - Pokemon XD: [Opt 1](https://www.youtube.com/playlist?list=PLRFhy3gF31vUFVi7JVHDMOnrHtkcA3Nnh), [Opt 2](https://www.youtube.com/playlist?list=PLCB201E2C31C86A9A), [Opt 3](https://www.youtube.com/playlist?list=PLCpkagOK2EdNji3Sue6f0cBptp6syGbvI)
 
