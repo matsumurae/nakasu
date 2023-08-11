@@ -538,3 +538,4 @@ Para **Steam Deck**, echa un vistazo a [EmuDeck](https://www.emudeck.com/) que y
 - emuparadise.me
 - romsmania.cc
 - psvitavpk.com
+- gameginie.com
