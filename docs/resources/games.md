@@ -550,3 +550,11 @@ Para **Steam Deck**, echa un vistazo a [EmuDeck](https://www.emudeck.com/) que y
 - XBOX: [Xemu](https://xemu.app/) **Windows, Linux y Mac**
 - XBOX 360: [Xenia](https://xenia.jp/) **Windows**
 - GBA: [mGBA](https://mgba.io/) **Todas las plataformas**
+
+### Configurar idioma
+
+#### Yuzu / Ryujinx
+
+Ambos van a coger el idioma del sistema, por lo tanto para que coja el idioma que quieres vas a tener que cambiarlo en los settings: Emulation > Configure > System. Aquí puedes cambiar tanto idioma como región.
+
+![image](https://user-images.githubusercontent.com/8403754/169679911-28a30afa-eedd-43eb-8d56-0014562f6bad.png)
