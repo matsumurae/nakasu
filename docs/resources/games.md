@@ -123,10 +123,10 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | .hack//G.U. Last Recode | ドットハック ジーユー ラストリコード | ❌ | ✅ | ❌ |
 | Immortals Fenix Rising | イモータルズ フィニクス ライジング | ❌ | ✅ | ❌ |
 | World's End Club | ワールズエンドクラブ | ❌ | ✅ | ❌ |
-| PARANORMASIGHT: The Seven Mysteries of Honjo | パラノマサイト FILE23 本所七不思議 | ❌ | ✅ | ❌ |
+| PARANORMASIGHT: The Seven Mysteries of Honjo | パラノマサイト FILE23 本所七不思議 | ❌ | ❌ | ❌ |
 | LOOP8: Summer of Gods | ループエイト | ❌ | ✅ | ❌ |
 | Atelier Marie Remake: The Alchemist of Salburg | マリーのアトリエ Remake ～ザールブルグの錬金術士～ | ❌ | ✅ | ❌ |
-| Dusk Diver 2 | 酉閃町 | ❌ | ✅ | ❌ |
+| Dusk Diver | 酉閃町 | ❌ | ✅ | ❌ |
 | Dusk Diver 2 | 酉閃町2:崑崙靈動 | ❌ | ✅ | ❌ |
 | CHAOS;HEAD NOAH | CHAOS;HEAD NOAH | ❌ | ❌ | ❌ |
 | The crown of Wu | — | ❌ | ❌ | ❌ |
