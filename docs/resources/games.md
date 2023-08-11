@@ -263,6 +263,17 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 - Pikmin 1: [GC](https://www.youtube.com/playlist?list=PLyveqP3_jGKZV3I2FAL1V6YcrJenMFjSf), [Switch 1](https://www.youtube.com/playlist?list=PLOZOho2RXG3yBpIg-rPMcOeNstMHGKlXW), [Switch 2](https://www.youtube.com/playlist?list=PLpDKQMcY-CFINKQfd0u3ok9NN46iWNkVy)
 - Pikmin 2: [GC](https://www.youtube.com/playlist?list=PLHHLpQuAr5pwZKZtFOiB4iwndHcbOEUWh), [Switch](https://www.youtube.com/playlist?list=PLpDKQMcY-CFI79fJrNJFbC8WmbVERlST4)
 
+### Switch y Wii U
+
+| Nombre        | Nombre japonés          | ¿Voice / audio log? | ¿Voice / audio acting? | ¿Furigana? |
+|:-------------|:------------------|:--------|:------------|:-------------|:----------|
+| The Wonderful 101 Remastered | ザ・ワンダフル ワン・オー・ワン | ❌ | ✅ | ✅ |
+| Zelda  | ザ・ワンダフル ワン・オー・ワン | ❌ | ✅ | ✅ |
+
+#### Gameplays
+
+- The Wonderful 101: [Opt 1](https://www.youtube.com/playlist?list=PLHIVg1gH5Qdp9iOWXaIoUQVKAtxzua8kb), [Opt 2](https://www.youtube.com/playlist?list=PLqlZtJqQFcvD0P2dQnEPf2aDxP3SV33El)
+
 ## Switch
 
 | Nombre        | Nombre japonés          | ¿Voice / audio log? | ¿Voice / audio acting? | ¿Furigana? |
@@ -285,7 +296,6 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | Super Mario 3D All-Stars (Mario 64, Super Mario Sunshine + Super Mario Galaxy) | スーパーマリオ ３Ｄコレクション | ❌ | ❌ | ✅ (Sunshine no tiene Kanji) |
 | Super Mario Odyssey | スーパーマリオオデッセイ | ❌ | ❌ | ✅ |
 | The legend of Zelda: Breath of the Wild | ゼルダの伝説ブレスオブザワイルド | ❌ | ❌ (solo animaciones) | ✅ |
-| The legend of Zelda: Skyward Sword | ゼルダの伝説スカイウォードソード | ❌ | ❌ (solo animaciones) | ✅ |
 | The legend of Zelda: Link's Awakening Remake | ゼルダの伝説 夢をみる島 | ❌ | ❌ | ✅ |
 | Hyrule Warriors: Age of Calamity | ゼルダ無双 | ❌ | ❌ (solo animaciones) | ✅ |
 | Animal Crossing: New Horizons | あつまれ どうぶつの森 | ❌ | ❌ (las voces no son humanas) | ✅ |
@@ -329,7 +339,6 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 - Super Mario 3D All-Stars: [Opt 1](https://www.youtube.com/playlist?list=PLSszGF__n8SscJvBQE8L_jFFJ9AOUsDDO), [Opt 2](https://www.youtube.com/playlist?list=PLyNPy006ABoGmuqmwa4dSspJRhFZTrpVB)
 - Super Mario Odyssey: [Opt 1](https://www.youtube.com/playlist?list=PLbfA_UBcJ5OQ8_nonL7K7pOaTm0gAAOkK), [Opt 2](https://www.youtube.com/playlist?list=PLOZOho2RXG3zaiI4xnsJoFDDHKwfWt2mI)
 - [Zelda BOTW](https://www.youtube.com/playlist?list=PLyqi9vd697GJJFxZnm7Z6uiQR-fBVRFxP)
-- [Zelda Skyward Sword](https://www.youtube.com/playlist?list=PLRVOMzMTjyiDXtQowdWgN703b-eOGqkFU)
 - [The legend of Zelda: Link’s Awakening Remake](https://www.youtube.com/playlist?list=PLSszGF__n8Ss68BOpyf9MBpVM7jusTQ4R)
 - [Hyrule Warriors: Age of Calamity](https://www.youtube.com/playlist?list=PLyqi9vd697GIj0x0eQicMkudo0N36lmCT)
 - Animal Crossing: New Horizons: [Opt 1](https://www.youtube.com/playlist?list=PLbfA_UBcJ5OTLGugh7ixOYRR34MoG49yX), [Opt 2](https://www.youtube.com/playlist?list=PLku8eVfcRSNRcWzb72rh3BxXSn4NpBZym), [Opt 3](https://www.youtube.com/playlist?list=PLPUGXakMkjRHoSu_GsHTarUi549AG5q9A)
@@ -443,13 +452,12 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | Nombre        | Nombre japonés          | ¿Voice / audio log? | ¿Voice / audio acting? | ¿furigana?
 |:-------------|:------------------|:--------|:------------|:-------------|
 | The Legend of Zelda: The Wind Waker HD | ゼルダの伝説 風のタクト HD | ❌ | ❌ | ✅ |
-| The Legend of Zelda: Twilight Princess HD | ゼルダの伝説 トワイライトプリンセス HD | ❌ | ❌ | ✅ |
-| The Wonderful 101 | ザ・ワンダフル ワン・オー・ワン | ❌ | ✅ | ✅ |
+| The legend of Zelda: Skyward Sword | ゼルダの伝説スカイウォードソード | ❌ | ❌ (solo animaciones) | ✅ |
 
 ### Gameplays
 
 - The Legend of Zelda: Twilight Princess HD: [Opt 1](https://www.youtube.com/playlist?list=PLRVOMzMTjyiBH4WuGaCN-xSSd3NIW0b1V), [Opt 2](https://www.youtube.com/playlist?list=PLyNPy006ABoHLchnQVVVIEYP8qTJS0NZ8), [Opt 3](https://www.youtube.com/playlist?list=PLUlwjysCZPex2vLiF6cpmZwLaQgOo1x4A)
-- The Wonderful 101: [Opt 1](https://www.youtube.com/playlist?list=PLHIVg1gH5Qdp9iOWXaIoUQVKAtxzua8kb), [Opt 2](https://www.youtube.com/playlist?list=PLqlZtJqQFcvD0P2dQnEPf2aDxP3SV33El)
+- [Zelda Skyward Sword](https://www.youtube.com/playlist?list=PLRVOMzMTjyiDXtQowdWgN703b-eOGqkFU)
 
 ## 3DS
 
@@ -538,14 +546,3 @@ Para **Steam Deck**, echa un vistazo a [EmuDeck](https://www.emudeck.com/) que y
 - XBOX: [Xemu](https://xemu.app/) **Windows, Linux y Mac**
 - XBOX 360: [Xenia](https://xenia.jp/) **Windows**
 - GBA: [mGBA](https://mgba.io/) **Todas las plataformas**
-
-## ROMS
-
-- nxbrew.com
-- ziperto.com
-- romsfun.com
-- archive.org/download/nintendo-3ds-cia-complete-rom-pack-romset
-- emuparadise.me
-- romsmania.cc
-- psvitavpk.com
-- gameginie.com
