@@ -379,6 +379,8 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | Yakuza 4 | 龍が如く4 伝説を継ぐもの | ❌ | ✅ | ❌ |
 | Yakuza 5 | 龍が如く5 夢、叶えし者 | ❌ | ✅ | ❌ |
 | Yakuza 6: The Song of Life | 龍が如く6 命の詩 | ❌ | ✅ | ❌ |
+| Judgment | JUDGE EYES: 死神の遺言 | ❌ | ✅ | ❌ |
+| Lost Judgment | LOST JUDGMENT：裁かれざる記憶 | ❌ | ✅ | ❌ |
 | Heavy Rain | HEAVY RAIN 心の軋むとき | ❌ | ✅ | ❌ |
 | Beyond: Two Souls | — | ❌ | ✅ | ❌ |
 | WitchSpring R | 魔女の泉R | ❌ | ✅ | ❌ |
@@ -410,6 +412,8 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 - Yakuza 4: [Opt 1](https://www.youtube.com/playlist?list=PLNC5MLmrnvuAOUee1wxXGTD1LLoxaCPwb), [Opt 2](https://www.youtube.com/playlist?list=PL5zYFfjjRHa-Vpbo66Aa9Wn0TuQtsan1c), [Opt 3](https://www.youtube.com/playlist?list=PLKpn4G_MTWr7Nh4JdsflBPDcsls_4ln36)
 - Yakuza 5: [Opt 1](https://www.youtube.com/playlist?list=PLKpn4G_MTWr5Szh7renBrr7zz8WlrlkPJ), [Opt 2](https://www.youtube.com/playlist?list=PLyqi9vd697GJZh07-Wxlo_H2v-KXC1HU1)
 - Yakuza 6: [Opt 1](https://www.youtube.com/playlist?list=PLyqi9vd697GKY7nGHb9FQdkG7LfsYIIhV), [Opt 2](https://www.youtube.com/playlist?list=PLy8d1u7T3WWLTbkThRj-C9YcspjvtMvYb)
+- [Judgment](https://www.youtube.com/playlist?list=PLyqi9vd697GL1002I1sAZCDaGiLQsb2_q)
+- [Lost Judgment](https://www.youtube.com/playlist?list=PL5zYFfjjRHa8ZztD2lL4Pfazrir3TZPgc)
 - [Satsuriku no Tenshi / Angels of Death](https://www.youtube.com/playlist?list=PLPUGXakMkjRGVN8U51qjF0g9nLhQvtzYS)
 - [Tokyo Xanadu eX+](https://www.youtube.com/playlist?list=PLHz0YXZjXt-tYMRrdxWaOqG7rgoEVdqCG)
 - [The darkness 2](https://www.youtube.com/playlist?list=PLA46F9A5679261936)
