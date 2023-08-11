@@ -528,3 +528,13 @@ Para **Steam Deck**, echa un vistazo a [EmuDeck](https://www.emudeck.com/) que y
 - XBOX: [Xemu](https://xemu.app/) **Windows, Linux y Mac**
 - XBOX 360: [Xenia](https://xenia.jp/) **Windows**
 - GBA: [mGBA](https://mgba.io/) **Todas las plataformas**
+
+## ROMS
+
+- nxbrew.com
+- ziperto.com
+- romsfun.com
+- archive.org/download/nintendo-3ds-cia-complete-rom-pack-romset
+- emuparadise.me
+- romsmania.cc
+- psvitavpk.com
