@@ -487,9 +487,12 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | Animal Crossing | どうぶつの森 | ❌ | ❌ | ✅ |
 | Zelda: Ocarina of time | ゼルダの伝説 時のオカリナ GC裏 | ❌ | ❌ | ✅ |
 | Zelda: Majora's Mask | ゼルダの伝説 ムジュラの仮面 | ❌ | ❌ | ✅ |
-| Yo-kai Watch 1 | 妖怪ウォッチ | ❌ | ❌ (Solo animaciones) | ✅ |
+| Yo-kai Watch | 妖怪ウォッチ | ❌ | ❌ (Solo animaciones) | ✅ |
 | Yo-kai Watch 2: Bony Spirits | 妖怪ウォッチ2元祖 | ❌ | ❌ (Solo animaciones) | ✅ |
-| Yo-kai Watch 3 | 妖怪ウォッチ３ | ❌ | ✅ | ✅ |
+| Yo-kai Watch 2: Fleshy Souls | 妖怪ウォッチ2本家 | ❌ | ❌ (Solo animaciones) | ✅ |
+| Yo-kai Watch 3: Sukiyaki | 妖怪ウォッチ３ スキヤキ | ❌ | ✅ | ✅ |
+| Yo-kai Watch 3: Tempura | 妖怪ウォッチ３ テンプラ | ❌ | ✅ | ✅ |
+| Yo-kai Watch 3: Sushi | 妖怪ウォッチ３ スシ | ❌ | ✅ | ✅ |
 | Apollo Justice: Ace attorney (Gyakuten Saiban 4) | 逆転裁判4 | ❌ | ❌ | ❌ |
 | Phoenix Wright: Ace Attorney: Dual Destinies (Gyakuten Saiban 5) | 逆転裁判5 | ❌ | ❌ | ❌ |
 | Phoenix Wright: Ace Attorney: Spirit of Justice (Gyakuten Saiban 6) | 逆転裁判6 | ❌ | ❌ | ❌ |
