@@ -274,6 +274,18 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 
 - The Wonderful 101: [Opt 1](https://www.youtube.com/playlist?list=PLHIVg1gH5Qdp9iOWXaIoUQVKAtxzua8kb), [Opt 2](https://www.youtube.com/playlist?list=PLqlZtJqQFcvD0P2dQnEPf2aDxP3SV33El)
 
+### Switch y 3DS
+
+| Nombre        | Nombre japonés          | ¿Voice / audio log? | ¿Voice / audio acting? | ¿Furigana? |
+|:-------------|:------------------|:--------|:------------|:-------------|:----------|
+| Phoenix Wright: Ace Attorney Trilogy (Gyakuten Saiban 1, 2 & 3) * | 逆転裁判123成歩堂セレクション | ❌ | ❌ | ❌ |
+
+*Contiene: Ace Attorney, Phoenix Wright: Ace Attorney, Justice for All y Trials and Tribulations.
+
+#### Gameplays
+
+- [Ace attorney Trilogy](https://www.youtube.com/playlist?list=PL2qvCP04VY7KktYCnY1bmsA0GhQmy0ive)
+
 ## Switch
 
 | Nombre        | Nombre japonés          | ¿Voice / audio log? | ¿Voice / audio acting? | ¿Furigana? |
@@ -477,6 +489,12 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | Zelda: Majora's Mask | ゼルダの伝説 ムジュラの仮面 | ❌ | ❌ | ✅ |
 | Yo-kai Watch 2: Bony Spirits | 妖怪ウォッチ2元祖 | ❌ | ❌ (Solo animaciones) | ✅ |
 | Yo-kai Watch 3 | 妖怪ウォッチ３ | ❌ | ✅ | ✅ |
+| Apollo Justice: Ace attorney (Gyakuten Saiban 4) | 逆転裁判4 | ❌ | ❌ | ❌ |
+| Phoenix Wright: Ace Attorney: Dual Destinies (Gyakuten Saiban 5) | 逆転裁判5 | ❌ | ❌ | ❌ |
+| Phoenix Wright: Ace Attorney: Spirit of Justice (Gyakuten Saiban 6) | 逆転裁判6 | ❌ | ❌ | ❌ |
+| Professor Layton vs. Phoenix Wright: Ace Attorney | レイトン 教授 VS 逆 転 裁判 | ❌ | ❌ | ✅ |
+| Professor Layton and the Miracle Mask | レイトン教授と奇跡の仮面 | ❌ | ❌ (solo animaciones) | ✅ |
+| Professor Layton and the Azran Legacy | レイトン教授と超文明Aの遺産 | ❌ | ❌ (solo animaciones) | ✅ |
 
 ### Gameplays
 
@@ -489,6 +507,12 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 - [Zelda: Majora's Mask](https://www.youtube.com/playlist?list=PLRVOMzMTjyiCUqnoyRfrXflkSiqFo8xlv)
 - Yo-Kai watch 2: Bony spirits: [Opt 1](https://www.youtube.com/playlist?list=PLXSg7_JSVEYL8GsLyEsjwlWd8Q7qDDpBZ), [Opt 2](https://www.youtube.com/playlist?list=PLb9O_A1RYtcP73Lqnnmo_zt3Rda5D4Ayn)
 - [Yo-kai Watch 3](https://www.youtube.com/playlist?list=PL3X8s1qCRDoTyJdAO-8N8I8aQUvjeoFbI)
+- [Gyakuten Saiban 4](https://www.youtube.com/playlist?list=PLevNVgG86RawttTNqxwSqZBMn_xQlU4ox)
+- [Gyakuten Saiban 5](https://www.youtube.com/playlist?list=PLevNVgG86Ray9cceqik24BELG6kZQgFKd)
+- [Gyakuten Saiban 6](https://www.youtube.com/playlist?list=PL6cFNXzKZvnAoMQf_TLbqJP4G9hN-gnYA)
+- [Layton vs Phoenix Wright](https://www.youtube.com/playlist?list=PLevNVgG86RayFFcNkuxMLhvQUOMMxqw_3)
+- [Layton and the Miracle mask](https://www.youtube.com/playlist?list=PLLbx_vEjJ9ilxKDQFlDyeq_Dbd_O-aIgQ)
+- [Layton and the Azran Legacy](https://www.youtube.com/playlist?list=PLVrxu79_i2HCcm79gjogNItq2hFQBBN3P)
 
 ## PS1, PS2, PS3 & PS4
 
