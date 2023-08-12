@@ -52,7 +52,7 @@ override_region = jpn
 
 Si un juego peta por tener un idioma que no comprende (que puede pasar)…
 
-1. Busca el **ID** del juego. Esto lo puedes mirar en Luma o online.
+1. Busca el **ID** del juego. Esto lo puedes mirar en Luma u [online aquí](http://3dsdb.com/).
 2. Ir a la carpeta `luma` de la SD.
 3. Crear carpeta `titles` dentro.
 4. Crear una carpeta con el ID del juego.
