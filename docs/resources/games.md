@@ -492,6 +492,8 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | Apollo Justice: Ace attorney (Gyakuten Saiban 4) | 逆転裁判4 | ❌ | ❌ | ❌ |
 | Phoenix Wright: Ace Attorney: Dual Destinies (Gyakuten Saiban 5) | 逆転裁判5 | ❌ | ❌ | ❌ |
 | Phoenix Wright: Ace Attorney: Spirit of Justice (Gyakuten Saiban 6) | 逆転裁判6 | ❌ | ❌ | ❌ |
+| The Great Ace Attorney: Adventures (Dai Gyakuten Saiban: Naruhodō Ryūnosuke no Bōken) | 大逆転裁判 ‐成歩堂龍ノ介の冒険‐ | ❌ | ❌ | ❌ |
+| The Great Ace Attorney 2: Resolve (Dai Gyakuten Saiban 2: Naruhodō Ryūnosuke no Bōken) | 大逆転裁判2 -成歩堂龍ノ介の覺悟- | ❌ | ❌ | ❌ |
 | Professor Layton vs. Phoenix Wright: Ace Attorney | レイトン 教授 VS 逆 転 裁判 | ❌ | ❌ | ✅ |
 | Professor Layton and the Miracle Mask | レイトン教授と奇跡の仮面 | ❌ | ❌ (solo animaciones) | ✅ |
 | Professor Layton and the Azran Legacy | レイトン教授と超文明Aの遺産 | ❌ | ❌ (solo animaciones) | ✅ |
@@ -510,6 +512,8 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 - [Gyakuten Saiban 4](https://www.youtube.com/playlist?list=PLevNVgG86RawttTNqxwSqZBMn_xQlU4ox)
 - [Gyakuten Saiban 5](https://www.youtube.com/playlist?list=PLevNVgG86Ray9cceqik24BELG6kZQgFKd)
 - [Gyakuten Saiban 6](https://www.youtube.com/playlist?list=PL6cFNXzKZvnAoMQf_TLbqJP4G9hN-gnYA)
+- [The great ace attorney](https://www.youtube.com/playlist?list=PLevNVgG86Raz3FzwGXegxdNZepmETw3b3)
+- [The great ace attorney 2](https://www.youtube.com/playlist?list=PLevNVgG86RawVn35hE0x_U7chG5I0X3GE)
 - [Layton vs Phoenix Wright](https://www.youtube.com/playlist?list=PLevNVgG86RayFFcNkuxMLhvQUOMMxqw_3)
 - [Layton and the Miracle mask](https://www.youtube.com/playlist?list=PLLbx_vEjJ9ilxKDQFlDyeq_Dbd_O-aIgQ)
 - [Layton and the Azran Legacy](https://www.youtube.com/playlist?list=PLVrxu79_i2HCcm79gjogNItq2hFQBBN3P)
