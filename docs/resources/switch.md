@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Switch
+title: Switch & 3DS
 parent: Recursos
 nav_order: 6
 ---
 
-# Switch
+# Switch & 3DS
 
 ## ROMS
 
@@ -19,6 +19,8 @@ nav_order: 6
 - gameginie.com
 
 ## Sobreescribir idioma de un juego
+
+### Switch
 
 {: .warning-title }
 > ¡Alerta!
@@ -40,3 +42,19 @@ override_region = jpn
 
 - **Las regiones son:** jpn, usa, eur, aus, chn, kor, twn
 - **Los idiomas son:** ja, en-US, fr, de, it, es, zh-Hant, zh-Hans, zh-CN, ko, nl, pt, ru, zh-TW, en-GB, fr-CA, es-419
+
+### 3DS
+
+{: .warning-title }
+> ¡Alerta!
+>
+> Debes tener la consola con homebrew y usar Luma.
+
+Si un juego peta por tener un idioma que no comprende (que puede pasar)…
+
+1. Busca el **ID** del juego. Esto lo puedes mirar en Luma o online.
+2. Ir a la carpeta `luma` de la SD.
+3. Crear carpeta `titles` dentro.
+4. Crear una carpeta con el ID del juego.
+5. Crear un fichero `locale.txt` con `JPN JP` dentro.
+
