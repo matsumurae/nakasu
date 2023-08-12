@@ -487,6 +487,7 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | Animal Crossing | どうぶつの森 | ❌ | ❌ | ✅ |
 | Zelda: Ocarina of time | ゼルダの伝説 時のオカリナ GC裏 | ❌ | ❌ | ✅ |
 | Zelda: Majora's Mask | ゼルダの伝説 ムジュラの仮面 | ❌ | ❌ | ✅ |
+| Yo-kai Watch 1 | 妖怪ウォッチ | ❌ | ❌ (Solo animaciones) | ✅ |
 | Yo-kai Watch 2: Bony Spirits | 妖怪ウォッチ2元祖 | ❌ | ❌ (Solo animaciones) | ✅ |
 | Yo-kai Watch 3 | 妖怪ウォッチ３ | ❌ | ✅ | ✅ |
 | Apollo Justice: Ace attorney (Gyakuten Saiban 4) | 逆転裁判4 | ❌ | ❌ | ❌ |
@@ -507,6 +508,7 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 - Animal Crossing: [Opt 1](https://www.youtube.com/playlist?list=PLc2Ya56D22xtsqtjN71_6aYQC8eahO5rp), [Opt 2](https://www.youtube.com/playlist?list=PLOZOho2RXG3z8aJZaWmk9QgJu2yPnM3tI)
 - [Zelda: Ocarina of time](https://www.youtube.com/playlist?list=PL65D6D9340606C9C7)
 - [Zelda: Majora's Mask](https://www.youtube.com/playlist?list=PLRVOMzMTjyiCUqnoyRfrXflkSiqFo8xlv)
+- [Yo-kai Watch](https://www.youtube.com/playlist?list=PLPUGXakMkjREJj60lNUuRlVQkHYKcUdcn)
 - Yo-Kai watch 2: Bony spirits: [Opt 1](https://www.youtube.com/playlist?list=PLXSg7_JSVEYL8GsLyEsjwlWd8Q7qDDpBZ), [Opt 2](https://www.youtube.com/playlist?list=PLb9O_A1RYtcP73Lqnnmo_zt3Rda5D4Ayn)
 - [Yo-kai Watch 3](https://www.youtube.com/playlist?list=PL3X8s1qCRDoTyJdAO-8N8I8aQUvjeoFbI)
 - [Gyakuten Saiban 4](https://www.youtube.com/playlist?list=PLevNVgG86RawttTNqxwSqZBMn_xQlU4ox)
