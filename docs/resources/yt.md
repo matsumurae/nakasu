@@ -186,6 +186,7 @@ nav_order: 3
 - [椎名唯華 / Shiina Yuika](https://www.youtube.com/@ShiinaYuika)
 - [However Games](https://www.youtube.com/@HoweverGames)
 - [石川界人【秘密基地】](https://www.youtube.com/@ch19931013)
+- [おかのん / ポケモン実況チャンネル](https://www.youtube.com/@OkanonPoke)
 
 ### Gamers
 
