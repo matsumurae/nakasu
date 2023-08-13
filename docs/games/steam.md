@@ -7,16 +7,13 @@ nav_order: 2
 
 # Steam Deck
 
-## Dónde comprar juegos
-
-Comprueba en [IsThereAnyDeal](https://isthereanydeal.com/) el mejor precio. Las tiendas recomendadas son GMG (GreenManGaming) y Fanatical.
-
 ## Apps
 
 - **EmuDeck**: Para instalar emuladores.
 - **DeckyLoader**: Un loader para plugins
 - **ProtonQt-up**: Para instalar Proton-GE (basado en WINE, ejecutando juegos como si fueran nativos)
 - **Heroic games launcher**: Launcher para GOG, Epic y Amazon Prime
+- **Lutris**: Launcher definitivo. Tiene para todas las stores (GOG, Battle, Origin, Uplay, Ubisoft…)
 - **Game theme music**: Para cargar la música del juego al acceder al gameview
 
 ### Decky plugins
