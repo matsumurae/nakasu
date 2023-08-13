@@ -279,25 +279,25 @@ nav_order: 3
 
 ## Deportes
 
-- [Marina Takewaki](https://www.youtube.com/@MarinaTakewaki)
-- [MAYOTV](https://www.youtube.com/@MAYO-TV)
-- [Reiko McNish Sato](https://www.youtube.com/@ReikoMcNishSato)
-- [Yuki Nakagawa](https://www.youtube.com/@Yuki124i)
-- [さくまみおの美ボディ研究部](https://www.youtube.com/@sakumamio2)
-- [なーすけFitness](https://www.youtube.com/@naasuke)
-- [ひなちゃんねる / Hinata Kato](https://www.youtube.com/@HinataKato)
-- [まあ（MAA）](https://www.youtube.com/@maa_)
-- [ゆうか（Yuuka Sagawa）](https://www.youtube.com/@yuukasagawa5483)
-- [整体院 文-AYA-文野靖友](https://www.youtube.com/@-aya-2021)
+- [Marina Takewaki (Sin voz)](https://www.youtube.com/@MarinaTakewaki)
+- [MAYOTV (Hard KR subs, YT Inglés)](https://www.youtube.com/@MAYO-TV)
+- [Reiko McNish Sato (Sin voz)](https://www.youtube.com/@ReikoMcNishSato)
+- [Yuki Nakagawa (subs JP hardcode)](https://www.youtube.com/@Yuki124i)
+- [さくまみおの美ボディ研究部 (YT subs Inglés)](https://www.youtube.com/@sakumamio2)
+- [なーすけFitness (subs JP hardcode)](https://www.youtube.com/@naasuke)
+- [ひなちゃんねる / Hinata Kato (subs JP hardcode)](https://www.youtube.com/@HinataKato)
+- [まあ（MAA） (subs JP hardcode, YT subs ES y EN)](https://www.youtube.com/@maa_)
+- [ゆうか（Yuuka Sagawa） (subs JP hardcode, YT subs ES y EN)](https://www.youtube.com/@yuukasagawa5483)
+- [整体院 文-AYA-文野靖友 (subs JP hardcode)](https://www.youtube.com/@-aya-2021)
 - [石井亜美AmiIshii](https://www.youtube.com/@AmiIshii)
 - [脂肪燃焼ちゃん](https://www.youtube.com/@user-df3uw8fb4d)
 - [薬学生トレーニーSakura](https://www.youtube.com/@sakufitness)
-- [身体は自分で良くしましょう](https://www.youtube.com/@user-df5uj6ez8o)
-- [斎藤裕](https://www.youtube.com/@yutakasaito1008)
+- [身体は自分で良くしましょう (subs JP hardcode)](https://www.youtube.com/@user-df5uj6ez8o)
+- [斎藤裕 (subs JP hardcode)](https://www.youtube.com/@yutakasaito1008)
 
 ## Medicina
 
-- [友利新 / 医師「内科・皮膚科」](https://www.youtube.com/@aratatomori)
+- [友利新 / 医師「内科・皮膚科」 (subs JP hardcode)](https://www.youtube.com/@aratatomori)
 
 ## Artesanía
 
@@ -308,22 +308,22 @@ nav_order: 3
 - [monograph/ 堀口英剛](https://www.youtube.com/@monograph_)
 - [Pukutomo / ぷくとも](https://www.youtube.com/@Pukutomo)
 - [たにぐち まことのともすたチャンネル](https://www.youtube.com/@tomosta)
-- [パンダ / iPhone](https://www.youtube.com/@panda.iphone)
+- [パンダ / iPhone (subs JP hardcode)](https://www.youtube.com/@panda.iphone)
 - [平岡 雄太 / DRESS CODE.](https://www.youtube.com/@Yuta_Hiraoka)
 
 ## Entrevistas
 
-- [THE ROLAND SHOW【公式】](https://www.youtube.com/@therolandshow1960)
-- [しゅくろーから夜ふかし【しゅくかし】](https://www.youtube.com/@syukukashi)
-- [ジャルジャルアイランド JARUJARU ISLAND](https://www.youtube.com/@jarujaruisland8111)
+- [THE ROLAND SHOW【公式】 (subs JP hardcode, YT EN subs)](https://www.youtube.com/@therolandshow1960)
+- [しゅくろーから夜ふかし【しゅくかし】 (subs JP hardcode)](https://www.youtube.com/@syukukashi)
+- [ジャルジャルアイランド JARUJARU ISLAND (YT JP subs)](https://www.youtube.com/@jarujaruisland8111)
 - [動画、はじめてみました【テレビ朝日公式】](https://www.youtube.com/channel/UCkGCQ4TN-8gvb8QCYIqygHw)
 - [毎週キングコング](https://www.youtube.com/@mainichikingkong)
 - [諏訪部順一×石原慎也 Voice Pallet 【ボイパレ】](https://www.youtube.com/@voicepalletmbs4495)
-- [スカイピース](https://www.youtube.com/@Skypeace)
+- [スカイピース (subs JP hardcode)](https://www.youtube.com/@Skypeace)
 
 ## Reviews
 
-- [ちょっぴり大人の贅沢旅](https://www.youtube.com/@user-ut5lq2bw5l)
+- [ちょっぴり大人の贅沢旅 (Sin voz, subs JP hardcode)](https://www.youtube.com/@user-ut5lq2bw5l)
 
 ### Motos
 
@@ -353,13 +353,13 @@ nav_order: 3
 
 - [しまじろうチャンネル（YouTube）](https://www.youtube.com/@SHIMAJIROCH)
 - [カイユー日本語 - WildBrain](https://www.youtube.com/@CaillouJapanese)
-- [ボンボンアカデミー](https://www.youtube.com/@Bom-Bom-Academy)
+- [ボンボンアカデミー (subs JP hardcode)](https://www.youtube.com/@Bom-Bom-Academy)
 - [サザエさん2023](https://www.youtube.com/@maocarole)
 - [ペッパピッグ ー Peppa Pig](https://www.youtube.com/@PeppaPigJapaneseOfficial)
 
 ## Aprender en Japonés
 
-- [いろは日本語教室](https://www.youtube.com/@irohajapanese)
+- [いろは日本語教室 (subs JP hardcode)](https://www.youtube.com/@irohajapanese)
 
 ## Anime & manga
 
@@ -371,7 +371,7 @@ nav_order: 3
 
 ## Random
 
-- [ホモサピ](https://www.youtube.com/@homosapi)
+- [ホモサピ (subs JP hardcode, YT EN subs)](https://www.youtube.com/@homosapi)
 
 ## Noticias
 
@@ -382,20 +382,20 @@ nav_order: 3
 
 ## Para estudiantes de Japonés (en inglés)
 
-- [comprehensible japanese](https://www.youtube.com/@cijapanese)
+- [comprehensible japanese (YT JP subs)](https://www.youtube.com/@cijapanese)
 - [GameGengo](https://www.youtube.com/@GameGengo)
 - [Game Grammar](https://www.youtube.com/@GameGrammar)
 - [Japanese Ammo with Misa](https://www.youtube.com/@JapaneseAmmowithMisa)
-- [Japanese Immersion with Asami](https://www.youtube.com/@japaneseimmersionwithasami4249)
+- [Japanese Immersion with Asami (YT EN subs)](https://www.youtube.com/@japaneseimmersionwithasami4249)
 - [Learn japanese with manga](https://www.youtube.com/@learnjapanesewithmanga7565)
 - [Foxumon](https://www.youtube.com/@foxumon)
 - [Learn japanese with Taka](https://www.youtube.com/@JapanesewithTaka)
-- [Onomappu](https://www.youtube.com/@Onomappu)
-- [Ordinary Japanese Speaks Like This](https://www.youtube.com/@ordinaryjapanesespeakslike6680)
-- [Sayuri Saying](https://www.youtube.com/@SayuriSaying)
-- [TAKA Vlog](https://www.youtube.com/@takavlog7442)
+- [Onomappu (YT EN, ES + JP subs)](https://www.youtube.com/@Onomappu)
+- [Ordinary Japanese Speaks Like This (subs JP hardcode)](https://www.youtube.com/@ordinaryjapanesespeakslike6680)
+- [Sayuri Saying (YT EN + JP subs)](https://www.youtube.com/@SayuriSaying)
+- [TAKA Vlog (subs JP hardcode + YT EN subs)](https://www.youtube.com/@takavlog7442)
 - [TakoAki Japanese](https://www.youtube.com/@TakoAkiJapanese)
 - [VR Nihongo](https://www.youtube.com/@vrnihongo)
-- [三本塾 -Sambon Juku-](https://www.youtube.com/@sambonjuku)
+- [三本塾 -Sambon Juku- (YT JP + EN simultaneo)](https://www.youtube.com/@sambonjuku)
 - [𝘑𝘤𝘪𝘦𝘯𝘤𝘦 • light smit](https://www.youtube.com/@-LightSmit)
-- [ゆきえ【桜の間　日本語ルーム】](https://www.youtube.com/@yukijapanese00)
+- [ゆきえ【桜の間　日本語ルーム】 (YT EN + JP subs)](https://www.youtube.com/@yukijapanese00)
