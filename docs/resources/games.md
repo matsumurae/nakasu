@@ -173,6 +173,8 @@ Si no encuentras lo que buscas, puedes probar a buscar en google el nombre más:
 | The crown of Wu | — | ❌ | ❌ | ❌ |
 | ANNO: Mutationem | アノー：ミューテーショネム | ❌ | ✅ | ❌ |
 | メモリーズオフ-Innocent Fille- | メモリーズオフ-Innocent Fille- | ❌ | ❌ | ❌ |
+| LOST EMBER | ロスト・エンバー | ❌ | ✅ | ❌ |
+| Behind the Frame: The Finest Scenery | Behind the Frame 〜とっておきの景色を〜 | ❌ | ❌ | ❌ |
 
 #### Gameplays
 
@@ -275,6 +277,8 @@ Si no encuentras lo que buscas, puedes probar a buscar en google el nombre más:
 - [Persona 3 Portable](https://www.youtube.com/playlist?list=PLezhqr0c_4zPDhFKycuRlbWVfbGmZgI9V)
 - Ni no Kuni 2: [Opt 1](https://www.youtube.com/playlist?list=PLOZOho2RXG3yVvWo1XSK3cIZ7C6NIRuOW), [Opt 2](https://www.youtube.com/playlist?list=PLZzWiVDNbG_89PvxEpMyw2sOKAX6LiLm6)
 - [Ni no Kuni](https://www.youtube.com/playlist?list=PLUnAyVzpgoPPFczIeXDqCp34tXuaE87eM)
+- [LOST EMBER](https://www.youtube.com/playlist?list=PLJkbSB0E9FVkWg6pWoEsYPjxil05ewkbj)
+- [Behind the frame](https://www.youtube.com/playlist?list=PLa-PYnQXUM-bcgVpHXP-jrsE-g3-YlAq9)
 
 ### PC & PS VITA
 
@@ -455,6 +459,9 @@ Si no encuentras lo que buscas, puedes probar a buscar en google el nombre más:
 | Guardians of the Galaxy | ガーディアンズ・オブ・ギャラクシー | ❌ | ✅ | ❌ |
 | Prey | 『PREY』 | ❌ | ✅ | ❌ |
 | Fallout 4 | 『Fallout 4』 | ❌ | ✅ | ❌ |
+| The Legend of Heroes: Trails of Cold Steel | 英雄伝説 閃の軌跡 | ❌ | ✅ | ❌ |
+| Eternights | エターナイツ | ❌ | ✅ | ❌ |
+| Nova Antarctica | 南極計画 | ❌ | ❌ | ❌ |
 
 ### Gameplays
 
@@ -489,6 +496,7 @@ Si no encuentras lo que buscas, puedes probar a buscar en google el nombre más:
 - [Guardians of the Galaxy](https://www.youtube.com/playlist?list=PLsdh6D6poKdluptfdLsGE44S7LLwG8usW)
 - [PREY](https://www.youtube.com/playlist?list=PL1Z1KdfmKueYtB7O-FHaNJSf91VutI9WH)
 - [Fallout 4](https://www.youtube.com/playlist?list=PL1Z1KdfmKueZ8pDJ1-xCP5q6G9AMnDh1B)
+- [The legend of heroes: Trails of cold steel](https://www.youtube.com/playlist?list=PLNIf7lvua0CUH-lbPEEsgJsqTNb_EdtGt)
 
 ## Gamecube
 
