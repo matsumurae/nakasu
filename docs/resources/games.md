@@ -21,6 +21,47 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 >
 > **La mayoría de juegos son multiplataforma**, pero es más fácil instalar juegos de otras regiones en la Switch, 3DS o Steam Deck vs XBOX o PS4 (donde tendrías que comprarlo en físico).
 
+## Emuladores
+
+Para **Steam Deck**, echa un vistazo a [EmuDeck](https://www.emudeck.com/) que ya contiene todos los emuladores. Si buscas emuladores para **Mac**, echa un ojo a [OpenEmu](https://openemu.org/) que ya tiene PSP, Gamecube, N64 y otros.
+
+- Wii y Gamecube: [Dolphin](https://es.dolphin-emu.org/download/). **Windows y Android**
+- Wii U: [Cemu](https://cemu.info/). **Windows**
+- N64: [Mupen64Plus](https://mupen64plus.org/) **Todas las plataformas**
+- DS: [DeSmuME](https://desmume.org/) **Todas las plataformas**
+- 3DS: [Citra](https://citra-emu.org/). **Windows, Linux y Mac (No M1)**
+- PS Vita: [Vita3K](https://vita3k.org/). **Todas las plataformas**
+- PSP: [PPSSPP](https://www.ppsspp.org/). **Todas las plataformas**
+- PS2: [PCSX2](https://pcsx2.net/) **Windows y Linux**
+- PS3: [RPCS3](https://rpcs3.net/) **Windows, Linux y Mac**
+- Switch:
+  - [Yuzu](https://yuzu-emu.org/) **Windows y Linux**
+  - [Ryujinx](https://ryujinx.org/) **Windows, Linux y Mac**
+- XBOX: [Xemu](https://xemu.app/) **Windows, Linux y Mac**
+- XBOX 360: [Xenia](https://xenia.jp/) **Windows**
+- GBA: [mGBA](https://mgba.io/) **Todas las plataformas**
+
+### Configurar idioma
+
+#### Yuzu / Ryujinx
+
+Ambos van a coger el idioma del sistema, por lo tanto para que coja el idioma que quieres vas a tener que cambiarlo en los settings: Emulation > Configure > System. Aquí puedes cambiar tanto idioma como región.
+
+![image](https://user-images.githubusercontent.com/8403754/169679911-28a30afa-eedd-43eb-8d56-0014562f6bad.png)
+
+## Transcripciones de juegos
+
+En el sheet de [Jo Mako](https://docs.google.com/spreadsheets/d/1ukDIWSkh_xvpppPbgs1nUR2kaEwFaWlsJgZUlb9LuTs/edit#gid=0) encontrarás un listado de transcripciones por juego.
+
+Además, te dejo un listado de extras:
+
+- [Zelda Wind Waker](https://www.zeldalegends.net/view/emulation/dumps/tww/tww_JAP.html)
+- [Zelda Twilight Princess](https://www.zeldalegends.net/view/emulation/dumps/tp/Japan/TP_Japanese.html)
+- [Zelda Majora's Mask](http://www.zeldalegends.net/files/emulation/dumps/zelda6/japan/z6dump(jp).html)
+- [Zelda Ocarina](http://www.zeldalegends.net/view/emulation/dumps/zelda64/japan/z64dump(jp).html)
+
+Si no encuentras lo que buscas, puedes probar a buscar en google el nombre más: セリフ, セリフ集, 台詞, 完全会話データ.
+
 ## Juegos multiplataforma
 
 ### Switch & PC
@@ -563,31 +604,3 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 - [Boku no Natsuyasumi 4](https://www.youtube.com/playlist?list=PL3RkBBBHRhPRtdsLBj7J_jY2Anhi78oD4)
 - [Fuuraiki 3](https://www.youtube.com/playlist?list=PLhX4PTFIiArwH94t141IPVxTPKu6LKxcU)
 - Psycho-pass: [Opt 1](https://www.youtube.com/playlist?list=PL8YB-1Nmoh-e7IIYFbcTWxLxAcZXQ9mJD), [Opt 2](https://www.youtube.com/playlist?list=PLy07A4N_4ecJniqeFWo4vQQ5ipw6rQJ9y)
-
-## Emuladores
-
-Para **Steam Deck**, echa un vistazo a [EmuDeck](https://www.emudeck.com/) que ya contiene todos los emuladores. Si buscas emuladores para **Mac**, echa un ojo a [OpenEmu](https://openemu.org/) que ya tiene PSP, Gamecube, N64 y otros.
-
-- Wii y Gamecube: [Dolphin](https://es.dolphin-emu.org/download/). **Windows y Android**
-- Wii U: [Cemu](https://cemu.info/). **Windows**
-- N64: [Mupen64Plus](https://mupen64plus.org/) **Todas las plataformas**
-- DS: [DeSmuME](https://desmume.org/) **Todas las plataformas**
-- 3DS: [Citra](https://citra-emu.org/). **Windows, Linux y Mac (No M1)**
-- PS Vita: [Vita3K](https://vita3k.org/). **Todas las plataformas**
-- PSP: [PPSSPP](https://www.ppsspp.org/). **Todas las plataformas**
-- PS2: [PCSX2](https://pcsx2.net/) **Windows y Linux**
-- PS3: [RPCS3](https://rpcs3.net/) **Windows, Linux y Mac**
-- Switch:
-  - [Yuzu](https://yuzu-emu.org/) **Windows y Linux**
-  - [Ryujinx](https://ryujinx.org/) **Windows, Linux y Mac**
-- XBOX: [Xemu](https://xemu.app/) **Windows, Linux y Mac**
-- XBOX 360: [Xenia](https://xenia.jp/) **Windows**
-- GBA: [mGBA](https://mgba.io/) **Todas las plataformas**
-
-### Configurar idioma
-
-#### Yuzu / Ryujinx
-
-Ambos van a coger el idioma del sistema, por lo tanto para que coja el idioma que quieres vas a tener que cambiarlo en los settings: Emulation > Configure > System. Aquí puedes cambiar tanto idioma como región.
-
-![image](https://user-images.githubusercontent.com/8403754/169679911-28a30afa-eedd-43eb-8d56-0014562f6bad.png)
