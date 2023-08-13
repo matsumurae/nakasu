@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Switch & 3DS
-parent: Recursos
-nav_order: 6
+parent: Juegos
+nav_order: 1
 ---
 
 # Switch & 3DS
@@ -57,4 +57,3 @@ Si un juego peta por tener un idioma que no comprende (que puede pasar)…
 3. Crear carpeta `titles` dentro.
 4. Crear una carpeta con el ID del juego.
 5. Crear un fichero `locale.txt` con `JPN JP` dentro.
-

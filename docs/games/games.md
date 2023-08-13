@@ -1,11 +1,11 @@
 ---
-layout: default
 title: Juegos
-parent: Recursos
-nav_order: 1
+layout: default
+nav_order: 8
+has_children: true
 ---
 
-# Listado de juegos
+# Juegos
 
 {: .warning-title }
 > Tenemos juegos de: PSP, PS Vita, PS1, PS2, PS3, PS4, 3DS, Wii, Wii U, Gamecube, PC y Switch.
@@ -314,10 +314,12 @@ Si no encuentras lo que buscas, puedes probar a buscar en google el nombre más:
 |:-------------|:------------------|:--------|:------------|:-------------|:----------|
 | The Wonderful 101 Remastered | ザ・ワンダフル ワン・オー・ワン | ❌ | ✅ | ✅ |
 | Zelda  | ザ・ワンダフル ワン・オー・ワン | ❌ | ✅ | ✅ |
+| The legend of Zelda: Breath of the Wild | ゼルダの伝説ブレスオブザワイルド | ❌ | ❌ (solo animaciones) | ✅ |
 
 #### Gameplays
 
 - The Wonderful 101: [Opt 1](https://www.youtube.com/playlist?list=PLHIVg1gH5Qdp9iOWXaIoUQVKAtxzua8kb), [Opt 2](https://www.youtube.com/playlist?list=PLqlZtJqQFcvD0P2dQnEPf2aDxP3SV33El)
+- Zelda BOTW: [Switch](https://www.youtube.com/playlist?list=PLyqi9vd697GJJFxZnm7Z6uiQR-fBVRFxP), [Wii U](https://www.youtube.com/playlist?list=PLNzqhxMtnjztPMdG_WGjoNGvYe0HUhQOk)
 
 ### Switch y 3DS
 
@@ -352,7 +354,6 @@ Si no encuentras lo que buscas, puedes probar a buscar en google el nombre más:
 | Danganronpa Decadence (JP incluye Danganronpa S: Ultimate Summer Camp)           | ダンガンロンパ トリロジーパック+ハッピーダンガンロンパＳ 超高校級の南国サイコロ合宿 |
 | Super Mario 3D All-Stars (Mario 64, Super Mario Sunshine + Super Mario Galaxy) | スーパーマリオ ３Ｄコレクション | ❌ | ❌ | ✅ (Sunshine no tiene Kanji) |
 | Super Mario Odyssey | スーパーマリオオデッセイ | ❌ | ❌ | ✅ |
-| The legend of Zelda: Breath of the Wild | ゼルダの伝説ブレスオブザワイルド | ❌ | ❌ (solo animaciones) | ✅ |
 | The legend of Zelda: Link's Awakening Remake | ゼルダの伝説 夢をみる島 | ❌ | ❌ | ✅ |
 | Hyrule Warriors: Age of Calamity | ゼルダ無双 | ❌ | ❌ (solo animaciones) | ✅ |
 | Animal Crossing: New Horizons | あつまれ どうぶつの森 | ❌ | ❌ (las voces no son humanas) | ✅ |
@@ -395,7 +396,6 @@ Si no encuentras lo que buscas, puedes probar a buscar en google el nombre más:
 - [Pokemon Mundo Misterioso: Equipo de Rescate DX](https://www.youtube.com/playlist?list=PLOZOho2RXG3zqEzS9o8rgZUu8DB0cTJlB)
 - Super Mario 3D All-Stars: [Opt 1](https://www.youtube.com/playlist?list=PLSszGF__n8SscJvBQE8L_jFFJ9AOUsDDO), [Opt 2](https://www.youtube.com/playlist?list=PLyNPy006ABoGmuqmwa4dSspJRhFZTrpVB)
 - Super Mario Odyssey: [Opt 1](https://www.youtube.com/playlist?list=PLbfA_UBcJ5OQ8_nonL7K7pOaTm0gAAOkK), [Opt 2](https://www.youtube.com/playlist?list=PLOZOho2RXG3zaiI4xnsJoFDDHKwfWt2mI)
-- [Zelda BOTW](https://www.youtube.com/playlist?list=PLyqi9vd697GJJFxZnm7Z6uiQR-fBVRFxP)
 - [The legend of Zelda: Link’s Awakening Remake](https://www.youtube.com/playlist?list=PLSszGF__n8Ss68BOpyf9MBpVM7jusTQ4R)
 - [Hyrule Warriors: Age of Calamity](https://www.youtube.com/playlist?list=PLyqi9vd697GIj0x0eQicMkudo0N36lmCT)
 - Animal Crossing: New Horizons: [Opt 1](https://www.youtube.com/playlist?list=PLbfA_UBcJ5OTLGugh7ixOYRR34MoG49yX), [Opt 2](https://www.youtube.com/playlist?list=PLku8eVfcRSNRcWzb72rh3BxXSn4NpBZym), [Opt 3](https://www.youtube.com/playlist?list=PLPUGXakMkjRHoSu_GsHTarUi549AG5q9A)
@@ -514,45 +514,52 @@ Si no encuentras lo que buscas, puedes probar a buscar en google el nombre más:
 
 ## Wii / Wii U
 
-| Nombre        | Nombre japonés          | ¿Voice / audio log? | ¿Voice / audio acting? | ¿furigana?
-|:-------------|:------------------|:--------|:------------|:-------------|
-| The Legend of Zelda: The Wind Waker HD | ゼルダの伝説 風のタクト HD | ❌ | ❌ | ✅ |
-| The legend of Zelda: Skyward Sword | ゼルダの伝説スカイウォードソード | ❌ | ❌ (solo animaciones) | ✅ |
+| Consola | Nombre        | Nombre japonés          | ¿Voice / audio log? | ¿Voice / audio acting? | ¿furigana?
+|:--------|:-------------|:------------------|:--------|:------------|:-------------|
+| Wii | Tales of Symphonia: Dawn of the New World | テイルズ オブ シンフォニア -ラタトスクの騎士- | ❌ | ❌ | ✅ |
+| Wii | The Legend of Zelda: The Wind Waker | ゼルダの伝説 風のタクト | ❌ | ❌ | ✅ |
+| Wii | The legend of Zelda: Skyward Sword | ゼルダの伝説スカイウォードソード | ❌ | ❌ (solo animaciones) | ✅ |
+| Wii U | The Legend of Zelda: The Wind Waker HD | ゼルダの伝説 風のタクト HD | ❌ | ❌ | ✅ |
+| Wii U | The legend of Zelda: Skyward Sword | ゼルダの伝説スカイウォードソード | ❌ | ❌ (solo animaciones) | ✅ |
 
 ### Gameplays
 
+- [Tales of Symphonia: Dawn of the new world](https://www.youtube.com/playlist?list=PL3eJk5JavxfPTyoiMdktmib11d5mdJHa1)
+- [Zelda Wind Waker](https://www.youtube.com/playlist?list=PLRVOMzMTjyiAc5yt0zoQneJHD6I7zTIyI)
 - The Legend of Zelda: Twilight Princess HD: [Opt 1](https://www.youtube.com/playlist?list=PLRVOMzMTjyiBH4WuGaCN-xSSd3NIW0b1V), [Opt 2](https://www.youtube.com/playlist?list=PLyNPy006ABoHLchnQVVVIEYP8qTJS0NZ8), [Opt 3](https://www.youtube.com/playlist?list=PLUlwjysCZPex2vLiF6cpmZwLaQgOo1x4A)
 - [Zelda Skyward Sword](https://www.youtube.com/playlist?list=PLRVOMzMTjyiDXtQowdWgN703b-eOGqkFU)
 
-## 3DS
+## DS / 3DS
 
-| Nombre        | Nombre japonés          | ¿Voice / audio log? | ¿Voice / audio acting? | ¿furigana?
-|:-------------|:------------------|:--------|:------------|:-------------|
-| Attack of the Friday Monsters! A Tokyo Tale | 怪獣が出る金曜日 | ❌ | ❌ | ❌ |
-| Monster Hunter XX | モンスターハンターダブルクロス | ❌ | ❌ | ✅ |
-| Monster Hunter Stories | モンスターハンター ストーリーズ | ❌ | ❌ | ✅ |
-| Monster Hunter Generations (Monster Hunter X en Japón) | モンスターハンタークロス | ❌ | ❌ | ✅ |
-| Monster Hunter 4 Ultimate | モンスターハンター 4G | ❌ | ❌ | ✅ |
-| Animal Crossing | どうぶつの森 | ❌ | ❌ | ✅ |
-| Zelda: Ocarina of time | ゼルダの伝説 時のオカリナ GC裏 | ❌ | ❌ | ✅ |
-| Zelda: Majora's Mask | ゼルダの伝説 ムジュラの仮面 | ❌ | ❌ | ✅ |
-| Yo-kai Watch | 妖怪ウォッチ | ❌ | ❌ (Solo animaciones) | ✅ |
-| Yo-kai Watch 2: Bony Spirits | 妖怪ウォッチ2元祖 | ❌ | ❌ (Solo animaciones) | ✅ |
-| Yo-kai Watch 2: Fleshy Souls | 妖怪ウォッチ2本家 | ❌ | ❌ (Solo animaciones) | ✅ |
-| Yo-kai Watch 3: Sukiyaki | 妖怪ウォッチ３ スキヤキ | ❌ | ✅ | ✅ |
-| Yo-kai Watch 3: Tempura | 妖怪ウォッチ３ テンプラ | ❌ | ✅ | ✅ |
-| Yo-kai Watch 3: Sushi | 妖怪ウォッチ３ スシ | ❌ | ✅ | ✅ |
-| Apollo Justice: Ace attorney (Gyakuten Saiban 4) | 逆転裁判4 | ❌ | ❌ | ❌ |
-| Phoenix Wright: Ace Attorney: Dual Destinies (Gyakuten Saiban 5) | 逆転裁判5 | ❌ | ❌ | ❌ |
-| Phoenix Wright: Ace Attorney: Spirit of Justice (Gyakuten Saiban 6) | 逆転裁判6 | ❌ | ❌ | ❌ |
-| The Great Ace Attorney: Adventures (Dai Gyakuten Saiban: Naruhodō Ryūnosuke no Bōken) | 大逆転裁判 ‐成歩堂龍ノ介の冒険‐ | ❌ | ❌ | ❌ |
-| The Great Ace Attorney 2: Resolve (Dai Gyakuten Saiban 2: Naruhodō Ryūnosuke no Bōken) | 大逆転裁判2 -成歩堂龍ノ介の覺悟- | ❌ | ❌ | ❌ |
-| Professor Layton vs. Phoenix Wright: Ace Attorney | レイトン 教授 VS 逆 転 裁判 | ❌ | ❌ | ✅ |
-| Professor Layton and the Miracle Mask | レイトン教授と奇跡の仮面 | ❌ | ❌ (solo animaciones) | ✅ |
-| Professor Layton and the Azran Legacy | レイトン教授と超文明Aの遺産 | ❌ | ❌ (solo animaciones) | ✅ |
+| Consola | Nombre        | Nombre japonés          | ¿Voice / audio log? | ¿Voice / audio acting? | ¿furigana?
+|:--------|:-------------|:------------------|:--------|:------------|:-------------|
+| DS | The Legend of Zelda Phantom Hourglass | ゼルダの伝説 夢幻の砂時計 | ❌ | ❌ (solo animaciones) | ✅ |
+| 3DS | Attack of the Friday Monsters! A Tokyo Tale | 怪獣が出る金曜日 | ❌ | ❌ | ❌ |
+| 3DS | Monster Hunter XX | モンスターハンターダブルクロス | ❌ | ❌ | ✅ |
+| 3DS | Monster Hunter Stories | モンスターハンター ストーリーズ | ❌ | ❌ | ✅ |
+| 3DS | Monster Hunter Generations (Monster Hunter X en Japón) | モンスターハンタークロス | ❌ | ❌ | ✅ |
+| 3DS | Monster Hunter 4 Ultimate | モンスターハンター 4G | ❌ | ❌ | ✅ |
+| 3DS | Animal Crossing | どうぶつの森 | ❌ | ❌ | ✅ |
+| 3DS | Zelda: Ocarina of time | ゼルダの伝説 時のオカリナ GC裏 | ❌ | ❌ | ✅ |
+| 3DS | Zelda: Majora's Mask | ゼルダの伝説 ムジュラの仮面 | ❌ | ❌ | ✅ |
+| 3DS | Yo-kai Watch | 妖怪ウォッチ | ❌ | ❌ (Solo animaciones) | ✅ |
+| 3DS | Yo-kai Watch 2: Bony Spirits | 妖怪ウォッチ2元祖 | ❌ | ❌ (Solo animaciones) | ✅ |
+| 3DS | Yo-kai Watch 2: Fleshy Souls | 妖怪ウォッチ2本家 | ❌ | ❌ (Solo animaciones) | ✅ |
+| 3DS | Yo-kai Watch 3: Sukiyaki | 妖怪ウォッチ３ スキヤキ | ❌ | ✅ | ✅ |
+| 3DS | Yo-kai Watch 3: Tempura | 妖怪ウォッチ３ テンプラ | ❌ | ✅ | ✅ |
+| 3DS | Yo-kai Watch 3: Sushi | 妖怪ウォッチ３ スシ | ❌ | ✅ | ✅ |
+| 3DS | Apollo Justice: Ace attorney (Gyakuten Saiban 4) | 逆転裁判4 | ❌ | ❌ | ❌ |
+| 3DS | Phoenix Wright: Ace Attorney: Dual Destinies (Gyakuten Saiban 5) | 逆転裁判5 | ❌ | ❌ | ❌ |
+| 3DS | Phoenix Wright: Ace Attorney: Spirit of Justice (Gyakuten Saiban 6) | 逆転裁判6 | ❌ | ❌ | ❌ |
+| 3DS | The Great Ace Attorney: Adventures (Dai Gyakuten Saiban: Naruhodō Ryūnosuke no Bōken) | 大逆転裁判 ‐成歩堂龍ノ介の冒険‐ | ❌ | ❌ | ❌ |
+| 3DS | The Great Ace Attorney 2: Resolve (Dai Gyakuten Saiban 2: Naruhodō Ryūnosuke no Bōken) | 大逆転裁判2 -成歩堂龍ノ介の覺悟- | ❌ | ❌ | ❌ |
+| 3DS | Professor Layton vs. Phoenix Wright: Ace Attorney | レイトン 教授 VS 逆 転 裁判 | ❌ | ❌ | ✅ |
+| 3DS | Professor Layton and the Miracle Mask | レイトン教授と奇跡の仮面 | ❌ | ❌ (solo animaciones) | ✅ |
+| 3DS | Professor Layton and the Azran Legacy | レイトン教授と超文明Aの遺産 | ❌ | ❌ (solo animaciones) | ✅ |
 
 ### Gameplays
 
+- Zelda Phantom Hourglass: [Opt 1](https://www.youtube.com/playlist?list=PLOZOho2RXG3wy2PzHR4mHMHYO23S3MRXs), [Opt 2](https://www.youtube.com/playlist?list=PLRVOMzMTjyiBo4-kb9ruP05jy8DntMYwt)
 - Monster Hunter XX: [Opt 1](https://www.youtube.com/playlist?list=PLA1YIUpRAYvXUxYgiBcVgWq5m-hJLd1_3), [Opt 2](https://www.youtube.com/playlist?list=PL4lj4zIBXO03CbYS8CbznWvJWn7H1zS8x), [Opt 3](https://www.youtube.com/playlist?list=PLp788WemhrySq0xZ_bR7-6--V4HfIpGLa)
 - Monster Hunter Stories: [Opt 1](https://www.youtube.com/playlist?list=PLA1YIUpRAYvU-ZM10bvZKLrDH-__zQB6E), [Opt 2](https://www.youtube.com/playlist?list=PL9bH6FCGdDnccapI6xGD_VtTTakO6BlKb), [Opt 3](https://www.youtube.com/playlist?list=PLHO6KWcFZcjGTzdHlWlTXlCyrhUL2g1ey), [Opt 4](https://www.youtube.com/playlist?list=PLpz-TjaOaDN_smOwYTaxqgwXqhlaMpj4Z)
 - Monster Hunter Generations: [Opt 1](https://www.youtube.com/playlist?list=PLuf9JIUOHQ-PuxWjWIoNFSK20A1lBBowr), [Opt 2](https://www.youtube.com/playlist?list=PLA1YIUpRAYvXyzEOAb6WzMJOdStbD-qrJ), [Opt 3](https://www.youtube.com/playlist?list=PLvn0sh3fy67Ntih8i5aZk8qSlgF4VEj3h)

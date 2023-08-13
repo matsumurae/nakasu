@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Steam Deck
-parent: Recursos
-nav_order: 5
+parent: Juegos
+nav_order: 2
 ---
 
 # Steam Deck
