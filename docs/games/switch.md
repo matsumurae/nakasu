@@ -7,17 +7,6 @@ nav_order: 1
 
 # Switch & 3DS
 
-## ROMS
-
-- nxbrew.com
-- ziperto.com
-- romsfun.com
-- archive.org/download/nintendo-3ds-cia-complete-rom-pack-romset
-- emuparadise.me
-- romsmania.cc
-- psvitavpk.com
-- gameginie.com
-
 ## Sobreescribir idioma de un juego
 
 ### Switch

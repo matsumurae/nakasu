@@ -7,6 +7,20 @@ has_children: true
 
 # Juegos
 
+## Dónde encontrar roms
+
+- nxbrew.com
+- ziperto.com
+- romsfun.com
+- archive.org/download/nintendo-3ds-cia-complete-rom-pack-romset
+- emuparadise.me
+- romsmania.cc
+- psvitavpk.com
+- gameginie.com
+- r-roms.github.io
+- [WiiUDownloader](https://github.com/Xpl0itU/WiiUDownloader/tree/v2.19)
+- NoPayStation
+
 ## Emuladores
 
 Para **Steam Deck**, echa un vistazo a [EmuDeck](https://www.emudeck.com/) que ya contiene todos los emuladores. Si buscas emuladores para **Mac**, echa un ojo a [OpenEmu](https://openemu.org/) que ya tiene PSP, Gamecube, N64 y otros.
