@@ -7,20 +7,6 @@ has_children: true
 
 # Juegos
 
-## Dónde encontrar roms
-
-- nxbrew.com
-- ziperto.com
-- romsfun.com
-- archive.org/download/nintendo-3ds-cia-complete-rom-pack-romset
-- emuparadise.me
-- romsmania.cc
-- psvitavpk.com
-- gameginie.com
-- r-roms.github.io
-- [WiiUDownloader](https://github.com/Xpl0itU/WiiUDownloader/tree/v2.19)
-- NoPayStation
-
 ## Emuladores
 
 Para **Steam Deck**, echa un vistazo a [EmuDeck](https://www.emudeck.com/) que ya contiene todos los emuladores. Si buscas emuladores para **Mac**, echa un ojo a [OpenEmu](https://openemu.org/) que ya tiene PSP, Gamecube, N64 y otros.
@@ -54,8 +40,7 @@ Para instalar los graphic packs solo tienes que abrir CEMU en desktop, ir a Opti
 
 #### Juegos WUD / WUX
 
-Este tipo de juegos tiene algo de truco, ya que necesitarás el `keys.txt` donde añadir la key del juego o no funcionará. Puedes buscar la key en [esta página](https://www.wiiuemulator.com/JPN-Game-Key-Database.htm).
-
+Este tipo de juegos tiene algo de truco, ya que necesitarás el `keys.txt` donde añadir la key del juego o no funcionará. Puedes buscar la key en [esta página](https://www.wiiuemulator.com/JPN-Game-Key-Database.htm). El archivo debería estar en la carpeta de Emulation > roms > Wii U.
 
 #### Updates & DLCs
 
@@ -124,3 +109,17 @@ Los juegos de Ubisoft y EPIC vas a tener que jugarlos sí o sí con su launcher 
 No hay muchas opciones aquí ya que estas greystores son algo dark y pueden venderte una key que ya esta usada y lavarse las manos. Tiendas como G2A, G2Play, Kinguin o Eneba donde puede vender cualquiera (rollo eBay) nunca sabes lo que puede pasar.
 
 Mi única tienda recomendada donde no he tenido problemas es **InstantGaming**, donde he comprado verdaderos chollos (Yakuza 4 Remastered por 2,31€ vs 15,79€ de Fanatical). Hay gente que compra en CDKeys (donde dicen que después de un tiempo, te quitan el juego de Steam) y Eneba sin problema, pero lo dejo a tu discrección.
+
+## Dónde encontrar roms
+
+- nxbrew.com
+- ziperto.com
+- romsfun.com
+- archive.org/download/nintendo-3ds-cia-complete-rom-pack-romset
+- emuparadise.me
+- romsmania.cc
+- psvitavpk.com
+- gameginie.com
+- r-roms.github.io
+- [WiiUDownloader](https://github.com/Xpl0itU/WiiUDownloader/tree/v2.19)
+- NoPayStation
