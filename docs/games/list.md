@@ -310,6 +310,12 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | Pokemon púrpura           | ポケットモンスター バイオレット | ❌ | ❌ | ✅ |
 | Leyendas pokemon: arceus           | Pokémon LEGENDS アルセウス | ❌ | ❌ | ✅ <br> Usa kanjis antiguos que ya no se usan |
 | Pokemon Mundo Misterioso: Equipo de Rescate DX           | ポケモン不思議のダンジョン 救助隊DX | ❌ | ❌ | ✅ |
+| Pokemon: Let's Go, Pikachu!           | ポケットモンスター Let's Go! ピカチュウ | ❌ | ❌ | ✅ |
+| Pokemon: Let's go, Eevee!           | ポケットモンスター Let's Go! イーブイ | ❌ | ❌ | ✅ |
+| Pokemon Espada           | ポケットモンスター ソード | ❌ | ❌ | ✅ |
+| Pokemon Escudo           | ポケットモンスター シールド | ❌ | ❌ | ✅ |
+| Pokémon Diamante Brillante           | ポケットモンスター ブリリアントダイヤモンド | ❌ | ❌ | ✅ |
+| Pokémon Perla Reluciente           | ポケットモンスター シャイニングパール | ❌ | ❌ | ✅ |
 | Danganronpa Decadence (JP incluye Danganronpa S: Ultimate Summer Camp)           | ダンガンロンパ トリロジーパック+ハッピーダンガンロンパＳ 超高校級の南国サイコロ合宿 |
 | Super Mario 3D All-Stars (Mario 64, Super Mario Sunshine + Super Mario Galaxy) | スーパーマリオ ３Ｄコレクション | ❌ | ❌ | ✅ (Sunshine no tiene Kanji) |
 | Super Mario Odyssey | スーパーマリオオデッセイ | ❌ | ❌ | ✅ |
@@ -353,6 +359,9 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 - Pokemon escarlata: [Opt 1](https://www.youtube.com/playlist?list=PLSszGF__n8SsxXbt61lAlhb-cVMJH5uEA), [Opt 2](https://www.youtube.com/playlist?list=PLOZOho2RXG3wxjPwe9Khs9lQl-jJ8hBB4)
 - [Leyendas pokemon: arceus](https://www.youtube.com/playlist?list=PLOZOho2RXG3xfQzJlx6g-EFTtTIxZtyqh)
 - [Pokemon Mundo Misterioso: Equipo de Rescate DX](https://www.youtube.com/playlist?list=PLOZOho2RXG3zqEzS9o8rgZUu8DB0cTJlB)
+- [Pokemon Let's go Eevee & Pikachu](https://www.youtube.com/playlist?list=PLSszGF__n8SspXzvI4y6pmvg0ijpq3tWB)
+- [Pokemon Espada y Escudo](https://www.youtube.com/playlist?list=PLSszGF__n8SuhMk9efcdWVxYXKbhnr7KA)
+- [Pokemon perla reluciente y diamante brillante](https://www.youtube.com/playlist?list=PLSszGF__n8SsnNw1DShxExUQN-oR8bVdz)
 - Super Mario 3D All-Stars: [Opt 1](https://www.youtube.com/playlist?list=PLSszGF__n8SscJvBQE8L_jFFJ9AOUsDDO), [Opt 2](https://www.youtube.com/playlist?list=PLyNPy006ABoGmuqmwa4dSspJRhFZTrpVB)
 - Super Mario Odyssey: [Opt 1](https://www.youtube.com/playlist?list=PLbfA_UBcJ5OQ8_nonL7K7pOaTm0gAAOkK), [Opt 2](https://www.youtube.com/playlist?list=PLOZOho2RXG3zaiI4xnsJoFDDHKwfWt2mI)
 - [The legend of Zelda: Link’s Awakening Remake](https://www.youtube.com/playlist?list=PLSszGF__n8Ss68BOpyf9MBpVM7jusTQ4R)
@@ -493,6 +502,15 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | Consola | Nombre        | Nombre japonés          | ¿Voice / audio log? | ¿Voice / audio acting? | ¿furigana?
 |:--------|:-------------|:------------------|:--------|:------------|:-------------|
 | DS | The Legend of Zelda Phantom Hourglass | ゼルダの伝説 夢幻の砂時計 | ❌ | ❌ (solo animaciones) | ✅ |
+| DS | Pokémon Mystery Dungeon: Explorers of Time | ポケモン不思議のダンジョン 時の探検隊 | ❌ | ❌ | ✅ |
+| DS | Pokémon Mystery Dungeon: Explorers Of Darkness | ポケモン不思議のダンジョン 闇の探検隊 | ❌ | ❌ | ✅ |
+| DS | Pokémon Mystery Dungeon: Explorers of Sky | ポケモン不思議のダンジョン 空の探検隊 | ❌ | ❌ | ✅ |
+| 3DS | Pokémon Mystery Dungeon: Gates to Infinity | ポケモン不思議のダンジョン マグナゲートと∞迷宮 | ❌ | ❌ | ✅ |
+| 3DS | Pokémon Super Mystery Dungeon | ポケモン 超不思議のダンジョン | ❌ | ❌ | ✅ |
+| 3DS | Pokemon X & Y | ポケットモンスター X・Y | ❌ | ❌ | ✅ |
+| 3DS | Pokemon Sun & Moon | ポケットモンスターサン & ムーン  | ❌ | ❌ | ✅ |
+| 3DS | Pokémon Ultra Sun & Ultra Moon | ポケットモンスター ウルトラサン & ウルトラムーン | ❌ | ❌ | ✅ |
+| 3DS | Pokémon Omega Ruby y Alpha Sapphire | ポケットモンスター オメガルビー&アルファサファイア | ❌ | ❌ | ✅ |
 | 3DS | Attack of the Friday Monsters! A Tokyo Tale | 怪獣が出る金曜日 | ❌ | ❌ | ❌ |
 | 3DS | Monster Hunter XX | モンスターハンターダブルクロス | ❌ | ❌ | ✅ |
 | 3DS | Monster Hunter Stories | モンスターハンター ストーリーズ | ❌ | ❌ | ✅ |
@@ -515,6 +533,7 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | 3DS | Professor Layton vs. Phoenix Wright: Ace Attorney | レイトン 教授 VS 逆 転 裁判 | ❌ | ❌ | ✅ |
 | 3DS | Professor Layton and the Miracle Mask | レイトン教授と奇跡の仮面 | ❌ | ❌ (solo animaciones) | ✅ |
 | 3DS | Professor Layton and the Azran Legacy | レイトン教授と超文明Aの遺産 | ❌ | ❌ (solo animaciones) | ✅ |
+| 3DS | Fire Emblem: Awakening | ファイアーエムブレム 覚醒 | ❌ | ❌ (solo animaciones) | ❌ |
 
 ### Gameplays
 
@@ -537,6 +556,16 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 - [Layton vs Phoenix Wright](https://www.youtube.com/playlist?list=PLevNVgG86RayFFcNkuxMLhvQUOMMxqw_3)
 - [Layton and the Miracle mask](https://www.youtube.com/playlist?list=PLLbx_vEjJ9ilxKDQFlDyeq_Dbd_O-aIgQ)
 - [Layton and the Azran Legacy](https://www.youtube.com/playlist?list=PLVrxu79_i2HCcm79gjogNItq2hFQBBN3P)
+- [Fire Emblem Awakening](https://www.youtube.com/playlist?list=PL4JxhkcouWAJREeV7NNk93ANNLDXOzPee)
+- [Pokemon mundo misterioso (exploradores del tiempo)](https://www.youtube.com/playlist?list=PLOZOho2RXG3xj4Hx8PePAiqD32TmaTsgQ)
+- [Pokemon mundo misterioso (exploradores de la oscuridad)](https://www.youtube.com/playlist?list=PLlDF0bLl7YfhHQwfQ9NDMoiOvQ_irDuTJ)
+- [Pokemon mundo misterioso (exploradores del cielo)](https://www.youtube.com/playlist?list=PLcGZw44bZZi9UCVRYzrjg904o5rsRr-Yt)
+- [Pokemon mundo misterioso: portales al infinito](https://www.youtube.com/playlist?list=PLOZOho2RXG3xFCxSpUkzT-QdBWvku3LlN)
+- [Pokemon mundo megamisterioso](https://www.youtube.com/playlist?list=PLuf9JIUOHQ-NVM-brA8HDn-QI9r-9u1gA)
+- [Pokemon X & Y](https://www.youtube.com/playlist?list=PLznqP-xW6htOuZOscIKLfC9_SSXtEdh-N)
+- Pokemon Sol y Luna: [Opt 1](https://www.youtube.com/playlist?list=PLOZOho2RXG3yKVb3ZpH47y_dNrU9cZsGg), [Opt 2](https://www.youtube.com/playlist?list=PLuf9JIUOHQ-Op1kN15_YBGGcH2zJZFjlp)
+- Pokemon Ultrasol y Ultraluna: [Opt 1](https://www.youtube.com/playlist?list=PLuf9JIUOHQ-OZwBxN-MbD_u5WOzvS48pu), [Opt 2](https://www.youtube.com/playlist?list=PLOZOho2RXG3zTFof2xeuW3wC4geB1h28c)
+- Pokemon [Zafiro Alfa](https://www.youtube.com/playlist?list=PLHCunuXlHSEEvoYCkEBQWmCIU-QpBfmuP) y [Rubi Omega](https://www.youtube.com/playlist?list=PLA1YIUpRAYvVb560_JWJEo9KS3D9XEnPD)
 
 ## PS1, PS2, PS3 & PS4
 
