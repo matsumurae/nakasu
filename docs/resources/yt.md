@@ -52,6 +52,8 @@ nav_order: 3
 - [yaa channel (subs JP hardcode debajo)](https://www.youtube.com/@yaachannel4956)
 - [美メシちゃん (Sin voz - Subs JP hardcode debajo)](https://www.youtube.com/@bimeshich)
 - [さきっちん (Sin voz - Subs JP hardcode debajo)](https://www.youtube.com/@sakitchen.)
+- [うりぼーちゃんねる (subs JP hardcode debajo, EN YT subs)](https://www.youtube.com/@channel-uribo)
+- [今日はパンの日 Today is pan no hi (subs JP hardcode debajo)](https://www.youtube.com/@pannohi)
 
 ## Psicología
 
