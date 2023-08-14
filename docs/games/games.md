@@ -27,9 +27,34 @@ Para **Steam Deck**, echa un vistazo a [EmuDeck](https://www.emudeck.com/) que y
 - XBOX 360: [Xenia](https://xenia.jp/) **Windows**
 - GBA: [mGBA](https://mgba.io/) **Todas las plataformas**
 
-### Configurar idioma
+### Problemas en Yuzu o Ryujinx
 
-#### Yuzu / Ryujinx
+Si al iniciar te dice "The KIP file has a bad header" significa que te faltan las keys. Para eso ve [aquí](https://theprodkeys.com/) y descárgalas. Luego solo tienes que ir a la carpeta de los emuladores en `Emulation`. En `Yuzu` y `Ryujinx` tienes que ir a la carpeta `Keys`. Si no existe, creala y añade las keys que te has descargado (dos ficheros). ¡Y listo!
+
+### Wii U
+
+{: .warning-title }
+> Recuerda descargar siempre los Graphic Packs en CEMU. Hay muchos juegos que no pasan de la pantalla de título.
+
+Para instalar los graphic packs solo tienes que abrir CEMU en desktop, ir a Options > Graphic packs. Instala por cada cada juego.
+
+#### Juegos WUD / WUX
+
+Este tipo de juegos tiene algo de truco, ya que necesitarás el `keys.txt` donde añadir la key del juego o no funcionará. Puedes buscar la key en [esta página](https://www.wiiuemulator.com/JPN-Game-Key-Database.htm).
+
+
+#### Updates & DLCs
+
+Crea una carpeta dentro de Wii U llamada Updates&DLC. Así lo tendrás separado de los roms (si no te saldrá doble al cargar los juegos). Abre CEMU, File > Install game title, update or DLC. Busca la carpeta, instala uno a uno y listo.
+
+
+### Yuzu / Ryujinx
+
+#### Updates & DLCs
+
+Igual que con Wii U, copia dentro de la carpeta de switch (fuera de roms). Abre Yuzu / Ryujinx, File > Install files to NAND. Instala uno a uno los archivos y listo.
+
+#### Configurar idioma
 
 Ambos van a coger el idioma del sistema, por lo tanto para que coja el idioma que quieres vas a tener que cambiarlo en los settings: Emulation > Configure > System. Aquí puedes cambiar tanto idioma como región.
 
