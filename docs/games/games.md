@@ -46,6 +46,14 @@ Este tipo de juegos tiene algo de truco, ya que necesitarás el `keys.txt` donde
 
 Crea una carpeta dentro de Wii U llamada Updates&DLC. Así lo tendrás separado de los roms (si no te saldrá doble al cargar los juegos). Abre CEMU, File > Install game title, update or DLC. Busca la carpeta, instala uno a uno y listo.
 
+#### Instalar juegos de WiiUDownloader
+
+{: .important-title }
+> Usar WiiUDownloader hace la tarea más fácil, ya que no tienes que andar buscando y tienes todo el catálogo (oficial de la store).
+
+Si te bajas un juego desde la app sin desencriptar, tendrá los formatos incorrectos. A la hora de descargar, haz click en "Decript contents". El programa lo desencriptará para ser usado en CEMU. Tienes que tener tres carpetas: code, content y meta.
+
+**A la hora de usarlo, solo tienes que copiar la carpeta entera.**
 
 ### Yuzu / Ryujinx
 
