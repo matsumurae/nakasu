@@ -16,6 +16,10 @@ nav_order: 2
 - **Lutris**: Launcher definitivo. Tiene para todas las stores (GOG, Battle, Origin, Uplay, Ubisoft…)
 - **Game theme music**: Para cargar la música del juego al acceder al gameview
 
+### Launchers externos
+
+Una opción mejor para instalar los launchers externos (todos, literal) es usar [NonSteamLaunchers](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck). Es muy fácil y encontrarás un video de cómo instalar y usar.
+
 ### Decky plugins
 
 - **ProtonDB badges**: Para conocer la compatibilidad de Proton de cada juego (que puede estar verificado o no).
