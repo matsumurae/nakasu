@@ -88,7 +88,7 @@ override_region = jpn
 
 ## Homebrew (3DS)
 
-
+Puedes seguir la guía [aquí](https://3ds.hacks.guide/es_ES/). En resumidas cuentas, instala la última versión de LUMA para poder instalar la última versión del SO oficial.
 
 ### Sobreescribir idioma de un juego
 
