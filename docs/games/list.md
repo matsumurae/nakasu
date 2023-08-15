@@ -343,6 +343,7 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | Master Detective Archives: Rain Code | 超探偵事件簿 レインコード | ❌ | ✅ | ❌ |
 | Natsu-Mon! 20th Century Summer Vacation | なつもん！ 20世紀の夏休み | ❌ | ❌ | ❌ |
 | Atelier Dusk Trilogy Deluxe Pack | アトリエ ～不思議の錬金術士 トリロジー～ DX | ❌ | ✅ | ❌ |
+| Luigi's mansion 3 | ルイージマンション3 | ❌ | ❌ | ✅ |
 
 ### Gameplay
 
@@ -386,6 +387,7 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 - [Master Detective Archives: Rain Code](https://www.youtube.com/playlist?list=PL56buH249iJPAsNadE9O5qXn6sJCPdj_P)
 - Natsu-Mon! 20th Century Summer Vacation: [Opt 1](https://www.youtube.com/playlist?list=PLOZOho2RXG3yIOvN9aGN7K3zFq_azdFvn), [Opt 2](https://www.youtube.com/playlist?list=PL_55wFRARsSo6LgvhDd_navUsUodd5t2Y)
 - Atelier Dusk Trilogy Deluxe Pack: [Opt 1](https://www.youtube.com/playlist?list=PLY0spzQf6Fm214kKdoBKshEwHBWQZkPvW), [Opt 2](https://www.youtube.com/playlist?list=PLY0spzQf6Fm1ub06IBsIZ1zt214sM3FIS)
+- [Luigi's mansion 3](https://www.youtube.com/playlist?list=PLOZOho2RXG3wyQYi0mxv1jg3lI4sgIsMn)
 
 ## PC
 
@@ -473,12 +475,17 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | The Legend of Zelda: The Wind Waker | ゼルダの伝説 風のタクト | ❌ | ❌ | ✅ |
 | Pokemon Colosseum           | ポケモンコロシアム | ❌ | ❌ | ✅ |
 | Pokemon XD           | ポケモンXD 闇の旋風ダーク・ルギア | ❌ | ❌ | ✅ |
+| Luigi's mansion | ルイージマンション | ❌ | ❌ | ✅ |
+| Final fantasy crystal chronicles | ファイナルファンタジー・クリスタルクロニクル | ❌ | ❌ | ✅ |
+| Tales of Symphonia | テイルズ オブ シンフォニア | ❌ | ❌ (solo videos y algunas escenas) | ❌ |
 
 ### Gameplays
 
 - The Legend of Zelda. The Wind Waker: [Opt 1](https://www.youtube.com/playlist?list=PLRVOMzMTjyiAc5yt0zoQneJHD6I7zTIyI), [Opt 2](https://www.youtube.com/playlist?list=PLkdLPWB8m1rq9mZzrDPFBMjD1RAsZnOOt), [Opt 3](https://www.youtube.com/playlist?list=PLqlZtJqQFcvDL3qiNwsjb5nJx5vYr5DtY), [Opt 4](https://www.youtube.com/playlist?list=PLbItprE2aJY6ZZUeqksp5BjuLXP_wRzpM)
 - [Pokemon Colosseum](https://www.youtube.com/playlist?list=PLa46vfGmbDJSauHqporsehzjPMwqvEGsx)
 - Pokemon XD: [Opt 1](https://www.youtube.com/playlist?list=PLRFhy3gF31vUFVi7JVHDMOnrHtkcA3Nnh), [Opt 2](https://www.youtube.com/playlist?list=PLCB201E2C31C86A9A), [Opt 3](https://www.youtube.com/playlist?list=PLCpkagOK2EdNji3Sue6f0cBptp6syGbvI)
+- [Luigi's mansion](https://www.youtube.com/playlist?list=PLYc0uK_vNlsFpRFO0BLgmRMTunRR7atDr)
+- [Tales of Symphonia](https://www.youtube.com/playlist?list=PL65482E5CB47E503A)
 
 ## Wii / Wii U
 
@@ -534,6 +541,8 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | 3DS | Professor Layton and the Miracle Mask | レイトン教授と奇跡の仮面 | ❌ | ❌ (solo animaciones) | ✅ |
 | 3DS | Professor Layton and the Azran Legacy | レイトン教授と超文明Aの遺産 | ❌ | ❌ (solo animaciones) | ✅ |
 | 3DS | Fire Emblem: Awakening | ファイアーエムブレム 覚醒 | ❌ | ❌ (solo animaciones) | ❌ |
+| 3DS | Tales of the abyss | テイルズ オブ ジ アビス | ❌ | ❌ (a veces) | ❌ |
+| 3DS | Luigi's Mansion 2 | ルイージマンション2 | ❌ | ❌ | ✅ |
 
 ### Gameplays
 
@@ -566,6 +575,8 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 - Pokemon Sol y Luna: [Opt 1](https://www.youtube.com/playlist?list=PLOZOho2RXG3yKVb3ZpH47y_dNrU9cZsGg), [Opt 2](https://www.youtube.com/playlist?list=PLuf9JIUOHQ-Op1kN15_YBGGcH2zJZFjlp)
 - Pokemon Ultrasol y Ultraluna: [Opt 1](https://www.youtube.com/playlist?list=PLuf9JIUOHQ-OZwBxN-MbD_u5WOzvS48pu), [Opt 2](https://www.youtube.com/playlist?list=PLOZOho2RXG3zTFof2xeuW3wC4geB1h28c)
 - Pokemon [Zafiro Alfa](https://www.youtube.com/playlist?list=PLHCunuXlHSEEvoYCkEBQWmCIU-QpBfmuP) y [Rubi Omega](https://www.youtube.com/playlist?list=PLA1YIUpRAYvVb560_JWJEo9KS3D9XEnPD)
+- [Tales of the Abyss](https://www.youtube.com/playlist?list=PLkDkv3_93q1QAnOG3nDb-nx0C0uCvlC8R)
+- [Luigi's mansion 2](https://www.youtube.com/playlist?list=PLSszGF__n8Ss1ONSEU4xnk435Ab2MpcrK)
 
 ## PS1, PS2, PS3 & PS4
 
