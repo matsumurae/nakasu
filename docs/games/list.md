@@ -478,6 +478,7 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | Luigi's mansion | ルイージマンション | ❌ | ❌ | ✅ |
 | Final fantasy crystal chronicles | ファイナルファンタジー・クリスタルクロニクル | ❌ | ❌ | ✅ |
 | Tales of Symphonia | テイルズ オブ シンフォニア | ❌ | ❌ (solo videos y algunas escenas) | ❌ |
+| Super mario sunshine | スーパーマリオサンシャイン | ❌ | ❌ | No kanji |
 
 ### Gameplays
 
@@ -486,6 +487,7 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 - Pokemon XD: [Opt 1](https://www.youtube.com/playlist?list=PLRFhy3gF31vUFVi7JVHDMOnrHtkcA3Nnh), [Opt 2](https://www.youtube.com/playlist?list=PLCB201E2C31C86A9A), [Opt 3](https://www.youtube.com/playlist?list=PLCpkagOK2EdNji3Sue6f0cBptp6syGbvI)
 - [Luigi's mansion](https://www.youtube.com/playlist?list=PLYc0uK_vNlsFpRFO0BLgmRMTunRR7atDr)
 - [Tales of Symphonia](https://www.youtube.com/playlist?list=PL65482E5CB47E503A)
+- [Super Mario Sunshine](https://www.youtube.com/playlist?list=PLOZOho2RXG3yvchMZRl1GjWFcnRkByMCe)
 
 ## Wii / Wii U
 
