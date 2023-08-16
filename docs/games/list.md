@@ -591,9 +591,9 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | PS2 | Jak 3 | ジャック×ダクスター3 | ❌ | ✅ | ❌ |
 | PS3 | Jak and Daxter Trilogy HD | ジャック×ダクスター三部作 | ❌ | ✅ | ❌ |
 | PS3 | Boku no Natsuyasumi 3 | ぼくのなつやすみ3 -北国篇- 小さなボクの大草原 | ❌ | ✅ | ❌ |
-| PS2 | Kingdom Hearts | キングダム ハーツ | ❌ | ✅ | ❌ |
-| PS2 | Kingdom Hearts 2 | キングダム ハーツ 2 | ❌ | ✅ | ❌ |
-| PS4 | Kingdom Hearts 3 | キングダム ハーツ 3 | ❌ | ✅ | ❌ |
+| PS2 | Kingdom Hearts | キングダム ハーツ | ❌ | ❌ (solo animaciones) | ❌ |
+| PS2 | Kingdom Hearts 2 | キングダム ハーツ 2 | ❌ | ❌ (solo animaciones) | ❌ |
+| PS4 | Kingdom Hearts 3 | キングダム ハーツ 3 | ❌ | ❌ (solo animaciones) | ❌ |
 
 ### Gameplays
 
