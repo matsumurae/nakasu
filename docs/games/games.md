@@ -121,6 +121,7 @@ Mi única tienda recomendada donde no he tenido problemas es **InstantGaming**, 
 ## Dónde encontrar roms
 
 - nxbrew.com
+- nsw2u.com
 - ziperto.com
 - romsfun.com
 - archive.org/download/nintendo-3ds-cia-complete-rom-pack-romset
