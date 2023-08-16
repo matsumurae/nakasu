@@ -4,7 +4,7 @@ title: De duda
 parent: Adverbios
 grand_parent: Gramática
 nav_order: 3
-permalink: /transcripts/adverbios/duda
+permalink: /adverbios/duda
 ---
 
 # De duda

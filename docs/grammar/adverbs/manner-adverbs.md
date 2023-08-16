@@ -4,7 +4,7 @@ title: De modo
 parent: Adverbios
 grand_parent: Gramática
 nav_order: 2
-permalink: /transcripts/adverbios/modo
+permalink: /adverbios/modo
 ---
 
 # De modo

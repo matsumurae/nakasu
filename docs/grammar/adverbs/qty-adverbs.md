@@ -4,7 +4,7 @@ title: De cantidad
 parent: Adverbios
 grand_parent: Gramática
 nav_order: 5
-permalink: /transcripts/adverbios/cantidad
+permalink: /adverbios/cantidad
 ---
 
 # De duda

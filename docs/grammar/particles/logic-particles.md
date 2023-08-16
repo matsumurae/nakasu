@@ -4,7 +4,7 @@ title: Partículas lógicas
 parent: Partículas
 grand_parent: Gramática
 nav_order: 1
-permalink: /transcripts/particulas/logicas
+permalink: /particulas/logicas
 ---
 
 # Partículas lógicas

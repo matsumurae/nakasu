@@ -4,7 +4,7 @@ title: Otras partículas
 parent: Partículas
 grand_parent: Gramática
 nav_order: 4
-permalink: /transcripts/particulas/otras
+permalink: /particulas/otras
 ---
 
 # Otras partículas

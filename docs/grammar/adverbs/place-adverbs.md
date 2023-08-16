@@ -4,7 +4,7 @@ title: De lugar
 parent: Adverbios
 grand_parent: Gramática
 nav_order: 4
-permalink: /transcripts/adverbios/lygar
+permalink: /adverbios/lygar
 ---
 
 # De lugar

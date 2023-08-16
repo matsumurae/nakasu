@@ -4,7 +4,7 @@ title: De tiempo
 parent: Adverbios
 grand_parent: Gramática
 nav_order: 1
-permalink: /transcripts/adverbios/tiempo
+permalink: /adverbios/tiempo
 ---
 
 # De tiempo

@@ -4,7 +4,7 @@ title: Partículas determinativas
 parent: Partículas
 grand_parent: Gramática
 nav_order: 3
-permalink: /transcripts/particulas/determinativas
+permalink: /particulas/determinativas
 ---
 
 # Partículas determinativas

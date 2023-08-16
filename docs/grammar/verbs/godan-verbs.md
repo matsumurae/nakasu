@@ -4,7 +4,7 @@ title: Verbos Godan
 parent: Verbos
 grand_parent: Gramática
 nav_order: 2
-permalink: /transcripts/verbos/godan
+permalink: /verbos/godan
 ---
 
 # Verbos godan

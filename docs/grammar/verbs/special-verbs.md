@@ -4,7 +4,7 @@ title: Verbos especiales
 parent: Verbos
 grand_parent: Gramática
 nav_order: 4
-permalink: /transcripts/verbos/especiales
+permalink: /verbos/especiales
 ---
 
 # Verbos especiales

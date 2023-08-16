@@ -4,7 +4,7 @@ title: De negacion
 parent: Adverbios
 grand_parent: Gramática
 nav_order: 6
-permalink: /transcripts/adverbios/negacion
+permalink: /adverbios/negacion
 ---
 
 # De negación

@@ -4,7 +4,7 @@ title: Particulas finales
 parent: Partículas
 grand_parent: Gramática
 nav_order: 5
-permalink: /transcripts/particulas/final
+permalink: /particulas/final
 ---
 
 # Particulas finales

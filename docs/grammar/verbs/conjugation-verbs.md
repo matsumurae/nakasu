@@ -4,7 +4,7 @@ title: Conjugaciones
 parent: Verbos
 grand_parent: Gramática
 nav_order: 1
-permalink: /transcripts/verbos/conjugaciones
+permalink: /verbos/conjugaciones
 ---
 
 # Conjugaciones

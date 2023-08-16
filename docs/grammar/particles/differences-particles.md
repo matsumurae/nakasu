@@ -4,7 +4,7 @@ title: Diferencias entre partículas
 parent: Partículas
 grand_parent: Gramática
 nav_order: 6
-permalink: /transcripts/particulas/diferencias
+permalink: /particulas/diferencias
 ---
 
 # Diferencias entre partículas

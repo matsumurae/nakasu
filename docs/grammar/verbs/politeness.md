@@ -4,7 +4,7 @@ title: Formalidad
 parent: Verbos
 grand_parent: Gramática
 nav_order: 5
-permalink: /transcripts/verbos/formalidad
+permalink: /verbos/formalidad
 ---
 
 # Formalidad

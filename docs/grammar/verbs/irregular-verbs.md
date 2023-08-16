@@ -4,7 +4,7 @@ title: Verbos irregulares
 parent: Verbos
 grand_parent: Gramática
 nav_order: 3
-permalink: /transcripts/verbos/irregulares
+permalink: /verbos/irregulares
 ---
 
 # Verbos irregulares
