@@ -27,11 +27,27 @@ Para **Steam Deck**, echa un vistazo a [EmuDeck](https://www.emudeck.com/) que y
 - XBOX 360: [Xenia](https://xenia.jp/) **Windows**
 - GBA: [mGBA](https://mgba.io/) **Todas las plataformas**
 
-### Problemas en Yuzu o Ryujinx
+## PS1 y PS2
+
+Para iniciar estas consolas vas a necesitar la BIOS. Descargala [aquí](https://www.retrostic.com/bios).
+
+## Yuzu o Ryujinx
+
+### Error al iniciar
 
 Si al iniciar te dice "The KIP file has a bad header" significa que te faltan las keys. Para eso ve [aquí](https://theprodkeys.com/) y descárgalas. Luego solo tienes que ir a la carpeta de los emuladores en `Emulation`. En `Yuzu` y `Ryujinx` tienes que ir a la carpeta `Keys`. Si no existe, creala y añade las keys que te has descargado (dos ficheros). ¡Y listo!
 
-### Wii U
+### Updates & DLCs
+
+Igual que con Wii U, copia dentro de la carpeta de switch (fuera de roms). Abre Yuzu / Ryujinx, File > Install files to NAND. Instala uno a uno los archivos y listo.
+
+### Configurar idioma
+
+Ambos van a coger el idioma del sistema, por lo tanto para que coja el idioma que quieres vas a tener que cambiarlo en los settings: Emulation > Configure > System. Aquí puedes cambiar tanto idioma como región.
+
+![image](https://user-images.githubusercontent.com/8403754/169679911-28a30afa-eedd-43eb-8d56-0014562f6bad.png)
+
+## Wii U
 
 {: .warning-title }
 > Recuerda descargar siempre los Graphic Packs en CEMU. Hay muchos juegos que no pasan de la pantalla de título.
@@ -54,18 +70,6 @@ Crea una carpeta dentro de Wii U llamada Updates&DLC. Así lo tendrás separado 
 Si te bajas un juego desde la app sin desencriptar, tendrá los formatos incorrectos. A la hora de descargar, haz click en "Decript contents". El programa lo desencriptará para ser usado en CEMU. Tienes que tener tres carpetas: code, content y meta.
 
 **A la hora de usarlo, solo tienes que copiar la carpeta entera.**
-
-### Yuzu / Ryujinx
-
-#### Updates & DLCs
-
-Igual que con Wii U, copia dentro de la carpeta de switch (fuera de roms). Abre Yuzu / Ryujinx, File > Install files to NAND. Instala uno a uno los archivos y listo.
-
-#### Configurar idioma
-
-Ambos van a coger el idioma del sistema, por lo tanto para que coja el idioma que quieres vas a tener que cambiarlo en los settings: Emulation > Configure > System. Aquí puedes cambiar tanto idioma como región.
-
-![image](https://user-images.githubusercontent.com/8403754/169679911-28a30afa-eedd-43eb-8d56-0014562f6bad.png)
 
 ## Transcripciones de juegos
 
