@@ -42,6 +42,10 @@ Una opción mejor para instalar los launchers externos (todos, literal) es usar 
 
 ## Trucos
 
+### Cambio de idioma
+
+Si el juego permite varios idiomas, puede estar en dos sitios: en los settings (antes de entrar al juego) donde puedes cambiar la versión de proton o dentro del juego. Si no te aparece en los settings, es probable que el cambio de idioma / audio / subs esté dentro del juego. Algunos juegos que lo tienen dentro del juego son Ghostrunner y Ghostwire Tokyo.
+
 ### Community controller layouts
 
 Si los controles no funcionan como toca, mira en los ajustes del juego y busca el layout que se utiliza. Al hacer click, se abrirá una ventana donde podrás ver los layouts de la comunidad. Echa un ojo porque muchas veces, otras personas habrán subido el layout para que funcione bien.

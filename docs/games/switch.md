@@ -55,7 +55,7 @@ Como he dicho, cada vez que sacas la SD tienes que cargar el payload ya que es u
 
 ### Instalar juegos por USB directamente
 
-Se puede hacer con Goldleaf y Quark (https://www.cfwaifu.com/goldleaf-quark/) o con Tinfoil (https://www.cfwaifu.com/tinfoil-nut/).
+Se puede hacer con Goldleaf y Quark (https://www.cfwaifu.com/goldleaf-quark/) o con Tinfoil (https://www.cfwaifu.com/tinfoil-nut/). Otra cosa que puedes hacer es directamente conectar por usb c un pendrive e instalar desde ahí.
 
 ### Pasar juegos por USB
 
@@ -68,9 +68,9 @@ En PC te saldrá la carpeta al instante, lo detecta sin problema. En Mac, no te 
 {: .warning-title }
 > ¡Alerta!
 >
-> Esto solo funciona si tienes la Switch hackeada y con Atmosphere
+> Esto solo funciona si tienes la Switch hackeada y con Atmosphere.
 
-La opción fácil es cambiar el idioma de la Switch por el idioma que quieras, pero esto hará que todos los juegos estén en ese idioma. Por si lo que quieres es solo UN juego, la solución es esta:
+La opción fácil es cambiar el idioma de la Switch por el idioma que quieras, pero esto hará que todos los juegos estén en ese idioma. Por si lo que quieres es solo **ese juego**, la solución es esta:
 
 1. **Busca el ID** del juego. Si te lo has descargado, podrás verlo en el nombre del fichero. Puedes mirarlo también con GoldLeaf: manage console contents > SD card > "nombre del juego" > base game. Si está en la NAND, tendrás que ir a mirar a NAND USER.
 2. Accede a la SD `atmosphere/contents`.
@@ -85,6 +85,8 @@ override_region = jpn
 
 - **Las regiones son:** jpn, usa, eur, aus, chn, kor, twn
 - **Los idiomas son:** ja, en-US, fr, de, it, es, zh-Hant, zh-Hans, zh-CN, ko, nl, pt, ru, zh-TW, en-GB, fr-CA, es-419
+
+Ten cuidado con los idiomas, verifica que ese juego tenga el idioma que estás colocando o no funcionará (o cogerá el por defecto). Una forma de evitar problemas (si el juego va por región) es instalar directamente el juego de la región que quieras. Por ejemplo, juegos como Shin Chan o Yo-kai Watch tienen su región JPN separada. Pero encontrarás algunos juegos como Sumire, que tienen opción de cambio de idioma (dentro del juego) pero no todos los juegos permiten cambiar el idioma.
 
 ## Homebrew (3DS)
 
