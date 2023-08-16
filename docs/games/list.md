@@ -612,6 +612,10 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | Consola | Nombre        | Nombre japonés          | ¿Voice / audio log? | ¿Voice / audio acting? | ¿furigana?
 |:--------|:-------------|:------------------|:--------|:------------|:-------------|
 | PSP | Boku no Natsuyasumi 4 | ぼくのなつやすみ4 瀬戸内少年探偵団「ボクと秘密の地図」 | ❌ | ✅ | ❌ |
+| PSP | La storia della arcana famiglia | アルカナ・ファミリア | ❌ | ✅ | ❌ |
+| PSP | La storia della arcana famiglia 2 | アルカナ・ファミリア 2 | ❌ | ✅ | ❌ |
+| PSP | Toradora Portable | とらドラ・ポータブル! | ❌ | ✅ | ❌ |
+| PSVita | La storia della arcana famiglia | アルカナ・ファミリア | ❌ | ✅ | ❌ |
 | PSVita | Fuuraiki 3 (Hokkaido)          | 風雨来記3 | - | Casi no tiene voces | - |
 | PSVita | Bad Apple Wars | バッドアップルウォーズ | ❌ | ✅ | ❌ |
 | PSVita | PSYCHO-PASS: Mandatory Happiness | サイコパス 選択なき幸福 | ❌ | ✅ | ❌ |
@@ -621,3 +625,5 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 - [Boku no Natsuyasumi 4](https://www.youtube.com/playlist?list=PL3RkBBBHRhPRtdsLBj7J_jY2Anhi78oD4)
 - [Fuuraiki 3](https://www.youtube.com/playlist?list=PLhX4PTFIiArwH94t141IPVxTPKu6LKxcU)
 - Psycho-pass: [Opt 1](https://www.youtube.com/playlist?list=PL8YB-1Nmoh-e7IIYFbcTWxLxAcZXQ9mJD), [Opt 2](https://www.youtube.com/playlist?list=PLy07A4N_4ecJniqeFWo4vQQ5ipw6rQJ9y)
+- [La storia della arcana famiglia 2](https://www.youtube.com/playlist?list=PLe4M5kExAUMgZxd-DpnRAI9gBH9UqWsS3)
+- [Toradora portable](https://www.youtube.com/playlist?list=PLyfUd322vCFGxbuguHTRIKnJAhQ5IO336)
