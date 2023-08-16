@@ -8,9 +8,4 @@ permalink: /transcripts
 
 # Transcripciones
 
-En esta página encontrarás las transcripciones de diferentes audio dramas.
-
-{: .warning-title }
-> Ups…
->
-> Esto aún está en construcción.
+He creado una página dedicada, para separar todo el contenido de la Wiki actual. La tienes [aquí](https://matsumurae.github.io/nakasu-transcripts/).
