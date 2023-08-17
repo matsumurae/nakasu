@@ -134,6 +134,7 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | メモリーズオフ-Innocent Fille- | メモリーズオフ-Innocent Fille- | ❌ | ❌ | ❌ |
 | LOST EMBER | ロスト・エンバー | ❌ | ✅ | ❌ |
 | Behind the Frame: The Finest Scenery | Behind the Frame 〜とっておきの景色を〜 | ❌ | ❌ | ❌ |
+| Red Dead Redemption | レッドデッドリデンプション | ❌ | ❌ (Voces en inglés) | ❌ |
 
 #### Gameplays
 
@@ -238,6 +239,7 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 - [Ni no Kuni](https://www.youtube.com/playlist?list=PLUnAyVzpgoPPFczIeXDqCp34tXuaE87eM)
 - [LOST EMBER](https://www.youtube.com/playlist?list=PLJkbSB0E9FVkWg6pWoEsYPjxil05ewkbj)
 - [Behind the frame](https://www.youtube.com/playlist?list=PLa-PYnQXUM-bcgVpHXP-jrsE-g3-YlAq9)
+- [Red Dead Redemption](https://www.youtube.com/playlist?list=PLZW5WGXrdgwENsLLVEv0Vb6UfKc8zA-1_)
 
 ### PC & PS VITA
 
