@@ -11,7 +11,6 @@ nav_order: 1
 
 ### En japonés
 
-- https://mangareader.to/
 - https://bilingualmanga.net/
 - https://djtguide.neocities.org/cor#manga
 - https://itazuraneko.neocities.org/library/shousetu
@@ -19,7 +18,6 @@ nav_order: 1
 - https://www.comico.jp/
 - https://klmanga.com/ybed-jujutsu-kaisen-raw.html
 - https://tonarinoyj.jp/
-- http://mangareader.to/
 - https://mangarawjp.so/
 - https://kissaway.net/
 - https://nikaraw.com/
