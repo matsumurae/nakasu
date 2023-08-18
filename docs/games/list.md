@@ -70,9 +70,9 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | Monark | モナーク | ✅ | ✅ | ❌ |
 | ANONYMOUS;CODE | アノニマス・コード | ✅ | ✅ | ❌ |
 | Neo: The World Ends with You | 新すばらしきこのせかい | ✅ | ✅ | ❌ |
-| Assassin's Creed: The Ezio Collection | アサシン クリード エツィオコレクション | ❌ | ✅ | ❌ |
+| Assassin's Creed: The Ezio Collection (II, Brotherhood & Revelations) | アサシン クリード エツィオコレクション | ❌ | ✅ | ❌ |
 | Assassin's Creed III Remastered | アサシン クリードIII　リマスター | ❌ | ✅ | ❌ |
-| Assassin's Creed: The Rebel Collection | アサシン クリード リベルコレクション | ❌ | ✅ | ❌ |
+| Assassin's Creed: The Rebel Collection (Rogue & Black Flag) | アサシン クリード リベルコレクション | ❌ | ✅ | ❌ |
 | The Caligula Effect: Overdose | カリギュラ オーバードーズ | ❌ | ✅ | ❌ |
 | The Caligula Effect 2 | カリギュラ オーバードーズ 2 | ❌ | ✅ | ❌ |
 | Atelier Rorona ~The Alchemist of Arland~ DX | ロロナのアトリエ 〜アーランドの錬金術士〜 | ❌ | ✅ | ❌ |
@@ -135,6 +135,8 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | LOST EMBER | ロスト・エンバー | ❌ | ✅ | ❌ |
 | Behind the Frame: The Finest Scenery | Behind the Frame 〜とっておきの景色を〜 | ❌ | ❌ | ❌ |
 | Red Dead Redemption | レッドデッドリデンプション | ❌ | ❌ (Voces en inglés) | ❌ |
+| Hogwarts legacy | ホグワーツ・レガシー | ❌ | ✅ | ❌ |
+| Biomutant | バイオミュータント | ❌ | ✅ | ❌ |
 
 #### Gameplays
 
@@ -240,6 +242,8 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 - [LOST EMBER](https://www.youtube.com/playlist?list=PLJkbSB0E9FVkWg6pWoEsYPjxil05ewkbj)
 - [Behind the frame](https://www.youtube.com/playlist?list=PLa-PYnQXUM-bcgVpHXP-jrsE-g3-YlAq9)
 - [Red Dead Redemption](https://www.youtube.com/playlist?list=PLZW5WGXrdgwENsLLVEv0Vb6UfKc8zA-1_)
+- [Hogwarts Legacy](https://www.youtube.com/playlist?list=PLUydy08ACitGEDHBX0fyZ-16HTZ3ErDIQ)
+- [Biomutant](https://www.youtube.com/playlist?list=PLZbkX0__9RKOyUE31HYq-6guz5AsqFDw-)
 
 ### PC & PS VITA
 
@@ -434,6 +438,14 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | The Legend of Heroes: Trails of Cold Steel | 英雄伝説 閃の軌跡 | ❌ | ✅ | ❌ |
 | Eternights | エターナイツ | ❌ | ✅ | ❌ |
 | Nova Antarctica | 南極計画 | ❌ | ❌ | ❌ |
+| Assassin's Creed: Unity | アサシン クリード ユニティ | ❌ | ✅ | ❌ |
+| Assassin's Creed: Syndicate | アサシン クリード シンジケート | ❌ | ✅ | ❌ |
+| Assassin's creed: Origins | アサシン クリード オリジンズ | ❌ | ✅ | ❌ |
+| Assassin's creed: Odyssey | アサシン クリード オデッセイ | ❌ | ✅ | ❌ |
+| Assassin's creed: Valhalla | アサシン クリード ヴァルハラ | ❌ | ✅ | ❌ |
+| God of War | ゴッド・オブ・ウォー | ❌ | ✅ | ❌ |
+| God of War: Ragnarök | ゴッド・オブ・ウォー ラグナロク | ❌ | ✅ | ❌ |
+| Middle-earth: Shadow of War | Middle-earth: シャドウオブワー | ❌ | ✅ | ❌ |
 
 ### Gameplays
 
@@ -469,6 +481,14 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 - [PREY](https://www.youtube.com/playlist?list=PL1Z1KdfmKueYtB7O-FHaNJSf91VutI9WH)
 - [Fallout 4](https://www.youtube.com/playlist?list=PL1Z1KdfmKueZ8pDJ1-xCP5q6G9AMnDh1B)
 - [The legend of heroes: Trails of cold steel](https://www.youtube.com/playlist?list=PLNIf7lvua0CUH-lbPEEsgJsqTNb_EdtGt)
+- [Assassin's creed Unity](https://www.youtube.com/playlist?list=PLi5jgRErdxbxhKS-cP2wsZrwqIs4k68eo)
+- [Assassin's creed Syndicate](https://www.youtube.com/playlist?list=PLi5jgRErdxbxdwSiOEjwLTFLlx5WIfOmT)
+- [Assassin's creed Origins](https://www.youtube.com/playlist?list=PL1Z1KdfmKueYooslb04q5OMv-czS28hR4)
+- [Assassin's creed Odyssey](https://www.youtube.com/playlist?list=PL1Z1KdfmKueZs07xRqclze5Sq0Jbew-ne)
+- [Assassin's creed Valhalla](https://www.youtube.com/playlist?list=PL1Z1KdfmKueZZawi7xU6uZqtZpz7k3WA2)
+- [God of War](https://www.youtube.com/playlist?list=PL1Z1KdfmKueYt53lJknhW2qNtTnsnD1wX)
+- [God of War: Ragnarök](https://www.youtube.com/playlist?list=PLYQwk2STjWv3hCfErdojizpb7Sok0kYyP)
+- [Middle earth: Shadow of war](https://www.youtube.com/playlist?list=PLPU-AfmLL5JXEq32DucXnndgTGnZQ2mVY)
 
 ## Gamecube
 
@@ -596,6 +616,7 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 | PS2 | Kingdom Hearts | キングダム ハーツ | ❌ | ❌ (solo animaciones) | ❌ |
 | PS2 | Kingdom Hearts 2 | キングダム ハーツ 2 | ❌ | ❌ (solo animaciones) | ❌ |
 | PS4 | Kingdom Hearts 3 | キングダム ハーツ 3 | ❌ | ❌ (solo animaciones) | ❌ |
+| PS3 | God of War III | ゴッド・オブ・ウォー 3 | ❌ | ✅ | ❌ |
 
 ### Gameplays
 
@@ -608,6 +629,7 @@ En esta sección te voy a dar una lista de juegos recomendados que puedes usar p
 - [Boku no natsuyasumi 3](https://www.youtube.com/playlist?list=PLC4EWNG6GsuaniOpFn9TsBZARh7Q3ZEMf)
 - [Kingdom Hearts 2](https://www.youtube.com/playlist?list=PLPM_WooCtb6twRFLpwFD4JUCVi7oHt6CR)
 - Kingdom Hearts 3: [Opt 1](https://www.youtube.com/playlist?list=PLv0O-QdR5ojys8qw0YJwdPdH6WZeTKYDD), [Opt 2](https://www.youtube.com/playlist?list=PL_qCLgZgesQZWII5WXBZHYJrov1DlpGF6)
+- [God of War III](https://www.youtube.com/playlist?list=PL5zYFfjjRHa_sH9B3oUrquirJItESDsor)
 
 ## PSP & PS Vita
 

@@ -40,6 +40,11 @@ Una opción mejor para instalar los launchers externos (todos, literal) es usar 
 - Show download status
 - Top bar transparency
 
+## Configuración para juegos
+
+- [ShareDeck](https://sharedeck.games/)
+- [Ghostwire: Tokyo](https://steamdeckhq.com/game-reviews/ghostwire-tokyo/)
+
 ## Trucos
 
 ### Cambio de idioma
