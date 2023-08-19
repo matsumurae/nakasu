@@ -27,7 +27,7 @@ Echa un vistazo a la guia de Waifu (https://www.cfwaifu.com/atmosphere-tinfoil/)
 
 Es fácil, solo tienes que sustituir los ficheros de la nueva versión en la SD. Una vez hecho, metes la SD y conectas la Switch por USB al PC. Abres TegraRcmGUI y cargas el `fusee.bin`. Y listo, se abrirá tu switch hackeada.
 
-#### Actualizar SO
+#### Actualizar SO
 
 ¡Sí, puedes tener la última versión del SO oficial ya que Atmosphere lo soporta! En la 1.5.4 ya admite 16.0.3. Para actualizar, te descargas el firmware [aquí](https://switchscene.org/resources/categories/firmwares-oficiales.7/) y lo pasas a la SD. **Si vas a actualizar Atmosphere, te recomiendo pasarlo todo a la vez.**
 
