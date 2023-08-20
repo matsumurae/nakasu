@@ -255,7 +255,7 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 - [Cloudpunk](https://www.youtube.com/playlist?list=PL8SPZGizLEKlzXBEFoi5vhQ6hMijUczTA)
 - [Trinity Trigger](https://www.youtube.com/playlist?list=PL56buH249iJOtktKsCk8iRvQcRv62oQSG)
 - [Touhou: New World](https://www.youtube.com/playlist?list=PLNBrBsnDaRHdrGCmRZGD_P_F1_G48xNs3)
-- [Satsuriku no Tenshi / Angels of Death](https://www.youtube.com/playlist?list=PLPUGXakMkjRGVN8U51qjF0g9nLhQvtzYS)
+- [Satsuriku no Tenshi / Angels of Death](https://www.youtube.com/playlist?list=PLAKxu79G6cSICk5Pw61Ic6kXktSytHaMV)
 
 ### PC & PS VITA
 
