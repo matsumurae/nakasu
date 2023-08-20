@@ -140,6 +140,9 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 | Red Dead Redemption ⭐️ | レッドデッドリデンプション | ❌ | ❌ (Voces en inglés) | ❌ |
 | Hogwarts legacy | ホグワーツ・レガシー | ❌ | ✅ | ❌ |
 | Biomutant | バイオミュータント | ❌ | ✅ | ❌ |
+| Cloudpunk | クラウドパンク | ❌ | ❌ | ❌ |
+| Trinity Trigger | トリニティトリガー | ❌ | ✅ | ❌ |
+| Touhou: new world | 東方シンセカイ | ❌ | ❌ (no tiene voz) | ❌ |
 
 #### Gameplays
 
@@ -248,6 +251,9 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 - [Red Dead Redemption](https://www.youtube.com/playlist?list=PLZW5WGXrdgwENsLLVEv0Vb6UfKc8zA-1_)
 - [Hogwarts Legacy](https://www.youtube.com/playlist?list=PLUydy08ACitGEDHBX0fyZ-16HTZ3ErDIQ)
 - [Biomutant](https://www.youtube.com/playlist?list=PLZbkX0__9RKOyUE31HYq-6guz5AsqFDw-)
+- [Cloudpunk](https://www.youtube.com/playlist?list=PL8SPZGizLEKlzXBEFoi5vhQ6hMijUczTA)
+- [Trinity Trigger](https://www.youtube.com/playlist?list=PL56buH249iJOtktKsCk8iRvQcRv62oQSG)
+- [Touhou: New World](https://www.youtube.com/playlist?list=PLNBrBsnDaRHdrGCmRZGD_P_F1_G48xNs3)
 
 ### PC & PS VITA
 
@@ -455,6 +461,12 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 | God of War | ゴッド・オブ・ウォー | ❌ | ✅ | ❌ |
 | God of War: Ragnarök | ゴッド・オブ・ウォー ラグナロク | ❌ | ✅ | ❌ |
 | Middle-earth: Shadow of War | Middle-earth: シャドウオブワー | ❌ | ✅ | ❌ |
+| Nioh | 仁王 | ❌ | ✅ | ❌ |
+| Nioh 2 | 仁王2 | ❌ | ✅ | ❌ |
+| Wo Long: Fallen Dynasty | ウォーロン フォールン ダイナスティ | ❌ | ✅ | ❌ |
+| System Shock | システムショック | ❌ | ✅ | ❌ |
+| Wayfinder | ウェイファインダー | ❌ | ✅ | ❌ |
+| Immortals of Aveum | アヴェウムの騎士団 | ❌ | ✅ | ❌ |
 
 ### Gameplays
 
@@ -498,6 +510,10 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 - [God of War](https://www.youtube.com/playlist?list=PL1Z1KdfmKueYt53lJknhW2qNtTnsnD1wX)
 - [God of War: Ragnarök](https://www.youtube.com/playlist?list=PLYQwk2STjWv3hCfErdojizpb7Sok0kYyP)
 - [Middle earth: Shadow of war](https://www.youtube.com/playlist?list=PLPU-AfmLL5JXEq32DucXnndgTGnZQ2mVY)
+- [Nioh](https://www.youtube.com/playlist?list=PL1Z1KdfmKueaypQCAoIpwN44Xxo5a4eDM)
+- [Nioh 2](https://www.youtube.com/playlist?list=PLYQwk2STjWv3hWgKE0btno1wIL2IHCL86)
+- [Wo Long: Fallen Dynasty](https://www.youtube.com/playlist?list=PLYQwk2STjWv1InS71_F93Di0LOaNxdGpc)
+- [System Shock](https://www.youtube.com/playlist?list=PLluhvPnp6FEQRQpdnGpAjtI7cWWDxoCra)
 
 ## Gamecube
 
