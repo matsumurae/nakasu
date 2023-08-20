@@ -143,6 +143,7 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 | Cloudpunk | クラウドパンク | ❌ | ❌ | ❌ |
 | Trinity Trigger | トリニティトリガー | ❌ | ✅ | ❌ |
 | Touhou: new world | 東方シンセカイ | ❌ | ❌ (no tiene voz) | ❌ |
+| Angels of Death | 殺戮の天使 | ❌ | ❌ | ❌ |
 
 #### Gameplays
 
@@ -254,6 +255,7 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 - [Cloudpunk](https://www.youtube.com/playlist?list=PL8SPZGizLEKlzXBEFoi5vhQ6hMijUczTA)
 - [Trinity Trigger](https://www.youtube.com/playlist?list=PL56buH249iJOtktKsCk8iRvQcRv62oQSG)
 - [Touhou: New World](https://www.youtube.com/playlist?list=PLNBrBsnDaRHdrGCmRZGD_P_F1_G48xNs3)
+- [Satsuriku no Tenshi / Angels of Death](https://www.youtube.com/playlist?list=PLPUGXakMkjRGVN8U51qjF0g9nLhQvtzYS)
 
 ### PC & PS VITA
 
@@ -418,7 +420,6 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 | Malus Code | マルスコード | ❌ | ✅ | ✅ (simultaneos EN+JP) |
 | Karakara | カラカラ | ❌ | ✅ | ❌ (simultaneos EN+JP) |
 | Corona Blossom Vol 1 y Vol 2 | - | ❌ | ✅ | ❌ (simultaneos EN+JP) |
-| Angels of Death | 殺戮の天使 | ❌ | ❌ | ❌ |
 | Tales of Arise | テイルズ オブ アライズ | ❌ | ❌ (solo animaciones) | ❌ |
 | Yakuza 0 | 龍が如く0 誓いの場所 | ❌ | ❌ (solo animaciones) | ❌ |
 | Yakuza Kiwami | 龍が如く極 | ❌ | ✅ | ❌ |
@@ -479,7 +480,6 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 - Yakuza 6: [Opt 1](https://www.youtube.com/playlist?list=PLyqi9vd697GKY7nGHb9FQdkG7LfsYIIhV), [Opt 2](https://www.youtube.com/playlist?list=PLy8d1u7T3WWLTbkThRj-C9YcspjvtMvYb)
 - [Judgment](https://www.youtube.com/playlist?list=PLyqi9vd697GL1002I1sAZCDaGiLQsb2_q)
 - [Lost Judgment](https://www.youtube.com/playlist?list=PL5zYFfjjRHa8ZztD2lL4Pfazrir3TZPgc)
-- [Satsuriku no Tenshi / Angels of Death](https://www.youtube.com/playlist?list=PLPUGXakMkjRGVN8U51qjF0g9nLhQvtzYS)
 - [Tokyo Xanadu eX+](https://www.youtube.com/playlist?list=PLHz0YXZjXt-tYMRrdxWaOqG7rgoEVdqCG)
 - [The darkness 2](https://www.youtube.com/playlist?list=PLA46F9A5679261936)
 - [Uncharted](https://www.youtube.com/playlist?list=PL4fd59i0eA3UzHkELQLmeGld-_abhvF_k)
