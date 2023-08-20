@@ -47,6 +47,14 @@ Una opción mejor para instalar los launchers externos (todos, literal) es usar 
 
 ## Trucos
 
+### Zoom en texto
+
+Si te has instalado un juego en el que las letras son demasiado pequeñas (no suele pasar, pero puede), lo que puedes hacer es hacer zoom. Para eso, usa botón **Steam + L1**.
+
+### Subir o bajar brillo
+
+Puedes hacer uso de los botones para hacerlo en vez de ir al menú: Tienes que dejar pulsado botón ... y usar el joystick izquierdo hacia arriba o abajo, para ir subiendo o bajando.
+
 ### Cambio de idioma
 
 Si el juego permite varios idiomas, puede estar en dos sitios: en los settings (antes de entrar al juego) donde puedes cambiar la versión de proton o dentro del juego. Si no te aparece en los settings, es probable que el cambio de idioma / audio / subs esté dentro del juego. Algunos juegos que lo tienen dentro del juego son Ghostrunner y Ghostwire Tokyo.
