@@ -144,6 +144,10 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 | Trinity Trigger | トリニティトリガー | ❌ | ✅ | ❌ |
 | Touhou: new world | 東方シンセカイ | ❌ | ❌ (no tiene voz) | ❌ |
 | Angels of Death | 殺戮の天使 | ❌ | ❌ | ❌ |
+| The outer worlds | 『アウターワールド』 | ❌ | ❌ | ❌ |
+| Syberia | - | ❌ | ❌ (voces en inglés) | ❌ |
+| Syberia 2 | - | ❌ | ❌ (voces en inglés) | ❌ |
+| Syberia: The World Before | — | ❌ | ❌ (voces en inglés) | ❌ |
 
 #### Gameplays
 
@@ -256,6 +260,10 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 - [Trinity Trigger](https://www.youtube.com/playlist?list=PL56buH249iJOtktKsCk8iRvQcRv62oQSG)
 - [Touhou: New World](https://www.youtube.com/playlist?list=PLNBrBsnDaRHdrGCmRZGD_P_F1_G48xNs3)
 - [Satsuriku no Tenshi / Angels of Death](https://www.youtube.com/playlist?list=PLAKxu79G6cSICk5Pw61Ic6kXktSytHaMV)
+- [The outer worlds](https://www.youtube.com/playlist?list=PLbtNl5AwzJgE_aWWAMnC5zg6gZbsKELK2)
+- [Syberia](https://www.youtube.com/playlist?list=PLaH7qEi4rFBYhMNpMEOApBPzWSbkyYVTq)
+- [Syberia 2](https://www.youtube.com/playlist?list=PLaH7qEi4rFBZK82PV7LH4kyVWdgZVyUxH)
+- [Syberia: The World Before](https://www.youtube.com/playlist?list=PLwiWe4JcQ3YInTrMs2dpRbriGa2LOxyK8)
 
 ### PC & PS VITA
 

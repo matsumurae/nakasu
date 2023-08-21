@@ -189,6 +189,7 @@ nav_order: 3
 - [However Games](https://www.youtube.com/@HoweverGames)
 - [石川界人【秘密基地】](https://www.youtube.com/@ch19931013)
 - [おかのん / ポケモン実況チャンネル](https://www.youtube.com/@OkanonPoke)
+- [ゆずあんず ぼっくす](https://www.youtube.com/@yuzuanzu_box)
 
 ### Gamers
 
