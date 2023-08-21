@@ -151,6 +151,7 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 | Syberia: The World Before 🇯🇵 | — | ❌ | ❌ (voces en inglés) | ❌ |
 | Aragami ⭐️ | — | ❌ | ❌ (sin voz) | ❌ |
 | Aragami 2 ⭐️ | — | ❌ | ❌ (sin voz) | ❌ |
+| Death Mark 🇯🇵 | 死印 | ❌ | ❌ | ❌ |
 
 #### Gameplays
 
@@ -269,6 +270,7 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 - [Syberia: The World Before](https://www.youtube.com/playlist?list=PLwiWe4JcQ3YInTrMs2dpRbriGa2LOxyK8)
 - [Aragami](https://www.youtube.com/playlist?list=PLpCRj9dUZVpnoMaLmw8cZB6R6BUo1mpsL)
 - [Aragami 2](https://www.youtube.com/playlist?list=PLoMVlA4sd5IWSldgxHEx3mWloSCKeXzaZ)
+- [Death Mark](https://www.youtube.com/playlist?list=PLFmdH6te0_Ul4O86_eZBPdu88vCyBXdU5)
 
 ### PC & PS VITA
 
