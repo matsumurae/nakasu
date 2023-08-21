@@ -148,6 +148,8 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 | Syberia | - | ❌ | ❌ (voces en inglés) | ❌ |
 | Syberia 2 | - | ❌ | ❌ (voces en inglés) | ❌ |
 | Syberia: The World Before | — | ❌ | ❌ (voces en inglés) | ❌ |
+| Aragami | — | ❌ | ❌ (sin voz) | ❌ |
+| Aragami 2 | — | ❌ | ❌ (sin voz) | ❌ |
 
 #### Gameplays
 
@@ -264,6 +266,8 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 - [Syberia](https://www.youtube.com/playlist?list=PLaH7qEi4rFBYhMNpMEOApBPzWSbkyYVTq)
 - [Syberia 2](https://www.youtube.com/playlist?list=PLaH7qEi4rFBZK82PV7LH4kyVWdgZVyUxH)
 - [Syberia: The World Before](https://www.youtube.com/playlist?list=PLwiWe4JcQ3YInTrMs2dpRbriGa2LOxyK8)
+- [Aragami](https://www.youtube.com/playlist?list=PLpCRj9dUZVpnoMaLmw8cZB6R6BUo1mpsL)
+- [Aragami 2](https://www.youtube.com/playlist?list=PLoMVlA4sd5IWSldgxHEx3mWloSCKeXzaZ)
 
 ### PC & PS VITA
 
