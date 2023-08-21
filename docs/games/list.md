@@ -140,16 +140,17 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 | Red Dead Redemption ⭐️ | レッドデッドリデンプション | ❌ | ❌ (Voces en inglés) | ❌ |
 | Hogwarts legacy | ホグワーツ・レガシー | ❌ | ✅ | ❌ |
 | Biomutant | バイオミュータント | ❌ | ✅ | ❌ |
-| Cloudpunk | クラウドパンク | ❌ | ❌ | ❌ |
-| Trinity Trigger | トリニティトリガー | ❌ | ✅ | ❌ |
-| Touhou: new world | 東方シンセカイ | ❌ | ❌ (no tiene voz) | ❌ |
-| Angels of Death | 殺戮の天使 | ❌ | ❌ | ❌ |
-| The outer worlds | 『アウターワールド』 | ❌ | ❌ | ❌ |
-| Syberia | - | ❌ | ❌ (voces en inglés) | ❌ |
-| Syberia 2 | - | ❌ | ❌ (voces en inglés) | ❌ |
-| Syberia: The World Before | — | ❌ | ❌ (voces en inglés) | ❌ |
-| Aragami | — | ❌ | ❌ (sin voz) | ❌ |
-| Aragami 2 | — | ❌ | ❌ (sin voz) | ❌ |
+| Cloudpunk ⭐️ | クラウドパンク | ❌ | ❌ | ❌ |
+| Trinity Trigger 🇯🇵 | トリニティトリガー | ❌ | ✅ | ❌ |
+| Touhou: new world ⭐️ | 東方シンセカイ | ❌ | ❌ (no tiene voz) | ❌ |
+| Angels of Death ⭐️ | 殺戮の天使 | ❌ | ❌ | ❌ |
+| The outer worlds ⭐️ | 『アウターワールド』 | ❌ | ❌ | ❌ |
+| Syberia 🇯🇵 | - | ❌ | ❌ (voces en inglés) | ❌ |
+| Syberia 2 🇯🇵 | - | ❌ | ❌ (voces en inglés) | ❌ |
+| Syberia 3 🇯🇵 | - | ❌ | ❌ (voces en inglés) | ❌ |
+| Syberia: The World Before 🇯🇵 | — | ❌ | ❌ (voces en inglés) | ❌ |
+| Aragami ⭐️ | — | ❌ | ❌ (sin voz) | ❌ |
+| Aragami 2 ⭐️ | — | ❌ | ❌ (sin voz) | ❌ |
 
 #### Gameplays
 
