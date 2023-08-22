@@ -402,3 +402,7 @@ nav_order: 3
 - [三本塾 -Sambon Juku- (YT JP + EN simultaneo)](https://www.youtube.com/@sambonjuku)
 - [𝘑𝘤𝘪𝘦𝘯𝘤𝘦 • light smit](https://www.youtube.com/@-LightSmit)
 - [ゆきえ【桜の間　日本語ルーム】 (YT EN + JP subs)](https://www.youtube.com/@yukijapanese00)
+
+## Documentales
+
+- [ナショナル ジオグラフィック TV](https://www.youtube.com/channel/UC1N2_2vCoyd3EvGcVuwTfmw)

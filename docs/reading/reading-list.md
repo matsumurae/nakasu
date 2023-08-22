@@ -109,6 +109,10 @@ nav_order: 1
 - https://www.gutenberg.org/browse/languages/ja
 - https://www.bauddha.net/#novel
 
+### Documentales
+
+- https://natgeo.nikkeibp.co.jp/
+
 ## Otros
 
 - https://www.1000moji.com/
