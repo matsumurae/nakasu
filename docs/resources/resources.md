@@ -39,10 +39,28 @@ https://oshiete.goo.ne.jp/
 
 ## Diccionarios
 
+### Kanji
+
 - https://app.kanjialive.com/search
+
+### Inglés
+
 - https://jisho.org/
+- https://jisho.hlorenzi.com/
+
+### Japonés
+
 - http://weblio.jp/
 - https://ejje.weblio.jp/
+
+## Frases de ejemplo (muchos tienen audio)
+
+- https://sentencesearch.neocities.org/
+- https://receptomanijalogi.web.app/site/
+- https://core6000.neocities.org/sentences
+- https://marethyu.github.io/jp-sentences/
+- https://eikamikiku.github.io/JP-EN-Sentences/
+- https://massif.la/ja
 
 ## Dialectos de Japón
 
