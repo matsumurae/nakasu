@@ -102,7 +102,7 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 | Rune Factory 4 🇯🇵 | ルーンファクトリー4 | ❌ | ✅ | ❌ |
 | Rune Factory 5 🇯🇵 | ルーンファクトリー5 | ❌ | ✅ | ❌ |
 | Phoenix Wright: Ace Attorney Trilogy ⭐️ | 逆転裁判123成歩堂セレクション | ❌ | ❌ | ❌ |
-| The Great Ace Attorney Chronicles 🇯🇵 | 大逆転裁判 -成歩堂龍ノ介の冒險- | ❌ | ❌ | ❌ |
+| The Great Ace Attorney Chronicles (The Great Ace Attorney: Adventures y The Great Ace Attorney 2: Resolve) 🇯🇵 | 大逆転裁判 -成歩堂龍ノ介の冒險- | ❌ | ❌ | ❌ |
 | Shin Megami Tensei III: Nocturne HD Remaster 🇯🇵 | 真・女神転生Ⅲ NOCTURNE HD REMASTER | ❌ | ✅ | ❌ |
 | Ookami HD ⭐️ | 大神 絶景版 | ❌ | ❌ | ✅ |
 | TASOMACHI: Behind the Twilight ⭐️ | 黄昏ニ眠ル街 | ❌ | ❌ | ❌ |
