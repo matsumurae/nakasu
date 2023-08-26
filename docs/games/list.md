@@ -152,6 +152,7 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 | Aragami ⭐️ | — | ❌ | ❌ (sin voz) | ❌ |
 | Aragami 2 ⭐️ | — | ❌ | ❌ (sin voz) | ❌ |
 | Death Mark 🇯🇵 | 死印 | ❌ | ❌ | ❌ |
+| Tokyo Dark 🇯🇵 | 東京ダーク | ❌ | ❌ | ❌ |
 
 #### Gameplays
 
@@ -271,6 +272,7 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 - [Aragami](https://www.youtube.com/playlist?list=PLpCRj9dUZVpnoMaLmw8cZB6R6BUo1mpsL)
 - [Aragami 2](https://www.youtube.com/playlist?list=PLoMVlA4sd5IWSldgxHEx3mWloSCKeXzaZ)
 - [Death Mark](https://www.youtube.com/playlist?list=PLFmdH6te0_Ul4O86_eZBPdu88vCyBXdU5)
+- [Tokyo dark](https://www.youtube.com/playlist?list=PL_pUOmyQf8jZy1cK6r3hjXc4nwOudJSr3)
 
 ### PC & PS VITA
 
