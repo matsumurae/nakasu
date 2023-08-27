@@ -226,6 +226,20 @@ Amo Japón [A]. [Sin embargo], ¡el verano es muy caluroso! [B]
 El invierno es frío [A], [sin embargo] me gusta [B].
 ```
 
+## Pero, aún así, sin embargo, no obstante, aún, todavía, eso puede ser pero… / だが, ですが
+
+> **Uso:** だが o ですが + frase.
+
+**Aunque no es una norma estricta, ya que se puede usar en medio de la oración.**
+
+```
+大統領が言いました。ですが、私は信じません
+El presidente dijo eso. Sin embargo, no lo creo.
+
+タクシーは便利ですが高いです
+Los taxis son convenientes, pero caros.
+```
+
 ## Si [A] se cumple, [B] también / と
 
 > **Uso:** V diccionario o neg (nai), (N o adj-na + だ) o (adj-i + い) + と.
