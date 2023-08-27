@@ -1050,3 +1050,42 @@ increíblemente largo o algo así pero… ¿qué era? no puedo recordarlo
 ¿Ah? ¿No te lo había dicho?
 (Jujutsu Kaisen, 19:16 - 19:19:21, EP07)
 ```
+
+## Listar múltiples acciones "hacer cosas como ~" / たり
+{: .d-inline-block }
+
+N5
+{: .label .label-red }
+
+> **Uso:** V + たり ~ V + たり + する. (N o Adj-な) + だったり ~ (N o Adj-な) + だったり. Adj-い + (sin い) かったり + Adj-い + (sin い) かったり.
+
+Se pueden enumerar todas las que quieras, pero van en orden.
+
+```
+食べたり寝たりする
+Comer, dormir (entre otras cosas)
+
+テレビを見たり買い物に行ったりする
+Ver la tele e ir de compras
+
+休みの日は水曜日だったり、日曜日だったりです。
+Estamos cerrados los Miércoles y Domingos.
+
+留学中に現地の料理を食べたり、旅行したりしました。
+Durante mis estudios en el extranjero, (hice cosas como) comí comida local y viajé.
+```
+
+### Preguntar “hacer cosas como ~” / たりする + か
+{: .d-inline-block }
+
+N5
+{: .label .label-red }
+
+> **Uso:** Forma diccionario + たり.
+
+Recuerda que se puede omitir か en la forma casual. Se pueden enumerar todas las que quieras, pero van en orden.
+
+```
+漫画を読んだりしますか
+¿Te gusta leer cosas como manga?
+```

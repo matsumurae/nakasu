@@ -1658,37 +1658,6 @@ No planeo viajar esta primavera.
 La jefa no está planeando retirarse.
 ```
 
-### Listar múltiples acciones (Diccionario + たり)
-{: .d-inline-block }
-
-N5
-{: .label .label-red }
-
-> **Uso:** Forma diccionario + たり.
-
-```
-食べたり寝たりする
-Comer, dormir (entre otras cosas)
-
-テレビを見たり買い物に行ったりする
-Ver la tele e ir de compras
-```
-
-### Preguntar “hacer cosas como ~” (Diccionario + たりする + か)
-{: .d-inline-block }
-
-N5
-{: .label .label-red }
-
-> **Uso:** Forma diccionario + たり.
-
-Recuerda que se puede omitir か en la forma casual.
-
-```
-漫画を読んだりしますか
-¿Te gusta leer cosas como manga?
-```
-
 ### Ser malo haciendo algo / のが下手
 {: .d-inline-block }
 
