@@ -238,10 +238,10 @@ N4
 
 ```
 大統領が言いました。ですが、私は信じません
-El presidente dijo eso. Sin embargo, no lo creo.
+El presidente dijo eso. [Sin embargo], no lo creo.
 
 タクシーは便利ですが高いです
-Los taxis son convenientes, pero caros.
+Los taxis son convenientes, [pero] caros.
 ```
 
 ## Si [A] se cumple, [B] también / と
