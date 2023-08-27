@@ -227,6 +227,10 @@ El invierno es frío [A], [sin embargo] me gusta [B].
 ```
 
 ## Pero, aún así, sin embargo, no obstante, aún, todavía, eso puede ser pero… / だが, ですが
+{: .d-inline-block }
+
+N4
+{: .label .label-yellow }
 
 > **Uso:** だが (casual) o ですが (formal) + frase.
 
