@@ -228,7 +228,7 @@ El invierno es frío [A], [sin embargo] me gusta [B].
 
 ## Pero, aún así, sin embargo, no obstante, aún, todavía, eso puede ser pero… / だが, ですが
 
-> **Uso:** だが o ですが + frase.
+> **Uso:** だが (casual) o ですが (formal) + frase.
 
 **Aunque no es una norma estricta, ya que se puede usar en medio de la oración.**
 
