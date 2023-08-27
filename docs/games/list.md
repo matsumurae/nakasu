@@ -383,6 +383,10 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 | Natsu-Mon! 20th Century Summer Vacation ⭐️ | なつもん！ 20世紀の夏休み | ❌ | ❌ | ❌ |
 | Atelier Dusk Trilogy Deluxe Pack | アトリエ ～不思議の錬金術士 トリロジー～ DX | ❌ | ✅ | ❌ |
 | Luigi's mansion 3 ⭐️ | ルイージマンション3 | ❌ | ❌ | ✅ |
+| The Entropy Centre 🇯🇵 | エントロピーセンター | ❌ | ✅ | ❌ |
+| Trendy God 1 🇯🇵 | 流行り神１ | ❌ | ❌ | ❌ |
+| Trendy God 2 🇯🇵 | 流行り神2 | ❌ | ❌ | ❌ |
+| Trendy God 3 🇯🇵 | 流行り神3 | ❌ | ❌ | ❌ |
 
 ### Gameplay
 
@@ -428,6 +432,10 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 - Natsu-Mon! 20th Century Summer Vacation: [Opt 1](https://www.youtube.com/playlist?list=PLOZOho2RXG3yIOvN9aGN7K3zFq_azdFvn), [Opt 2](https://www.youtube.com/playlist?list=PL_55wFRARsSo6LgvhDd_navUsUodd5t2Y)
 - Atelier Dusk Trilogy Deluxe Pack: [Opt 1](https://www.youtube.com/playlist?list=PLY0spzQf6Fm214kKdoBKshEwHBWQZkPvW), [Opt 2](https://www.youtube.com/playlist?list=PLY0spzQf6Fm1ub06IBsIZ1zt214sM3FIS)
 - [Luigi's mansion 3](https://www.youtube.com/playlist?list=PLOZOho2RXG3wyQYi0mxv1jg3lI4sgIsMn)
+- [The entropy centre](https://www.youtube.com/playlist?list=PLQ5hfBNrRnLQ10DkS1fWrQsRMHz96ICqe)
+- [Trendy god 1](https://www.youtube.com/playlist?list=PLfKGHtGEcXT7ELl4pQ1hfM9oeuDSKgaFN)
+- [Trendy god 2](https://www.youtube.com/playlist?list=PLfKGHtGEcXT5U3I44jX41PONjGZsdZCVl)
+- [Trendy god 3](https://www.youtube.com/playlist?list=PLfKGHtGEcXT45jRPOpm1jKu005OTxwQWt)
 
 ## PC
 
