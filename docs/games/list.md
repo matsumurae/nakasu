@@ -519,6 +519,7 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 - [Dishonored: Death of the Outsider](https://www.youtube.com/playlist?list=PLgaU3BvOG__RJUQhsef71NQBeIu7QJ_BL)
 - [Dishonored 2](https://www.youtube.com/playlist?list=PLgaU3BvOG__SQCHP9rzDHZKlB2Z_voL_G)
 - [Ghostwire: Tokyo](https://www.youtube.com/playlist?list=PLEQchj72pK575Qtx7k6tncWDMCXKG1brJ)
+- [Beyond: two souls](https://www.youtube.com/playlist?list=PL1Z1KdfmKueYjaY5z05mkswnU8X2ZxKnQ)
 - [WitchSpring R](https://www.youtube.com/playlist?list=PLJZAgEzeo1ku7RD5U6IYL7pSbv5-aSp1z)
 - [Heavy Rain](https://www.youtube.com/playlist?list=PL4fd59i0eA3XklmtQSZHlhwULuZphUN4a)
 - Tales of Arise: [Opt 1](https://www.youtube.com/playlist?list=PL2Q0tmOhQbJJmXT5sfEGyXeMZ9rQZ1FAJ), [Opt 2](https://www.youtube.com/playlist?list=PLkDkv3_93q1R-psRbnkU6Ky3D-jfUbWt0)
