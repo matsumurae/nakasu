@@ -683,6 +683,8 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 
 | Consola | Nombre        | Nombre japonés          | ¿Voice / audio log? | ¿Voice / audio acting? | ¿furigana?
 |:--------|:-------------|:------------------|:--------|:------------|:-------------|
+| PSP | Boku no Natsuyasumi portable 🇯🇵 | ぼくのなつやすみポータブル ムシムシ博士とてっぺん山の秘密!! | ❌ | ✅ | ❌ |
+| PSP | Boku no Natsuyasumi 2 portable 🇯🇵 | ぼくのなつやすみポータブル2 ナゾナゾ姉妹と沈没船の秘密！ | ❌ | ✅ | ❌ |
 | PSP | Boku no Natsuyasumi 4 🇯🇵 | ぼくのなつやすみ4 瀬戸内少年探偵団「ボクと秘密の地図」 | ❌ | ✅ | ❌ |
 | PSP | La storia della arcana famiglia 🇯🇵 | アルカナ・ファミリア | ❌ | ✅ | ❌ |
 | PSP | La storia della arcana famiglia 2 🇯🇵 | アルカナ・ファミリア 2 | ❌ | ✅ | ❌ |
@@ -694,6 +696,8 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 
 ### Gameplays
 
+- [Boku no natsuyasumi](https://www.youtube.com/playlist?list=PLukJD5d-cfblqcxaAk7Pl8Eh_cleXqGsL)
+- [Boku no natsuyasumi 2](https://www.youtube.com/playlist?list=PLukJD5d-cfblKE4U9i799jlFMMZYeVBOW)
 - [Boku no Natsuyasumi 4](https://www.youtube.com/playlist?list=PL3RkBBBHRhPRtdsLBj7J_jY2Anhi78oD4)
 - [Fuuraiki 3](https://www.youtube.com/playlist?list=PLhX4PTFIiArwH94t141IPVxTPKu6LKxcU)
 - Psycho-pass: [Opt 1](https://www.youtube.com/playlist?list=PL8YB-1Nmoh-e7IIYFbcTWxLxAcZXQ9mJD), [Opt 2](https://www.youtube.com/playlist?list=PLy07A4N_4ecJniqeFWo4vQQ5ipw6rQJ9y)
