@@ -153,6 +153,11 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 | Aragami 2 ⭐️ | — | ❌ | ❌ (sin voz) | ❌ |
 | Death Mark 🇯🇵 | 死印 | ❌ | ❌ | ❌ |
 | Tokyo Dark 🇯🇵 | 東京ダーク | ❌ | ❌ | ❌ |
+| Gnosia 🇯🇵 | グノシア | ❌ | ❌ | ❌ |
+| The good life ⭐️ | — | ❌ | ❌ | ❌ (algunas voces) |
+| Tasomachi: Behind the twilight ⭐️ | 黄昏ニ眠ル街 | ❌ | ❌ | ❌ |
+| Necrobarista ⭐️ | — | ❌ | ❌ | ❌ |
+| Giraffe and Annika ⭐️ | ジラフとアンニカ | ❌ | ❌ | ❌ |
 
 #### Gameplays
 
@@ -273,6 +278,11 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 - [Aragami 2](https://www.youtube.com/playlist?list=PLoMVlA4sd5IWSldgxHEx3mWloSCKeXzaZ)
 - [Death Mark](https://www.youtube.com/playlist?list=PLFmdH6te0_Ul4O86_eZBPdu88vCyBXdU5)
 - [Tokyo dark](https://www.youtube.com/playlist?list=PL_pUOmyQf8jZy1cK6r3hjXc4nwOudJSr3)
+- [Gnosia](https://www.youtube.com/playlist?list=PLunyMOp9gGlkJbF5slRZ77Gz3IfZCtQHc)
+- [The good life](https://www.youtube.com/playlist?list=PLxXAGCBlQDf9AeSdieTBWf3jMa1kHjakT)
+- [Tasomachi: behind the twilight](https://www.youtube.com/playlist?list=PLm5lngQzGcnJmE104V5f4vI48jd8zZS_y)
+- [Necrobarista](https://www.youtube.com/watch?v=Pl1-iP2_1FA)
+- [Giraffe and Annika](https://www.youtube.com/playlist?list=PL95CqR-W4qQXgr-4DCliHg-tuIaN08-sx)
 
 ### PC & PS VITA
 
@@ -493,6 +503,7 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 | System Shock | システムショック | ❌ | ✅ | ❌ |
 | Wayfinder | ウェイファインダー | ❌ | ✅ | ❌ |
 | Immortals of Aveum | アヴェウムの騎士団 | ❌ | ✅ | ❌ |
+| Cineris somnia | — | ❌ | ✅ | ❌ |
 
 ### Gameplays
 
