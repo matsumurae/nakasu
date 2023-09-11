@@ -154,7 +154,7 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 | Death Mark 🇯🇵 | 死印 | ❌ | ❌ | ❌ |
 | Tokyo Dark 🇯🇵 | 東京ダーク | ❌ | ❌ | ❌ |
 | Gnosia 🇯🇵 | グノシア | ❌ | ❌ | ❌ |
-| The good life ⭐️ | — | ❌ | ❌ | ❌ (algunas voces) |
+| The good life ⭐️ | — | ❌ | ❌ (algunas voces) | ❌ |
 | Tasomachi: Behind the twilight ⭐️ | 黄昏ニ眠ル街 | ❌ | ❌ | ❌ |
 | Necrobarista ⭐️ | — | ❌ | ❌ | ❌ |
 | Giraffe and Annika ⭐️ | ジラフとアンニカ | ❌ | ❌ | ❌ |
@@ -504,6 +504,7 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 | Wayfinder | ウェイファインダー | ❌ | ✅ | ❌ |
 | Immortals of Aveum | アヴェウムの騎士団 | ❌ | ✅ | ❌ |
 | Cineris somnia | — | ❌ | ✅ | ❌ |
+| Calisto protocol | — | ❌ | ✅ | ❌ |
 
 ### Gameplays
 
@@ -551,6 +552,7 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 - [Nioh 2](https://www.youtube.com/playlist?list=PLYQwk2STjWv3hWgKE0btno1wIL2IHCL86)
 - [Wo Long: Fallen Dynasty](https://www.youtube.com/playlist?list=PLYQwk2STjWv1InS71_F93Di0LOaNxdGpc)
 - [System Shock](https://www.youtube.com/playlist?list=PLluhvPnp6FEQRQpdnGpAjtI7cWWDxoCra)
+- [Calisto protocol](https://www.youtube.com/playlist?list=PLO3E3Cv6CpBh1GqhT_Euopb55Kjanq4dv)
 
 ## Gamecube
 
