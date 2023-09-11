@@ -505,6 +505,13 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 | Immortals of Aveum | アヴェウムの騎士団 | ❌ | ✅ | ❌ |
 | Cineris somnia | — | ❌ | ✅ | ❌ |
 | Calisto protocol | — | ❌ | ✅ | ❌ |
+| Rise of the tomb raider | — | ❌ | ✅ | ❌ |
+| Marvel’s Spider-Man: Miles Morales | マーベルスパイダーマンマイルズモラレス | ❌ | ✅ | ❌ |
+| Ratchet & Clank: Parallel Trouble | ラチェット&クランク パラレル・トラブル | ❌ | ✅ | ❌ |
+| Returnal | リターナル | ❌ | ✅ | ❌ |
+| The Last of Us Part I | ザ・ラスト・オブ・アス | ❌ | ✅ | ❌ |
+| Marvel’s Spider-Man Remastered | マーベルスパイダーマン リマスター | ❌ | ✅ | ❌ |
+| Everybody's Gone to the Rapture | マーベルスパイダーマン リマスター | ❌ | ✅ | ❌ |
 
 ### Gameplays
 
@@ -553,6 +560,13 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 - [Wo Long: Fallen Dynasty](https://www.youtube.com/playlist?list=PLYQwk2STjWv1InS71_F93Di0LOaNxdGpc)
 - [System Shock](https://www.youtube.com/playlist?list=PLluhvPnp6FEQRQpdnGpAjtI7cWWDxoCra)
 - [Calisto protocol](https://www.youtube.com/playlist?list=PLO3E3Cv6CpBh1GqhT_Euopb55Kjanq4dv)
+- [Rise of the tomb raider](https://www.youtube.com/watch?v=YznGVyFjIvc)
+- [Spiderman Miles Morales](https://www.youtube.com/playlist?list=PLUydy08ACitEpXzX5kLTaHh8_ERoH2Gkr)
+- [Ratchet & Clank](https://www.youtube.com/playlist?list=PL56buH249iJPQU4bzqQU6Ree8I1soet0Q)
+- [Returnal](https://www.youtube.com/playlist?list=PLL12CODB9Bqtokd5fkzWeslcIsIxLx170)
+- [The last of us Part I](https://www.youtube.com/playlist?list=PLUydy08ACitFA7kyJHoH2UIhrb9W812ss)
+- [Spiderman remastered](https://www.youtube.com/playlist?list=PLsdh6D6poKdmfcJI5XVDPgyK6UkG86Ws6)
+- [Everybody's gone to the rapture](https://www.youtube.com/playlist?list=PLJGz3JhFVre7bRCSojIqEJhXwZAxj915K)
 
 ## Gamecube
 
