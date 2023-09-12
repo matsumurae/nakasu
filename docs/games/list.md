@@ -512,6 +512,10 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 | The Last of Us Part I | ザ・ラスト・オブ・アス | ❌ | ✅ | ❌ |
 | Marvel’s Spider-Man Remastered | マーベルスパイダーマン リマスター | ❌ | ✅ | ❌ |
 | Everybody's Gone to the Rapture | マーベルスパイダーマン リマスター | ❌ | ✅ | ❌ |
+| Halo: Reach | ヘイロー リーチ | ❌ | ✅ | ❌ |
+| Halo 2: Anniversary | ヘイロー2 | ❌ | ✅ | ❌ |
+| Halo 3 | ヘイロー3 | ❌ | ✅ | ❌ |
+| Halo 3: OSDT | ヘイロー3 オー・ディー・エス・ティー | ❌ | ✅ | ❌ |
 
 ### Gameplays
 
@@ -567,6 +571,10 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 - [The last of us Part I](https://www.youtube.com/playlist?list=PLUydy08ACitFA7kyJHoH2UIhrb9W812ss)
 - [Spiderman remastered](https://www.youtube.com/playlist?list=PLsdh6D6poKdmfcJI5XVDPgyK6UkG86Ws6)
 - [Everybody's gone to the rapture](https://www.youtube.com/playlist?list=PLJGz3JhFVre7bRCSojIqEJhXwZAxj915K)
+- [Halo: reach](https://www.youtube.com/watch?v=jfirUycIWgI)
+- [Halo 2](https://www.youtube.com/watch?v=ZZAhhpV6ps8)
+- [Halo 3](https://www.youtube.com/watch?v=VXTJinfUTY4)
+- [Halo 3: OSDT](https://www.youtube.com/watch?v=1_lQWQXwWR4)
 
 ## Gamecube
 
