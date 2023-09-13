@@ -158,6 +158,7 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 | Tasomachi: Behind the twilight ⭐️ | 黄昏ニ眠ル街 | ❌ | ❌ | ❌ |
 | Necrobarista ⭐️ | — | ❌ | ❌ | ❌ |
 | Giraffe and Annika ⭐️ | ジラフとアンニカ | ❌ | ❌ | ❌ |
+| Harvestella 🇯🇵 | ハーヴェステラ | ❌ | ✅ | ❌ |
 
 #### Gameplays
 
@@ -283,6 +284,7 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 - [Tasomachi: behind the twilight](https://www.youtube.com/playlist?list=PLm5lngQzGcnJmE104V5f4vI48jd8zZS_y)
 - [Necrobarista](https://www.youtube.com/watch?v=Pl1-iP2_1FA)
 - [Giraffe and Annika](https://www.youtube.com/playlist?list=PL95CqR-W4qQXgr-4DCliHg-tuIaN08-sx)
+- [Harvestella](https://www.youtube.com/playlist?list=PLVzHqUip59yRxjlSNafs2QzMz2GJ1AGQW)
 
 ### PC & PS VITA
 
@@ -516,6 +518,13 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 | Halo 2: Anniversary | ヘイロー2 | ❌ | ✅ | ❌ |
 | Halo 3 | ヘイロー3 | ❌ | ✅ | ❌ |
 | Halo 3: OSDT | ヘイロー3 オー・ディー・エス・ティー | ❌ | ✅ | ❌ |
+| Forspoken | フォースポークン | ❌ | ✅ | ❌ |
+| STAR OCEAN THE DIVINE FORCE | スターオーシャン６ ザディヴァインフォース | ❌ | ✅ | ❌ |
+| Marvel's Midnight Sun | マーベル ミッドナイト・サンズ | ❌ | ✅ | ❌ |
+| Mirror's Edge™ Catalyst | ミラーズエッジ カタリスト | ❌ | ✅ | ❌ |
+| Code Vein | コードヴェイン | ❌ | ✅ | ❌ |
+| Call of duty: modern warfare | コール オブ デューティ モダン・ウォーフェア | ❌ | ✅ | ❌ |
+| Call of duty: modern warfare 2 | コール オブ デューティ モダン・ウォーフェア2 | ❌ | ✅ | ❌ |
 
 ### Gameplays
 
@@ -575,6 +584,13 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 - [Halo 2](https://www.youtube.com/watch?v=ZZAhhpV6ps8)
 - [Halo 3](https://www.youtube.com/watch?v=VXTJinfUTY4)
 - [Halo 3: OSDT](https://www.youtube.com/watch?v=1_lQWQXwWR4)
+- [Forspoken](https://www.youtube.com/playlist?list=PLTX75w0tnGZkwAd9-pWc_4ltSvXShzpVC)
+- [Star ocean the divine force](https://www.youtube.com/playlist?list=PL2qvCP04VY7KEjrXuRtEwsUocyuCfZgjS)
+- [Marvel's midnight suns](https://www.youtube.com/playlist?list=PLnkEvTFDv5Rlmyy-uVX26FLJ3jJ0r00Dm)
+- [Mirror's edge catalyst](https://www.youtube.com/playlist?list=PLYQwk2STjWv2g7Vl-FTLNuPmMYmKwqBWO)
+- [Code vein](https://www.youtube.com/playlist?list=PLUQzIxytl7fIiXPBPHuslsoeWt3USBR6x)
+- [Call of duty: modern warfare](https://www.youtube.com/playlist?list=PLJQjHMFm_-MZuHxsv9QaHR3DyVDTWiOsH)
+- [Call of duty: modern warfare 2](https://www.youtube.com/playlist?list=PLJQjHMFm_-MbT3nfxe5WOLf0aHrz3nCoS)
 
 ## Gamecube
 
