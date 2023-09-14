@@ -525,6 +525,8 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 | Code Vein | コードヴェイン | ❌ | ✅ | ❌ |
 | Call of duty: modern warfare | コール オブ デューティ モダン・ウォーフェア | ❌ | ✅ | ❌ |
 | Call of duty: modern warfare 2 | コール オブ デューティ モダン・ウォーフェア2 | ❌ | ✅ | ❌ |
+| DOOM | ドゥーム | ❌ | ✅ | ❌ |
+| DOOM Eternal | ドゥーム エターナル | ❌ | ✅ | ❌ |
 
 ### Gameplays
 
@@ -591,6 +593,8 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 - [Code vein](https://www.youtube.com/playlist?list=PLUQzIxytl7fIiXPBPHuslsoeWt3USBR6x)
 - [Call of duty: modern warfare](https://www.youtube.com/playlist?list=PLJQjHMFm_-MZuHxsv9QaHR3DyVDTWiOsH)
 - [Call of duty: modern warfare 2](https://www.youtube.com/playlist?list=PLJQjHMFm_-MbT3nfxe5WOLf0aHrz3nCoS)
+- [DOOM](https://www.youtube.com/playlist?list=PLi5jgRErdxbyEpg8nJ4vkhysaLQaODd2s)
+- [DOOM Eternal](https://www.youtube.com/playlist?list=PLXa1jGRNxh3YO6gaHl3ivEicrsn1m-2ML)
 
 ## Gamecube
 
