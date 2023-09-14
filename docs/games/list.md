@@ -527,6 +527,10 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 | Call of duty: modern warfare 2 | コール オブ デューティ モダン・ウォーフェア2 | ❌ | ✅ | ❌ |
 | DOOM | ドゥーム | ❌ | ✅ | ❌ |
 | DOOM Eternal | ドゥーム エターナル | ❌ | ✅ | ❌ |
+| DOOM Eternal | ワンダーランズ ～タイニー・ティナと魔法の世界 | ❌ | ✅ | ❌ |
+| Tiny tina's wonderlands | ワンダーランズ ～タイニー・ティナと魔法の世界 | ❌ | ✅ | ❌ |
+| Shadow Tactics: Aiko's Choice | シャドウタクティクス アイコ ズ チョイス | ❌ | ✅ | ❌ |
+| Shadow Tactics: Blades of the Shogun | シャドウタクティクス キーを押してスタート | ❌ | ✅ | ❌ |
 
 ### Gameplays
 
@@ -595,6 +599,9 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 - [Call of duty: modern warfare 2](https://www.youtube.com/playlist?list=PLJQjHMFm_-MbT3nfxe5WOLf0aHrz3nCoS)
 - [DOOM](https://www.youtube.com/playlist?list=PLi5jgRErdxbyEpg8nJ4vkhysaLQaODd2s)
 - [DOOM Eternal](https://www.youtube.com/playlist?list=PLXa1jGRNxh3YO6gaHl3ivEicrsn1m-2ML)
+- [Tiny Tina's Wonderlands](https://www.youtube.com/playlist?list=PL0xpnsyK3wP0W7nFRlMRopsrGDmvRXFoz)
+- [Shadow tactics: Aiko's choice](https://www.youtube.com/playlist?list=PLqnAO78dLKGqhNA6o5Hqu36MJwaGGzPDq)
+- [Shadow tactics: Blades of the Shogun](https://www.youtube.com/playlist?list=PL1Z1KdfmKueYeiHXQcDlV4yo8QoI-UYhI)
 
 ## Gamecube
 
