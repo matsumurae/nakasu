@@ -159,6 +159,7 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 | Necrobarista ⭐️ | — | ❌ | ❌ | ❌ |
 | Giraffe and Annika ⭐️ | ジラフとアンニカ | ❌ | ❌ | ❌ |
 | Harvestella 🇯🇵 | ハーヴェステラ | ❌ | ✅ | ❌ |
+| The DioField Chronicle ⭐️ | ディオフィールド クロニクル | ❌ | ✅ | ❌ |
 
 #### Gameplays
 
@@ -285,6 +286,7 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 - [Necrobarista](https://www.youtube.com/watch?v=Pl1-iP2_1FA)
 - [Giraffe and Annika](https://www.youtube.com/playlist?list=PL95CqR-W4qQXgr-4DCliHg-tuIaN08-sx)
 - [Harvestella](https://www.youtube.com/playlist?list=PLVzHqUip59yRxjlSNafs2QzMz2GJ1AGQW)
+- [The DioField Chronicle](https://www.youtube.com/playlist?list=PL8EA2vNAanr7JYd3LrnChSy2FcswZAb_N)
 
 ### PC & PS VITA
 
