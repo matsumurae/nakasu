@@ -160,6 +160,7 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 | Giraffe and Annika ⭐️ | ジラフとアンニカ | ❌ | ❌ | ❌ |
 | Harvestella 🇯🇵 | ハーヴェステラ | ❌ | ✅ | ❌ |
 | The DioField Chronicle ⭐️ | ディオフィールド クロニクル | ❌ | ✅ | ❌ |
+| Mato anomalies ⭐️ | 異夢迷都（イム・メイト）：果てなき螺旋 | ❌ | ✅ | ❌ |
 
 #### Gameplays
 
@@ -287,6 +288,7 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 - [Giraffe and Annika](https://www.youtube.com/playlist?list=PL95CqR-W4qQXgr-4DCliHg-tuIaN08-sx)
 - [Harvestella](https://www.youtube.com/playlist?list=PLVzHqUip59yRxjlSNafs2QzMz2GJ1AGQW)
 - [The DioField Chronicle](https://www.youtube.com/playlist?list=PL8EA2vNAanr7JYd3LrnChSy2FcswZAb_N)
+- [Mato anomalies](https://www.youtube.com/playlist?list=PL202IDNUQq3SV3kKCjd40g0Zsgp86iXq1)
 
 ### PC & PS VITA
 
@@ -467,6 +469,7 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 | Yakuza 4 | 龍が如く4 伝説を継ぐもの | ❌ | ✅ | ❌ |
 | Yakuza 5 | 龍が如く5 夢、叶えし者 | ❌ | ✅ | ❌ |
 | Yakuza 6: The Song of Life | 龍が如く6 命の詩 | ❌ | ✅ | ❌ |
+| Like a dragon: Ishin! | 龍が如く 維新! 極 | ❌ | ✅ | ❌ |
 | Judgment | JUDGE EYES: 死神の遺言 | ❌ | ✅ | ❌ |
 | Lost Judgment | LOST JUDGMENT：裁かれざる記憶 | ❌ | ✅ | ❌ |
 | Heavy Rain | HEAVY RAIN 心の軋むとき | ❌ | ✅ | ❌ |
@@ -533,6 +536,7 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 | Tiny tina's wonderlands | ワンダーランズ ～タイニー・ティナと魔法の世界 | ❌ | ✅ | ❌ |
 | Shadow Tactics: Aiko's Choice | シャドウタクティクス アイコ ズ チョイス | ❌ | ✅ | ❌ |
 | Shadow Tactics: Blades of the Shogun | シャドウタクティクス キーを押してスタート | ❌ | ✅ | ❌ |
+| RUINSMAGUS | ルインズメイガス | ❌ | ✅ | ❌ |
 
 ### Gameplays
 
@@ -543,6 +547,7 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 - Yakuza 4: [Opt 1](https://www.youtube.com/playlist?list=PLNC5MLmrnvuAOUee1wxXGTD1LLoxaCPwb), [Opt 2](https://www.youtube.com/playlist?list=PL5zYFfjjRHa-Vpbo66Aa9Wn0TuQtsan1c), [Opt 3](https://www.youtube.com/playlist?list=PLKpn4G_MTWr7Nh4JdsflBPDcsls_4ln36)
 - Yakuza 5: [Opt 1](https://www.youtube.com/playlist?list=PLKpn4G_MTWr5Szh7renBrr7zz8WlrlkPJ), [Opt 2](https://www.youtube.com/playlist?list=PLyqi9vd697GJZh07-Wxlo_H2v-KXC1HU1)
 - Yakuza 6: [Opt 1](https://www.youtube.com/playlist?list=PLyqi9vd697GKY7nGHb9FQdkG7LfsYIIhV), [Opt 2](https://www.youtube.com/playlist?list=PLy8d1u7T3WWLTbkThRj-C9YcspjvtMvYb)
+- [Like a dragon: Ishin!](https://www.youtube.com/playlist?list=PL5zYFfjjRHa--n-LiQpCf6LkKYkvz-97q)
 - [Judgment](https://www.youtube.com/playlist?list=PLyqi9vd697GL1002I1sAZCDaGiLQsb2_q)
 - [Lost Judgment](https://www.youtube.com/playlist?list=PL5zYFfjjRHa8ZztD2lL4Pfazrir3TZPgc)
 - [Tokyo Xanadu eX+](https://www.youtube.com/playlist?list=PLHz0YXZjXt-tYMRrdxWaOqG7rgoEVdqCG)
@@ -604,6 +609,7 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 - [Tiny Tina's Wonderlands](https://www.youtube.com/playlist?list=PL0xpnsyK3wP0W7nFRlMRopsrGDmvRXFoz)
 - [Shadow tactics: Aiko's choice](https://www.youtube.com/playlist?list=PLqnAO78dLKGqhNA6o5Hqu36MJwaGGzPDq)
 - [Shadow tactics: Blades of the Shogun](https://www.youtube.com/playlist?list=PL1Z1KdfmKueYeiHXQcDlV4yo8QoI-UYhI)
+- [RuinsMagus](https://www.youtube.com/playlist?list=PLl_qDVbekrm_Q7wNP9hBTJwcbgmKqvi6r)
 
 ## Gamecube
 
