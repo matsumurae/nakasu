@@ -161,6 +161,7 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 | Harvestella 🇯🇵 | ハーヴェステラ | ❌ | ✅ | ❌ |
 | The DioField Chronicle ⭐️ | ディオフィールド クロニクル | ❌ | ✅ | ❌ |
 | Mato anomalies ⭐️ | 異夢迷都（イム・メイト）：果てなき螺旋 | ❌ | ✅ | ❌ |
+| Blind Fate: Edo no Yami ⭐️ | Blind Fate エドノヤミ | ❌ | ✅ | ❌ |
 
 #### Gameplays
 
@@ -289,6 +290,7 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 - [Harvestella](https://www.youtube.com/playlist?list=PLVzHqUip59yRxjlSNafs2QzMz2GJ1AGQW)
 - [The DioField Chronicle](https://www.youtube.com/playlist?list=PL8EA2vNAanr7JYd3LrnChSy2FcswZAb_N)
 - [Mato anomalies](https://www.youtube.com/playlist?list=PL202IDNUQq3SV3kKCjd40g0Zsgp86iXq1)
+- [Blind fate: Edo no Yami](https://www.youtube.com/playlist?list=PL9Q9EbijGfeB7k8dHKtB_M9Djrhq-DTrs)
 
 ### PC & PS VITA
 
