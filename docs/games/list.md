@@ -162,6 +162,8 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 | The DioField Chronicle ⭐️ | ディオフィールド クロニクル | ❌ | ✅ | ❌ |
 | Mato anomalies ⭐️ | 異夢迷都（イム・メイト）：果てなき螺旋 | ❌ | ✅ | ❌ |
 | Blind Fate: Edo no Yami ⭐️ | Blind Fate エドノヤミ | ❌ | ✅ | ❌ |
+| Bright memory ⭐️ | Blind Fate エドノヤミ | ❌ | ✅ | ❌ |
+| Bright memory: Infinite ⭐️ | Blind Fate エドノヤミ | ❌ | ✅ | ❌ |
 
 #### Gameplays
 
@@ -291,6 +293,8 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 - [The DioField Chronicle](https://www.youtube.com/playlist?list=PL8EA2vNAanr7JYd3LrnChSy2FcswZAb_N)
 - [Mato anomalies](https://www.youtube.com/playlist?list=PL202IDNUQq3SV3kKCjd40g0Zsgp86iXq1)
 - [Blind fate: Edo no Yami](https://www.youtube.com/playlist?list=PL9Q9EbijGfeB7k8dHKtB_M9Djrhq-DTrs)
+- [Bright memory](https://www.youtube.com/watch?v=jifMbNmrjvE)
+- [Bright memory: Infinite](https://www.youtube.com/playlist?list=PLepr0x61aex3j84FVPypTNHKx_mRyGWt0)
 
 ### PC & PS VITA
 
