@@ -167,6 +167,8 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 | Warriors Orochi 2 Ultimate ⭐️ | 無双OROCHI2 アルティメット | ❌ | ✅ | ❌ |
 | Warriors Orochi 3 Ultimate 🇯🇵 | 無双OROCHI3 アルティメット | ❌ | ✅ | ❌ |
 | Warriors Orochi 4 Ultimate 🇯🇵 | 無双OROCHI4 アルティメット | ❌ | ✅ | ❌ |
+| Wolfenstein: The New Order 🇯🇵 | ウルフェンシュタイン ザ ニューオーダー | ❌ | ✅ | ❌ |
+| Wolfenstein II: The New Colossus 🇯🇵 | ウルフェンシュタイン2:ザ ニューコロッサス | ❌ | ✅ | ❌ |
 
 #### Gameplays
 
@@ -300,6 +302,8 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 - [Bright memory: Infinite](https://www.youtube.com/playlist?list=PLepr0x61aex3j84FVPypTNHKx_mRyGWt0)
 - [Warriors Orochi 2](https://www.youtube.com/playlist?list=PLgKiPVESYQLbsatmo1Q0DM1PQ76Wy5q2_)
 - [Warriors Orochi 3](https://www.youtube.com/playlist?list=PL5zYFfjjRHa9Q7QZnWWQOM4iErqBRdVtd)
+- [Wolfenstein: The new order](https://www.youtube.com/watch?v=mUEz3rOQZXs)
+- [Wolfenstein II: The new colossus](https://www.youtube.com/playlist?list=PLA_8-xor3UQ08R_rrQhUBCLa8aT-wESVW)
 
 ### PC & PS VITA
 
