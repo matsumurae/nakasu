@@ -164,6 +164,9 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 | Blind Fate: Edo no Yami ⭐️ | Blind Fate エドノヤミ | ❌ | ✅ | ❌ |
 | Bright memory ⭐️ | Blind Fate エドノヤミ | ❌ | ✅ | ❌ |
 | Bright memory: Infinite ⭐️ | Blind Fate エドノヤミ | ❌ | ✅ | ❌ |
+| Warriors Orochi 2 Ultimate ⭐️ | 無双OROCHI2 アルティメット | ❌ | ✅ | ❌ |
+| Warriors Orochi 3 Ultimate 🇯🇵 | 無双OROCHI3 アルティメット | ❌ | ✅ | ❌ |
+| Warriors Orochi 4 Ultimate 🇯🇵 | 無双OROCHI4 アルティメット | ❌ | ✅ | ❌ |
 
 #### Gameplays
 
@@ -295,6 +298,8 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 - [Blind fate: Edo no Yami](https://www.youtube.com/playlist?list=PL9Q9EbijGfeB7k8dHKtB_M9Djrhq-DTrs)
 - [Bright memory](https://www.youtube.com/watch?v=jifMbNmrjvE)
 - [Bright memory: Infinite](https://www.youtube.com/playlist?list=PLepr0x61aex3j84FVPypTNHKx_mRyGWt0)
+- [Warriors Orochi 2](https://www.youtube.com/playlist?list=PLgKiPVESYQLbsatmo1Q0DM1PQ76Wy5q2_)
+- [Warriors Orochi 3](https://www.youtube.com/playlist?list=PL5zYFfjjRHa9Q7QZnWWQOM4iErqBRdVtd)
 
 ### PC & PS VITA
 
@@ -543,6 +548,7 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 | Shadow Tactics: Aiko's Choice | シャドウタクティクス アイコ ズ チョイス | ❌ | ✅ | ❌ |
 | Shadow Tactics: Blades of the Shogun | シャドウタクティクス キーを押してスタート | ❌ | ✅ | ❌ |
 | RUINSMAGUS | ルインズメイガス | ❌ | ✅ | ❌ |
+| Nights of Azure | よるのないくに | ❌ | ✅ | ❌ |
 
 ### Gameplays
 
@@ -616,6 +622,7 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 - [Shadow tactics: Aiko's choice](https://www.youtube.com/playlist?list=PLqnAO78dLKGqhNA6o5Hqu36MJwaGGzPDq)
 - [Shadow tactics: Blades of the Shogun](https://www.youtube.com/playlist?list=PL1Z1KdfmKueYeiHXQcDlV4yo8QoI-UYhI)
 - [RuinsMagus](https://www.youtube.com/playlist?list=PLl_qDVbekrm_Q7wNP9hBTJwcbgmKqvi6r)
+- [Nights of Azure](https://www.youtube.com/playlist?list=PLkI5LYlE_0kn852YS_iLSObjV_IRWSzo4)
 
 ## Gamecube
 
