@@ -175,6 +175,7 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 | Live a live ⭐️ | ライブ・ア・ライブ | ❌ | ✅ | ❌ |
 | The Centennial Case: A Shijima Story ⭐️ | 春ゆきてレトロチカ | ❌ | ✅ | ❌ |
 | ONINAKI ⭐️ | 鬼ノ哭ク邦 | ❌ | ❌ | ❌ |
+| Paleo Pines ⭐️ | — | ❌ | ❌ | ❌ |
 
 #### Gameplays
 
@@ -316,6 +317,7 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 - [Live a Life](https://www.youtube.com/playlist?list=PLSORw0Liv932Uk6d-paPmzDMyxy1q__Tx)
 - [The centennial case: a Shijima story](https://www.youtube.com/watch?v=AYGCfGtR8Rw)
 - [ONINAKI](https://www.youtube.com/playlist?list=PLYQwk2STjWv2bHuVyeeF094vRohQ2EUQR)
+- [Paleo pines](https://www.youtube.com/watch?v=blLWE1_m55Y)
 
 ### PC & PS VITA
 
