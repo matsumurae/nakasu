@@ -568,6 +568,7 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 | RUINSMAGUS | ルインズメイガス | ❌ | ✅ | ❌ |
 | Nights of Azure | よるのないくに | ❌ | ✅ | ❌ |
 | NieR: Replicant ver.1.22474487139… | ニーア レプリカント ver.1.22474487139… | ❌ | ✅ | ❌ |
+| As Dusk Falls | — | ❌ | ✅ | ❌ |
 
 ### Gameplays
 
@@ -643,6 +644,7 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 - [RuinsMagus](https://www.youtube.com/playlist?list=PLl_qDVbekrm_Q7wNP9hBTJwcbgmKqvi6r)
 - [Nights of Azure](https://www.youtube.com/playlist?list=PLkI5LYlE_0kn852YS_iLSObjV_IRWSzo4)
 - [NieR: Replicant ver.1.22474487139…](https://www.youtube.com/playlist?list=PLyqi9vd697GKZD1pr9nOyy4KWKXdb7aTp)
+- [As Dusk Falls](https://www.youtube.com/watch?v=dBommmlXr50)
 
 ## Gamecube
 
