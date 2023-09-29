@@ -169,6 +169,12 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 | Warriors Orochi 4 Ultimate 🇯🇵 | 無双OROCHI4 アルティメット | ❌ | ✅ | ❌ |
 | Wolfenstein: The New Order 🇯🇵 | ウルフェンシュタイン ザ ニューオーダー | ❌ | ✅ | ❌ |
 | Wolfenstein II: The New Colossus 🇯🇵 | ウルフェンシュタイン2:ザ ニューコロッサス | ❌ | ✅ | ❌ |
+| NieR: Automata 🇯🇵 | ニーア オートマタ | ❌ | ✅ | ❌ |
+| Octopath Traveler 🇯🇵 | オクトパス トラベラー | ❌ | ✅ | ❌ |
+| Octopath Traveler 2 ⭐️ | オクトパス トラベラー2 | ❌ | ✅ | ❌ |
+| Live a live ⭐️ | ライブ・ア・ライブ | ❌ | ✅ | ❌ |
+| The Centennial Case: A Shijima Story ⭐️ | 春ゆきてレトロチカ | ❌ | ✅ | ❌ |
+| ONINAKI ⭐️ | 鬼ノ哭ク邦 | ❌ | ❌ | ❌ |
 
 #### Gameplays
 
@@ -304,6 +310,12 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 - [Warriors Orochi 3](https://www.youtube.com/playlist?list=PL5zYFfjjRHa9Q7QZnWWQOM4iErqBRdVtd)
 - [Wolfenstein: The new order](https://www.youtube.com/watch?v=mUEz3rOQZXs)
 - [Wolfenstein II: The new colossus](https://www.youtube.com/playlist?list=PLA_8-xor3UQ08R_rrQhUBCLa8aT-wESVW)
+- [NieR: Automata](https://www.youtube.com/watch?v=bCzENDv9Ods)
+- [Octopath Traveler](https://www.youtube.com/playlist?list=PLOZOho2RXG3x1-Y6kZ8LRk-0bTRg3XK-c)
+- [Octopath Traveler 2](https://www.youtube.com/playlist?list=PLOZOho2RXG3xdwxkhBH98xyMW5KqNRIHQ)
+- [Live a Life](https://www.youtube.com/playlist?list=PLSORw0Liv932Uk6d-paPmzDMyxy1q__Tx)
+- [The centennial case: a Shijima story](https://www.youtube.com/watch?v=AYGCfGtR8Rw)
+- [ONINAKI](https://www.youtube.com/playlist?list=PLYQwk2STjWv2bHuVyeeF094vRohQ2EUQR)
 
 ### PC & PS VITA
 
@@ -553,6 +565,7 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 | Shadow Tactics: Blades of the Shogun | シャドウタクティクス キーを押してスタート | ❌ | ✅ | ❌ |
 | RUINSMAGUS | ルインズメイガス | ❌ | ✅ | ❌ |
 | Nights of Azure | よるのないくに | ❌ | ✅ | ❌ |
+| NieR: Replicant ver.1.22474487139… | ニーア レプリカント ver.1.22474487139… | ❌ | ✅ | ❌ |
 
 ### Gameplays
 
@@ -627,6 +640,7 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 - [Shadow tactics: Blades of the Shogun](https://www.youtube.com/playlist?list=PL1Z1KdfmKueYeiHXQcDlV4yo8QoI-UYhI)
 - [RuinsMagus](https://www.youtube.com/playlist?list=PLl_qDVbekrm_Q7wNP9hBTJwcbgmKqvi6r)
 - [Nights of Azure](https://www.youtube.com/playlist?list=PLkI5LYlE_0kn852YS_iLSObjV_IRWSzo4)
+- [NieR: Replicant ver.1.22474487139…](https://www.youtube.com/playlist?list=PLyqi9vd697GKZD1pr9nOyy4KWKXdb7aTp)
 
 ## Gamecube
 
