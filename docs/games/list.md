@@ -176,6 +176,9 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 | The Centennial Case: A Shijima Story ⭐️ | 春ゆきてレトロチカ | ❌ | ✅ | ❌ |
 | ONINAKI ⭐️ | 鬼ノ哭ク邦 | ❌ | ❌ | ❌ |
 | Paleo Pines ⭐️ | — | ❌ | ❌ | ❌ |
+| Crysis remastered ⭐️ | クライシス リマスター | ❌ | ✅ | ❌ |
+| Crysis 2 remastered ⭐️ | クライシス 2 リマスター | ❌ | ✅ | ❌ |
+| Crysis 3 remastered ⭐️ | クライシス 2 リマスター | ❌ | ✅ | ❌ |
 
 #### Gameplays
 
@@ -318,6 +321,9 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 - [The centennial case: a Shijima story](https://www.youtube.com/watch?v=AYGCfGtR8Rw)
 - [ONINAKI](https://www.youtube.com/playlist?list=PLYQwk2STjWv2bHuVyeeF094vRohQ2EUQR)
 - [Paleo pines](https://www.youtube.com/watch?v=blLWE1_m55Y)
+- [Crysis remastered](https://www.youtube.com/watch?v=Q8LVtXaYR0o)
+- [Crysis 2 remastered](https://www.youtube.com/watch?v=q23RKga6_JI)
+- [Crysis 3 remastered](https://www.youtube.com/playlist?list=PLPU-AfmLL5JWQuk78hpGFJNXpEQrShchV)
 
 ### PC & PS VITA
 
