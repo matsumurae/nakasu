@@ -179,6 +179,7 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 | Crysis remastered ⭐️ | クライシス リマスター | ❌ | ✅ | ❌ |
 | Crysis 2 remastered ⭐️ | クライシス 2 リマスター | ❌ | ✅ | ❌ |
 | Crysis 3 remastered ⭐️ | クライシス 2 リマスター | ❌ | ✅ | ❌ |
+| Alan Wake Remastered ⭐️ | アランウェイク | ❌ | ✅ | ❌ |
 
 #### Gameplays
 
@@ -324,6 +325,7 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 - [Crysis remastered](https://www.youtube.com/watch?v=Q8LVtXaYR0o)
 - [Crysis 2 remastered](https://www.youtube.com/watch?v=q23RKga6_JI)
 - [Crysis 3 remastered](https://www.youtube.com/playlist?list=PLPU-AfmLL5JWQuk78hpGFJNXpEQrShchV)
+- [Alan Wake remastered](https://www.youtube.com/watch?v=Zc5PhjD59pg)
 
 ### PC & PS VITA
 
