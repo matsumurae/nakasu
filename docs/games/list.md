@@ -578,6 +578,7 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 | NieR: Replicant ver.1.22474487139… | ニーア レプリカント ver.1.22474487139… | ❌ | ✅ | ❌ |
 | As Dusk Falls | — | ❌ | ✅ | ❌ |
 | Metro Exodus | メトロ エクソダス | ❌ | ✅ | ❌ |
+| Devil May Cry 5 | デビル メイ クライ 5 | ❌ | ✅ | ❌ |
 
 ### Gameplays
 
@@ -655,6 +656,7 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 - [NieR: Replicant ver.1.22474487139…](https://www.youtube.com/playlist?list=PLyqi9vd697GKZD1pr9nOyy4KWKXdb7aTp)
 - [As Dusk Falls](https://www.youtube.com/watch?v=dBommmlXr50)
 - [Metro Exodus](https://www.youtube.com/watch?v=qtuPnMT549s)
+- [Devil May Cry 5](https://www.youtube.com/playlist?list=PL4fd59i0eA3UjqMk296mzZ7zbklV3OsQn)
 
 ## Gamecube
 
