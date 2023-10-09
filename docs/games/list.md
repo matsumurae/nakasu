@@ -579,6 +579,7 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 | As Dusk Falls | — | ❌ | ✅ | ❌ |
 | Metro Exodus | メトロ エクソダス | ❌ | ✅ | ❌ |
 | Devil May Cry 5 | デビル メイ クライ 5 | ❌ | ✅ | ❌ |
+| Hi-Fi RUSH | ハイファイ ラッシュ | ❌ | ✅ | ❌ |
 
 ### Gameplays
 
@@ -657,6 +658,7 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 - [As Dusk Falls](https://www.youtube.com/watch?v=dBommmlXr50)
 - [Metro Exodus](https://www.youtube.com/watch?v=qtuPnMT549s)
 - [Devil May Cry 5](https://www.youtube.com/playlist?list=PL4fd59i0eA3UjqMk296mzZ7zbklV3OsQn)
+- [Hi-Fi RUSH](https://www.youtube.com/watch?v=0_4hsm2c7E4)
 
 ## Gamecube
 
