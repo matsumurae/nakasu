@@ -580,6 +580,7 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 | Metro Exodus | メトロ エクソダス | ❌ | ✅ | ❌ |
 | Devil May Cry 5 | デビル メイ クライ 5 | ❌ | ✅ | ❌ |
 | Hi-Fi RUSH | ハイファイ ラッシュ | ❌ | ✅ | ❌ |
+| Little Witch Academia: Chamber of Time | リトル・ウィッチアカデミア：時間の魔法と七不思議 | ❌ | ✅ | ❌ |
 
 ### Gameplays
 
@@ -659,6 +660,7 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 - [Metro Exodus](https://www.youtube.com/watch?v=qtuPnMT549s)
 - [Devil May Cry 5](https://www.youtube.com/playlist?list=PL4fd59i0eA3UjqMk296mzZ7zbklV3OsQn)
 - [Hi-Fi RUSH](https://www.youtube.com/watch?v=0_4hsm2c7E4)
+- [Little Witch Academia](https://www.youtube.com/playlist?list=PLTeU8ZdqdidWAw3DUAmrZQmLbxmhEr8lq)
 
 ## Gamecube
 
