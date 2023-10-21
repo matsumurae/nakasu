@@ -215,6 +215,8 @@ nav_order: 3
 - [津田健次郎](https://www.youtube.com/@user-hj2gu4ql8e)
 - [YUYUの日本語Podcast](https://www.youtube.com/@yuyunihongopodcast)
 - [Japanese Language Community　 絵里子塾　ERIKO JUKU (subs JP hardcode)](https://www.youtube.com/@erikojuku)
+- [The Bite size Japanese Podcast](https://www.youtube.com/channel/UCc8QJqwkWe9RcKYZTY2Ezuw)
+- [Speak Japanese Naturally](https://www.youtube.com/@SpeakJapaneseNaturally)
 
 ### Real-life VLOGS
 
