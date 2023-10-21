@@ -1,0 +1,77 @@
+// Make big size
+
+$sidebar-width: 16.5rem;
+
+.site-footer {
+    display: none;
+}
+
+@media (min-width: 800px) {
+    .side-bar {
+        width: $sidebar-width;
+    }
+    .site-nav {
+        padding-top: 1rem;
+    }
+    .main {
+        margin-left: $sidebar-width;
+        max-width: 100%;
+    }
+}
+
+// Blockquote custom styles for speakers
+
+$red: #dd2e2e;
+$yellow: #e7af06;
+$purple: #381885;
+$green: #026e57;
+$blue: #183385;
+$dark: #343a40;
+
+blockquote {
+    h4 {
+        font-weight: bold;
+    }
+    p {
+        margin: 0;
+    }
+}
+
+.blockquote {
+    &--red {
+        border-left: 4px solid $red;
+        h4 {
+            color: $red;
+        }
+    }
+    &--yellow {
+        border-left: 4px solid $yellow;
+        h4 {
+            color: $yellow;
+        }
+    }
+    &--purple {
+        border-left: 4px solid $purple;
+        h4 {
+            color: $purple;
+        }
+    }
+    &--green {
+        border-left: 4px solid $green;
+        h4 {
+            color: $green;
+        }
+    }
+    &--blue {
+        border-left: 4px solid $blue;
+        h4 {
+            color: $blue;
+        }
+    }
+    &--dark {
+        border-left: 4px solid $dark;
+        h4 {
+            color: $dark;
+        }
+    }
+}
