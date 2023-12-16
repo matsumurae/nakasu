@@ -587,6 +587,7 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 | Little Witch Academia: Chamber of Time     | リトル・ウィッチアカデミア：時間の魔法と七不思議 |  ❌                 | ✅                     | ❌                     |
 | Devil May Cry 5                            | デビル メイ クライ 5                             |  ❌                 | ✅                     | ❌                     |
 | Gamedec                                    | —                                                |  ❌                 | ✅                     | ❌                     |
+| Killer is dead                             | キラーイズデット                                 |  ❌                 | ✅                     | ❌                     |
 
 ### Gameplays
 
@@ -669,6 +670,7 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 -   [Little Witch Academia](https://www.youtube.com/playlist?list=PLTeU8ZdqdidWAw3DUAmrZQmLbxmhEr8lq)
 -   [Devil May Cry 5](https://www.youtube.com/playlist?list=PLYQwk2STjWv2reAzxJHG6LgfqYRfHl8J6)
 -   [Gamedec](https://www.youtube.com/watch?v=clQB70YkupM)
+-   [Killer is dead](https://www.youtube.com/watch?v=9BEnG1Rjnx4)
 
 ## Gamecube
 
