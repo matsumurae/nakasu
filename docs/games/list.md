@@ -183,6 +183,7 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 | Crysis 3 remastered ⭐️                                                                                       | クライシス 2 リマスター                                                             |  ❌                 | ✅                      | ❌                       |
 | Alan Wake Remastered ⭐️                                                                                      | アランウェイク                                                                      |  ❌                 | ✅                      | ❌                       |
 | Fate/Samurai Remnant 🇯🇵                                                                                       | フェイト/サムライレムナント                                                         |  ❌                 | ✅                      | ❌                       |
+| Trek to Yomi ⭐️                                                                                              | —                                                                                   |  ❌                 | ✅                      | ❌                       |
 
 #### Gameplays
 
@@ -330,6 +331,7 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 -   [Crysis 3 remastered](https://www.youtube.com/playlist?list=PLPU-AfmLL5JWQuk78hpGFJNXpEQrShchV)
 -   [Alan Wake remastered](https://www.youtube.com/watch?v=Zc5PhjD59pg)
 -   [Fate/Samurai Remnant](https://www.youtube.com/watch?v=AbRkXMpZpZE&list=PLSORw0Liv932hZPlG_d8GJ9yxtlHaIsdv)
+-   [Trek to Yomi](https://www.youtube.com/playlist?list=PLYQwk2STjWv1qAf8jaAnqD0A4HP4fS4eg)
 
 ### PC & PS VITA
 
