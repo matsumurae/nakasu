@@ -592,6 +592,7 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 | Devil May Cry 5                                   | デビル メイ クライ 5                             |  ❌                 | ✅                     | ❌                     |
 | Gamedec                                           | —                                                |  ❌                 | ✅                     | ❌                     |
 | Killer is dead                                    | キラーイズデット                                 |  ❌                 | ✅                     | ❌                     |
+| Sense - 不祥的预感: A Cyberpunk Ghost Story       | —                                                |  ❌                 | ❌                     | ❌                     |
 
 ### Gameplays
 
@@ -677,6 +678,7 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 -   [Devil May Cry 5](https://www.youtube.com/playlist?list=PLYQwk2STjWv2reAzxJHG6LgfqYRfHl8J6)
 -   [Gamedec](https://www.youtube.com/watch?v=clQB70YkupM)
 -   [Killer is dead](https://www.youtube.com/watch?v=9BEnG1Rjnx4)
+-   [Sense - 不祥的预感: A Cyberpunk Ghost Story](https://www.youtube.com/playlist?list=PLyFdKgbtQEMKCPscNbaLSg4sjqONa3ahM)
 
 ## Gamecube
 
