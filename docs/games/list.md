@@ -446,6 +446,12 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 | Trendy God 1 🇯🇵                                                                    | 流行り神１                                                                          |  ❌                 | ❌                            | ❌                                            |
 | Trendy God 2 🇯🇵                                                                    | 流行り神 2                                                                          |  ❌                 | ❌                            | ❌                                            |
 | Trendy God 3 🇯🇵                                                                    | 流行り神 3                                                                          |  ❌                 | ❌                            | ❌                                            |
+| Hakuoki Shinka Tenun no Shou 🇯🇵                                                    | 薄桜鬼 真改 天雲ノ抄                                                                |  ❌                 | ✅ (Voz propia excluida)      | ❌                                            |
+| Hakuoki Shinkai Fuukaden 🇯🇵                                                        | 薄桜鬼 真改 風華伝                                                                  |  ❌                 | ✅ (Voz propia excluida)      | ❌                                            |
+| Hakuoki Shinkai Ginsei no Sho 🇯🇵                                                   | 薄桜鬼 真改 銀星ノ抄                                                                |  ❌                 | ✅ (Voz propia excluida)      | ❌                                            |
+| Hakuoki Shinkai Tsukikage no Sho 🇯🇵                                                | 薄桜鬼 真改 月影ノ抄                                                                |  ❌                 | ✅ (Voz propia excluida)      | ❌                                            |
+| Hakuouki SSL Sweet School Life 🇯🇵                                                  | 薄桜鬼 SSL ～ sweet school life ～                                                  |  ❌                 | ✅ (Voz propia excluida)      | ❌                                            |
+| Hakuouki Shinkai: Manyou no Shou 🇯🇵                                                | 薄桜鬼 真改 万葉ノ抄                                                                |  ❌                 | ✅ (Voz propia excluida)      | ❌                                            |
 
 ### Gameplay
 
@@ -498,101 +504,105 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 
 ## PC
 
-| Nombre                                            | Nombre japonés                                   | ¿Voice / audio log? | ¿Voice / audio acting? | ¿furigana?             |
-| :------------------------------------------------ | :----------------------------------------------- | :------------------ | :--------------------- | :--------------------- |
-| Red Dead Redemption 2                             | レッドデッドリデンプション 2                     |  ❌                 | ❌ (Voces en inglés)   | ❌                     |
-| Malus Code                                        |   マルスコード                                   |  ❌                 | ✅                     | ✅ (simultaneos EN+JP) |
-| Karakara                                          |   カラカラ                                       |  ❌                 | ✅                     | ❌ (simultaneos EN+JP) |
-| Corona Blossom Vol 1 y Vol 2                      |  -                                               |  ❌                 | ✅                     | ❌ (simultaneos EN+JP) |
-| Tales of Arise                                    | テイルズ オブ アライズ                           |  ❌                 | ❌ (solo animaciones)  | ❌                     |
-| Yakuza 0                                          | 龍が如く 0 誓いの場所                            |  ❌                 | ❌ (solo animaciones)  | ❌                     |
-| Yakuza Kiwami                                     | 龍が如く極                                       |  ❌                 | ✅                     | ❌                     |
-| Yakuza Kiwami 2                                   | 龍が如く 極 2                                    |  ❌                 | ✅                     | ❌                     |
-| Yakuza 3                                          | 龍が如く 3                                       |  ❌                 | ✅                     | ❌                     |
-| Yakuza 4                                          | 龍が如く 4 伝説を継ぐもの                        |  ❌                 | ✅                     | ❌                     |
-| Yakuza 5                                          | 龍が如く 5 夢、叶えし者                          |  ❌                 | ✅                     | ❌                     |
-| Yakuza 6: The Song of Life                        | 龍が如く 6 命の詩                                |  ❌                 | ✅                     | ❌                     |
-| Yakuza: Like a Dragon                             | 龍が如く 7 光と闇の行方                          |  ❌                 | ✅                     | ❌                     |
-| Like a dragon: Ishin!                             | 龍が如く 維新! 極                                |  ❌                 | ✅                     | ❌                     |
-| Like a Dragon Gaiden: The Man Who Erased His Name | 龍が如く 7 外伝 名を消した男                     |  ❌                 | ✅                     | ❌                     |
-| Judgment                                          | JUDGE EYES: 死神の遺言                           |  ❌                 | ✅                     | ❌                     |
-| Lost Judgment                                     | LOST JUDGMENT：裁かれざる記憶                    |  ❌                 | ✅                     | ❌                     |
-| Heavy Rain                                        | HEAVY RAIN 心の軋むとき                          |  ❌                 | ✅                     | ❌                     |
-| Beyond: Two Souls                                 | —                                                |  ❌                 | ✅                     | ❌                     |
-| WitchSpring R                                     | 魔女の泉 R                                       |  ❌                 | ✅                     | ❌                     |
-| Ghostwire: Tokyo                                  | ゴーストワイヤー：トーキョー                     |  ❌                 | ✅                     | ❌                     |
-| Dishonored 2                                      | ディスオナード 2                                 |  ❌                 | ✅                     | ❌                     |
-| Dishonored: Death of the Outsider                 | ディスオナード デスオブアウトサイダー 攻略       |  ❌                 | ✅                     | ❌                     |
-| Metal Gear Solid V                                | メタルギアソリッド V ファントムペイン            |  ❌                 | ✅                     | ❌                     |
-| FFXV                                              | ファイナルファンタジー XV                        |  ❌                 | ✅                     | ❌                     |
-| Death Stranding                                   | デス・ストランディング                           |  ❌                 | ✅                     | ✅                     |
-| Detroit: Become Human                             | デトロイト ビカム ヒューマン                     |  ❌                 | ✅                     | ❌                     |
-| Deathloop                                         | Deathloop                                        |  ❌                 | ✅                     | ❌                     |
-| One Piece Odyssey                                 | ワンピース オデッセイ                            |  ❌                 | ✅                     | ❌                     |
-| Cyberpunk 2077                                    | サイバーパンク エッジランナーズ                  |  ❌                 | ✅                     | ❌                     |
-| Toukiden 2                                        | 討鬼伝 2                                         |  ❌                 | ✅                     | ❌                     |
-| Wild Hearts                                       | ワイルドハルスト                                 |  ❌                 | ?                      | ❌                     |
-| Uncharted: Collection                             | アンチャーテッド エル                            |  ❌                 | ✅                     | ❌                     |
-| The Darkness 2                                    | ダークネス 2                                     |  ❌                 | ✅                     | ❌                     |
-| Tokyo Xanadu eX+                                  | 東亰ザナドゥ                                     |  ❌                 | ✅                     | ❌                     |
-| Guardians of the Galaxy                           | ガーディアンズ・オブ・ギャラクシー               |  ❌                 | ✅                     | ❌                     |
-| Prey                                              | 『PREY』                                         |  ❌                 | ✅                     | ❌                     |
-| Fallout 4                                         | 『Fallout 4』                                    |  ❌                 | ✅                     | ❌                     |
-| The Legend of Heroes: Trails of Cold Steel        | 英雄伝説 閃の軌跡                                |  ❌                 | ✅                     | ❌                     |
-| Eternights                                        | エターナイツ                                     |  ❌                 | ✅                     | ❌                     |
-| Nova Antarctica                                   | 南極計画                                         |  ❌                 | ❌                     | ❌                     |
-| Assassin's Creed: Unity                           | アサシン クリード ユニティ                       |  ❌                 | ✅                     | ❌                     |
-| Assassin's Creed: Syndicate                       | アサシン クリード シンジケート                   |  ❌                 | ✅                     | ❌                     |
-| Assassin's creed: Origins                         | アサシン クリード オリジンズ                     |  ❌                 | ✅                     | ❌                     |
-| Assassin's creed: Odyssey                         | アサシン クリード オデッセイ                     |  ❌                 | ✅                     | ❌                     |
-| Assassin's creed: Valhalla                        | アサシン クリード ヴァルハラ                     |  ❌                 | ✅                     | ❌                     |
-| God of War                                        | ゴッド・オブ・ウォー                             |  ❌                 | ✅                     | ❌                     |
-| God of War: Ragnarök                              | ゴッド・オブ・ウォー ラグナロク                  |  ❌                 | ✅                     | ❌                     |
-| Middle-earth: Shadow of War                       | Middle-earth: シャドウオブワー                   |  ❌                 | ✅                     | ❌                     |
-| Nioh                                              | 仁王                                             |  ❌                 | ✅                     | ❌                     |
-| Nioh 2                                            | 仁王 2                                           |  ❌                 | ✅                     | ❌                     |
-| Wo Long: Fallen Dynasty                           | ウォーロン フォールン ダイナスティ               |  ❌                 | ✅                     | ❌                     |
-| System Shock                                      | システムショック                                 |  ❌                 | ✅                     | ❌                     |
-| Wayfinder                                         | ウェイファインダー                               |  ❌                 | ✅                     | ❌                     |
-| Immortals of Aveum                                | アヴェウムの騎士団                               |  ❌                 | ✅                     | ❌                     |
-| Cineris somnia                                    | —                                                |  ❌                 | ✅                     | ❌                     |
-| Calisto protocol                                  | —                                                |  ❌                 | ✅                     | ❌                     |
-| Rise of the tomb raider                           | —                                                |  ❌                 | ✅                     | ❌                     |
-| Marvel’s Spider-Man: Miles Morales                | マーベルスパイダーマンマイルズモラレス           |  ❌                 | ✅                     | ❌                     |
-| Ratchet & Clank: Parallel Trouble                 | ラチェット&クランク パラレル・トラブル           |  ❌                 | ✅                     | ❌                     |
-| Returnal                                          | リターナル                                       |  ❌                 | ✅                     | ❌                     |
-| The Last of Us Part I                             | ザ・ラスト・オブ・アス                           |  ❌                 | ✅                     | ❌                     |
-| Marvel’s Spider-Man Remastered                    | マーベルスパイダーマン リマスター                |  ❌                 | ✅                     | ❌                     |
-| Everybody's Gone to the Rapture                   | マーベルスパイダーマン リマスター                |  ❌                 | ✅                     | ❌                     |
-| Halo: Reach                                       | ヘイロー リーチ                                  |  ❌                 | ✅                     | ❌                     |
-| Halo 2: Anniversary                               | ヘイロー 2                                       |  ❌                 | ✅                     | ❌                     |
-| Halo 3                                            | ヘイロー 3                                       |  ❌                 | ✅                     | ❌                     |
-| Halo 3: OSDT                                      | ヘイロー 3 オー・ディー・エス・ティー            |  ❌                 | ✅                     | ❌                     |
-| Forspoken                                         | フォースポークン                                 |  ❌                 | ✅                     | ❌                     |
-| STAR OCEAN THE DIVINE FORCE                       | スターオーシャン６ ザディヴァインフォース        |  ❌                 | ✅                     | ❌                     |
-| Marvel's Midnight Sun                             | マーベル ミッドナイト・サンズ                    |  ❌                 | ✅                     | ❌                     |
-| Mirror's Edge™ Catalyst                           | ミラーズエッジ カタリスト                        |  ❌                 | ✅                     | ❌                     |
-| Code Vein                                         | コードヴェイン                                   |  ❌                 | ✅                     | ❌                     |
-| Call of duty: modern warfare                      | コール オブ デューティ モダン・ウォーフェア      |  ❌                 | ✅                     | ❌                     |
-| Call of duty: modern warfare 2                    | コール オブ デューティ モダン・ウォーフェア 2    |  ❌                 | ✅                     | ❌                     |
-| DOOM                                              | ドゥーム                                         |  ❌                 | ✅                     | ❌                     |
-| DOOM Eternal                                      | ドゥーム エターナル                              |  ❌                 | ✅                     | ❌                     |
-| DOOM Eternal                                      | ワンダーランズ ～タイニー・ティナと魔法の世界    |  ❌                 | ✅                     | ❌                     |
-| Tiny tina's wonderlands                           | ワンダーランズ ～タイニー・ティナと魔法の世界    |  ❌                 | ✅                     | ❌                     |
-| Shadow Tactics: Aiko's Choice                     | シャドウタクティクス アイコ ズ チョイス          |  ❌                 | ✅                     | ❌                     |
-| Shadow Tactics: Blades of the Shogun              | シャドウタクティクス キーを押してスタート        |  ❌                 | ✅                     | ❌                     |
-| RUINSMAGUS                                        | ルインズメイガス                                 |  ❌                 | ✅                     | ❌                     |
-| Nights of Azure                                   | よるのないくに                                   |  ❌                 | ✅                     | ❌                     |
-| NieR: Replicant ver.1.22474487139…                | ニーア レプリカント ver.1.22474487139…           |  ❌                 | ✅                     | ❌                     |
-| As Dusk Falls                                     | —                                                |  ❌                 | ✅                     | ❌                     |
-| Metro Exodus                                      | メトロ エクソダス                                |  ❌                 | ✅                     | ❌                     |
-| Devil May Cry 5                                   | デビル メイ クライ 5                             |  ❌                 | ✅                     | ❌                     |
-| Hi-Fi RUSH                                        | ハイファイ ラッシュ                              |  ❌                 | ✅                     | ❌                     |
-| Little Witch Academia: Chamber of Time            | リトル・ウィッチアカデミア：時間の魔法と七不思議 |  ❌                 | ✅                     | ❌                     |
-| Devil May Cry 5                                   | デビル メイ クライ 5                             |  ❌                 | ✅                     | ❌                     |
-| Gamedec                                           | —                                                |  ❌                 | ✅                     | ❌                     |
-| Killer is dead                                    | キラーイズデット                                 |  ❌                 | ✅                     | ❌                     |
-| Sense - 不祥的预感: A Cyberpunk Ghost Story       | —                                                |  ❌                 | ❌                     | ❌                     |
+| Nombre                                            | Nombre japonés                                   | ¿Voice / audio log? | ¿Voice / audio acting?   | ¿furigana?             |
+| :------------------------------------------------ | :----------------------------------------------- | :------------------ | :----------------------- | :--------------------- |
+| Red Dead Redemption 2                             | レッドデッドリデンプション 2                     |  ❌                 | ❌ (Voces en inglés)     | ❌                     |
+| Malus Code                                        |   マルスコード                                   |  ❌                 | ✅                       | ✅ (simultaneos EN+JP) |
+| Karakara                                          |   カラカラ                                       |  ❌                 | ✅                       | ❌ (simultaneos EN+JP) |
+| Corona Blossom Vol 1 y Vol 2                      |  -                                               |  ❌                 | ✅                       | ❌ (simultaneos EN+JP) |
+| Tales of Arise                                    | テイルズ オブ アライズ                           |  ❌                 | ❌ (solo animaciones)    | ❌                     |
+| Yakuza 0                                          | 龍が如く 0 誓いの場所                            |  ❌                 | ❌ (solo animaciones)    | ❌                     |
+| Yakuza Kiwami                                     | 龍が如く極                                       |  ❌                 | ✅                       | ❌                     |
+| Yakuza Kiwami 2                                   | 龍が如く 極 2                                    |  ❌                 | ✅                       | ❌                     |
+| Yakuza 3                                          | 龍が如く 3                                       |  ❌                 | ✅                       | ❌                     |
+| Yakuza 4                                          | 龍が如く 4 伝説を継ぐもの                        |  ❌                 | ✅                       | ❌                     |
+| Yakuza 5                                          | 龍が如く 5 夢、叶えし者                          |  ❌                 | ✅                       | ❌                     |
+| Yakuza 6: The Song of Life                        | 龍が如く 6 命の詩                                |  ❌                 | ✅                       | ❌                     |
+| Yakuza: Like a Dragon                             | 龍が如く 7 光と闇の行方                          |  ❌                 | ✅                       | ❌                     |
+| Like a dragon: Ishin!                             | 龍が如く 維新! 極                                |  ❌                 | ✅                       | ❌                     |
+| Like a Dragon Gaiden: The Man Who Erased His Name | 龍が如く 7 外伝 名を消した男                     |  ❌                 | ✅                       | ❌                     |
+| Judgment                                          | JUDGE EYES: 死神の遺言                           |  ❌                 | ✅                       | ❌                     |
+| Lost Judgment                                     | LOST JUDGMENT：裁かれざる記憶                    |  ❌                 | ✅                       | ❌                     |
+| Heavy Rain                                        | HEAVY RAIN 心の軋むとき                          |  ❌                 | ✅                       | ❌                     |
+| Beyond: Two Souls                                 | —                                                |  ❌                 | ✅                       | ❌                     |
+| WitchSpring R                                     | 魔女の泉 R                                       |  ❌                 | ✅                       | ❌                     |
+| Ghostwire: Tokyo                                  | ゴーストワイヤー：トーキョー                     |  ❌                 | ✅                       | ❌                     |
+| Dishonored 2                                      | ディスオナード 2                                 |  ❌                 | ✅                       | ❌                     |
+| Dishonored: Death of the Outsider                 | ディスオナード デスオブアウトサイダー 攻略       |  ❌                 | ✅                       | ❌                     |
+| Metal Gear Solid V                                | メタルギアソリッド V ファントムペイン            |  ❌                 | ✅                       | ❌                     |
+| FFXV                                              | ファイナルファンタジー XV                        |  ❌                 | ✅                       | ❌                     |
+| Death Stranding                                   | デス・ストランディング                           |  ❌                 | ✅                       | ✅                     |
+| Detroit: Become Human                             | デトロイト ビカム ヒューマン                     |  ❌                 | ✅                       | ❌                     |
+| Deathloop                                         | Deathloop                                        |  ❌                 | ✅                       | ❌                     |
+| One Piece Odyssey                                 | ワンピース オデッセイ                            |  ❌                 | ✅                       | ❌                     |
+| Cyberpunk 2077                                    | サイバーパンク エッジランナーズ                  |  ❌                 | ✅                       | ❌                     |
+| Toukiden: Kiwami                                  | 討鬼伝極                                         |  ❌                 | ✅                       | ❌                     |
+| Toukiden 2                                        | 討鬼伝 2                                         |  ❌                 | ✅                       | ❌                     |
+| Wild Hearts                                       | ワイルドハルスト                                 |  ❌                 | ?                        | ❌                     |
+| Uncharted: Collection                             | アンチャーテッド エル                            |  ❌                 | ✅                       | ❌                     |
+| The Darkness 2                                    | ダークネス 2                                     |  ❌                 | ✅                       | ❌                     |
+| Tokyo Xanadu eX+                                  | 東亰ザナドゥ                                     |  ❌                 | ✅                       | ❌                     |
+| Guardians of the Galaxy                           | ガーディアンズ・オブ・ギャラクシー               |  ❌                 | ✅                       | ❌                     |
+| Prey                                              | 『PREY』                                         |  ❌                 | ✅                       | ❌                     |
+| Fallout 4                                         | 『Fallout 4』                                    |  ❌                 | ✅                       | ❌                     |
+| The Legend of Heroes: Trails of Cold Steel        | 英雄伝説 閃の軌跡                                |  ❌                 | ✅                       | ❌                     |
+| Eternights                                        | エターナイツ                                     |  ❌                 | ✅                       | ❌                     |
+| Nova Antarctica                                   | 南極計画                                         |  ❌                 | ❌                       | ❌                     |
+| Assassin's Creed: Unity                           | アサシン クリード ユニティ                       |  ❌                 | ✅                       | ❌                     |
+| Assassin's Creed: Syndicate                       | アサシン クリード シンジケート                   |  ❌                 | ✅                       | ❌                     |
+| Assassin's creed: Origins                         | アサシン クリード オリジンズ                     |  ❌                 | ✅                       | ❌                     |
+| Assassin's creed: Odyssey                         | アサシン クリード オデッセイ                     |  ❌                 | ✅                       | ❌                     |
+| Assassin's creed: Valhalla                        | アサシン クリード ヴァルハラ                     |  ❌                 | ✅                       | ❌                     |
+| God of War                                        | ゴッド・オブ・ウォー                             |  ❌                 | ✅                       | ❌                     |
+| God of War: Ragnarök                              | ゴッド・オブ・ウォー ラグナロク                  |  ❌                 | ✅                       | ❌                     |
+| Middle-earth: Shadow of War                       | Middle-earth: シャドウオブワー                   |  ❌                 | ✅                       | ❌                     |
+| Nioh                                              | 仁王                                             |  ❌                 | ✅                       | ❌                     |
+| Nioh 2                                            | 仁王 2                                           |  ❌                 | ✅                       | ❌                     |
+| Wo Long: Fallen Dynasty                           | ウォーロン フォールン ダイナスティ               |  ❌                 | ✅                       | ❌                     |
+| System Shock                                      | システムショック                                 |  ❌                 | ✅                       | ❌                     |
+| Wayfinder                                         | ウェイファインダー                               |  ❌                 | ✅                       | ❌                     |
+| Immortals of Aveum                                | アヴェウムの騎士団                               |  ❌                 | ✅                       | ❌                     |
+| Cineris somnia                                    | —                                                |  ❌                 | ✅                       | ❌                     |
+| Calisto protocol                                  | —                                                |  ❌                 | ✅                       | ❌                     |
+| Rise of the tomb raider                           | —                                                |  ❌                 | ✅                       | ❌                     |
+| Marvel’s Spider-Man: Miles Morales                | マーベルスパイダーマンマイルズモラレス           |  ❌                 | ✅                       | ❌                     |
+| Ratchet & Clank: Parallel Trouble                 | ラチェット&クランク パラレル・トラブル           |  ❌                 | ✅                       | ❌                     |
+| Returnal                                          | リターナル                                       |  ❌                 | ✅                       | ❌                     |
+| The Last of Us Part I                             | ザ・ラスト・オブ・アス                           |  ❌                 | ✅                       | ❌                     |
+| Marvel’s Spider-Man Remastered                    | マーベルスパイダーマン リマスター                |  ❌                 | ✅                       | ❌                     |
+| Everybody's Gone to the Rapture                   | マーベルスパイダーマン リマスター                |  ❌                 | ✅                       | ❌                     |
+| Halo: Reach                                       | ヘイロー リーチ                                  |  ❌                 | ✅                       | ❌                     |
+| Halo 2: Anniversary                               | ヘイロー 2                                       |  ❌                 | ✅                       | ❌                     |
+| Halo 3                                            | ヘイロー 3                                       |  ❌                 | ✅                       | ❌                     |
+| Halo 3: OSDT                                      | ヘイロー 3 オー・ディー・エス・ティー            |  ❌                 | ✅                       | ❌                     |
+| Forspoken                                         | フォースポークン                                 |  ❌                 | ✅                       | ❌                     |
+| STAR OCEAN THE DIVINE FORCE                       | スターオーシャン６ ザディヴァインフォース        |  ❌                 | ✅                       | ❌                     |
+| Marvel's Midnight Sun                             | マーベル ミッドナイト・サンズ                    |  ❌                 | ✅                       | ❌                     |
+| Mirror's Edge™ Catalyst                           | ミラーズエッジ カタリスト                        |  ❌                 | ✅                       | ❌                     |
+| Code Vein                                         | コードヴェイン                                   |  ❌                 | ✅                       | ❌                     |
+| Call of duty: modern warfare                      | コール オブ デューティ モダン・ウォーフェア      |  ❌                 | ✅                       | ❌                     |
+| Call of duty: modern warfare 2                    | コール オブ デューティ モダン・ウォーフェア 2    |  ❌                 | ✅                       | ❌                     |
+| DOOM                                              | ドゥーム                                         |  ❌                 | ✅                       | ❌                     |
+| DOOM Eternal                                      | ドゥーム エターナル                              |  ❌                 | ✅                       | ❌                     |
+| DOOM Eternal                                      | ワンダーランズ ～タイニー・ティナと魔法の世界    |  ❌                 | ✅                       | ❌                     |
+| Tiny tina's wonderlands                           | ワンダーランズ ～タイニー・ティナと魔法の世界    |  ❌                 | ✅                       | ❌                     |
+| Shadow Tactics: Aiko's Choice                     | シャドウタクティクス アイコ ズ チョイス          |  ❌                 | ✅                       | ❌                     |
+| Shadow Tactics: Blades of the Shogun              | シャドウタクティクス キーを押してスタート        |  ❌                 | ✅                       | ❌                     |
+| RUINSMAGUS                                        | ルインズメイガス                                 |  ❌                 | ✅                       | ❌                     |
+| Nights of Azure                                   | よるのないくに                                   |  ❌                 | ✅                       | ❌                     |
+| NieR: Replicant ver.1.22474487139…                | ニーア レプリカント ver.1.22474487139…           |  ❌                 | ✅                       | ❌                     |
+| As Dusk Falls                                     | —                                                |  ❌                 | ✅                       | ❌                     |
+| Metro Exodus                                      | メトロ エクソダス                                |  ❌                 | ✅                       | ❌                     |
+| Devil May Cry 5                                   | デビル メイ クライ 5                             |  ❌                 | ✅                       | ❌                     |
+| Hi-Fi RUSH                                        | ハイファイ ラッシュ                              |  ❌                 | ✅                       | ❌                     |
+| Little Witch Academia: Chamber of Time            | リトル・ウィッチアカデミア：時間の魔法と七不思議 |  ❌                 | ✅                       | ❌                     |
+| Devil May Cry 5                                   | デビル メイ クライ 5                             |  ❌                 | ✅                       | ❌                     |
+| Gamedec                                           | —                                                |  ❌                 | ✅                       | ❌                     |
+| Killer is dead                                    | キラーイズデット                                 |  ❌                 | ✅                       | ❌                     |
+| Sense - 不祥的预感: A Cyberpunk Ghost Story       | —                                                |  ❌                 | ❌                       | ❌                     |
+| Soul Hackers 2                                    | ソウルハッカーズ 2                               |  ❌                 | ✅                       | ❌                     |
+| Hakuoki: Kyoto Winds                              | 薄桜鬼 真改 風ノ章                               |  ❌                 | ✅ (Voz propia excluida) | ❌                     |
+| Hakuoki: Edo Blossoms                             | 薄櫻鬼 真改 華之章                               |  ❌                 | ✅ (Voz propia excluida) | ❌                     |
 
 ### Gameplays
 
@@ -611,6 +621,7 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 -   [Tokyo Xanadu eX+](https://www.youtube.com/playlist?list=PLHz0YXZjXt-tYMRrdxWaOqG7rgoEVdqCG)
 -   [The darkness 2](https://www.youtube.com/playlist?list=PLA46F9A5679261936)
 -   [Uncharted](https://www.youtube.com/playlist?list=PL4fd59i0eA3UzHkELQLmeGld-_abhvF_k)
+-   [Toukiden: Kiwami](https://www.youtube.com/playlist?list=PLUlwjysCZPexeR3Lt1hxfRX2Ff0eXn0mH)
 -   Toukiden 2: [Opt 1](https://www.youtube.com/playlist?list=PLHz0YXZjXt-sOgPiGh2jHUrfHyQpJ0H-E), [Opt 2](https://www.youtube.com/playlist?list=PLUlwjysCZPex5hpV-A-3y9pl2KaXoLVRy)
 -   Cyberpunk 2077: [Opt 1](https://www.youtube.com/playlist?list=PLO3E3Cv6CpBiBKpDHVEsDYFB58iad3Cj1), [Opt 2](https://www.youtube.com/playlist?list=PL1Z1KdfmKueaj2fES0qjNpxiCR5oiKQQ1)
 -   [One piece odyssey](https://www.youtube.com/playlist?list=PLOZOho2RXG3wKUGScA31QjCn3tapp0-ss)
@@ -679,6 +690,7 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 -   [Gamedec](https://www.youtube.com/watch?v=clQB70YkupM)
 -   [Killer is dead](https://www.youtube.com/watch?v=9BEnG1Rjnx4)
 -   [Sense - 不祥的预感: A Cyberpunk Ghost Story](https://www.youtube.com/playlist?list=PLyFdKgbtQEMKCPscNbaLSg4sjqONa3ahM)
+-   [Soul Hackers 2](https://www.youtube.com/playlist?list=PLdE0IEHoC0TVWGk7ncr5VF9ODuovUlkuF)
 
 ## Gamecube
 
