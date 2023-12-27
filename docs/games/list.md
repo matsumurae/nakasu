@@ -184,6 +184,8 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 | Alan Wake Remastered ⭐️                                                                                      | アランウェイク                                                                      |  ❌                 | ✅                      | ❌                       |
 | Fate/Samurai Remnant 🇯🇵                                                                                       | フェイト/サムライレムナント                                                         |  ❌                 | ✅                      | ❌                       |
 | Trek to Yomi ⭐️                                                                                              | —                                                                                   |  ❌                 | ✅                      | ❌                       |
+| Made in Abyss: Binary Star Falling into Darkness ⭐️                                                          | メイドインアビス 闇を目指した連星                                                   |  ❌                 | ✅                      | ❌                       |
+| Song of Nunu: A League of Legends Story ⭐️                                                                   | ヌヌの唄：リーグ・オブ・レジェンド ストーリー                                       |  ❌                 | ✅                      | ❌                       |
 
 #### Gameplays
 
@@ -332,6 +334,8 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 -   [Alan Wake remastered](https://www.youtube.com/watch?v=Zc5PhjD59pg)
 -   [Fate/Samurai Remnant](https://www.youtube.com/watch?v=AbRkXMpZpZE&list=PLSORw0Liv932hZPlG_d8GJ9yxtlHaIsdv)
 -   [Trek to Yomi](https://www.youtube.com/playlist?list=PLYQwk2STjWv1qAf8jaAnqD0A4HP4fS4eg)
+-   [Made in Abyss](https://www.youtube.com/playlist?list=PLdE0IEHoC0TWRlQGRMBGswx4bJ26qtwQy)
+-   [Song of Nunu](https://www.youtube.com/playlist?list=PLEbFzYm1aPsSXn-vg1ePiqOo0gHC0xpTu)
 
 ### PC & PS VITA
 
