@@ -791,3 +791,19 @@ permalink: /yt/cooking
 **Cons**
 
 ❌ Nothing.
+
+## オテル・ドゥ・ミクニ 🚹
+
+[Channel link](https://www.youtube.com/@MocomichiHayami)
+
+**Pros**
+
+✅ Good quality videos.
+
+✅ Easy-to-follow, very visual.
+
+✅ Slow speech.
+
+**Cons**
+
+❌ No subs.

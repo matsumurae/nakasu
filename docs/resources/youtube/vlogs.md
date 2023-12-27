@@ -368,6 +368,60 @@ permalink: /yt/vlogs
 
 ❌ No subs.
 
+### とある中国人のむいむい 🚺
+
+[Channel link](https://www.youtube.com/@chinese-muimui)
+
+**Pros**
+
+✅ Conversational.
+
+✅ Real-life.
+
+**Cons**
+
+❌ No subs.
+
+### SAWAYAN CHANNEL / サワヤン チャンネル
+
+[Channel link](https://www.youtube.com/@SAWAYANCHANNEL)
+
+**Pros**
+
+✅ Conversational.
+
+✅ Real-life.
+
+**Cons**
+
+❌ No subs.
+
+### ジョシュア in ロンドン ☆ 🚹
+
+[Channel link](https://www.youtube.com/@joshuainlondon)
+
+**Pros**
+
+✅ Conversational.
+
+✅ Hard JP subs.
+
+**Cons**
+
+❌ Nothing.
+
+### はじめしゃちょー（hajime）🚹
+
+[Channel link](https://www.youtube.com/@hajimesyacho)
+
+**Pros**
+
+✅ Conversational.
+
+**Cons**
+
+❌ No subs.
+
 ## Home - Furniture
 
 ### キオク的サンサク -記憶的散策- 🚹
@@ -528,6 +582,18 @@ permalink: /yt/vlogs
 
 ❌ No JP subs.
 
+### 杏/anne TOKYO 🚺
+
+[Channel link](https://www.youtube.com/@annetokyo)
+
+**Pros**
+
+✅ Hard EN subs.
+
+**Cons**
+
+❌ No JP subs.
+
 ## Kids
 
 ### Ninja Palette 忍者パレット
@@ -602,6 +668,18 @@ permalink: /yt/vlogs
 
 ❌ No EN subs.
 
+### バキ童チャンネル【ぐんぴぃ】🚹
+
+[Channel link](https://www.youtube.com/@bakibakiDT)
+
+**Pros**
+
+✅ Real-life interviews.
+
+**Cons**
+
+❌ No subs.
+
 ## Games
 
 ### マフィア梶田と中村悠一の「わしゃがな TV」 🚹
@@ -665,6 +743,22 @@ permalink: /yt/vlogs
 ✅ Funny.
 
 ✅ Hard JP subs sometimes.
+
+**Cons**
+
+❌ No EN subs.
+
+## Libros
+
+### 文学 YouTuber ベル 🚺
+
+[Channel link](https://www.youtube.com/@bellebook)
+
+**Pros**
+
+✅ Conversational.
+
+✅ Hard JP subs.
 
 **Cons**
 

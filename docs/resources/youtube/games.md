@@ -323,3 +323,17 @@ permalink: /yt/juegos
 **Cons**
 
 ❌ Speaks a bit fast.
+
+## Sobre juegos
+
+### まさんの駄べり動画 🚹
+
+[Channel link](https://www.youtube.com/@masanlive)
+
+**Pros**
+
+✅ Visual.
+
+**Cons**
+
+❌ Sin subs.

@@ -35,3 +35,17 @@ permalink: /yt/random
 **Cons**
 
 ❌ Nothing.
+
+## 【素潜り漁師】マサル Masaru. 🚹
+
+[Channel link](https://www.youtube.com/@masaru.9268)
+
+**Pros**
+
+✅ Has subs in a lot of languages (EN + ES included).
+
+✅ Slow speech.
+
+**Cons**
+
+❌ No JP subs.

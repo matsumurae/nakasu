@@ -229,3 +229,29 @@ permalink: /yt/deporte
 **Cons**
 
 ❌ Nothing.
+
+## SQUAT SENPAI【山本俊樹】🚹
+
+[Channel link](https://www.youtube.com/@squatsenpai1657)
+
+**Pros**
+
+✅ Good voice.
+
+**Cons**
+
+❌ No subs.
+
+## TAMY Climbing Channel 🚹
+
+[Channel link](https://www.youtube.com/@tamyclimbingchannel800)
+
+**Pros**
+
+✅ EN subs.
+
+✅ Good vids.
+
+**Cons**
+
+❌ No JP subs.

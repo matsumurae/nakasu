@@ -19,3 +19,15 @@ permalink: /yt/historia
 **Cons**
 
 ❌ No subs.
+
+## 社會部部長 🚹
+
+[Channel link](https://www.youtube.com/@shakaibubucho)
+
+**Pros**
+
+✅ Good voice.
+
+**Cons**
+
+❌ No subs.

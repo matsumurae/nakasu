@@ -8,7 +8,7 @@ permalink: /yt/style
 
 # Estilo
 
-## Clothing
+## Ropa
 
 ### シトウレイ チャンネル NEW !!! 🚺
 
@@ -28,7 +28,7 @@ permalink: /yt/style
 
 ❌ No JP subs.
 
-## Makeup
+## Maquillaje
 
 ### アオイの 🚺
 
@@ -245,21 +245,3 @@ permalink: /yt/style
 **Cons**
 
 ❌ Nothing.
-
-## Chemistry
-
-### すみしょう 🚹
-
-[Channel link](https://www.youtube.com/@smishow01)
-
-**Pros**
-
-✅ Professional chemist.
-
-✅ Good content.
-
-**Cons**
-
-❌ Specific language.
-
-❌ No subs.

@@ -21,3 +21,31 @@ permalink: /yt/casas
 **Cons**
 
 ❌ No voice.
+
+## inakamon 🚹
+
+[Channel link](https://www.youtube.com/@inakamon)
+
+**Pros**
+
+✅ Good speech.
+
+✅ Has JP + EN subs.
+
+**Cons**
+
+❌ Nothing.
+
+## じぶん流 DIY ちゃんねる 🚹
+
+[Channel link](https://www.youtube.com/@jibunryu-diy)
+
+**Pros**
+
+✅ Interesting videos.
+
+✅ Has JP hard subs.
+
+**Cons**
+
+❌ No voice.

@@ -105,3 +105,17 @@ permalink: /yt/entrevistas
 **Cons**
 
 ❌ Hard for beginners.
+
+## グロディー TV 🚹
+
+[Channel link](https://www.youtube.com/@GlodyTV)
+
+✅ Interviews around Shibuya.
+
+✅ Hard JP subs.
+
+**Cons**
+
+❌ Hard for beginners.
+
+❌ Fast speech.

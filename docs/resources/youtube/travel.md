@@ -106,6 +106,18 @@ permalink: /yt/viajes
 
 ❌ Robotic voice, horrible to hear.
 
+### おろちんゆー 🚹
+
+[Channel link](https://www.youtube.com/@user-lb6hv2gm7w)
+
+**Pros**
+
+✅ He makes the speech funny.
+
+**Cons**
+
+❌ No subs.
+
 ## Traveling in motorcycle
 
 ### Ruriko_675 🚺
@@ -245,3 +257,17 @@ permalink: /yt/viajes
 **Cons**
 
 ❌ Can be hard to understand due to the helmet.
+
+### ANTI BCSC 🚹
+
+[Channel link](https://www.youtube.com/@ANTIBCSC)
+
+**Pros**
+
+✅ Good travel videos.
+
+✅ Lots of jokes.
+
+**Cons**
+
+❌ No subs.
