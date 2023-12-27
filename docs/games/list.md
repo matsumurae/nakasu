@@ -187,6 +187,7 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 | Made in Abyss: Binary Star Falling into Darkness ⭐️                                                          | メイドインアビス 闇を目指した連星                                                   |  ❌                 | ✅                      | ❌                       |
 | Song of Nunu: A League of Legends Story ⭐️                                                                   | ヌヌの唄：リーグ・オブ・レジェンド ストーリー                                       |  ❌                 | ✅                      | ❌                       |
 | Strange Horticulture ⭐️                                                                                      | —                                                                                   |  ❌                 | ❌                      | ❌                       |
+| Lacuna ⭐️                                                                                                    | —                                                                                   |  ❌                 | ❌                      | ❌                       |
 
 #### Gameplays
 
@@ -338,6 +339,7 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 -   [Made in Abyss](https://www.youtube.com/playlist?list=PLdE0IEHoC0TWRlQGRMBGswx4bJ26qtwQy)
 -   [Song of Nunu](https://www.youtube.com/playlist?list=PLEbFzYm1aPsSXn-vg1ePiqOo0gHC0xpTu)
 -   [Strange Horticulture](https://www.youtube.com/playlist?list=PLGNX6-vX_bx_B6vI1Wc2_i_P6vYYTmln4)
+-   [Lacuna](https://www.youtube.com/playlist?list=PL1jOQCoRf0LwGspfG3gd36zTTwKrx9Gro)
 
 ### PC & PS VITA
 
