@@ -593,7 +593,6 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 | NieR: Replicant ver.1.22474487139…                | ニーア レプリカント ver.1.22474487139…           |  ❌                 | ✅                       | ❌                     |
 | As Dusk Falls                                     | —                                                |  ❌                 | ✅                       | ❌                     |
 | Metro Exodus                                      | メトロ エクソダス                                |  ❌                 | ✅                       | ❌                     |
-| Devil May Cry 5                                   | デビル メイ クライ 5                             |  ❌                 | ✅                       | ❌                     |
 | Hi-Fi RUSH                                        | ハイファイ ラッシュ                              |  ❌                 | ✅                       | ❌                     |
 | Little Witch Academia: Chamber of Time            | リトル・ウィッチアカデミア：時間の魔法と七不思議 |  ❌                 | ✅                       | ❌                     |
 | Devil May Cry 5                                   | デビル メイ クライ 5                             |  ❌                 | ✅                       | ❌                     |
@@ -683,7 +682,6 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 -   [NieR: Replicant ver.1.22474487139…](https://www.youtube.com/playlist?list=PLyqi9vd697GKZD1pr9nOyy4KWKXdb7aTp)
 -   [As Dusk Falls](https://www.youtube.com/watch?v=dBommmlXr50)
 -   [Metro Exodus](https://www.youtube.com/watch?v=qtuPnMT549s)
--   [Devil May Cry 5](https://www.youtube.com/playlist?list=PL4fd59i0eA3UjqMk296mzZ7zbklV3OsQn)
 -   [Hi-Fi RUSH](https://www.youtube.com/watch?v=0_4hsm2c7E4)
 -   [Little Witch Academia](https://www.youtube.com/playlist?list=PLTeU8ZdqdidWAw3DUAmrZQmLbxmhEr8lq)
 -   [Devil May Cry 5](https://www.youtube.com/playlist?list=PLYQwk2STjWv2reAzxJHG6LgfqYRfHl8J6)
