@@ -38,7 +38,7 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 | Persona 5 royal (P5R) 🇯🇵                                                                                      | ペルソナ 5 ザ・ロイヤル                                                             | ✅                  |  ✅                     | ❌                       |
 | Marco & the galaxy dragon ⭐️                                                                                 | マルコと銀河竜                                                                      | ❌                  |  ✅                     | ❌ (JP + ENG simultaneo) |
 | Dragon quest 11 🇯🇵                                                                                            | ドラゴンクエスト XI 過ぎ去りし時を求めて                                            | ❌                  |  ✅                     | ✅                       |
-| Shin chan: Mi verano con el profesor 🇯🇵                                                                       | クレヨンしんちゃん『オラと博士の夏休み』                                            | ❌                  |  ❌                     | ✅                       |
+| Shin chan: Mi verano con el profesor 🇯🇵                                                                       | クレヨンしんちゃん『オラと博士の夏休み』                                            | ❌                  |  ✅                     | ✅                       |
 | Triange strategy ⭐️                                                                                          | トライアングルストラテジー                                                          | ✅                  | ❌                      | ❌                       |
 | Akiba trip ⭐️                                                                                                | アキバズトリップ                                                                    | ✅                  | ❌                      | ✅                       |
 | Digimon survive 🇯🇵                                                                                            | デジモンサヴァイブ                                                                  | ✅                  | ✅                      | ❌                       |
@@ -188,6 +188,9 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 | Song of Nunu: A League of Legends Story ⭐️                                                                   | ヌヌの唄：リーグ・オブ・レジェンド ストーリー                                       |  ❌                 | ✅                      | ❌                       |
 | Strange Horticulture ⭐️                                                                                      | —                                                                                   |  ❌                 | ❌                      | ❌                       |
 | Lacuna ⭐️                                                                                                    | —                                                                                   |  ❌                 | ❌                      | ❌                       |
+| Hiyoku no Tori 🇯🇵                                                                                             | 比翼の禽 –ひよくのとり-                                                             |  ❌                 | ✅                      | ❌                       |
+| BUSTAFELLOWS 🇯🇵                                                                                               | バスタフェロウズ                                                                    |  ❌                 | ✅                      | ❌                       |
+| BUSTAFELLOWS season2 🇯🇵                                                                                       | バスタフェロウズ 2                                                                  |  ❌                 | ✅                      | ❌                       |
 
 #### Gameplays
 
@@ -340,6 +343,8 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 -   [Song of Nunu](https://www.youtube.com/playlist?list=PLEbFzYm1aPsSXn-vg1ePiqOo0gHC0xpTu)
 -   [Strange Horticulture](https://www.youtube.com/playlist?list=PLGNX6-vX_bx_B6vI1Wc2_i_P6vYYTmln4)
 -   [Lacuna](https://www.youtube.com/playlist?list=PL1jOQCoRf0LwGspfG3gd36zTTwKrx9Gro)
+-   [BUSTAFELLOWS](https://www.youtube.com/playlist?list=PLLVGsFCkkmdPNAFQN9J_t6p9KtMa0PZ21)
+-   [BUSTAFELLOWS season2](https://www.youtube.com/playlist?list=PLgx-phojwo6evi53C5dSH_5GuNMTehvks)
 
 ### PC & PS VITA
 
@@ -460,6 +465,8 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 | Hakuoki Shinkai Tsukikage no Sho 🇯🇵                                                | 薄桜鬼 真改 月影ノ抄                                                                |  ❌                 | ✅ (Voz propia excluida)      | ❌                                            |
 | Hakuouki SSL Sweet School Life 🇯🇵                                                  | 薄桜鬼 SSL ～ sweet school life ～                                                  |  ❌                 | ✅ (Voz propia excluida)      | ❌                                            |
 | Hakuouki Shinkai: Manyou no Shou 🇯🇵                                                | 薄桜鬼 真改 万葉ノ抄                                                                |  ❌                 | ✅ (Voz propia excluida)      | ❌                                            |
+| Another code recollection ⭐️                                                      | アナザーコード リコレクション：２つの記憶 / 記憶の扉                                |  ❌                 | ✅ (solo animaciones)         | ✅                                            |
+| shin chan shiro of coal town 🇯🇵                                                    | クレヨンしんちゃん「炭の町のシロ」                                                  |  ❌                 | ✅                            | ✅                                            |
 
 ### Gameplay
 
@@ -509,6 +516,8 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 -   [Trendy god 1](https://www.youtube.com/playlist?list=PLfKGHtGEcXT7ELl4pQ1hfM9oeuDSKgaFN)
 -   [Trendy god 2](https://www.youtube.com/playlist?list=PLfKGHtGEcXT5U3I44jX41PONjGZsdZCVl)
 -   [Trendy god 3](https://www.youtube.com/playlist?list=PLfKGHtGEcXT45jRPOpm1jKu005OTxwQWt)
+-   [Another code recollection](https://www.youtube.com/playlist?list=PLOZOho2RXG3xDAJdhxJkS0-_F-xlaZ6xe)
+-   [shin chan shiro of coal town](https://www.youtube.com/playlist?list=PLOZOho2RXG3xVH1dKiE87cyiFJuYyxkLE)
 
 ## PC
 
