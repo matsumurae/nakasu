@@ -191,6 +191,11 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 | Hiyoku no Tori 🇯🇵                                                                                             | 比翼の禽 –ひよくのとり-                                                             |  ❌                 | ✅                      | ❌                       |
 | BUSTAFELLOWS 🇯🇵                                                                                               | バスタフェロウズ                                                                    |  ❌                 | ✅                      | ❌                       |
 | BUSTAFELLOWS season2 🇯🇵                                                                                       | バスタフェロウズ 2                                                                  |  ❌                 | ✅                      | ❌                       |
+| Hiyoku no Tori 🇯🇵                                                                                             | 比翼の鳥                                                                            |  ❌                 | ✅                      | ❌                       |
+| Death's Door ⭐️                                                                                              | 死神カラスの物語                                                                    |  ❌                 | ❌                      | ❌                       |
+| Garden story 🇯🇵                                                                                               | ガーデンストーリー                                                                  |  ❌                 | ❌                      | ❌                       |
+| Baldo The Guardian Owls ⭐️                                                                                   | —                                                                                   |  ❌                 | ❌                      | ❌                       |
+| Tunic ⭐️                                                                                                     | —                                                                                   |  ❌                 | ❌                      | ❌                       |
 
 #### Gameplays
 
@@ -345,6 +350,10 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 -   [Lacuna](https://www.youtube.com/playlist?list=PL1jOQCoRf0LwGspfG3gd36zTTwKrx9Gro)
 -   [BUSTAFELLOWS](https://www.youtube.com/playlist?list=PLLVGsFCkkmdPNAFQN9J_t6p9KtMa0PZ21)
 -   [BUSTAFELLOWS season2](https://www.youtube.com/playlist?list=PLgx-phojwo6evi53C5dSH_5GuNMTehvks)
+-   [Death's Door](https://www.youtube.com/playlist?list=PLSLuUO1OO3oUQ6Wo23wEud-HwipheBmFd)
+-   [Garden Story](https://www.youtube.com/watch?v=dDIQcllI1P8)
+-   [Baldo The Guardian Owls](https://www.youtube.com/watch?v=u0WslDj4UxA)
+-   [Tunic](https://www.youtube.com/playlist?list=PLDc7t55BnYAEqV-yx3wIl14xOW8NaDkne)
 
 ### PC & PS VITA
 
@@ -619,6 +628,10 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 | Soul Hackers 2                                    | ソウルハッカーズ 2                               |  ❌                 | ✅                       | ❌                     |
 | Hakuoki: Kyoto Winds                              | 薄桜鬼 真改 風ノ章                               |  ❌                 | ✅ (Voz propia excluida) | ❌                     |
 | Hakuoki: Edo Blossoms                             | 薄櫻鬼 真改 華之章                               |  ❌                 | ✅ (Voz propia excluida) | ❌                     |
+| Tales of the Black Forest                         | 黒森町綺譚                                       |  ❌                 | ❌                       | ❌                     |
+| Ghost of Tsushima                                 | ゴーストオブツシマ                               |  ❌                 | ✅                       | ❌                     |
+| Wildmender                                        | —                                                |  ❌                 | ❌                       | ❌                     |
+| Palworld                                          | —                                                |  ❌                 | ❌                       | ❌                     |
 
 ### Gameplays
 
@@ -706,6 +719,8 @@ Además, te he añadido iconos al lado del nombre. Esto solo esta en los juegos 
 -   [Killer is dead](https://www.youtube.com/watch?v=9BEnG1Rjnx4)
 -   [Sense - 不祥的预感: A Cyberpunk Ghost Story](https://www.youtube.com/playlist?list=PLyFdKgbtQEMKCPscNbaLSg4sjqONa3ahM)
 -   [Soul Hackers 2](https://www.youtube.com/playlist?list=PLdE0IEHoC0TVWGk7ncr5VF9ODuovUlkuF)
+-   [Tales of the Black Forest](https://www.youtube.com/playlist?list=PLfll44YBkxRrugWfKMNy84Oa6n6gtj_IE)
+-   [Ghost of Tsushima](https://www.youtube.com/watch?v=ZOOd_BSZ_BM)
 
 ## Gamecube
 
