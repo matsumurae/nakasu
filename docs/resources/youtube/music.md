@@ -33,3 +33,31 @@ permalink: /yt/musica
 **Cons**
 
 ❌ No subs.
+
+## Satoshi Murota 🚹
+
+> You'll learn to play famous songs on guitar.
+
+[Channel link](https://www.youtube.com/watch?v=iB1PU7kLFNw)
+
+**Pros**
+
+✅ He explains everything talking + adding hard subs.
+
+**Cons**
+
+❌ Only hard subs.
+
+## Satoshi Murota 🚹
+
+> Learn more about bass + how to play with Mutsumi.
+
+[Channel link](https://www.youtube.com/@mutsumi8623)
+
+**Pros**
+
+✅ He explains everything talking + adding hard subs.
+
+**Cons**
+
+❌ Only hard subs.
