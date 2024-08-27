@@ -61,3 +61,17 @@ permalink: /yt/musica
 **Cons**
 
 ❌ Only hard subs.
+
+## たぺのベースライン研究所 tape's BASS Line Lab 🚹
+
+> Learn more about bass + how to play with Mutsumi.
+
+[Channel link](https://www.youtube.com/@basslinelab)
+
+**Pros**
+
+✅ He has a lot of reviews and music theory videos.
+
+**Cons**
+
+❌ Only hard subs.
