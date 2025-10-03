@@ -14,7 +14,7 @@ permalink: /particulas/determinativas
 {: .no_toc .text-delta }
 
 1. TOC
-   {:toc}
+{:toc}
 
 ## Cuánto ~, Alrededor de ~, aproximadamente ~ / くらい, ぐらい
 
