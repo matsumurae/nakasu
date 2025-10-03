@@ -10,12 +10,14 @@ permalink: /particulas/determinativas
 # Partículas determinativas
 
 ## Índice
+
 {: .no_toc .text-delta }
 
 1. TOC
-{:toc}
+   {:toc}
 
 ## Cuánto ~, Alrededor de ~, aproximadamente ~ / くらい, ぐらい
+
 {: .d-inline-block }
 
 N5
@@ -37,6 +39,7 @@ Ahora hay aproximadamente 100 personas en la sala.
 ```
 
 ## Sólo ~, tanto como ~ / だけ
+
 {: .d-inline-block }
 
 N5
@@ -70,7 +73,30 @@ Solo una persona
 Hacer todo lo que puedas
 ```
 
+## ~ o algo, ¿Qué tal ~?, ¿Por qué no ~? / でも
+
+{: .d-inline-block }
+
+N4
+{: .label .label-yellow }
+
+> **Uso:** N + でも.
+
+Se usa para sugerir una posible opción o solución. Muy similar a la frase "¿Le gustaría…?".
+
+```
+水でも飲みますか？
+¿Te gustaría un poco de agua [o algo] para beber?
+
+寒いから、暖かいものでも飲みませんか。
+Hace un poco de frío, [¿por qué no] tomamos algo caliente para beber?
+
+ちょっと時間があるからゲームでもしましょうか？
+Tenemos un poco de tiempo, ¿juguemos [o algo]?
+```
+
 ## Incluso ~ o incluso si ~ / ても、でも
+
 {: .d-inline-block }
 
 N4
@@ -92,6 +118,7 @@ Trabajo [hasta] los domingos.
 ```
 
 ## Solamente ~, Solo ~, Nada más que ~ / 〜ばかり, 〜ばっかり
+
 {: .d-inline-block }
 
 N4
@@ -124,10 +151,11 @@ Hablando del mes de Junio, ¡[solo] llueve!
 
 ### Escrito vs hablado
 
-- ばかり = Forma escrita
-- ばっかり = Forma hablada
+-   ばかり = Forma escrita
+-   ばっかり = Forma hablada
 
 ## Aproximadamente ~, sobre las ~ o alrededor de ~, Cuándo (tiempo) / 〜ころ、〜ごろ
+
 {: .d-inline-block }
 
 N4
@@ -136,8 +164,9 @@ N4
 Solo se usa para un punto en el tiempo, **no para duración ni nada que no sea tiempo**.
 
 Tenemos dos usos:
-- N (tiempo) + ごろ = alrededor de ~, sobre las ~, aproximadamente ~
-- V casual o (N + の) o adj + ころ = cuándo ~
+
+-   N (tiempo) + ごろ = alrededor de ~, sobre las ~, aproximadamente ~
+-   V casual o (N + の) o adj + ころ = cuándo ~
 
 ```
 今頃
@@ -157,6 +186,7 @@ Hablando de mí, estoy muy ocupado estos días.
 ```
 
 ## Solo ~, nada más que ~ / しか〜
+
 {: .d-inline-block }
 
 N4
@@ -186,8 +216,8 @@ Se tarda [sólo] 10 minutos desde mi casa a la escuela.
 
 ### Diferencia entre しか y だけ
 
-| しか | だけ |
-|:-----|:----|
-| Suele ir con negativo | Suele ir con positivo |
-| 私は肉しか食べません <br> Hablando de mí, no como nada más que carne <br> = enfatiza el hecho de que solo comes carne. | 私は肉だけ食べます <br> Hablando de mí, solo como carne. <br> = no enfatiza el hecho. |
-| ここにケーキが一つしかありません <br> Aquí no hay más que un pastel. <br> = enfatiza el hecho de que no hay suficiente. | ここにケーキが一つだけあります <br> Solo hay un pastel aquí. <br> = Sin juicio, sin sentimientos personales. |
+|   しか                                                                                                                   | だけ                                                                                                         |
+| :----------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- |
+| Suele ir con negativo                                                                                                    |  Suele ir con positivo                                                                                       |
+|   私は肉しか食べません <br> Hablando de mí, no como nada más que carne <br> = enfatiza el hecho de que solo comes carne. | 私は肉だけ食べます <br> Hablando de mí, solo como carne. <br> = no enfatiza el hecho.                        |
+| ここにケーキが一つしかありません <br> Aquí no hay más que un pastel. <br> = enfatiza el hecho de que no hay suficiente.  | ここにケーキが一つだけあります <br> Solo hay un pastel aquí. <br> = Sin juicio, sin sentimientos personales. |
