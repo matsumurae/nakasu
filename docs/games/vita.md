@@ -9,39 +9,50 @@ nav_order: 3
 
 Por qué PS Vita y no PSP es básicamente porque: ahora mismo la encuentras al mismo precio y la PS Vita ofrece mucho más rendimiento (además de juegos exclusivos) que la PSP.
 
-## Hack sin ordenador
+## A empezar!
 
 1. Asegúrate de que está actualizado con el último firmware (3.74).
 2. Abre el navegador y escribe `deploy.psp2.dev`. O usa `lptutoriales.es/henlo` si lo quieres en español.
 3. Click en **Unlock** o **Liberar mi Vita**.
 4. Instala Vitadeploy (+ autoplugin2 si es la español) y después, Henkaku.
-5. Cierra, ve a los ajustes > Ajustes de Henkaku > "Activar Homebrew inseguro".
+5. Cierra, ve a los ajustes > Ajustes de Henkaku > "Activar Homebrew inseguro". En los ajustes de Henkaku, ve a Versión para Spoofing > Poner "3.74". Con esto podrás conectarte a juegos online.
 6. Asegúrate de ir a Ajustes de ahorro de energía y cambia el modo espera a 30 min hasta que la tengas hackeada, para que no entre en reposo.
-7. Abre VitaDeploy y click en "Install different OS" o "Instalar un SO diferente" en español. Una vez aquí, ve a "paquete actualización de PlayStation" y click en "Enso". **Esto hará el hack permanente**. Volvemos atrás y damos a "Instalación 3.65 rápida".
-8. Una vez terminado, ve a Ajustes > Ajustes de Henkaku > Versión para Spoofing > Poner "3.74". Con esto podrás conectarte a juegos online.
+7. Desactiva las actualizaciones automáticas, yendo a Sistema > Ajustes de inicio automático > Desactiva "Descargar archivo de actualización para el software de sistema" (primera opción).
+8. Abre VitaDeploy y click en "Install different OS" o "Instalar un SO diferente" en español. Una vez aquí, ve a "paquete actualización de PlayStation". Aquí seleccionamos:
+   1. Firmware destino: 3.65
+   2. Configuración de taiHEN: R + YAMT (última opción)
+   3. Instalar enso ACTIVADO
+9. Una vez seleccionado todo, damos a "instalar fimrware seleccionado".
+10. Cuando termine (va a tardar un rato), abrimos VitaDeploy y vamos a "Descargador de Apps". Aquí elegimos:
+    1.  VitaShell (para pasar archivos por FTP o USB)
+    2.  ITLS installer
+    3.  Adrenaline (para jugar PSP)
+    4.  PKGj (store de juegos).
+11. Después de seccionar, volvemos arriba y damos a Descargar apps seleccionadas.
+12. Al terminar, lo primero que haremos es abrir ITLS y seleccionar la primera opción. Una vez termine, podemos borrar la app.
+13. Ahora, configuremos Adrenaline. Al abrir, pedirá instalar firmware de PSP. Damos todo X y esperamos, cuando esté listo configuramos la PSP y ya la tenemos.
+14. Abre Autoplugin 2 > Plugins de PS Vita > Instalar plugins y elegimos "Adrenaline by TheOfficialFlow".
+15. Ahora ya por fin, abrimos PKGj y hacemos refresh (triángulo y click en refresh). Ya puedes descargar lo que quieras!
 
+## SD2VITA
 
-### Apps a instalar
+1. Ve a VitaDeploy > Misceláneos > Formatear almacenamiento. Aquí debe ser:
+   1. Objetivo: SD2Vita
+   2. Formato: TexFAT
+2. Le damos a Formatear y esperamos.
+3. Al terminar reiniciamos. Vamos a Ajustes > Dispositivos > Storage Devices. **Recuerda marcar la opción Use YAMT.** En uma0 debe poner SD2Vita. De no ser así, le hacemos click y lo elegimos de la lista.
+4. Volvemos a reiniciar…  Ahora debemos copiar y transferir ux0 a uma0. Entramos a VitaShell, y usarlo como memoria principal. En ese caso, tienes que ir a VitaShell, vamos a ux0, pulsamos triángulo y Select all, volvemos a pulsar triángulo y Copy. Vamos a uma0 y pegamos todo. Volvemos a Storage Devices y aqui cambiamos ux0 a SD2Vita y um0 a tu memoria por defecto.
 
-- VitaShell: para pasar archivos por FTP. **Lo puedes sustituir por ftpeverywhere**
-- PKGj: para descagar juegos.
-- Autoplugin: para instalar plugins. Si no has instalado por la versión español, vas a tener que instalarlo.
-- BatteryFixer: para arreglar posibles errores de batería.
-- Adrenaline: para jugar juegos de PSP.
-- Adrenaline Bubbles Manager: para añadir acceso directo a los juegos en la screen de vita en vez de acceder a Adrenaline y arrancar el juego.
+**Es importante cambiar SD2Vita a ux0 porque los juegos de vita deben estar sí o sí en ux0, aunque puedes tener lo de PSP en uma0.**
 
-#### Plugins
+## Rutas
 
-Para instalarlos necesitas el Autoplugin.
-
-- NoNpDrm: para poder usar juegos de PKGj sin problemas. **Obligatorio**
-- reFOOD: para correr programas que no pueden ser desencriptados adecuadamente. **Obligatorio**
-- ftpeverywhere: para acceder al ftp hagas lo que hagas (sin abrir la app de ficheros). **Obligatorio**
-- ds4vita: si quieres usar tu DualShock 4 en la ps vita.
-- Framecounter: si quieres controlar la tasa de frames.
-- PSV-VSH MENU: para abrir el menú overclock desde el botón select.
-- LCD Colour Space Changer: para emular colores de OLED.
-- udcd_uvc: para hacer streaming del video por cable.
+- Juegos de vita: ux0:/app
+- Saves vita: ux0:/user/00/savedata
+- PSP ISO: ux0:/pspemu/iso
+- PSP EBOOT: ux0:/pspemu/psp
+- Saves PSP: ux0:/PSP/SAVEDATA
+- PS1: ux0:pspemu/PSP/game
 
 ## Descargar juegos
 
